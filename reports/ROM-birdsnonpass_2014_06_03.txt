@@ -1,0 +1,208 @@
+Report for Institution Code ROM, Resource birdsnonpass
+Usage stats for May, 2014, generated on 2014/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 253
+Number of records retrieved in searches: 1388
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 4
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 23
+	Country: Colombia ; Times: 2
+	Country: Costa Rica ; Times: 1
+	Country: Cyprus ; Times: 9
+	Country: Mexico ; Times: 1
+	Country: Philippines ; Times: 4
+	Country: United Kingdom ; Times: 6
+	Country: United States ; Times: 180
+	Country: Unknown ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-01 ; Times: 3
+	Date: 2014-05-02 ; Times: 6
+	Date: 2014-05-06 ; Times: 4
+	Date: 2014-05-08 ; Times: 2
+	Date: 2014-05-09 ; Times: 5
+	Date: 2014-05-10 ; Times: 6
+	Date: 2014-05-11 ; Times: 11
+	Date: 2014-05-12 ; Times: 2
+	Date: 2014-05-13 ; Times: 5
+	Date: 2014-05-14 ; Times: 4
+	Date: 2014-05-15 ; Times: 3
+	Date: 2014-05-16 ; Times: 8
+	Date: 2014-05-17 ; Times: 4
+	Date: 2014-05-18 ; Times: 2
+	Date: 2014-05-19 ; Times: 4
+	Date: 2014-05-20 ; Times: 3
+	Date: 2014-05-21 ; Times: 24
+	Date: 2014-05-22 ; Times: 7
+	Date: 2014-05-23 ; Times: 26
+	Date: 2014-05-24 ; Times: 6
+	Date: 2014-05-25 ; Times: 1
+	Date: 2014-05-27 ; Times: 14
+	Date: 2014-05-28 ; Times: 29
+	Date: 2014-05-29 ; Times: 16
+	Date: 2014-05-30 ; Times: 53
+	Date: 2014-05-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "Eutoxeres aquila" ; Times: 1
+	Query: "Coeligena wilsoni" ; Times: 1
+	Query: "Boissonneaua jardini" ; Times: 1
+	Query: "harpactes fasciatus" ; Times: 1
+	Query: "ROM 42567" ; Times: 1
+	Query: "cairina 2008" ; Times: 2
+	Query: "ardea goliath" ; Times: 23
+	Query: "aegotheles cristatus" ; Times: 4
+	Query: "falco peregrinus country="United Kingdom"" ; Times: 1
+	Query: "Rhinoplax vigil" ; Times: 4
+	Query: "Chlorostilbon aureoventris" ; Times: 1
+	Query: ""Sphyrapicus thyroideus" (skin) mappable:1" ; Times: 1
+	Query: "bucconidae" ; Times: 1
+	Query: "Royal Ontario Museum" ; Times: 1
+	Query: "specificepithet:ketupa genus:Ketupa" ; Times: 7
+	Query: "Campylopterus ensipennis" ; Times: 1
+	Query: "brachygalba" ; Times: 1
+	Query: "Harlee" ; Times: 2
+	Query: "moa" ; Times: 1
+	Query: "ROM 69015" ; Times: 1
+	Query: "Doricha enicura" ; Times: 1
+	Query: "genus:casuarius" ; Times: 1
+	Query: "Chlorostilbon poortmani" ; Times: 1
+	Query: ""Streptopelia decaocto" (tissue OR preserved)" ; Times: 1
+	Query: "Heliangelus strophianus" ; Times: 1
+	Query: "Hylocharis eliciae" ; Times: 1
+	Query: "stateprovince:"Veraguas" country:"Panama" class:Aves" ; Times: 1
+	Query: "ara" ; Times: 1
+	Query: "colinus cristatus" ; Times: 1
+	Query: "Heliomaster squamosus" ; Times: 1
+	Query: "ROM 71305" ; Times: 1
+	Query: "4128" ; Times: 1
+	Query: "ectopistes stateprovince:"Illinois"" ; Times: 1
+	Query: "recordedby:K. Racey" ; Times: 3
+	Query: "Sulawesi Wallace type:specimen institutioncode:ROM" ; Times: 1
+	Query: "casuarius" ; Times: 2
+	Query: "Pinguinus impennis" ; Times: 4
+	Query: "ROM 36402" ; Times: 1
+	Query: "colinus cristatus type:specimen" ; Times: 3
+	Query: "falco peregrinus peregrinus country:"United Kingdom"" ; Times: 2
+	Query: "Clytolaema rubricauda" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(34.43296522689834,-119.14260864257812))<4176.546295504921" ; Times: 1
+	Query: "specificepithet:zeylonensis genus:Ketupa" ; Times: 29
+	Query: "eggs Falco sparverius year >= 1800 year <= 1900" ; Times: 1
+	Query: "distance(location,geopoint(-0.5712795966325395,1.47216796875))<209100.7355545493" ; Times: 1
+	Query: "tockus deckeni" ; Times: 2
+	Query: "Hylocharis sapphirina" ; Times: 1
+	Query: "specificepithet:peli genus:Scotopelia" ; Times: 10
+	Query: "pogoniulus bilineatus" ; Times: 8
+	Query: "Streptopelia" ; Times: 1
+	Query: "Amazona autumnalis" ; Times: 5
+	Query: "Anas nesiotis" ; Times: 1
+	Query: "Cabinda" ; Times: 2
+	Query: "Carp" ; Times: 1
+	Query: "Abeillia abeillei" ; Times: 1
+	Query: "catalognumber:01.10.4.97d institutioncode:ROM" ; Times: 5
+	Query: "priotelus" ; Times: 1
+	Query: "San Antonio well" ; Times: 1
+	Query: "ROM 45812" ; Times: 1
+	Query: "penelope" ; Times: 2
+	Query: "stateprovince:"Cabinda"" ; Times: 2
+	Query: "FG" ; Times: 1
+	Query: "ramphastos" ; Times: 1
+	Query: "hoazin" ; Times: 1
+	Query: "Coeligena lutetiae" ; Times: 1
+	Query: "azureus" ; Times: 1
+	Query: "cairina" ; Times: 4
+	Query: "specificepithet:lacteus genus:Bubo" ; Times: 13
+	Query: "genus:temnotrogon" ; Times: 1
+	Query: "Boissonneaua matthewsii" ; Times: 1
+	Query: "pogoniulus chrysoconus" ; Times: 1
+	Query: "type:specimen recordedby:wallace institutioncode:ROM year >= 1850 year <= 1870" ; Times: 1
+	Query: "peregrine type:specimen year <= 1945" ; Times: 1
+	Query: "institutioncode:ROM" ; Times: 2
+	Query: "ROM 76243" ; Times: 1
+	Query: "Cyanophaia bicolor" ; Times: 1
+	Query: "genus:Brachygalba" ; Times: 1
+	Query: "Chalcostigma herrani" ; Times: 1
+	Query: "specificepithet:poensis genus:Bubo" ; Times: 18
+	Query: "sula dactylatra" ; Times: 3
+	Query: "specificepithet:lugubris genus:Brachygalba" ; Times: 1
+	Query: "type:specimen genus:ectopistes institutioncode:RoM mappable:1" ; Times: 2
+	Query: "rusticolus greenland" ; Times: 1
+	Query: "Chaetocercus" ; Times: 1
+	Query: "MSU" ; Times: 1
+	Query: "Amazona and country: brazil" ; Times: 1
+	Query: "ectopistes" ; Times: 2
+	Query: ""great auk" type:specimen" ; Times: 1
+	Query: "Chaetocercus jourdanii" ; Times: 1
+	Query: "ALBIGULARIS type:specimen" ; Times: 1
+	Query: "ALBIGULARIS" ; Times: 1
+	Query: "Colibri delphinae" ; Times: 1
+	Query: "ROM 42713" ; Times: 1
+	Query: "white throated sparrow" ; Times: 1
+	Query: "catalognumber:36290 institutioncode:ROM" ; Times: 5
+	Query: "Coeligena prunellei" ; Times: 1
+	Query: "recordedby:Wallace institutioncode:ROM" ; Times: 2
+	Query: ""harpactes ardens"" ; Times: 1
+	Query: "genus:Merops" ; Times: 1
+	Query: "manatee" ; Times: 1
+	Query: "Discosura longicauda" ; Times: 1
+	Query: "cairina 2011" ; Times: 2
+	Query: "ROM 76554" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(34.3797125804622,-119.24560546875))<4177" ; Times: 1
+	Query: "Hylocharis grayi" ; Times: 1
+	Query: "stateprovince:"Herrera" country:"Panama" class:Aves" ; Times: 1
+	Query: "coeligena coeligena" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1679 download events in this period)
+Total number of records downloaded: 105 (out of 895475 records downloaded for all resources in this period)
+Total number of unique records downloaded: 100
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-01 ; Times: 1
+	Date: 2014-05-02 ; Times: 2
+	Date: 2014-05-06 ; Times: 2
+	Date: 2014-05-16 ; Times: 1
+	Date: 2014-05-18 ; Times: 1
+	Date: 2014-05-20 ; Times: 1
+	Date: 2014-05-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ectopistes stateprovince:"Illinois"" ; Times: 2
+	Query: "Squamata country:"Australia"" ; Times: 1
+	Query: "Zacatecas" ; Times: 1
+	Query: "egretta rufescens" ; Times: 1
+	Query: "Mulcahy" ; Times: 2
+	Query: ""Aquila chrysaetos"" ; Times: 1
+	Query: "palenque" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 337
+Total number of records retrieved from searches: 2694
+Number of download events that retrieved data from the resource: 22
+Total number of records downloaded: 2018
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 337
+Total number of records retrieved from searches: 2694
+Number of download events that retrieved data from the resource: 22
+Total number of records downloaded: 2018
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
