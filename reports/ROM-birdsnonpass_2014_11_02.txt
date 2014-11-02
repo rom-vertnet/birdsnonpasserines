@@ -1,0 +1,147 @@
+Report for Institution Code ROM, Resource birdsnonpass
+Usage stats for October, 2014, generated on 2014/11/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 144
+Number of records retrieved in searches: 750
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: China ; Times: 1
+	Country: France ; Times: 4
+	Country: Germany ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: Panama ; Times: 64
+	Country: United States ; Times: 66
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-10-10 ; Times: 10
+	Date: 2014-10-13 ; Times: 1
+	Date: 2014-10-14 ; Times: 4
+	Date: 2014-10-15 ; Times: 3
+	Date: 2014-10-17 ; Times: 7
+	Date: 2014-10-19 ; Times: 6
+	Date: 2014-10-20 ; Times: 54
+	Date: 2014-10-21 ; Times: 22
+	Date: 2014-10-23 ; Times: 18
+	Date: 2014-10-24 ; Times: 5
+	Date: 2014-10-25 ; Times: 6
+	Date: 2014-10-26 ; Times: 3
+	Date: 2014-10-27 ; Times: 2
+	Date: 2014-10-30 ; Times: 2
+	Date: 2014-10-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "argusianus captive" ; Times: 10
+	Query: "Ammoperdix griseogularis" ; Times: 3
+	Query: "catalognumber:83790 institutioncode:rom" ; Times: 2
+	Query: "picumnus cirratus tissue" ; Times: 1
+	Query: "odontophorus panama" ; Times: 1
+	Query: "lafresnayi" ; Times: 1
+	Query: "year >= 1866 year <= 1866 AND (NOT Jamaica)" ; Times: 4
+	Query: "columbina minuta panama" ; Times: 1
+	Query: "Aratinga panama" ; Times: 13
+	Query: "white-throated sparrow" ; Times: 1
+	Query: "specificepithet:genei genus:larus" ; Times: 8
+	Query: "Glaucis hirsuta affinis panama" ; Times: 2
+	Query: ""white-throated sparrow"" ; Times: 2
+	Query: "Lacedo pulchella" ; Times: 1
+	Query: "stateprovince:"tucuman" mappable:1" ; Times: 1
+	Query: "dendrortyx" ; Times: 1
+	Query: "vanellus chilensis tissue" ; Times: 2
+	Query: "Galloperdix bicalcarata" ; Times: 1
+	Query: "Leptotila rufaxilla" ; Times: 1
+	Query: "duck billed" ; Times: 1
+	Query: "cracidae panama" ; Times: 9
+	Query: "Numenius americanus parvus year <= 1910" ; Times: 1
+	Query: "Phaethornis guy coruscus panama" ; Times: 1
+	Query: "colaptes campestris tissue" ; Times: 4
+	Query: "Penelope marail panama" ; Times: 1
+	Query: "Anastomus oscitans" ; Times: 2
+	Query: "columbina minuta tissue" ; Times: 1
+	Query: "Columba cayennensis pallidicrissa panama" ; Times: 2
+	Query: "cracidae" ; Times: 2
+	Query: "columba nigrirostris panama" ; Times: 1
+	Query: "columba panama" ; Times: 13
+	Query: "dwarf" ; Times: 2
+	Query: "institutioncode:ROM" ; Times: 2
+	Query: "Philortyx fasciatus" ; Times: 1
+	Query: "country:"kenya" recordedby:Turner year >= 1800 year <= 1920" ; Times: 1
+	Query: "pionus" ; Times: 3
+	Query: "Columba cayennensis panama" ; Times: 1
+	Query: "stateprovince:"Oregon" recordedby:Braly" ; Times: 3
+	Query: "Petaluma county:"Sonoma" stateprovince:"California"" ; Times: 2
+	Query: "nepal type:specimen class:aves" ; Times: 2
+	Query: "Semnornis" ; Times: 1
+	Query: "Numenius americanus parvus" ; Times: 2
+	Query: "Lacedo pulchella type:specimen" ; Times: 1
+	Query: "ghost" ; Times: 1
+	Query: ""Tadorna"" ; Times: 1
+	Query: "Aratinga pertinax ocularis panama" ; Times: 1
+	Query: "Hemicircus" ; Times: 2
+	Query: "Chordeiles minor aserriensis" ; Times: 1
+	Query: "crax rubra" ; Times: 3
+	Query: "odontophorus gujanensis" ; Times: 1
+	Query: "tetraogallus" ; Times: 1
+	Query: "opisthocomidae" ; Times: 1
+	Query: "grus canadensis 1913 (alaska)" ; Times: 1
+	Query: "nothoprocta" ; Times: 1
+	Query: "Perdicula argoondah" ; Times: 1
+	Query: "semnornis" ; Times: 1
+	Query: "fairy" ; Times: 1
+	Query: "chamaepetes unicolor" ; Times: 10
+	Query: "polytmus guainumbi tissue" ; Times: 1
+	Query: "Columba speciosa panama" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 166 download events in this period)
+Total number of records downloaded: 566 (out of 1059512 records downloaded for all resources in this period)
+Total number of unique records downloaded: 566
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: France ; Times: 1
+	Country: Paraguay ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-10-13 ; Times: 1
+	Date: 2014-10-21 ; Times: 1
+	Date: 2014-10-25 ; Times: 1
+	Date: 2014-10-27 ; Times: 3
+	Date: 2014-10-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Europe country:"France" mappable:1" ; Times: 1
+	Query: "specificepithet:montezumae" ; Times: 1
+	Query: "MINDORO" ; Times: 1
+	Query: "Alaska AND Kodiak type:specimen class:Aves" ; Times: 1
+	Query: "Paraguay" ; Times: 1
+	Query: "dendrortyx" ; Times: 1
+	Query: "momotus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 870
+Total number of records retrieved from searches: 8611
+Number of download events that retrieved data from the resource: 96
+Total number of records downloaded: 9567
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 870
+Total number of records retrieved from searches: 8611
+Number of download events that retrieved data from the resource: 96
+Total number of records downloaded: 9567
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
