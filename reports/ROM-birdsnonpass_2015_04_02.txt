@@ -1,0 +1,229 @@
+Report for Institution Code ROM, Resource birdsnonpass
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 145
+Number of records retrieved in searches: 952
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 26
+	Country: Canada ; Times: 7
+	Country: Costa Rica ; Times: 1
+	Country: Cyprus ; Times: 2
+	Country: Finland ; Times: 1
+	Country: France ; Times: 9
+	Country: Germany ; Times: 20
+	Country: Israel ; Times: 3
+	Country: Mexico ; Times: 6
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 9
+	Country: United States ; Times: 57
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-02 ; Times: 1
+	Date: 2015-03-03 ; Times: 4
+	Date: 2015-03-04 ; Times: 18
+	Date: 2015-03-05 ; Times: 7
+	Date: 2015-03-06 ; Times: 6
+	Date: 2015-03-07 ; Times: 6
+	Date: 2015-03-08 ; Times: 4
+	Date: 2015-03-10 ; Times: 6
+	Date: 2015-03-11 ; Times: 10
+	Date: 2015-03-12 ; Times: 11
+	Date: 2015-03-13 ; Times: 5
+	Date: 2015-03-16 ; Times: 7
+	Date: 2015-03-17 ; Times: 4
+	Date: 2015-03-18 ; Times: 8
+	Date: 2015-03-19 ; Times: 2
+	Date: 2015-03-20 ; Times: 4
+	Date: 2015-03-22 ; Times: 1
+	Date: 2015-03-23 ; Times: 4
+	Date: 2015-03-24 ; Times: 7
+	Date: 2015-03-25 ; Times: 9
+	Date: 2015-03-27 ; Times: 4
+	Date: 2015-03-28 ; Times: 3
+	Date: 2015-03-29 ; Times: 7
+	Date: 2015-03-30 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "strigilatus" ; Times: 1
+	Query: "ramphastos vitellinus ariel" ; Times: 1
+	Query: "colinus ridgwayi year >= 1950 year <= 2015" ; Times: 1
+	Query: "catalognumber:34167 institutioncode:ROM" ; Times: 1
+	Query: "mallard" ; Times: 1
+	Query: "country:"greece"" ; Times: 1
+	Query: ""Pazos, A" type:specimen country:"Colombia" year >= 1950 year <= 2000" ; Times: 1
+	Query: "sharpii" ; Times: 1
+	Query: "wood duck" ; Times: 1
+	Query: "stateprovince:"alaska" specificepithet:acuminata class:aves" ; Times: 2
+	Query: "TOP distance(location,geopoint(34.04184959834946,-118.61955642700195))<100000" ; Times: 1
+	Query: "ummz ornithology year <= 2014" ; Times: 1
+	Query: "meiglyptes" ; Times: 2
+	Query: "type:specimen country:"bangladesh" recordedby:Primrose" ; Times: 1
+	Query: "tricholaema ruahae" ; Times: 1
+	Query: "Neomorphus" ; Times: 1
+	Query: "Cyrtonyx montezumae country:"mexico" year >= 1960 year <= 2015" ; Times: 1
+	Query: "Philortyx fasciatus" ; Times: 1
+	Query: "Anhinga anhinga" ; Times: 2
+	Query: "Mines District mappable:1" ; Times: 1
+	Query: "dactylortyx" ; Times: 1
+	Query: "Odontophorus melanotis" ; Times: 2
+	Query: "county:"Sumter" stateprovince:"Alabama"" ; Times: 1
+	Query: "colinus atriceps" ; Times: 1
+	Query: "trogon tenellus" ; Times: 1
+	Query: "Paradisaeidae year >= 1990 year <= 2015" ; Times: 1
+	Query: "country:"greece" AND (NOT Mammalia NOT Bufo)" ; Times: 1
+	Query: "country:"surinam" year >= 1900 year <= 1908" ; Times: 1
+	Query: "gyps" ; Times: 1
+	Query: "year >= 1839 year <= 1839" ; Times: 1
+	Query: "amazonetta brasiliensis" ; Times: 1
+	Query: "Lepidopyga coeruleogularis" ; Times: 3
+	Query: "Lesbia" ; Times: 1
+	Query: "Numenius tenuirostris" ; Times: 4
+	Query: "type:specimen (Dobossa)" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "Phaethornis longirostris" ; Times: 1
+	Query: "chicago" ; Times: 1
+	Query: "recordedby:penard" ; Times: 1
+	Query: "Poicephalus kenya" ; Times: 2
+	Query: "Odontophorus gujanensis" ; Times: 1
+	Query: "country:"Trinidad" class:Aves (pasea) year >= 1903 year <= 1903" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "pogoniulus bilineatus" ; Times: 2
+	Query: "campephilus principalis" ; Times: 1
+	Query: "Trogon rufus type:specimen" ; Times: 1
+	Query: "Trogon rufus type:specimen year >= 1800 year <= 1914" ; Times: 1
+	Query: "royal ontario museum" ; Times: 1
+	Query: "10-7-1853" ; Times: 1
+	Query: "gallus sonneratii" ; Times: 3
+	Query: "Psittacula longicauda" ; Times: 8
+	Query: "type:specimen recordedby:Primrose" ; Times: 1
+	Query: "amaurolimnas concolor" ; Times: 2
+	Query: "colinus nigrogularis" ; Times: 1
+	Query: "Poicephalus Uganda" ; Times: 3
+	Query: "saudi arabia" ; Times: 2
+	Query: "colinus country:"mexico" year >= 1970 year <= 2015" ; Times: 1
+	Query: "buteo jamaicensis country:"mexico"" ; Times: 2
+	Query: "Arborophila hyperythra" ; Times: 1
+	Query: "campethera caroli nigeria" ; Times: 1
+	Query: "colinus cristatus badius year >= 1950 year <= 2015" ; Times: 1
+	Query: "specificepithet:fossii genus:caprimulgus" ; Times: 1
+	Query: "institutioncode:ROM" ; Times: 1
+	Query: "Pulsatrix institutioncode:rom" ; Times: 1
+	Query: "brachygalba lugubris" ; Times: 1
+	Query: "Numenius borealis" ; Times: 2
+	Query: "Chordeiles minor chapmani" ; Times: 1
+	Query: "rallus longirostris" ; Times: 2
+	Query: "Harpyhaliaetus solitarius" ; Times: 1
+	Query: "Cyrtonyx ocellatus" ; Times: 2
+	Query: "Lesbia nuna country:"Colombia"" ; Times: 1
+	Query: "colinus guerrero" ; Times: 1
+	Query: "Synthliboramphus" ; Times: 1
+	Query: "odontophorus melanotis" ; Times: 2
+	Query: "colinus venezuela" ; Times: 1
+	Query: "Eudynamys Bangkok" ; Times: 1
+	Query: "colinus atriceps year >= 1950 year <= 2015" ; Times: 1
+	Query: "woodpecker" ; Times: 1
+	Query: "(Menage OR Worcester OR Bourns) year <= 1900" ; Times: 2
+	Query: "Chordeiles minor hesperis year <= 1887" ; Times: 1
+	Query: "veniliornis" ; Times: 1
+	Query: "Cyrtonyx montezumae mexico" ; Times: 1
+	Query: "Jynx" ; Times: 1
+	Query: "type:specimen country:"bangladesh" institutioncode:ROM" ; Times: 1
+	Query: "leptoptilos javanicus" ; Times: 1
+	Query: "myiopsitta" ; Times: 1
+	Query: "Psittacula eggs" ; Times: 3
+	Query: "Trogon rufus" ; Times: 2
+	Query: "country:"Trinidad and tobago" class:Aves year >= 1900 year <= 1905" ; Times: 1
+	Query: "Pluvianellus type:specimen" ; Times: 3
+	Query: ""grus grus"" ; Times: 1
+	Query: "institutioncode:rom" ; Times: 1
+	Query: "Otus leucotis" ; Times: 1
+	Query: "tricholaema" ; Times: 1
+	Query: "accipiter poliogaster" ; Times: 8
+	Query: "Black swift mappable:1" ; Times: 1
+	Query: "Pulsatrix institutioncode:ROM" ; Times: 1
+	Query: "ramphastos ariel" ; Times: 2
+	Query: "scrippsi" ; Times: 2
+	Query: "Greece" ; Times: 1
+	Query: "Chordeiles minor year <= 1905" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 298 download events in this period)
+Total number of records downloaded: 4320 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3738
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 4
+	Country: Canada ; Times: 2
+	Country: Cyprus ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: United States ; Times: 12
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-02 ; Times: 4
+	Date: 2015-03-03 ; Times: 2
+	Date: 2015-03-06 ; Times: 2
+	Date: 2015-03-08 ; Times: 1
+	Date: 2015-03-11 ; Times: 1
+	Date: 2015-03-12 ; Times: 1
+	Date: 2015-03-18 ; Times: 4
+	Date: 2015-03-24 ; Times: 1
+	Date: 2015-03-25 ; Times: 1
+	Date: 2015-03-26 ; Times: 5
+	Date: 2015-03-27 ; Times: 3
+	Date: 2015-03-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"Nicaragua" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "momotidae type:specimen" ; Times: 1
+	Query: "Aves country:"Argentina" year >= 1960 year <= 2014" ; Times: 2
+	Query: "year <= 2015 distance(location,geopoint(43.01814269299076,-76.13525390625))<6530" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "Melanerpes chrysogenys" ; Times: 1
+	Query: "amazonetta brasiliensis" ; Times: 1
+	Query: ""Pazos, A" type:specimen country:"Colombia" year >= 1950 year <= 2000" ; Times: 1
+	Query: "Lepidopyga coeruleogularis" ; Times: 1
+	Query: "birds paraguay" ; Times: 1
+	Query: "asio flammeus" ; Times: 1
+	Query: "country:"Costa Rica" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "Calothorax lucifer" ; Times: 1
+	Query: "stateprovince:"Alberta" country:"Canada" mappable:1" ; Times: 1
+	Query: "Philortyx fasciatus" ; Times: 1
+	Query: "Ptilinopus superbus" ; Times: 1
+	Query: "class:Aves (Cuyamaca)" ; Times: 2
+	Query: "Ara militaris" ; Times: 1
+	Query: "pogoniulus bilineatus" ; Times: 1
+	Query: ""coccyzus americanus occidentalis" stateprovince:"california"" ; Times: 1
+	Query: "type:specimen country:"El Salvador" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "scrippsi" ; Times: 1
+	Query: "Colinus virginianus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1594
+Total number of records retrieved from searches: 16390
+Number of download events that retrieved data from the resource: 105
+Total number of records downloaded: 73643
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1866
+Total number of records retrieved from searches: 19186
+Number of download events that retrieved data from the resource: 230
+Total number of records downloaded: 84859
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
