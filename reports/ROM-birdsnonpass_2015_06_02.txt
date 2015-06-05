@@ -1,0 +1,403 @@
+Report for Institution Code ROM, Resource birdsnonpass
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 466
+Number of records retrieved in searches: 3686
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 11
+	Country: Australia ; Times: 15
+	Country: Belgium ; Times: 6
+	Country: Brazil ; Times: 19
+	Country: Canada ; Times: 57
+	Country: Chile ; Times: 6
+	Country: Colombia ; Times: 2
+	Country: Czech Republic ; Times: 17
+	Country: Germany ; Times: 20
+	Country: India ; Times: 24
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Netherlands ; Times: 2
+	Country: Sweden ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: United Kingdom ; Times: 43
+	Country: United States ; Times: 211
+	Country: Unknown ; Times: 20
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 43
+	Date: 2015-05-06 ; Times: 62
+	Date: 2015-05-07 ; Times: 13
+	Date: 2015-05-08 ; Times: 9
+	Date: 2015-05-09 ; Times: 9
+	Date: 2015-05-10 ; Times: 14
+	Date: 2015-05-11 ; Times: 30
+	Date: 2015-05-12 ; Times: 37
+	Date: 2015-05-13 ; Times: 17
+	Date: 2015-05-14 ; Times: 8
+	Date: 2015-05-15 ; Times: 4
+	Date: 2015-05-16 ; Times: 20
+	Date: 2015-05-18 ; Times: 35
+	Date: 2015-05-19 ; Times: 3
+	Date: 2015-05-20 ; Times: 11
+	Date: 2015-05-21 ; Times: 20
+	Date: 2015-05-22 ; Times: 19
+	Date: 2015-05-23 ; Times: 9
+	Date: 2015-05-24 ; Times: 11
+	Date: 2015-05-25 ; Times: 14
+	Date: 2015-05-26 ; Times: 21
+	Date: 2015-05-27 ; Times: 17
+	Date: 2015-05-28 ; Times: 13
+	Date: 2015-05-29 ; Times: 18
+	Date: 2015-05-30 ; Times: 7
+	Date: 2015-05-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Aegolius (India) AND (NOT Canada)" ; Times: 1
+	Query: "Pardirallus maculatus type:specimen" ; Times: 1
+	Query: "Electron platyrhynchum" ; Times: 1
+	Query: "Megalaima henricii SKIN" ; Times: 1
+	Query: "("Nipissing District")" ; Times: 1
+	Query: "30758" ; Times: 1
+	Query: "Didunculus" ; Times: 1
+	Query: "perdicula erythrorhyncha" ; Times: 5
+	Query: "Phoenicopterus chilensis" ; Times: 2
+	Query: "butastur teesa" ; Times: 3
+	Query: "harpactes fasciatus" ; Times: 4
+	Query: "specificepithet:jubatus (cub OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: ""rio blanco" country:"Ecuador" class:Aves" ; Times: 1
+	Query: "Ramphodon naevius" ; Times: 1
+	Query: "distance(location,geopoint(37.09974768923571,14.56787109375))<40500" ; Times: 2
+	Query: "merlin" ; Times: 1
+	Query: "Dendragapus obscurus year >= 1800 year <= 1910" ; Times: 1
+	Query: "119603" ; Times: 2
+	Query: "Microchera albocoronata type:specimen" ; Times: 1
+	Query: "Pterocles alchata" ; Times: 6
+	Query: ""branta bernicla" stateprovince:"Alaska"" ; Times: 1
+	Query: "fulica gigantea" ; Times: 1
+	Query: "otus sunia" ; Times: 1
+	Query: "Streptoprocne semicollaris" ; Times: 1
+	Query: "specificepithet:bernicla genus:Branta" ; Times: 1
+	Query: "Scythrops novaehollandiae stateprovince:"sulawesi"" ; Times: 1
+	Query: "specificepithet:bahamensis genus:anas" ; Times: 1
+	Query: "(Nipissing*)" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 3
+	Query: "3996" ; Times: 1
+	Query: "Brant" ; Times: 1
+	Query: "accipiter trivirgatus" ; Times: 2
+	Query: "specificepithet:ferruginea genus:calidris" ; Times: 8
+	Query: "(Nipissing OR Nipising OR Nippising OR Nippissing)" ; Times: 6
+	Query: "genus:grus specificepithet:americana year >= 1900 year <= 2010" ; Times: 3
+	Query: "type:specimen specificepithet:americana genus:grus" ; Times: 2
+	Query: "Megalaima rubricapilla SKIN" ; Times: 1
+	Query: "Amaurornis akool" ; Times: 1
+	Query: "stateprovince:"arizona" class:aves year >= 1905 year <= 1905" ; Times: 1
+	Query: "icterotis" ; Times: 1
+	Query: "Nipissing" ; Times: 2
+	Query: "scolopax rusticola" ; Times: 7
+	Query: "Phaetusa simplex" ; Times: 1
+	Query: "Batty" ; Times: 1
+	Query: "Aegolius "India" type:specimen AND (NOT Canada NOT USA)" ; Times: 1
+	Query: "pharomachrus mocinno" ; Times: 2
+	Query: "clamator coromandus india" ; Times: 1
+	Query: "catalognumber:92555" ; Times: 1
+	Query: "Larosterna inca country:"Chile" mappable:1" ; Times: 1
+	Query: "sypheotides indica" ; Times: 2
+	Query: "Psittacula alexandri" ; Times: 1
+	Query: "Rynchops niger intercedens" ; Times: 1
+	Query: "Boulton" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "psittacula eupatria" ; Times: 2
+	Query: "pionus maximiliani" ; Times: 5
+	Query: "nipissing" ; Times: 1
+	Query: "genus:grus specificepithet:americana year >= 1900 year <= 1925" ; Times: 1
+	Query: "pelecanus philippensis india" ; Times: 1
+	Query: "AG 259" ; Times: 1
+	Query: "Gyps fulvus" ; Times: 1
+	Query: "Buteo rufinus country:"india"" ; Times: 3
+	Query: "Aegolius year >= 1936 year <= 1936" ; Times: 1
+	Query: "Dendragapus obscurus COLORADO year >= 1800 year <= 1910" ; Times: 1
+	Query: "leucotis country:"Guatemala"" ; Times: 1
+	Query: "batrachostomus javensis" ; Times: 1
+	Query: "grus antigone" ; Times: 3
+	Query: "cachar" ; Times: 1
+	Query: "Boucard country:"Mexico"" ; Times: 3
+	Query: "grus americana" ; Times: 3
+	Query: "francolinus pictus type:specimen" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 3
+	Query: "Geotrygon saphirina" ; Times: 20
+	Query: "Lagopus gabrielsoni" ; Times: 2
+	Query: "nmr" ; Times: 1
+	Query: "dendrocygna bicolor india" ; Times: 2
+	Query: "trempealeau" ; Times: 1
+	Query: "(Nipissing OR Nippissing OR Nipising)" ; Times: 2
+	Query: "aviceda leuphotes" ; Times: 2
+	Query: "cuculus canorus" ; Times: 2
+	Query: "anser caerulescens" ; Times: 1
+	Query: "samar aves" ; Times: 4
+	Query: ""Anas x "" ; Times: 2
+	Query: "PATAGONA GIGAS year >= 1800 year <= 1900" ; Times: 1
+	Query: "Amaurornis akool country:"india"" ; Times: 1
+	Query: "type:specimen specificepithet:americana genus:grus institutioncode:ROM" ; Times: 1
+	Query: "francolinus francolinus" ; Times: 6
+	Query: "monte verde" ; Times: 1
+	Query: "(Nip OR Nipissing)" ; Times: 1
+	Query: "Pterodroma axillaris rom" ; Times: 1
+	Query: "Picus viridis" ; Times: 1
+	Query: "Pterocles alchata country:"India"" ; Times: 2
+	Query: "suriname birds institutioncode:rom" ; Times: 1
+	Query: "class:aves recordedby:olsen" ; Times: 1
+	Query: "apus apus" ; Times: 1
+	Query: "caprimulgus nigrescens eggs" ; Times: 1
+	Query: "Microchera albocoronata albocoronata" ; Times: 2
+	Query: "county:"Nipissing District"" ; Times: 1
+	Query: "Megalaima skin India" ; Times: 5
+	Query: "clamator jacobinus" ; Times: 1
+	Query: "pulsatrix institutioncode:ROM" ; Times: 2
+	Query: "pterocles indicus" ; Times: 1
+	Query: "gallicolumba platenae" ; Times: 1
+	Query: "Coturnicops" ; Times: 1
+	Query: "aythya nyroca" ; Times: 1
+	Query: "anser indicus" ; Times: 1
+	Query: "Lymnocryptes minimus country:"india"" ; Times: 1
+	Query: "distance(location,geopoint(37.09974768923571,14.56787109375))<100000" ; Times: 1
+	Query: "type:specimen specificepithet:americana genus:Grus institutioncode:ROM year >= 1900 year <= 2000" ; Times: 1
+	Query: "38-14 class:Aves institutioncode:UMMZ OR FMNH" ; Times: 1
+	Query: "haliaeetus leucoryphus" ; Times: 2
+	Query: "Megalaima tissue" ; Times: 2
+	Query: "Rynchops niger cinerascens" ; Times: 1
+	Query: "Psittacula" ; Times: 5
+	Query: "cuculus saturatus" ; Times: 1
+	Query: "gallus sonneratii" ; Times: 1
+	Query: "Chaetura fumosa type:specimen" ; Times: 1
+	Query: "egretta gularis-india" ; Times: 1
+	Query: "Otidiphaps nobilis" ; Times: 21
+	Query: "ag 137" ; Times: 1
+	Query: "Strix aluco country:"India"" ; Times: 1
+	Query: "Psittacula Pakistan" ; Times: 1
+	Query: "infraspecificepithet:californica" ; Times: 2
+	Query: "Ognorhynchus icterotis" ; Times: 1
+	Query: "talegalla" ; Times: 1
+	Query: "11092" ; Times: 1
+	Query: "11093" ; Times: 1
+	Query: "Aechmophorus" ; Times: 1
+	Query: "genus:Ectopistes institutioncode:ROM mappable:1" ; Times: 3
+	Query: "Eudromias morinellus" ; Times: 1
+	Query: "penelope superciliaris" ; Times: 1
+	Query: "Harpactes kasumba" ; Times: 1
+	Query: "Lurocalis semitorquatus" ; Times: 2
+	Query: "Caprimulgus carolinensis" ; Times: 1
+	Query: "cairina scutulata india" ; Times: 1
+	Query: "county:"Nipissing"" ; Times: 1
+	Query: "Pan institutioncode:ROM" ; Times: 1
+	Query: "Accipiter gularis" ; Times: 1
+	Query: "Megalaima australis australis SKIN" ; Times: 1
+	Query: "(Nipissing OR Nippissing OR Nipising OR Nipissing District)" ; Times: 1
+	Query: "(Nipissing OR Nippissing OR Nipising OR nipissing)" ; Times: 2
+	Query: "Richardson country:"Nicaragua"" ; Times: 4
+	Query: "barrabandi" ; Times: 2
+	Query: "cuculus sparverioides" ; Times: 1
+	Query: "(Nipissing OR Nippissing OR Nipising OR "Nipissing District")" ; Times: 1
+	Query: "Rhynochetos jubatus" ; Times: 2
+	Query: "coleoptera" ; Times: 2
+	Query: "porzana porzana" ; Times: 2
+	Query: "phalacrocorax carbo india" ; Times: 2
+	Query: "type:specimen catalognumber:30393 institutioncode:ROM" ; Times: 2
+	Query: "Aegolius (India)" ; Times: 1
+	Query: "Megapodius laperouse senex" ; Times: 3
+	Query: "Aegolius "India" type:specimen AND (NOT Canada)" ; Times: 1
+	Query: "PATAGONA GIGAS" ; Times: 1
+	Query: "wieczorek" ; Times: 3
+	Query: "passenger pigeon" ; Times: 1
+	Query: "Lagopus welchi" ; Times: 8
+	Query: "type:specimen (Rio Grande do Sul) year >= 1910 year <= 1940" ; Times: 1
+	Query: "choriotis nigriceps" ; Times: 3
+	Query: "pulsatrix" ; Times: 1
+	Query: "phaenicophaeus pyrrhocephalus" ; Times: 1
+	Query: "Sterna saundersi" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:hurley" ; Times: 1
+	Query: "tockus birostris" ; Times: 4
+	Query: "75588" ; Times: 1
+	Query: ""Nipissing District"" ; Times: 1
+	Query: "county:"Nipissing" year >= 1920 year <= 2014" ; Times: 1
+	Query: "Lophornis delattrei lessoni" ; Times: 1
+	Query: "Ara militaris" ; Times: 2
+	Query: "Talegalla" ; Times: 9
+	Query: ""Aix x Anas"" ; Times: 1
+	Query: ""rio blanco" country:"Ecuador"" ; Times: 1
+	Query: "megapodius" ; Times: 1
+	Query: "guyana birds institutioncode:rom" ; Times: 1
+	Query: "(Nipissing OR Nippissing)" ; Times: 1
+	Query: "county:"Nipissing District" stateprovince:"Ontario" country:"Canada" year >= 1920 year <= 2014" ; Times: 2
+	Query: "ectopistes migratorius" ; Times: 1
+	Query: "Gallinago undulata brazil" ; Times: 1
+	Query: "Pterodroma axillaris 1892" ; Times: 1
+	Query: "Quiche country:"Guatemala" class:Aves" ; Times: 2
+	Query: "cairina india" ; Times: 1
+	Query: "Streptopelia turtur" ; Times: 1
+	Query: "Campephilus imperialis" ; Times: 1
+	Query: "pterocles exustus" ; Times: 8
+	Query: "Buteo rufinus" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+	Query: "stateprovince:"ohio" class:aves" ; Times: 1
+	Query: "Cathartes aura" ; Times: 1
+	Query: "diomedea immutabilis type:specimen year >= 1900 year <= 1950" ; Times: 1
+	Query: "J.H. Batty" ; Times: 4
+	Query: "strigiformes stateprovince:"aguascalientes" country:"Mexico" mappable:1" ; Times: 1
+	Query: "10270" ; Times: 2
+	Query: "platalea minor type:specimen" ; Times: 1
+	Query: "Fulica gigantea" ; Times: 1
+	Query: "(Nipissing)" ; Times: 2
+	Query: "stateprovince:"alaska" class:aves recordedby:hendee AND (NOT dmns NOT dmnh)" ; Times: 1
+	Query: ""platyrhynchos x "" ; Times: 1
+	Query: "(Nipissing OR Nippising OR Nippising OR Nippissing)" ; Times: 3
+	Query: "otus bakkamoena" ; Times: 1
+	Query: "type:specimen specificepithet:americana genus:Grus institutioncode:ROM" ; Times: 1
+	Query: "B 431" ; Times: 1
+	Query: "Nipissing District" ; Times: 1
+	Query: "strigiformes stateprovince:"puebla" country:"Mexico" year >= 1960 year <= 2015 mappable:1" ; Times: 1
+	Query: "centropus toulou" ; Times: 2
+	Query: "(Nipissing OR Nippissing OR Nipising AND District)" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 3
+	Query: "stateprovince:"Texas" genus:Buteo" ; Times: 1
+	Query: "peregrine" ; Times: 1
+	Query: "Electron" ; Times: 1
+	Query: "Phaetusa simplex simplex" ; Times: 1
+	Query: "catalognumber:30758" ; Times: 1
+	Query: "leptoptilos javanicus" ; Times: 1
+	Query: "type:specimen class:Aves (Rio Grande do Sul) year >= 1910 year <= 1940" ; Times: 1
+	Query: "caprimulgus nigrescens" ; Times: 5
+	Query: "Chalcophaps indica longirostris" ; Times: 1
+	Query: "Aquila chrysaetos AND (NOT california) mappable:1" ; Times: 4
+	Query: "New Saint Andrews" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "pavo muticus india" ; Times: 1
+	Query: "type:specimen stateprovince:"saskatchewan" specificepithet:americana genus:Grus" ; Times: 1
+	Query: "Nipissing lake" ; Times: 1
+	Query: "Picoides scalaris leucoptilurus" ; Times: 1
+	Query: "Rio Blanco country:"Ecuador"" ; Times: 1
+	Query: "anas platyrhynchos india" ; Times: 7
+	Query: "Boucard" ; Times: 2
+	Query: "cyanopectus" ; Times: 1
+	Query: "specificepithet:minimus genus:Centrocercus" ; Times: 2
+	Query: "county:"Nipissing" stateprovince:"Ontario" country:"Canada" year >= 1920 year <= 2014" ; Times: 3
+	Query: "Campephilus imperialis Chihuahua" ; Times: 2
+	Query: ""Limnodromus griseus" year >= 1924 year <= 1924" ; Times: 1
+	Query: "Rallus celebensis" ; Times: 1
+	Query: "Aegolius India year >= 1936 year <= 1936" ; Times: 1
+	Query: "Megalaima australis SKIN" ; Times: 1
+	Query: "strigiformes stateprovince:"puebla" country:"Mexico" year >= 1970 year <= 2015 mappable:1" ; Times: 1
+	Query: "funereus SKIN" ; Times: 1
+	Query: "aythya nyroca india" ; Times: 1
+	Query: "503446" ; Times: 1
+	Query: "Monias benschi" ; Times: 2
+	Query: "Otus barbarus" ; Times: 1
+	Query: "Psilopogon skin" ; Times: 1
+	Query: "Scythrops novaehollandiae country:"indonesia"" ; Times: 1
+	Query: "institutioncode:rom" ; Times: 3
+	Query: "clamator coromandus" ; Times: 3
+	Query: "Tympanuchus cupido cupido" ; Times: 2
+	Query: "Dendragapus obscurus year >= 1800 year <= 1920" ; Times: 1
+	Query: "Cachar" ; Times: 2
+	Query: "vulcania" ; Times: 1
+	Query: "pseudibis papillosa" ; Times: 1
+	Query: "samar" ; Times: 1
+	Query: "talegalla 36553" ; Times: 1
+	Query: "san carlos costa rica" ; Times: 2
+	Query: "anas strepera india" ; Times: 2
+	Query: "Caprimulgus carolinensis country:"Colombia"" ; Times: 1
+	Query: "strix ocellata" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 976 download events in this period)
+Total number of records downloaded: 5617 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3518
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 6
+	Country: Chile ; Times: 1
+	Country: India ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: Netherlands ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: United States ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+	Date: 2015-05-06 ; Times: 5
+	Date: 2015-05-10 ; Times: 1
+	Date: 2015-05-11 ; Times: 1
+	Date: 2015-05-13 ; Times: 5
+	Date: 2015-05-14 ; Times: 1
+	Date: 2015-05-15 ; Times: 1
+	Date: 2015-05-16 ; Times: 1
+	Date: 2015-05-18 ; Times: 2
+	Date: 2015-05-19 ; Times: 1
+	Date: 2015-05-20 ; Times: 2
+	Date: 2015-05-21 ; Times: 1
+	Date: 2015-05-22 ; Times: 1
+	Date: 2015-05-24 ; Times: 1
+	Date: 2015-05-25 ; Times: 2
+	Date: 2015-05-27 ; Times: 3
+	Date: 2015-05-28 ; Times: 1
+	Date: 2015-05-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "Didunculus" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "county:"Nipissing"" ; Times: 1
+	Query: "country:"Mexico" class:Aves" ; Times: 1
+	Query: "Underwood" ; Times: 1
+	Query: "Calypte anna type:specimen" ; Times: 1
+	Query: "samar aves" ; Times: 1
+	Query: "Streptoprocne semicollaris" ; Times: 1
+	Query: "Phaetusa simplex simplex" ; Times: 1
+	Query: "(Nipissing OR Nipising OR Nippising OR Nippissing)" ; Times: 2
+	Query: "specificepithet:minor genus:Chordeiles class:Aves institutioncode:UMMZ OR FMNH" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "year >= 1800 year <= 2015 distance(location,geopoint(35.9602229692967,-119.37744140625))<100000" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "country:"Philippines" class:Aves year <= 2015" ; Times: 1
+	Query: "Rynchops niger cinerascens" ; Times: 1
+	Query: "county:"Nipissing" stateprovince:"Ontario" country:"Canada" year >= 1920 year <= 2014" ; Times: 1
+	Query: "Tympanuchus cupido cupido" ; Times: 1
+	Query: "county:"Nipissing District" stateprovince:"Ontario" country:"Canada" year >= 1920 year <= 2014" ; Times: 1
+	Query: "tyto alba" ; Times: 1
+	Query: "Rynchops niger intercedens" ; Times: 2
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "Larosterna inca country:"Chile" mappable:1" ; Times: 1
+	Query: "pionus maximiliani" ; Times: 2
+	Query: "Streptopelia turtur" ; Times: 1
+	Query: "Cachar" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2060
+Total number of records retrieved from searches: 20076
+Number of download events that retrieved data from the resource: 136
+Total number of records downloaded: 79260
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 2332
+Total number of records retrieved from searches: 22872
+Number of download events that retrieved data from the resource: 261
+Total number of records downloaded: 90476
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
