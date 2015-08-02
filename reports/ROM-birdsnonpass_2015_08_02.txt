@@ -1,0 +1,368 @@
+Report for Institution Code ROM, Resource birdsnonpass
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 421
+Number of records retrieved in searches: 2902
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 80
+	Country: Canada ; Times: 4
+	Country: Chile ; Times: 1
+	Country: Cyprus ; Times: 1
+	Country: France ; Times: 8
+	Country: Germany ; Times: 5
+	Country: Guatemala ; Times: 1
+	Country: India ; Times: 12
+	Country: Jamaica ; Times: 1
+	Country: Mexico ; Times: 44
+	Country: Netherlands ; Times: 10
+	Country: Panama ; Times: 5
+	Country: Peru ; Times: 1
+	Country: Russia ; Times: 1
+	Country: United Kingdom ; Times: 36
+	Country: United States ; Times: 205
+	Country: Unknown ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 8
+	Date: 2015-07-02 ; Times: 14
+	Date: 2015-07-03 ; Times: 9
+	Date: 2015-07-04 ; Times: 1
+	Date: 2015-07-05 ; Times: 4
+	Date: 2015-07-06 ; Times: 10
+	Date: 2015-07-07 ; Times: 12
+	Date: 2015-07-08 ; Times: 1
+	Date: 2015-07-09 ; Times: 4
+	Date: 2015-07-10 ; Times: 3
+	Date: 2015-07-11 ; Times: 10
+	Date: 2015-07-12 ; Times: 5
+	Date: 2015-07-13 ; Times: 4
+	Date: 2015-07-14 ; Times: 11
+	Date: 2015-07-15 ; Times: 17
+	Date: 2015-07-16 ; Times: 28
+	Date: 2015-07-17 ; Times: 9
+	Date: 2015-07-19 ; Times: 1
+	Date: 2015-07-20 ; Times: 8
+	Date: 2015-07-21 ; Times: 7
+	Date: 2015-07-22 ; Times: 7
+	Date: 2015-07-23 ; Times: 18
+	Date: 2015-07-24 ; Times: 6
+	Date: 2015-07-25 ; Times: 21
+	Date: 2015-07-26 ; Times: 5
+	Date: 2015-07-27 ; Times: 7
+	Date: 2015-07-28 ; Times: 20
+	Date: 2015-07-29 ; Times: 83
+	Date: 2015-07-30 ; Times: 42
+	Date: 2015-07-31 ; Times: 46
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"ecuador" recordedby:G. F. year <= 1900" ; Times: 1
+	Query: "22774" ; Times: 1
+	Query: "Spizastur" ; Times: 1
+	Query: "selasphorus flammula" ; Times: 2
+	Query: "pinguinus" ; Times: 1
+	Query: "Pterocles alchata India skin" ; Times: 2
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS)" ; Times: 1
+	Query: "distance(location,geopoint(44.608720009137095,-99.107666015625))<70400" ; Times: 1
+	Query: "specificepithet:caeruleus genus:elanus year >= 1970" ; Times: 3
+	Query: "county:"Richland" stateprovince:"South Carolina" class:Aves" ; Times: 1
+	Query: "moa" ; Times: 1
+	Query: "distance(location,geopoint(40.31446719283562,-113.411865234375))<30246.971978908655" ; Times: 1
+	Query: "14470" ; Times: 2
+	Query: "Pterodroma cahow" ; Times: 2
+	Query: "calidris canutus" ; Times: 4
+	Query: "distance(location,geopoint(34.116352469972746,-120.223388671875))<7787.571209819605" ; Times: 1
+	Query: "specificepithet:caeruleus genus:Elanus year >= 1909" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 2
+	Query: "Chlamydotis macqueenii type:specimen" ; Times: 1
+	Query: "type:specimen catalognumber:110263" ; Times: 1
+	Query: "2464" ; Times: 1
+	Query: "Apus pallidus" ; Times: 1
+	Query: "42291" ; Times: 1
+	Query: "Podiceps occipitalis" ; Times: 3
+	Query: "Anas nesiotis type:specimen" ; Times: 1
+	Query: ""cygnus buccinator" year <= 1892" ; Times: 1
+	Query: "Megapodius geelvinkianus type:specimen" ; Times: 1
+	Query: "ROM 102973" ; Times: 1
+	Query: "Falco sparverius tropicalis" ; Times: 1
+	Query: "catalognumber:38002" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs)" ; Times: 1
+	Query: "Numenius phaeopus" ; Times: 2
+	Query: "buteo albonotatus" ; Times: 1
+	Query: "Strix aluco" ; Times: 1
+	Query: "distance(location,geopoint(34.05891711006568,-120.33187866210938))<398" ; Times: 3
+	Query: "pulcherrimus" ; Times: 1
+	Query: "rom 36823" ; Times: 2
+	Query: "harpactes fasciatus type:specimen" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM)" ; Times: 1
+	Query: "distance(location,geopoint(40.33381556989261,-113.3294677734375))<32712.805901669977" ; Times: 1
+	Query: "Falco sparverius tropicalis type:specimen" ; Times: 2
+	Query: "distance(location,geopoint(46.75993680791378,10.8984375))<96649" ; Times: 1
+	Query: "Tympanuchus pallidicinctus type:specimen" ; Times: 3
+	Query: "strix nebulosa lappland" ; Times: 1
+	Query: "oreophasis" ; Times: 1
+	Query: "eurostopodus macrotis" ; Times: 1
+	Query: ""Tympanuchus cupido cupido"" ; Times: 1
+	Query: "county:"Sonoma" stateprovince:"California" year >= 1900 year <= 1900" ; Times: 1
+	Query: "PEABODY BIRDS" ; Times: 1
+	Query: "specificepithet:caeruleus genus:Elanus year >= 1910" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB)" ; Times: 1
+	Query: "cladorhynchus" ; Times: 1
+	Query: "country:"denmark" class:aves year >= 1885 year <= 1890" ; Times: 1
+	Query: "podiceps cristatus" ; Times: 4
+	Query: "Ninox superciliaris" ; Times: 3
+	Query: "lake superior" ; Times: 1
+	Query: "specificepithet:aucklandica genus:Anas catalognumber:35151 institutioncode:Rom" ; Times: 1
+	Query: "Mesitornithidae" ; Times: 1
+	Query: "Bermuda" ; Times: 1
+	Query: "Momotus country:"Panama"" ; Times: 5
+	Query: "Phoenicopterus roseus type:specimen" ; Times: 3
+	Query: "Nystalus chacuru" ; Times: 1
+	Query: "Crypturellus tataupa" ; Times: 1
+	Query: "Crypturellus parvirostris" ; Times: 1
+	Query: "recordedby:G. F. year >= 1900 year <= 1900" ; Times: 2
+	Query: "Tachyeres leucocephalus type:specimen" ; Times: 1
+	Query: "ROM 102929" ; Times: 1
+	Query: "athene noctua" ; Times: 2
+	Query: "mmnh" ; Times: 1
+	Query: "95649" ; Times: 1
+	Query: "pionus maximiliani" ; Times: 1
+	Query: "Ducula finschii type:specimen AND (NOT eggs)" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 9
+	Query: "New Guine" ; Times: 1
+	Query: "recordedby:G. F. year <= 1900" ; Times: 2
+	Query: "Pterocles orientalis India skin" ; Times: 5
+	Query: "columba livia" ; Times: 2
+	Query: "5851" ; Times: 1
+	Query: ""aethia"" ; Times: 1
+	Query: "distance(location,geopoint(47.724544549099676,-82.24365234375))<100000" ; Times: 1
+	Query: "Cypseloides cryptus" ; Times: 3
+	Query: "nmr" ; Times: 1
+	Query: "ruffed grouse" ; Times: 1
+	Query: "county:"Grande Prairie" stateprovince:"Alberta" mappable:1" ; Times: 2
+	Query: "jerdoni" ; Times: 1
+	Query: "isla Asuncion" ; Times: 1
+	Query: "5280" ; Times: 2
+	Query: "ketupa ketupa" ; Times: 1
+	Query: "aythya nyroca" ; Times: 2
+	Query: "skeleton asio flammeus" ; Times: 1
+	Query: "Spizaetus" ; Times: 1
+	Query: "Gallicolumba luzonica" ; Times: 1
+	Query: "country:"ethiopia" class:aves" ; Times: 1
+	Query: "year <= 2015 distance(location,geopoint(40.33381556989261,-113.3294677734375))<32712.805901669977" ; Times: 1
+	Query: "95651" ; Times: 1
+	Query: "picoides albolarvatus" ; Times: 1
+	Query: "specificepithet:caeruleus genus:elanus" ; Times: 2
+	Query: "cuculus saturatus" ; Times: 1
+	Query: "country:"czech republic"" ; Times: 3
+	Query: "Poicephalus" ; Times: 1
+	Query: "JAM 3573" ; Times: 1
+	Query: "Strix aluco country:"India"" ; Times: 1
+	Query: "Pharomachrus mocinno type:specimen" ; Times: 4
+	Query: "Aulacorhynchus griseigularis type:specimen" ; Times: 1
+	Query: "Pterocles senegallus" ; Times: 1
+	Query: ""crypturellus cinnamomeus"" ; Times: 1
+	Query: "catalognumber:100917" ; Times: 2
+	Query: "Brachyramphus brevirostris" ; Times: 1
+	Query: "Circus macrosceles type:specimen" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "Leptodon" ; Times: 1
+	Query: "ducula badia type:specimen" ; Times: 1
+	Query: "Inglis" ; Times: 1
+	Query: "36223" ; Times: 1
+	Query: "Amazona aestiva" ; Times: 1
+	Query: "Syrmaticus ellioti type:specimen" ; Times: 1
+	Query: "alcedinidae institutioncode:rom" ; Times: 2
+	Query: "country:"nicaragua" class:aves recordedby:richardson year <= 1904" ; Times: 1
+	Query: "strix nivicola" ; Times: 1
+	Query: "colibri thalassinus" ; Times: 38
+	Query: "lancaster nebraska" ; Times: 1
+	Query: "16002" ; Times: 1
+	Query: "cygnus buccinator" ; Times: 1
+	Query: "scopus umbretta" ; Times: 1
+	Query: "Colaptes campestris" ; Times: 1
+	Query: "megalaima haemacephala" ; Times: 1
+	Query: "county:"Anderson" stateprovince:"South Carolina" class:Aves" ; Times: 1
+	Query: "accipiter gularis" ; Times: 3
+	Query: "rom oman" ; Times: 1
+	Query: "Pterocles senegallus India skin" ; Times: 4
+	Query: "36223 Aves" ; Times: 1
+	Query: "institutioncode:ROM" ; Times: 1
+	Query: "14280 type:specimen" ; Times: 1
+	Query: "genus:alcedo institutioncode:rom" ; Times: 1
+	Query: "Otus scops country:"India"" ; Times: 1
+	Query: "Pseudibis" ; Times: 1
+	Query: "Melanotrochilus fuscus" ; Times: 49
+	Query: "phaenicophaeus pyrrhocephalus" ; Times: 1
+	Query: "specificepithet:bulocki genus:merops year >= 1910" ; Times: 1
+	Query: "cuculus poliocephalus" ; Times: 3
+	Query: "month:12 year:1963 day:8" ; Times: 1
+	Query: "rom 30259" ; Times: 4
+	Query: "Momotus momota" ; Times: 1
+	Query: "Larus serranus" ; Times: 2
+	Query: "Cladorhynchus" ; Times: 2
+	Query: "Halcyon enigma type:specimen" ; Times: 1
+	Query: "reichenowi" ; Times: 1
+	Query: "Gypohierax angolensis" ; Times: 1
+	Query: "Brachyramphus marmoratus stateprovince:"California"" ; Times: 6
+	Query: "Centrocercus minimus type:specimen" ; Times: 1
+	Query: "dam country:"zimbabwe"" ; Times: 1
+	Query: "skeleton type:specimen specificepithet:migratorius genus:Ectopistes" ; Times: 1
+	Query: "county:"Edgefield" stateprovince:"South Carolina" class:Aves" ; Times: 1
+	Query: "(glen morris)" ; Times: 1
+	Query: "albitarsus" ; Times: 2
+	Query: "hieraaetus pennatus" ; Times: 11
+	Query: "Eudyptes moseleyi type:specimen" ; Times: 1
+	Query: "glaucidium cuculoides" ; Times: 2
+	Query: "pickle" ; Times: 1
+	Query: "Phaethornis pretrei" ; Times: 1
+	Query: "country:"Zimbabwe"" ; Times: 1
+	Query: "Neochen jubata" ; Times: 1
+	Query: "Streptoprocne" ; Times: 5
+	Query: "Vanellus chilensis" ; Times: 4
+	Query: "Branta hutchinsii type:specimen" ; Times: 5
+	Query: "rom 30246" ; Times: 4
+	Query: "Dinornithiformes" ; Times: 1
+	Query: "brazil gallinago undulata" ; Times: 1
+	Query: "psittacula columboides" ; Times: 1
+	Query: "aves umnak" ; Times: 2
+	Query: "Falco femoralis" ; Times: 2
+	Query: "Chlamydotis undulata" ; Times: 1
+	Query: ""Anser albifrons" country:"Canada"" ; Times: 2
+	Query: "kamrup" ; Times: 1
+	Query: "36084" ; Times: 1
+	Query: "Pogoniulus" ; Times: 1
+	Query: "ROM 98483" ; Times: 1
+	Query: "Eurynorhynchus pygmeus" ; Times: 3
+	Query: "rom 38002" ; Times: 3
+	Query: "lineola" ; Times: 1
+	Query: "distance(location,geopoint(46.75993680791378,10.8984375))<100000" ; Times: 1
+	Query: "155329" ; Times: 1
+	Query: "81805" ; Times: 1
+	Query: "24633" ; Times: 1
+	Query: "Cypseloides" ; Times: 4
+	Query: "distance(location,geopoint(40.27256855319715,-113.258056640625))<30247" ; Times: 1
+	Query: "73644" ; Times: 1
+	Query: "otus bakkamoena" ; Times: 2
+	Query: "Ectopistes migratorius" ; Times: 3
+	Query: "papa" ; Times: 1
+	Query: "recordedby:Chunkoo" ; Times: 1
+	Query: "Egretta thula type:specimen" ; Times: 1
+	Query: "Laterallus" ; Times: 4
+	Query: "MZFC" ; Times: 1
+	Query: "wellsi" ; Times: 1
+	Query: "oven bird" ; Times: 1
+	Query: "catalognumber:72321 institutioncode:rom" ; Times: 1
+	Query: "45870" ; Times: 1
+	Query: "specificepithet:migratorius genus:Ectopistes" ; Times: 2
+	Query: "127639 type:specimen" ; Times: 2
+	Query: "91707" ; Times: 1
+	Query: "rom 30426" ; Times: 1
+	Query: "institutioncode:rom" ; Times: 3
+	Query: "Tympanuchus cupido cupido" ; Times: 1
+	Query: "county:"Greenwood" stateprovince:"South Carolina" class:Aves" ; Times: 1
+	Query: "year <= 2015 distance(location,geopoint(40.31446719283562,-113.411865234375))<39805" ; Times: 1
+	Query: "Eudyptes filholi type:specimen" ; Times: 1
+	Query: "Inglis year >= 1870 year <= 1947" ; Times: 1
+	Query: "8767" ; Times: 1
+	Query: ""melanotrochilus fuscus"" ; Times: 1
+	Query: "Otus scops" ; Times: 1
+	Query: "Ducula luctuosa type:specimen AND (NOT eggs)" ; Times: 1
+	Query: "catalognumber:101565" ; Times: 1
+	Query: "otis tarda" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 1084 download events in this period)
+Total number of records downloaded: 2290 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1847
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Dominican Republic ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: Netherlands ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 2
+	Date: 2015-07-02 ; Times: 2
+	Date: 2015-07-03 ; Times: 1
+	Date: 2015-07-06 ; Times: 3
+	Date: 2015-07-08 ; Times: 1
+	Date: 2015-07-09 ; Times: 5
+	Date: 2015-07-11 ; Times: 1
+	Date: 2015-07-14 ; Times: 3
+	Date: 2015-07-15 ; Times: 3
+	Date: 2015-07-16 ; Times: 2
+	Date: 2015-07-17 ; Times: 1
+	Date: 2015-07-19 ; Times: 1
+	Date: 2015-07-20 ; Times: 3
+	Date: 2015-07-24 ; Times: 1
+	Date: 2015-07-28 ; Times: 3
+	Date: 2015-07-29 ; Times: 1
+	Date: 2015-07-30 ; Times: 1
+	Date: 2015-07-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "aves distance(location,geopoint(53.1072166918934,-171.2603759765625))<119084" ; Times: 1
+	Query: "Arkansas" ; Times: 2
+	Query: "Falco femoralis" ; Times: 1
+	Query: ""Anser albifrons" country:"Canada"" ; Times: 1
+	Query: "country:"Mexico" class:Aves" ; Times: 1
+	Query: "colibri thalassinus" ; Times: 2
+	Query: "zacatecas" ; Times: 1
+	Query: "Eurynorhynchus pygmeus" ; Times: 1
+	Query: "Gallicolumba luzonica" ; Times: 1
+	Query: "chordata country:"dominican Republic"" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "namibia" ; Times: 1
+	Query: "county:"Uintah" stateprovince:"Utah"" ; Times: 1
+	Query: "Oceanodroma homochroa" ; Times: 1
+	Query: "Selasphorus platycercus" ; Times: 1
+	Query: "ruffed grouse" ; Times: 1
+	Query: "institutioncode:ROM Mammals" ; Times: 1
+	Query: "san luis potosi" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "type:specimen hastypestatus:1" ; Times: 1
+	Query: "country:"Puerto Rico"" ; Times: 1
+	Query: "Numenius phaeopus" ; Times: 2
+	Query: "("DRC" OR "Democratic Republic of the Congo" )" ; Times: 1
+	Query: "Hylocharis leucotis" ; Times: 1
+	Query: "Streptoprocne" ; Times: 1
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: "Poicephalus" ; Times: 1
+	Query: "jalisco" ; Times: 1
+	Query: "AGUASCALIENTES" ; Times: 1
+	Query: ""Tympanuchus cupido cupido"" ; Times: 2
+	Query: "county:"Utah" stateprovince:"Utah"" ; Times: 1
+	Query: "county:"Sonoma" stateprovince:"California" year >= 1900 year <= 1900" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2983
+Total number of records retrieved from searches: 26223
+Number of download events that retrieved data from the resource: 305
+Total number of records downloaded: 86755
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 3255
+Total number of records retrieved from searches: 29019
+Number of download events that retrieved data from the resource: 430
+Total number of records downloaded: 97971
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
