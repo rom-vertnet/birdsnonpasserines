@@ -1,0 +1,483 @@
+Report for Institution Code ROM, Resource Birds
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 502
+Number of records retrieved in searches: 3073
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 6
+	Country: Belgium ; Times: 1
+	Country: Brazil ; Times: 104
+	Country: Canada ; Times: 14
+	Country: Denmark ; Times: 5
+	Country: France ; Times: 42
+	Country: Germany ; Times: 8
+	Country: Greece ; Times: 1
+	Country: India ; Times: 10
+	Country: Israel ; Times: 1
+	Country: Jamaica ; Times: 1
+	Country: Japan ; Times: 2
+	Country: Mexico ; Times: 15
+	Country: Netherlands ; Times: 2
+	Country: Panama ; Times: 4
+	Country: Philippines ; Times: 7
+	Country: South Africa ; Times: 1
+	Country: Spain ; Times: 2
+	Country: Sweden ; Times: 3
+	Country: United Kingdom ; Times: 26
+	Country: United States ; Times: 234
+	Country: Unknown ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 64
+	Date: 2015-08-02 ; Times: 9
+	Date: 2015-08-03 ; Times: 29
+	Date: 2015-08-04 ; Times: 14
+	Date: 2015-08-05 ; Times: 31
+	Date: 2015-08-06 ; Times: 8
+	Date: 2015-08-07 ; Times: 12
+	Date: 2015-08-08 ; Times: 8
+	Date: 2015-08-09 ; Times: 1
+	Date: 2015-08-10 ; Times: 7
+	Date: 2015-08-11 ; Times: 25
+	Date: 2015-08-12 ; Times: 26
+	Date: 2015-08-13 ; Times: 12
+	Date: 2015-08-14 ; Times: 17
+	Date: 2015-08-15 ; Times: 9
+	Date: 2015-08-16 ; Times: 2
+	Date: 2015-08-17 ; Times: 13
+	Date: 2015-08-18 ; Times: 7
+	Date: 2015-08-19 ; Times: 21
+	Date: 2015-08-20 ; Times: 4
+	Date: 2015-08-21 ; Times: 20
+	Date: 2015-08-22 ; Times: 21
+	Date: 2015-08-23 ; Times: 5
+	Date: 2015-08-24 ; Times: 14
+	Date: 2015-08-25 ; Times: 17
+	Date: 2015-08-26 ; Times: 25
+	Date: 2015-08-27 ; Times: 18
+	Date: 2015-08-28 ; Times: 24
+	Date: 2015-08-29 ; Times: 20
+	Date: 2015-08-30 ; Times: 14
+	Date: 2015-08-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas cyanoptera type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Dromaius novaehollandiae" ; Times: 1
+	Query: "year:1860" ; Times: 1
+	Query: "Kangaroo mouse" ; Times: 1
+	Query: "83998" ; Times: 1
+	Query: "95008" ; Times: 1
+	Query: ""kenya colony" country:"kenya"" ; Times: 1
+	Query: "county:"Milwaukee" stateprovince:"wisconsin"" ; Times: 1
+	Query: "Accipiter gentilis country:"Russia" mappable:1" ; Times: 1
+	Query: "perdicula erythrorhyncha" ; Times: 4
+	Query: "country:"cuba" class:aves year >= 1913 year <= 1914" ; Times: 1
+	Query: "county:"clackamas" stateprovince:"oregon" class:Aves year >= 1895 year <= 1898" ; Times: 1
+	Query: "Nzoia country:"kenya"" ; Times: 1
+	Query: "5073" ; Times: 2
+	Query: "specificepithet:ornatus genus:trichoglossus" ; Times: 1
+	Query: "Columbina passerina jamaicensis year <= 1899" ; Times: 1
+	Query: "watson year >= 1890 year <= 1920" ; Times: 1
+	Query: "falco sparverius type:specimen year >= 1920 year <= 1930" ; Times: 1
+	Query: "aramus (skel OR skeleton)" ; Times: 1
+	Query: "male asio flammeus" ; Times: 1
+	Query: "Pogoniulus (skel OR skeleton)" ; Times: 1
+	Query: "coturnix coturnix" ; Times: 8
+	Query: "Bidens" ; Times: 1
+	Query: "4380" ; Times: 2
+	Query: "country:"Yemen"" ; Times: 1
+	Query: "polyborus" ; Times: 1
+	Query: "Picoides nuttallii" ; Times: 13
+	Query: "type:specimen genus:Odontophorus AND (NOT captive)" ; Times: 2
+	Query: "arquata" ; Times: 2
+	Query: "year:1840" ; Times: 5
+	Query: "genus:capito (skel OR skeleton)" ; Times: 1
+	Query: "caprimulgus carolinensis" ; Times: 1
+	Query: "7754" ; Times: 2
+	Query: "92141" ; Times: 2
+	Query: "specificepithet:auritus genus:Phalacrocorax year >= 1918" ; Times: 1
+	Query: "jacana (skel OR skeleton)" ; Times: 1
+	Query: "ROM 93526" ; Times: 1
+	Query: "lurocalis rufiventris" ; Times: 1
+	Query: "El Paso County Texas Aves" ; Times: 1
+	Query: "recordedby:Biddulph institutioncode:ROM" ; Times: 1
+	Query: "Aves Hudspeth" ; Times: 20
+	Query: "country:"India" year >= 1820 year <= 1840" ; Times: 1
+	Query: "Pea Ridge" ; Times: 1
+	Query: "country:"India" class:aves year >= 1825 year <= 1833" ; Times: 1
+	Query: "recordedby:Abbott" ; Times: 1
+	Query: "gymnobucco (skel OR skeleton)" ; Times: 1
+	Query: "guttera edouardi" ; Times: 1
+	Query: "type:specimen class:aves (feather)" ; Times: 2
+	Query: "catalognumber:43286" ; Times: 1
+	Query: "perdicula asiatica" ; Times: 1
+	Query: "paradisaea year >= 1986 year <= 2015" ; Times: 3
+	Query: "Gymnogyps californianus" ; Times: 2
+	Query: "Tragopan type:specimen" ; Times: 1
+	Query: "genus:Strigops" ; Times: 1
+	Query: "ROM 86950" ; Times: 1
+	Query: "year >= 1755 year <= 1820" ; Times: 2
+	Query: "year >= 1755 year <= 1821" ; Times: 2
+	Query: "year >= 1755 year <= 1823" ; Times: 1
+	Query: "year >= 1755 year <= 1824" ; Times: 2
+	Query: "year >= 1755 year <= 1825" ; Times: 2
+	Query: "year >= 1755 year <= 1826" ; Times: 1
+	Query: ""colinus virginianus" type:specimen "Cuba"" ; Times: 1
+	Query: "year:1858" ; Times: 1
+	Query: "year:1859" ; Times: 3
+	Query: "Trans Nzoia country:"kenya"" ; Times: 1
+	Query: "Vanellus cinereus" ; Times: 2
+	Query: "Oxyura jamaicensis type:specimen stateprovince:"California"" ; Times: 1
+	Query: "stateprovince:"Gilgit" recordedby:Scully institutioncode:ROM" ; Times: 1
+	Query: "Ninox superciliaris" ; Times: 1
+	Query: "class:aves recordedby:anthony year >= 1885 year <= 1895" ; Times: 1
+	Query: "batesi" ; Times: 1
+	Query: ""colinus virginianus" type:specimen (Cuba OR Bahamas OR Dominican)" ; Times: 1
+	Query: "falco sparverius type:specimen (bird specimen) year >= 1880 year <= 1900" ; Times: 1
+	Query: ""colinus virginianus" type:specimen (Cuba OR Bahamas OR Dominican OR "Puerto Rico")" ; Times: 2
+	Query: "coturnicops noveboracensis" ; Times: 1
+	Query: "galloperdix spadicea" ; Times: 1
+	Query: "tm AND varia" ; Times: 1
+	Query: "institutioncode:ROM" ; Times: 1
+	Query: "Ceryle (skel OR skeleton)" ; Times: 1
+	Query: "falco sparverius type:specimen stateprovince:"California" AND (NOT eggs) year >= 1880 year <= 1900" ; Times: 1
+	Query: "zenaida asiatica" ; Times: 2
+	Query: "Waigeo class:Aves" ; Times: 1
+	Query: "falco sparverius type:specimen stateprovince:"California" AND (NOT eggs) year >= 1940 year <= 1960" ; Times: 1
+	Query: "falco sparverius type:specimen stateprovince:"California" AND (NOT egg Not nest) year >= 1920 year <= 1940" ; Times: 1
+	Query: "falco sparverius type:specimen stateprovince:"California" (bird specimen) AND (NOT egg) year >= 1880 year <= 1900" ; Times: 1
+	Query: "temnurus temnurus" ; Times: 2
+	Query: "pelecanus (skel OR skeleton)" ; Times: 3
+	Query: "country:"cuba" class:aves year >= 1912 year <= 1914" ; Times: 1
+	Query: "13148" ; Times: 1
+	Query: "Pterocles coronatus skin" ; Times: 1
+	Query: "Francolinus gularis" ; Times: 10
+	Query: "brown stateprovince:"Baja" year >= 1905 year <= 1912" ; Times: 1
+	Query: "mvz AND gymnogyps AND california" ; Times: 1
+	Query: "Piaya cayana" ; Times: 2
+	Query: "Anthracothorax type:specimen (skin)" ; Times: 1
+	Query: "Talegalla jobiensis" ; Times: 2
+	Query: "beck country:"mexico" year >= 1900 year <= 1900" ; Times: 1
+	Query: "class:aves recordedby:anthony year >= 1880 year <= 1895" ; Times: 1
+	Query: "Pterocles orientalis India skin" ; Times: 5
+	Query: "catalognumber:45671 institutioncode:ROM" ; Times: 2
+	Query: "year >= 1755 year <= 1800" ; Times: 4
+	Query: "Haliaeetus leucocephalus (skel OR skeleton)" ; Times: 1
+	Query: "nmr" ; Times: 1
+	Query: "egg sets" ; Times: 1
+	Query: "Guanoco country:"Venezuela"" ; Times: 1
+	Query: "ROM 93459" ; Times: 1
+	Query: "34677" ; Times: 1
+	Query: "Accipiter soloensis" ; Times: 2
+	Query: "ROM 93542" ; Times: 1
+	Query: "mvz gymnogyps california" ; Times: 1
+	Query: "distance(location,geopoint(7.28709824406969,-74.1522216796875))<75662" ; Times: 1
+	Query: "Rynchops niger" ; Times: 3
+	Query: "Struthio camelus" ; Times: 1
+	Query: "Rhynchotus rufescens" ; Times: 1
+	Query: "falco femoralis country:"Mexico"" ; Times: 1
+	Query: "Pterodroma neglecta" ; Times: 1
+	Query: "ROM Region 8" ; Times: 1
+	Query: "trogon rufus" ; Times: 1
+	Query: "distance(location,geopoint(7.28709824406969,-74.1522216796875))<33203" ; Times: 1
+	Query: "institutioncode:ROM (larva)" ; Times: 2
+	Query: "anhinga (skel OR skeleton)" ; Times: 2
+	Query: "Pterocles orientalis skin" ; Times: 1
+	Query: "Mesitornithidae type:specimen" ; Times: 1
+	Query: "gallus sonneratii" ; Times: 5
+	Query: "catalognumber:45660 institutioncode:ROM" ; Times: 1
+	Query: "melanistic" ; Times: 1
+	Query: "distance(location,geopoint(7.28709824406969,-74.1522216796875))<52644" ; Times: 3
+	Query: "Capitonidae (skel OR skeleton)" ; Times: 1
+	Query: ""Notre Dame"" ; Times: 1
+	Query: "falco sparverius type:specimen year >= 1970 year <= 1980" ; Times: 1
+	Query: "talegalla fuscirostris" ; Times: 2
+	Query: "falco sparverius type:specimen stateprovince:"Oregon" AND (NOT eggs) year >= 1900 year <= 1920" ; Times: 1
+	Query: "talegalla jobiensis" ; Times: 1
+	Query: "Coturnix novaezelandiae" ; Times: 1
+	Query: "Paradisaea (skel OR skeleton)" ; Times: 2
+	Query: "catalognumber:100917" ; Times: 2
+	Query: ""eclectus"" ; Times: 1
+	Query: "Amazilia rutila rutila" ; Times: 1
+	Query: "selasphorus sasin" ; Times: 1
+	Query: "perdicula argoondah" ; Times: 1
+	Query: "Picoides scalaris type:specimen country:"Belize"" ; Times: 3
+	Query: "27999" ; Times: 1
+	Query: "falco sparverius type:specimen year >= 1950 year <= 1960" ; Times: 1
+	Query: "country:"India" year >= 1825 year <= 1833" ; Times: 1
+	Query: "Athene brama" ; Times: 1
+	Query: "Glareolidae (skel OR skeleton)" ; Times: 1
+	Query: "horned owl" ; Times: 1
+	Query: "Accipiter trivirgatus" ; Times: 1
+	Query: "country:"angola"" ; Times: 1
+	Query: "sedgwick" ; Times: 1
+	Query: "yucatanensis" ; Times: 2
+	Query: "ummz little" ; Times: 2
+	Query: "Dromaius" ; Times: 1
+	Query: "27167" ; Times: 1
+	Query: "year <= 1830" ; Times: 1
+	Query: "pulsatrix" ; Times: 1
+	Query: "5907" ; Times: 1
+	Query: "country:"cuba" class:aves year >= 1910 year <= 1914" ; Times: 1
+	Query: "3601" ; Times: 1
+	Query: ""colinus virginianus" type:specimen (Cuba OR Bahamas OR Haiti OR "Dominican Republic")" ; Times: 1
+	Query: "bonasa umbellus type:specimen" ; Times: 3
+	Query: "Apteryx haastii" ; Times: 1
+	Query: "lophophorus impejanus" ; Times: 2
+	Query: "beck year >= 1900 year <= 1900" ; Times: 1
+	Query: "francolinus gularis" ; Times: 2
+	Query: "falco sparverius type:specimen stateprovince:"California" (bird specimen) AND (NOT egg) year >= 1900 year <= 1920" ; Times: 1
+	Query: "stateprovince:"oregon" class:Aves year >= 1895 year <= 1898" ; Times: 1
+	Query: "Trogon (skel OR skeleton)" ; Times: 1
+	Query: "Butastur indicus" ; Times: 5
+	Query: "Glaucidium palmarum type:specimen AND (NOT eggs)" ; Times: 1
+	Query: "middleboro" ; Times: 1
+	Query: "31955" ; Times: 1
+	Query: "White-throated Sparrow" ; Times: 1
+	Query: ""colinus virginianus" type:specimen (Cuba OR "Puerto Rico")" ; Times: 1
+	Query: "beck year >= 1901 year <= 1901" ; Times: 1
+	Query: "Psittacidae pertinax" ; Times: 3
+	Query: "Himantornis haematopus" ; Times: 1
+	Query: "ROM 95076" ; Times: 2
+	Query: "aves cambodia" ; Times: 3
+	Query: "Rynchops" ; Times: 1
+	Query: "Pionus seniloides type:specimen" ; Times: 1
+	Query: "genus:Herpetotheres" ; Times: 4
+	Query: "Caprimulgus longirostris" ; Times: 1
+	Query: "pterocles senegallus" ; Times: 1
+	Query: "stateprovince:"Kansas" specificepithet:griseus genus:Limnodromus" ; Times: 1
+	Query: "year:1819" ; Times: 1
+	Query: "falco sparverius year >= 1900 year <= 1910" ; Times: 1
+	Query: "148251" ; Times: 1
+	Query: "Cracidae" ; Times: 2
+	Query: ""colinus virginianus" type:specimen (Cuba OR Bahamas OR "Dominican Republic")" ; Times: 1
+	Query: "Phaethornis pretrei" ; Times: 1
+	Query: "Cypseloides cryptus" ; Times: 6
+	Query: "Pterocles alchata skin" ; Times: 1
+	Query: "pavo muticus" ; Times: 2
+	Query: "pterocles orientalis" ; Times: 1
+	Query: "falco sparverius type:specimen year >= 1910 year <= 1920" ; Times: 1
+	Query: "country:"panama" class:aves recordedby:watson" ; Times: 1
+	Query: "ROM 83804" ; Times: 3
+	Query: "10270" ; Times: 1
+	Query: "frogs" ; Times: 1
+	Query: "falco sparverius type:specimen year >= 1880 year <= 1900" ; Times: 1
+	Query: "Starnoenas" ; Times: 1
+	Query: "Crypturellus soui" ; Times: 3
+	Query: "Vanellus chilensis" ; Times: 4
+	Query: "catalognumber:104113" ; Times: 1
+	Query: "Apteryx mantelli" ; Times: 1
+	Query: "distance(location,geopoint(7.28709824406969,-74.1522216796875))<100000" ; Times: 1
+	Query: "catalognumber:86917" ; Times: 1
+	Query: "Pelecanus occidentalis type:specimen stateprovince:"California"" ; Times: 1
+	Query: "amazona" ; Times: 3
+	Query: "waigeo" ; Times: 2
+	Query: "year <= 1850" ; Times: 1
+	Query: "specificepithet:xantholora genus:amazona year >= 1885" ; Times: 1
+	Query: "83487" ; Times: 1
+	Query: "Lybius (skel OR skeleton)" ; Times: 1
+	Query: "capito (skel OR skeleton)" ; Times: 1
+	Query: "Anas clypeata africa" ; Times: 1
+	Query: "Colaptes campestris" ; Times: 1
+	Query: "Strigops" ; Times: 1
+	Query: "otis tarda" ; Times: 1
+	Query: "Sterna forsteri stateprovince:"California"" ; Times: 1
+	Query: "country:"ecuador" class:aves year <= 1900" ; Times: 1
+	Query: "year >= 1755 year <= 1819" ; Times: 3
+	Query: "ethiopia" ; Times: 1
+	Query: "falco sparverius (oregon)" ; Times: 1
+	Query: "Bismarck class:Aves" ; Times: 2
+	Query: "Heliomaster furcifer" ; Times: 6
+	Query: "genus:capito" ; Times: 1
+	Query: "ROM 83818" ; Times: 2
+	Query: "year >= 1755 year <= 1810" ; Times: 1
+	Query: "year:1821" ; Times: 1
+	Query: "amazilia decora" ; Times: 4
+	Query: "Pterocles senegallus skin" ; Times: 1
+	Query: "falco sparverius year >= 1880 year <= 1900" ; Times: 2
+	Query: "ROM 83834" ; Times: 1
+	Query: "ROM 83833" ; Times: 1
+	Query: "Cypseloides" ; Times: 4
+	Query: "Melanotrochilus fuscus" ; Times: 57
+	Query: "year <= 1800" ; Times: 1
+	Query: "aves 43037" ; Times: 2
+	Query: "Casuarius casuarius" ; Times: 1
+	Query: "year >= 1755 year <= 1802" ; Times: 1
+	Query: "Coccyzus minor type:specimen" ; Times: 4
+	Query: "Somateria mollissima type:specimen genus:Somateria year >= 1800 year <= 2015" ; Times: 2
+	Query: "mzfc" ; Times: 1
+	Query: ""colinus virginianus" type:specimen (Cuba OR Bahamas)" ; Times: 1
+	Query: "genus:Vultur" ; Times: 1
+	Query: "cryptoxanthus type:specimen class:Aves" ; Times: 1
+	Query: "falco sparverius type:specimen year >= 1940 year <= 1950" ; Times: 1
+	Query: "batrachostomus moniliger" ; Times: 1
+	Query: "483" ; Times: 1
+	Query: "skin specificepithet:nigrolineata genus:ciccaba" ; Times: 1
+	Query: "aves 37784" ; Times: 2
+	Query: "balaeniceps" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "91707" ; Times: 1
+	Query: "Barnardius" ; Times: 1
+	Query: "haliaeetus leucogaster" ; Times: 3
+	Query: "Mentocrex kioloides" ; Times: 2
+	Query: "melanotrochilus fuscus" ; Times: 5
+	Query: "Ectopistes migratorius type:specimen" ; Times: 1
+	Query: "Apteryx owenii" ; Times: 1
+	Query: "Rhea americana" ; Times: 1
+	Query: "ROM 95045" ; Times: 2
+	Query: "year:1833" ; Times: 2
+	Query: "todus (skel OR skeleton)" ; Times: 1
+	Query: "year:1836" ; Times: 1
+	Query: "aviceda leuphotes" ; Times: 2
+	Query: "year:1838" ; Times: 1
+	Query: "year:1839" ; Times: 1
+	Query: "Musophagidae (skel OR skeleton)" ; Times: 2
+	Query: "133329" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico" class:Aves (Trinidad)" ; Times: 2
+	Query: "leucomelas" ; Times: 1
+	Query: "diptera" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 91 (out of 1138 download events in this period)
+Total number of records downloaded: 4229 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2935
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: France ; Times: 14
+	Country: India ; Times: 2
+	Country: Israel ; Times: 2
+	Country: Jamaica ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Philippines ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 38
+	Country: Unknown ; Times: 8
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 1
+	Date: 2015-08-02 ; Times: 1
+	Date: 2015-08-03 ; Times: 1
+	Date: 2015-08-04 ; Times: 4
+	Date: 2015-08-05 ; Times: 12
+	Date: 2015-08-07 ; Times: 3
+	Date: 2015-08-10 ; Times: 1
+	Date: 2015-08-11 ; Times: 1
+	Date: 2015-08-13 ; Times: 3
+	Date: 2015-08-14 ; Times: 2
+	Date: 2015-08-15 ; Times: 1
+	Date: 2015-08-16 ; Times: 3
+	Date: 2015-08-17 ; Times: 6
+	Date: 2015-08-19 ; Times: 4
+	Date: 2015-08-20 ; Times: 2
+	Date: 2015-08-21 ; Times: 6
+	Date: 2015-08-23 ; Times: 1
+	Date: 2015-08-24 ; Times: 3
+	Date: 2015-08-25 ; Times: 4
+	Date: 2015-08-26 ; Times: 7
+	Date: 2015-08-27 ; Times: 7
+	Date: 2015-08-28 ; Times: 3
+	Date: 2015-08-29 ; Times: 10
+	Date: 2015-08-30 ; Times: 1
+	Date: 2015-08-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Podilymbus podiceps type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Oxyura jamaicensis type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Kangaroo mouse" ; Times: 2
+	Query: "Starnoenas" ; Times: 1
+	Query: ""colinus virginianus" type:specimen (Cuba OR Bahamas OR Haiti OR "Dominican Republic")" ; Times: 1
+	Query: "Butastur indicus" ; Times: 1
+	Query: ""eclectus"" ; Times: 2
+	Query: "Accipiter gentilis country:"Russia" mappable:1" ; Times: 2
+	Query: "coturnicops noveboracensis" ; Times: 1
+	Query: "county:"clackamas" stateprovince:"oregon" class:Aves year >= 1895 year <= 1898" ; Times: 3
+	Query: "country:"panama"" ; Times: 1
+	Query: "Crypturellus soui" ; Times: 1
+	Query: "amazona" ; Times: 1
+	Query: "Pelecanus occidentalis type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Athene brama" ; Times: 2
+	Query: "Cracidae" ; Times: 1
+	Query: "falco sparverius type:specimen stateprovince:"California" AND (NOT egg Not nest) year >= 1920 year <= 1940" ; Times: 1
+	Query: "falco sparverius type:specimen stateprovince:"California" (bird specimen) AND (NOT egg) year >= 1880 year <= 1900" ; Times: 2
+	Query: "riverside county" ; Times: 1
+	Query: "Colaptes auratus type:specimen stateprovince:"California"" ; Times: 1
+	Query: "mus" ; Times: 1
+	Query: "country:"bolivia"" ; Times: 1
+	Query: "brown stateprovince:"Baja" year >= 1905 year <= 1912" ; Times: 1
+	Query: "stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "year >= 1755 year <= 1819" ; Times: 3
+	Query: "Piaya cayana" ; Times: 1
+	Query: "Heliomaster furcifer" ; Times: 4
+	Query: "Apteryx mantelli" ; Times: 1
+	Query: "county:"Riverside County"" ; Times: 1
+	Query: "year >= 1755 year <= 1820" ; Times: 2
+	Query: "Branta canadensis type:specimen stateprovince:"California"" ; Times: 1
+	Query: "venezuela" ; Times: 2
+	Query: "Aegothelidae" ; Times: 1
+	Query: "Picoides nuttallii type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Anas cyanoptera type:specimen stateprovince:"California"" ; Times: 1
+	Query: "year:1859" ; Times: 6
+	Query: "distance(location,geopoint(32.379961464357315,-119.94873046875))<100000" ; Times: 1
+	Query: "Plegadis chihi type:specimen stateprovince:"California"" ; Times: 1
+	Query: "falco sparverius type:specimen stateprovince:"California" (bird specimen) AND (NOT egg) year >= 1900 year <= 1920" ; Times: 1
+	Query: "Accipiter soloensis" ; Times: 1
+	Query: "country:Brazil" ; Times: 2
+	Query: "Coccyzus minor type:specimen" ; Times: 1
+	Query: "class:aves (feather)" ; Times: 1
+	Query: "Struthio camelus" ; Times: 1
+	Query: "Ectopistes migratorius type:specimen" ; Times: 1
+	Query: "country:"peru"" ; Times: 1
+	Query: "Pterodroma neglecta" ; Times: 1
+	Query: "genus:Strigops" ; Times: 1
+	Query: "tabasco" ; Times: 2
+	Query: "falco sparverius type:specimen stateprovince:"California" AND (NOT eggs) year >= 1920 year <= 1940" ; Times: 1
+	Query: "gymnogyps type:specimen" ; Times: 1
+	Query: "Zenaida macroura type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Ardea herodias type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Tragopan type:specimen" ; Times: 1
+	Query: "Phalacrocorax auritus type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Apteryx owenii" ; Times: 1
+	Query: "rallus limicola" ; Times: 1
+	Query: "year >= 1755 year <= 1821" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "year:1833" ; Times: 1
+	Query: "Apteryx australis" ; Times: 1
+	Query: "year:1862" ; Times: 2
+	Query: "Nycticorax nycticorax type:specimen stateprovince:"California"" ; Times: 1
+	Query: "year >= 1755 year <= 1826" ; Times: 1
+	Query: "distance(location,geopoint(-3.5426625084420342,-59.47265803813934))<1104168" ; Times: 1
+	Query: "Egretta thula type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Rhea americana" ; Times: 1
+	Query: "year:1858" ; Times: 1
+	Query: "sora" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 502
+Total number of records retrieved from searches: 3073
+Number of download events that retrieved data from the resource: 91
+Total number of records downloaded: 4229
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 502
+Total number of records retrieved from searches: 3073
+Number of download events that retrieved data from the resource: 91
+Total number of records downloaded: 4229
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
