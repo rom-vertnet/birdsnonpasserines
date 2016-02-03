@@ -1,0 +1,358 @@
+Report for Institution Code ROM, Resource birdsnonpass
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 326
+Number of records retrieved in searches: 2863
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 15
+	Country: Brazil ; Times: 19
+	Country: Italy ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 6
+	Country: Australia ; Times: 7
+	Country: Germany ; Times: 5
+	Country: Thailand ; Times: 2
+	Country: Philippines ; Times: 4
+	Country: Poland ; Times: 2
+	Country: Turkey ; Times: 1
+	Country: United States ; Times: 213
+	Country: Sweden ; Times: 4
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Bulgaria ; Times: 2
+	Country: Mexico ; Times: 13
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 4
+	Country: United Kingdom ; Times: 14
+	Country: Colombia ; Times: 5
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-10 ; Times: 8
+	Date: 2015-09-11 ; Times: 8
+	Date: 2015-09-12 ; Times: 4
+	Date: 2015-09-13 ; Times: 2
+	Date: 2015-09-14 ; Times: 18
+	Date: 2015-09-15 ; Times: 3
+	Date: 2015-09-16 ; Times: 3
+	Date: 2015-09-17 ; Times: 22
+	Date: 2015-09-18 ; Times: 4
+	Date: 2015-09-29 ; Times: 28
+	Date: 2015-09-08 ; Times: 8
+	Date: 2015-09-30 ; Times: 34
+	Date: 2015-09-02 ; Times: 8
+	Date: 2015-09-19 ; Times: 2
+	Date: 2015-09-07 ; Times: 9
+	Date: 2015-09-06 ; Times: 33
+	Date: 2015-09-05 ; Times: 5
+	Date: 2015-09-04 ; Times: 2
+	Date: 2015-09-03 ; Times: 22
+	Date: 2015-09-28 ; Times: 9
+	Date: 2015-09-01 ; Times: 24
+	Date: 2015-09-25 ; Times: 7
+	Date: 2015-09-23 ; Times: 8
+	Date: 2015-09-27 ; Times: 4
+	Date: 2015-09-26 ; Times: 18
+	Date: 2015-09-21 ; Times: 9
+	Date: 2015-09-20 ; Times: 12
+	Date: 2015-09-09 ; Times: 3
+	Date: 2015-09-22 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(27.4802369569,-111.949505705))&lt;15000" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "distance(location,geopoint(23.1802369569,-109.449505705))&lt;15000" ; Times: 1
+	Query: "Selasphorus ardens" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "rissa tridactyla" ; Times: 1
+	Query: "perdicula erythrorhyncha" ; Times: 2
+	Query: "topaza pella" ; Times: 1
+	Query: "merlin" ; Times: 1
+	Query: "A. H. Wood" ; Times: 2
+	Query: "distance(location,geopoint(22.9802369569,-109.649505705))&lt;10000" ; Times: 1
+	Query: "microstilbon type:specimen" ; Times: 1
+	Query: "catalognumber:84697" ; Times: 1
+	Query: "family:Tinamidae (egg)" ; Times: 1
+	Query: "type:specimen stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "ROM 106231" ; Times: 1
+	Query: "type:specimen recordedby:Beaupre institutioncode:ROM" ; Times: 1
+	Query: "Malacoptila fusca" ; Times: 1
+	Query: "distance(location,geopoint(21.5802369569,-106.449505705))&lt;15000" ; Times: 1
+	Query: "Lophura diardi" ; Times: 1
+	Query: "chaetocercus type:specimen" ; Times: 1
+	Query: "sagittarius" ; Times: 1
+	Query: "Clamator (skel OR skeleton)" ; Times: 1
+	Query: "country:&#34;Turkey&#34;" ; Times: 2
+	Query: "Gallus sonneratii" ; Times: 2
+	Query: "distance(location,geopoint(21.4802369569,-106.349505705))&lt;15000" ; Times: 1
+	Query: "Gowland country:&#34;India&#34; year &gt;= 1700 year &lt;= 1940" ; Times: 1
+	Query: "Harpactes oreskios" ; Times: 1
+	Query: "country:&#34;sierra leone&#34; year &gt;= 1902 year &lt;= 1905" ; Times: 1
+	Query: "meiglyptes tukki" ; Times: 1
+	Query: "uria aalge type:specimen institutioncode:ROM (wing)" ; Times: 1
+	Query: "thibault" ; Times: 1
+	Query: "gigantea" ; Times: 1
+	Query: "genus:Strigops" ; Times: 1
+	Query: "columba livia" ; Times: 1
+	Query: "27176" ; Times: 1
+	Query: "Aulacorhynchus (skel OR skeleton)" ; Times: 1
+	Query: "distance(location,geopoint(28.8802369569,-112.849505705))&lt;10000" ; Times: 1
+	Query: "myrtis fanny" ; Times: 1
+	Query: "ummz calidris" ; Times: 1
+	Query: "HERONS" ; Times: 1
+	Query: "MVZ 12706" ; Times: 1
+	Query: "distance(location,geopoint(22.7802369569,-109.749505705))&lt;15000" ; Times: 1
+	Query: "uria lomvia type:specimen institutioncode:ROM (skin)" ; Times: 3
+	Query: "galloperdix spadicea" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "strix nebulosa" ; Times: 5
+	Query: "distance(location,geopoint(21.2802369569,-106.449505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.3802369569,-111.649505705))&lt;15000" ; Times: 1
+	Query: "ummz birds" ; Times: 1
+	Query: "corythaeola skin" ; Times: 1
+	Query: "Phaethornis longirostris" ; Times: 1
+	Query: "weaver nest" ; Times: 1
+	Query: "temnurus temnurus" ; Times: 8
+	Query: "distance(location,geopoint(23.0802369569,-109.549505705))&lt;15000" ; Times: 1
+	Query: "class:aves country:&#34;russia&#34; year &gt;= 1903 year &lt;= 1903" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 8
+	Query: "Colibri coruscans" ; Times: 6
+	Query: "Pterocles orientalis India skin" ; Times: 3
+	Query: "type:specimen stateprovince:&#34;New Brunswick&#34; collectioncode:Birds institutioncode:ROM mappable:1" ; Times: 2
+	Query: "eclectus" ; Times: 1
+	Query: "Aratinga Isla Socorro" ; Times: 1
+	Query: "vultur gryphus" ; Times: 2
+	Query: "distance(location,geopoint(24.8802369569,-110.549505705))&lt;10000" ; Times: 1
+	Query: "Barnardius barnardi" ; Times: 1
+	Query: "geococcyx (skel OR skeleton)" ; Times: 1
+	Query: "distance(location,geopoint(21.4802369569,-106.549505705))&lt;15000" ; Times: 1
+	Query: "rhopodytes viridirostris" ; Times: 2
+	Query: "rissa tridactyla type:specimen institutioncode:ROM (skin)" ; Times: 1
+	Query: "witch" ; Times: 4
+	Query: "oreotrochilus chimborazo" ; Times: 1
+	Query: "Leptosomus" ; Times: 1
+	Query: "distance(location,geopoint(27.4802369569,-111.849505705))&lt;15000" ; Times: 1
+	Query: "Ohio aves" ; Times: 1
+	Query: "Rostratulidae" ; Times: 1
+	Query: "Bulgaria" ; Times: 2
+	Query: "Rawlins" ; Times: 1
+	Query: "Angola" ; Times: 1
+	Query: "A. H. Wood class:Aves" ; Times: 1
+	Query: "Calyptorhynchus baudinii" ; Times: 2
+	Query: "distance(location,geopoint(28.8802369569,-112.949505705))&lt;10000" ; Times: 1
+	Query: "perdix (skel OR skeleton)" ; Times: 1
+	Query: "birds chihuahua" ; Times: 1
+	Query: "rissa tridactyla (skin)" ; Times: 2
+	Query: "gallus sonneratii" ; Times: 34
+	Query: "buceros bicornis" ; Times: 1
+	Query: "ardeola idae" ; Times: 1
+	Query: "coturnicops" ; Times: 2
+	Query: "rissa brevirostris type:specimen (skin)" ; Times: 2
+	Query: "black rail" ; Times: 4
+	Query: "distance(location,geopoint(27.3802369569,-112.049505705))&lt;15000" ; Times: 1
+	Query: "colibri (skel OR skeleton)" ; Times: 1
+	Query: "Electron platyrhynchum type:specimen ( Juvenile)" ; Times: 1
+	Query: "colibri" ; Times: 2
+	Query: "distance(location,geopoint(22.7802369569,-109.649505705))&lt;15000" ; Times: 1
+	Query: "Selasphorus scintilla" ; Times: 1
+	Query: "thailand birds" ; Times: 1
+	Query: "distance(location,geopoint(27.3802369569,-111.849505705))&lt;15000" ; Times: 1
+	Query: "Nonnula type:specimen" ; Times: 1
+	Query: "distance(location,geopoint(21.3802369569,-105.349505705))&lt;15000" ; Times: 1
+	Query: "Colinus nigrogularis type:specimen" ; Times: 1
+	Query: "distance(location,geopoint(22.9802369569,-109.549505705))&lt;15000" ; Times: 1
+	Query: "uria lomvia type:specimen (skin)" ; Times: 2
+	Query: "distance(location,geopoint(24.7802369569,-110.649505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.7802369569,-110.549505705))&lt;15000" ; Times: 1
+	Query: "Eudyptes chrysolophus" ; Times: 2
+	Query: "lizards" ; Times: 1
+	Query: "megalaima skeleton" ; Times: 1
+	Query: "distance(location,geopoint(21.5802369569,-106.349505705))&lt;15000" ; Times: 1
+	Query: "lake of bays" ; Times: 1
+	Query: "Gampsonyx (skel OR skeleton)" ; Times: 1
+	Query: "distance(location,geopoint(27.4802369569,-112.049505705))&lt;15000" ; Times: 1
+	Query: "Neophron" ; Times: 1
+	Query: "distance(location,geopoint(24.6802369569,-110.549505705))&lt;15000" ; Times: 1
+	Query: "ROM 86530" ; Times: 1
+	Query: "Megapodius laperouse senex" ; Times: 1
+	Query: "carex" ; Times: 2
+	Query: "vultur" ; Times: 11
+	Query: "lorius (skel OR skeleton)" ; Times: 1
+	Query: "Otus watsonii" ; Times: 1
+	Query: "cricket" ; Times: 1
+	Query: "type:specimen stateprovince:&#34;Prince edward island&#34; collectioncode:Birds institutioncode:ROM mappable:1" ; Times: 2
+	Query: "institutioncode:ROM" ; Times: 2
+	Query: "distance(location,geopoint(24.7802369569,-110.449505705))&lt;10000" ; Times: 1
+	Query: "Butastur" ; Times: 1
+	Query: "pavo cristatus" ; Times: 2
+	Query: "white footed mouse" ; Times: 2
+	Query: "Puffinus auricularis" ; Times: 1
+	Query: "distance(location,geopoint(27.4802369569,-111.749505705))&lt;15000" ; Times: 1
+	Query: "Numenius borealis" ; Times: 1
+	Query: "Melanerpes striatus" ; Times: 2
+	Query: "trachyphonus margaritatus" ; Times: 2
+	Query: "mzfc" ; Times: 3
+	Query: "melanotrochilus fuscus" ; Times: 7
+	Query: "batrachostomus moniliger" ; Times: 2
+	Query: "plants" ; Times: 1
+	Query: "Leptosomus discolor" ; Times: 4
+	Query: "wild rice" ; Times: 1
+	Query: "Thinocorus (skel OR skeleton)" ; Times: 1
+	Query: "Platalea (skel OR skeleton)" ; Times: 1
+	Query: "Pharomachrus" ; Times: 2
+	Query: "90670" ; Times: 1
+	Query: "country:&#34;sierra leone&#34; class:aves year &gt;= 1902 year &lt;= 1905" ; Times: 1
+	Query: "distance(location,geopoint(28.8802369569,-113.049505705))&lt;10000" ; Times: 1
+	Query: "anthracothorax" ; Times: 1
+	Query: "Monasa type:specimen" ; Times: 1
+	Query: "country:&#34;sierra leone&#34; year &lt;= 1945" ; Times: 1
+	Query: "ichthyophaga ichthyaetus" ; Times: 2
+	Query: "pavo muticus" ; Times: 1
+	Query: "Pinguinus impennis type:specimen" ; Times: 2
+	Query: "A. H. Wood class:Aves year &gt;= 1920 year &lt;= 1930" ; Times: 1
+	Query: "Crax" ; Times: 1
+	Query: "Butastur indicus" ; Times: 3
+	Query: "gryphus" ; Times: 2
+	Query: "Gowland" ; Times: 1
+	Query: "Gelochelidon nilotica" ; Times: 1
+	Query: "Colinus cristatus type:specimen" ; Times: 1
+	Query: "rissa tridactyla type:specimen institutioncode:ROM (wing)" ; Times: 1
+	Query: "type:specimen genus:Macrocephalon" ; Times: 1
+	Query: "lophophorus impejanus" ; Times: 2
+	Query: "Manis gigantea" ; Times: 1
+	Query: "distance(location,geopoint(27.3802369569,-112.149505705))&lt;15000" ; Times: 1
+	Query: "batrachostomus stellatus" ; Times: 1
+	Query: "type:specimen stateprovince:&#34;Scotland&#34; institutioncode:ROM" ; Times: 1
+	Query: "birds umnh" ; Times: 1
+	Query: "Chlidonias (skel OR skeleton)" ; Times: 1
+	Query: "Manis temminckii" ; Times: 3
+	Query: "Puffinus auricularis auricularis" ; Times: 1
+	Query: "PSM Dryocopus pileatus" ; Times: 1
+	Query: "uria aalge type:specimen institutioncode:ROM (skin)" ; Times: 2
+	Query: "rhodopis vesper" ; Times: 1
+	Query: "Coturnix japonica" ; Times: 1
+	Query: "catalognumber:93596 institutioncode:ROM" ; Times: 1
+	Query: "amnh colombia" ; Times: 3
+	Query: "21878" ; Times: 2
+	Query: "distance(location,geopoint(27.3802369569,-111.949505705))&lt;15000" ; Times: 1
+	Query: "aglaiocercus coelestis" ; Times: 1
+	Query: "microstilbon" ; Times: 2
+	Query: "colibri coruscans" ; Times: 1
+	Query: "type:specimen stateprovince:&#34;Prince edward island&#34; institutioncode:ROM mappable:1" ; Times: 1
+	Query: "Rhodopis vesper" ; Times: 1
+	Query: "distance(location,geopoint(24.7802369569,-110.449505705))&lt;15000" ; Times: 1
+	Query: "type:specimen genus:Larus stateprovince:&#34;Nunavut&#34; country:&#34;Canada&#34; institutioncode:ROM" ; Times: 1
+	Query: "PSM Aegolius acadicus" ; Times: 1
+	Query: "Gowland year &gt;= 1700 year &lt;= 1940" ; Times: 1
+	Query: "institutioncode:rom" ; Times: 1
+	Query: "Anthracothorax prevostii" ; Times: 3
+	Query: "distance(location,geopoint(21.6802369569,-106.449505705))&lt;15000" ; Times: 1
+	Query: "Momotus momota" ; Times: 2
+	Query: "distance(location,geopoint(28.7802369569,-111.949505705))&lt;10000" ; Times: 1
+	Query: "gallus gallus" ; Times: 2
+	Query: "Galbula albirostris" ; Times: 1
+	Query: "picoides leucotos" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(47.279229002570816,15.205078125))&lt;100000" ; Times: 1
+	Query: "17255" ; Times: 1
+	Query: "megalaima henricii skin" ; Times: 1
+	Query: "Aves Isla Socorro" ; Times: 1
+	Query: "distance(location,geopoint(24.7802369569,-110.549505705))&lt;10000" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 57 (out of 1045 download events in this period)
+Total number of records downloaded: 25976
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Australia ; Times: 6
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: France ; Times: 4
+	Country: United States ; Times: 24
+	Country: Colombia ; Times: 4
+	Country: Thailand ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Hong Kong ; Times: 3
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-24 ; Times: 1
+	Date: 2015-09-09 ; Times: 2
+	Date: 2015-09-01 ; Times: 6
+	Date: 2015-09-19 ; Times: 5
+	Date: 2015-09-10 ; Times: 4
+	Date: 2015-09-25 ; Times: 3
+	Date: 2015-09-05 ; Times: 1
+	Date: 2015-09-29 ; Times: 2
+	Date: 2015-09-02 ; Times: 4
+	Date: 2015-09-16 ; Times: 6
+	Date: 2015-09-17 ; Times: 4
+	Date: 2015-09-18 ; Times: 1
+	Date: 2015-09-14 ; Times: 2
+	Date: 2015-09-08 ; Times: 1
+	Date: 2015-09-22 ; Times: 7
+	Date: 2015-09-20 ; Times: 3
+	Date: 2015-09-30 ; Times: 3
+	Date: 2015-09-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 1
+	Query: "country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "grammicus" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "topaza pella" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "gunnisoni" ; Times: 1
+	Query: "phalacrocoracidae" ; Times: 1
+	Query: "type:specimen genus:Macrocephalon" ; Times: 1
+	Query: "Manis gigantea" ; Times: 1
+	Query: "distance(location,geopoint(-7.986704103140561,142.18505859375))&lt;100000" ; Times: 1
+	Query: "aves venezuela" ; Times: 1
+	Query: "class:Aves mappable:1 distance(location,geopoint(18.812717856407776,-75.322265625))&lt;1032543" ; Times: 1
+	Query: "genus:Picoides" ; Times: 2
+	Query: "sinaloa" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Moresby" ; Times: 1
+	Query: "Colinus cristatus type:specimen" ; Times: 1
+	Query: "peru" ; Times: 1
+	Query: "family:Trogonidae mappable:1" ; Times: 1
+	Query: "Manis temminckii" ; Times: 1
+	Query: "New Guinea" ; Times: 2
+	Query: "Puffinus auricularis auricularis" ; Times: 1
+	Query: "Lophura diardi" ; Times: 1
+	Query: "Otus watsonii" ; Times: 1
+	Query: "class:aves distance(location,geopoint(-29.668962525992505,-50.64697265625))&lt;100000" ; Times: 1
+	Query: "type:specimen specificepithet:ruber genus:Sphyrapicus" ; Times: 1
+	Query: "(Peromyscus)" ; Times: 1
+	Query: "Psophia" ; Times: 1
+	Query: "Papua" ; Times: 1
+	Query: "aglaiocercus coelestis" ; Times: 1
+	Query: "country:&#34;Ecuador&#34; (Aves) mappable:1" ; Times: 1
+	Query: "oreotrochilus chimborazo" ; Times: 1
+	Query: "Harpactes oreskios" ; Times: 1
+	Query: "penguin" ; Times: 1
+	Query: "Gavia" ; Times: 1
+	Query: "Leptosomus discolor" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "Mississippi Aves" ; Times: 1
+	Query: "birds chihuahua" ; Times: 1
+	Query: "Galbula albirostris" ; Times: 1
+	Query: "Phasianus colchicus" ; Times: 3
+	Query: "myrtis fanny" ; Times: 1
+	Query: "year:1859" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "Bulgaria" ; Times: 1
+	Query: "class:aves year&gt;=1976 year&lt;=1986" ; Times: 2
+
+
+End of report.
