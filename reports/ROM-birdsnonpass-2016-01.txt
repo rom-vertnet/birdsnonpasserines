@@ -1,0 +1,260 @@
+Report for Institution Code ROM, Resource birdsnonpass
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 184
+Number of records retrieved in searches: 1130
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 18
+	Country: Brazil ; Times: 16
+	Country: Netherlands ; Times: 2
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 9
+	Country: India ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 101
+	Country: Sweden ; Times: 3
+	Country: Germany ; Times: 7
+	Country: United Kingdom ; Times: 5
+	Country: Colombia ; Times: 4
+	Country: Puerto Rico ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Thailand ; Times: 2
+	Country: Russia ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-27 ; Times: 7
+	Date: 2016-01-04 ; Times: 6
+	Date: 2016-01-05 ; Times: 3
+	Date: 2016-01-06 ; Times: 11
+	Date: 2016-01-07 ; Times: 11
+	Date: 2016-01-26 ; Times: 12
+	Date: 2016-01-01 ; Times: 9
+	Date: 2016-01-24 ; Times: 3
+	Date: 2016-01-25 ; Times: 10
+	Date: 2016-01-28 ; Times: 10
+	Date: 2016-01-29 ; Times: 7
+	Date: 2016-01-08 ; Times: 9
+	Date: 2016-01-09 ; Times: 5
+	Date: 2016-01-22 ; Times: 19
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-19 ; Times: 7
+	Date: 2016-01-21 ; Times: 4
+	Date: 2016-01-13 ; Times: 3
+	Date: 2016-01-12 ; Times: 7
+	Date: 2016-01-11 ; Times: 11
+	Date: 2016-01-10 ; Times: 1
+	Date: 2016-01-17 ; Times: 1
+	Date: 2016-01-16 ; Times: 3
+	Date: 2016-01-15 ; Times: 4
+	Date: 2016-01-14 ; Times: 4
+	Date: 2016-01-31 ; Times: 2
+	Date: 2016-01-30 ; Times: 4
+	Date: 2016-01-02 ; Times: 2
+	Date: 2016-01-03 ; Times: 1
+	Date: 2016-01-18 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "british columbia (&#34;strix occidentalis&#34;)" ; Times: 1
+	Query: "phalacrocorax carbo" ; Times: 1
+	Query: "rom 2604" ; Times: 1
+	Query: "Tadorna ferruginea" ; Times: 2
+	Query: "country:&#34;mauritius&#34; institutioncode:ROM" ; Times: 5
+	Query: "42565" ; Times: 1
+	Query: "type:specimen locality:oAHU county:&#34;Honolulu County&#34; stateprovince:&#34;hawaii&#34; institutioncode:ROM" ; Times: 1
+	Query: "genus:Ictinia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "ANAS PLATYRHYNCHOS diazi" ; Times: 2
+	Query: "aix sponsa" ; Times: 1
+	Query: "eggs minnesota bird" ; Times: 1
+	Query: "pharomachrus type:specimen" ; Times: 2
+	Query: "Tetrax tetrax" ; Times: 1
+	Query: "bhutan" ; Times: 1
+	Query: "class:aves country:&#34;venezuela&#34;" ; Times: 1
+	Query: "country:&#34;bhutan&#34;" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 2
+	Query: "Pterocles year &gt;= 1980 year &lt;= 2015 mappable:1" ; Times: 1
+	Query: "halcyon chelicuti" ; Times: 2
+	Query: "&#34;Coeligena iris&#34;" ; Times: 1
+	Query: "EHT" ; Times: 1
+	Query: "Pterocles alchata mappable:1" ; Times: 1
+	Query: "Adelomyia melanogenys" ; Times: 1
+	Query: "166 county:&#34;Jeff Davis&#34;" ; Times: 1
+	Query: "asio otus" ; Times: 1
+	Query: "ROM 263" ; Times: 1
+	Query: "Tadorna Tadorna" ; Times: 2
+	Query: "79-64" ; Times: 1
+	Query: "Amazona viridigenalis" ; Times: 1
+	Query: "impennis stateprovince:&#34;newfoundland&#34;" ; Times: 2
+	Query: "stateprovince:&#34;alaska&#34; recordedby:hurley" ; Times: 2
+	Query: "lynx recordedby:coventry" ; Times: 1
+	Query: "pseudibis" ; Times: 1
+	Query: "lophotibis cristata" ; Times: 1
+	Query: "Indicator archipelagicus" ; Times: 1
+	Query: "blue wing" ; Times: 1
+	Query: "ROM 43379" ; Times: 1
+	Query: "Spilornis Andaman" ; Times: 1
+	Query: "priotelus temnurus" ; Times: 1
+	Query: "snakes" ; Times: 1
+	Query: "British Columbia type:specimen (&#34;strix occidentalis&#34;)" ; Times: 2
+	Query: "lion" ; Times: 1
+	Query: "anas nesiotis" ; Times: 1
+	Query: "Aglaeactis cupripennis" ; Times: 1
+	Query: "type:specimen (tinamus)" ; Times: 1
+	Query: "Gavia immer year &gt;= 1905 year &lt;= 1905" ; Times: 1
+	Query: "Aves Andaman" ; Times: 1
+	Query: "Lacedo" ; Times: 2
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:willett year &gt;= 1922 year &lt;= 1922" ; Times: 1
+	Query: "Bolborhynchus" ; Times: 1
+	Query: "Falco naumanni" ; Times: 1
+	Query: "25690 institutioncode:ROM" ; Times: 1
+	Query: "arborophila mandelli" ; Times: 1
+	Query: "witch" ; Times: 8
+	Query: "Pterocles exustus" ; Times: 1
+	Query: "genus:sceloglaux" ; Times: 1
+	Query: "type:specimen order:psittaciformes (ambigua)" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:willett AND (NOT lacm NOT dmns NOT mvz NOT psm NOT ummz NOT WFVZ) year &gt;= 1920 year &lt;= 1920" ; Times: 1
+	Query: "mvz gymnogyps california" ; Times: 1
+	Query: "black rail" ; Times: 2
+	Query: "specificepithet:militaris genus:Ara" ; Times: 1
+	Query: "british columbia (&#34;Strix occidentalis&#34;)" ; Times: 2
+	Query: "county:&#34;Ashland&#34; stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "Picumnus minutissimus" ; Times: 8
+	Query: "struthio type:specimen" ; Times: 1
+	Query: "Oceanodroma leucorhoa Benito" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Oklahoma&#34; year &gt;= 1926 year &lt;= 1926" ; Times: 1
+	Query: "distance(location,geopoint(27.729036,-113.867516))&lt;15000" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; year &gt;= 1940 year &lt;= 1940 month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "trogon ambiguus type:specimen" ; Times: 2
+	Query: "anas aucklandica" ; Times: 1
+	Query: "&#34;Haplophaedia aureliae&#34;" ; Times: 1
+	Query: "lizards" ; Times: 1
+	Query: "county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34; institutioncode:ROM" ; Times: 1
+	Query: "ROM 23317" ; Times: 1
+	Query: "specificepithet:auritus genus:Podiceps" ; Times: 1
+	Query: "canadensis osgoodi" ; Times: 1
+	Query: "type:specimen genus:Aratinga (brevipes)" ; Times: 1
+	Query: "Boissonneaua matthewsii" ; Times: 1
+	Query: "Columbiformes &#34;costa rica&#34; mappable:1" ; Times: 1
+	Query: "Colombia (Egg)" ; Times: 1
+	Query: "Gallus gallus" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "bhutan birds" ; Times: 1
+	Query: "Oceanodroma Benito" ; Times: 1
+	Query: "genus:piculus" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;oklahoma&#34; year &gt;= 1902 year &lt;= 1902" ; Times: 1
+	Query: "tadorna ferruginea india" ; Times: 1
+	Query: "specificepithet:hirundinacea genus:Sterna" ; Times: 1
+	Query: "&#34;Coeligena coeligena&#34;" ; Times: 1
+	Query: "macropygia rufipennis" ; Times: 1
+	Query: "30635 institutioncode:ROM" ; Times: 1
+	Query: "Alberta Canada aves 2005-2015" ; Times: 1
+	Query: "threskiornis bernieri" ; Times: 1
+	Query: "Treron sieboldii" ; Times: 1
+	Query: "Spilornis Nicobar" ; Times: 1
+	Query: "specificepithet:minor genus:Coccyzus" ; Times: 1
+	Query: "specificepithet:leucocephalus genus:Haliaeetus year &gt;= 2000 year &lt;= 2015" ; Times: 1
+	Query: "mvz 11920" ; Times: 2
+	Query: "10020 rom" ; Times: 1
+	Query: "egg country:&#34;Colombia&#34;" ; Times: 2
+	Query: "Nonnula rubecula type:specimen" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; recordedby:willett year &gt;= 1922 year &lt;= 1922" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Oklahoma&#34; year &gt;= 1913 year &lt;= 1913" ; Times: 1
+	Query: "septentrionalis oklahoma" ; Times: 1
+	Query: "anas sparsa" ; Times: 1
+	Query: "rom 30249" ; Times: 3
+	Query: "type:specimen (crypturellus)" ; Times: 1
+	Query: "specificepithet:leucocephalus genus:Haliaeetus preparations:round OR skin year &gt;= 2000 year &lt;= 2015" ; Times: 1
+	Query: "geotrygon" ; Times: 1
+	Query: "Accipiter Arizona" ; Times: 2
+	Query: "mvz 4906" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;oklahoma&#34; year &gt;= 1913 year &lt;= 1913" ; Times: 1
+	Query: "nuts" ; Times: 1
+	Query: "Pterocles year &gt;= 1970 year &lt;= 2015 mappable:1" ; Times: 2
+	Query: "&#34;Mission Bay&#34;" ; Times: 1
+	Query: "Ectopistes migratorius minnesota eggs" ; Times: 1
+	Query: "rom 38002" ; Times: 1
+	Query: "rom 36823" ; Times: 1
+	Query: "6977" ; Times: 1
+	Query: "rom 2204" ; Times: 1
+	Query: "Perdicula asiatica" ; Times: 1
+	Query: "nothocercus type:specimen" ; Times: 1
+	Query: "anas chlorotis" ; Times: 2
+	Query: "&#34;tierra del fuego&#34;" ; Times: 3
+	Query: "recordedby:coventry" ; Times: 1
+	Query: "12113" ; Times: 1
+	Query: "MZFC" ; Times: 1
+	Query: "edwards stateprovince:&#34;baja california&#34; country:&#34;mexico&#34; year &gt;= 1916" ; Times: 1
+	Query: "Gypaetus" ; Times: 3
+	Query: "zenaida auriculata" ; Times: 3
+	Query: "class:aves stateprovince:&#34;oklahoma&#34; year &gt;= 1927 year &lt;= 1927" ; Times: 1
+	Query: "33490" ; Times: 1
+	Query: "egretta ardesiaca" ; Times: 2
+	Query: "Tympanuchus phasianellus campestris year &gt;= 1931 year &lt;= 1931" ; Times: 1
+	Query: "Crypturellus type:specimen (alcohol OR fluid OR alcoholic OR ethanol)" ; Times: 1
+	Query: "pagophila" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 507 download events in this period)
+Total number of records downloaded: 1553
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 21
+	Country: Thailand ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 4
+	Date: 2016-01-04 ; Times: 2
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-01 ; Times: 7
+	Date: 2016-01-02 ; Times: 2
+	Date: 2016-01-23 ; Times: 1
+	Date: 2016-01-28 ; Times: 4
+	Date: 2016-01-25 ; Times: 1
+	Date: 2016-01-29 ; Times: 2
+	Date: 2016-01-31 ; Times: 1
+	Date: 2016-01-03 ; Times: 1
+	Date: 2016-01-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Temnurus temnurus" ; Times: 1
+	Query: "ramphastos toco" ; Times: 2
+	Query: "&#34;Coeligena torquata&#34;" ; Times: 1
+	Query: "&#34;Santa Cruz Island&#34; class:Aves stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "&#34;aves&#34; and &#34;Michoacan&#34;" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "phalacrocorax atriceps" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "type:specimen (crypturellus)" ; Times: 1
+	Query: "charadrius nivosus" ; Times: 1
+	Query: "aechmophorus" ; Times: 1
+	Query: "&#34;Heliangelus viola&#34;" ; Times: 1
+	Query: "Lynx lynx" ; Times: 1
+	Query: "&#34;Haplophaedia aureliae&#34;" ; Times: 1
+	Query: "&#34;Phaethornis syrmatophorus&#34;" ; Times: 1
+	Query: "charadrius alexandrinus" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "&#34;Trogon personatus&#34;" ; Times: 1
+	Query: "&#34;Doryfera ludovicae&#34;" ; Times: 1
+	Query: "Crypturellus type:specimen (alcohol OR fluid OR alcoholic)" ; Times: 1
+	Query: "distance(location,geopoint(18.187606552494625,-66.58538818359375))&lt;78505" ; Times: 1
+	Query: "genus:haliaeetus year &gt;= 1996 year &lt;= 2015" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "Adelomyia melanogenys" ; Times: 1
+	Query: "&#34;Coeligena coeligena&#34;" ; Times: 1
+	Query: "distance(location,geopoint(32.66250035467835,-119.99542236328125))&lt;87926.45562583183" ; Times: 1
+	Query: "Treron sieboldii" ; Times: 1
+	Query: "Turnix" ; Times: 1
+
+
+End of report.
