@@ -1,0 +1,328 @@
+Report for Institution Code ROM, Resource birdsnonpass
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 326
+Number of records retrieved in searches: 1815
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 17
+	Country: Canada ; Times: 8
+	Country: Netherlands ; Times: 19
+	Country: Mexico ; Times: 60
+	Country: Unknown ; Times: 9
+	Country: Puerto Rico ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 172
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 30
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 10
+	Date: 2016-02-08 ; Times: 2
+	Date: 2016-02-18 ; Times: 18
+	Date: 2016-02-19 ; Times: 42
+	Date: 2016-02-12 ; Times: 6
+	Date: 2016-02-13 ; Times: 13
+	Date: 2016-02-10 ; Times: 6
+	Date: 2016-02-11 ; Times: 13
+	Date: 2016-02-16 ; Times: 18
+	Date: 2016-02-17 ; Times: 5
+	Date: 2016-02-14 ; Times: 5
+	Date: 2016-02-15 ; Times: 11
+	Date: 2016-02-29 ; Times: 10
+	Date: 2016-02-02 ; Times: 35
+	Date: 2016-02-09 ; Times: 3
+	Date: 2016-02-22 ; Times: 8
+	Date: 2016-02-21 ; Times: 4
+	Date: 2016-02-20 ; Times: 19
+	Date: 2016-02-27 ; Times: 2
+	Date: 2016-02-26 ; Times: 6
+	Date: 2016-02-25 ; Times: 9
+	Date: 2016-02-24 ; Times: 18
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-03 ; Times: 14
+	Date: 2016-02-28 ; Times: 3
+	Date: 2016-02-05 ; Times: 18
+	Date: 2016-02-04 ; Times: 4
+	Date: 2016-02-07 ; Times: 7
+	Date: 2016-02-06 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "jobiensis" ; Times: 1
+	Query: "anhima" ; Times: 1
+	Query: "stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; recordedby:coventry" ; Times: 1
+	Query: "ardeola speciosa" ; Times: 1
+	Query: "pterocles sind" ; Times: 1
+	Query: "rufopunctatus" ; Times: 1
+	Query: "Megadyptes" ; Times: 1
+	Query: "megalaima zeylanica" ; Times: 1
+	Query: "cursorius coromandelicus" ; Times: 1
+	Query: "pterocles senegallus India" ; Times: 1
+	Query: "pterocles senegallus" ; Times: 1
+	Query: "ducula basilica" ; Times: 2
+	Query: "class:Aves recordedby:Kleinschmidt year &gt;= 1910 year &lt;= 1910" ; Times: 1
+	Query: "accipiter collaris" ; Times: 1
+	Query: "cacomantis passerinus" ; Times: 4
+	Query: "laterallus jamaicensis" ; Times: 1
+	Query: "victoria point" ; Times: 1
+	Query: "Pionus menstruus" ; Times: 2
+	Query: "larus fuscus" ; Times: 1
+	Query: "catalognumber:67850" ; Times: 1
+	Query: "Aves North Reef osmaston" ; Times: 1
+	Query: "eurystomus orientalis" ; Times: 1
+	Query: "edward arnold" ; Times: 1
+	Query: "columba hodgsonii" ; Times: 1
+	Query: "metriopelia morenoi" ; Times: 3
+	Query: "specificepithet:asio genus:otus" ; Times: 8
+	Query: "Anas wyvilliana" ; Times: 1
+	Query: "treron pompadora" ; Times: 5
+	Query: "rynchops albicollis" ; Times: 2
+	Query: "dunham russia" ; Times: 1
+	Query: "Psittacula Nicobar" ; Times: 1
+	Query: "cuculus varius india" ; Times: 1
+	Query: "Anas gibberifrons" ; Times: 4
+	Query: "ROM 45256" ; Times: 2
+	Query: "Monasa atra" ; Times: 1
+	Query: "sterna dougalli" ; Times: 1
+	Query: "Rallicula" ; Times: 2
+	Query: "lophotibis cristata" ; Times: 2
+	Query: "Anas diazi" ; Times: 1
+	Query: "sieboldii" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 2000 year &lt;= 2015" ; Times: 1
+	Query: "ROM 42418" ; Times: 1
+	Query: "bucharest" ; Times: 1
+	Query: "anhimidae" ; Times: 1
+	Query: "Haematopus chathamensis" ; Times: 1
+	Query: "Falco mexicanus eggs" ; Times: 1
+	Query: "spider" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "Tympanuchus pallidicinctus" ; Times: 1
+	Query: "Euptilotis neoxenus" ; Times: 1
+	Query: "Phalacrocorax carunculatus" ; Times: 1
+	Query: "Haematopus leucopodus" ; Times: 1
+	Query: "ketupa type:specimen" ; Times: 1
+	Query: "72101" ; Times: 1
+	Query: "Poicephalus Uganda" ; Times: 3
+	Query: "treron phayrei" ; Times: 5
+	Query: "38377" ; Times: 1
+	Query: "aviceda leuphotes" ; Times: 3
+	Query: "recordedby:Scott year &gt;= 1874 year &lt;= 1875" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1871 year &lt;= 1880" ; Times: 1
+	Query: "Prairie dog" ; Times: 1
+	Query: "Campethera pallida" ; Times: 1
+	Query: "ardeola rufiventris" ; Times: 1
+	Query: "catalognumber:36151 institutioncode:ROM" ; Times: 1
+	Query: "ptilinopus victor" ; Times: 3
+	Query: "tapera naevia" ; Times: 1
+	Query: "&#34;colaptes auratus&#34; year &gt;= 2000 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "specificepithet:Melania genus:Oceanodroma mappable:1" ; Times: 1
+	Query: "Rallidae (Rallidae AND cuvieri)" ; Times: 1
+	Query: "Strigops" ; Times: 1
+	Query: "selasphorus (sasin OR sedentarius)" ; Times: 1
+	Query: "aviceda cuculoides" ; Times: 2
+	Query: "witch" ; Times: 5
+	Query: "gallicolumba platenae" ; Times: 5
+	Query: "Poicephalus Kenya" ; Times: 2
+	Query: "Rallidae (Rallidae AND tabuensis)" ; Times: 1
+	Query: "Phalacrocorax bougainvillii" ; Times: 1
+	Query: "ROM 13648" ; Times: 1
+	Query: "ruficapillus brazil" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1851 year &lt;= 1870" ; Times: 1
+	Query: "ROM 42631" ; Times: 1
+	Query: "Claravis pretiosa brazil" ; Times: 1
+	Query: "aguilas" ; Times: 3
+	Query: "Poicephalus" ; Times: 3
+	Query: "pterocles sindh" ; Times: 1
+	Query: "ardeola idae" ; Times: 3
+	Query: "1900 jackson" ; Times: 1
+	Query: "mvz gymnogyps california" ; Times: 1
+	Query: "momotus momota" ; Times: 1
+	Query: "eurostopodus macrotis india" ; Times: 1
+	Query: "black rail" ; Times: 3
+	Query: "Dunham class:Aves" ; Times: 1
+	Query: "talegalla" ; Times: 1
+	Query: "Recurvirostra andina" ; Times: 1
+	Query: "tympanuchus cupido cupido" ; Times: 3
+	Query: "Lophornis delattrei" ; Times: 1
+	Query: "sterna aurantia" ; Times: 1
+	Query: "okinawa class:Aves" ; Times: 2
+	Query: "francolinus afer malawi" ; Times: 1
+	Query: "Aves North Reef" ; Times: 2
+	Query: "Jackson Eldama" ; Times: 1
+	Query: "Melanerpes candidus brazil" ; Times: 1
+	Query: "anastomus oscitans" ; Times: 2
+	Query: "Caprimulgus carolinensis" ; Times: 1
+	Query: "Gavia adamsii" ; Times: 1
+	Query: "Eurystomus orientalis" ; Times: 1
+	Query: "TROGON ambiguus type:specimen" ; Times: 1
+	Query: "spizaetus limnaeetus" ; Times: 3
+	Query: "ptilinopus wallacii" ; Times: 2
+	Query: "Phalacrocorax harrisi" ; Times: 2
+	Query: "lizards" ; Times: 1
+	Query: "Anas rubripes" ; Times: 1
+	Query: "Caprimulgus year &gt;= 1905 year &lt;= 1905" ; Times: 1
+	Query: "Apteryx" ; Times: 1
+	Query: "egg anacapa type:specimen" ; Times: 1
+	Query: "scotopelia peli type:specimen" ; Times: 2
+	Query: "Rallidae (Rallidae AND atra)" ; Times: 1
+	Query: "country:&#34;Madagascar&#34; (Madagascar and Aves) year &lt;= 1950" ; Times: 1
+	Query: "catalognumber:36104 institutioncode:ROM" ; Times: 1
+	Query: "ROM 37617" ; Times: 3
+	Query: "Accipiter henstii" ; Times: 1
+	Query: "rhynchotus rufescens eggs" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1800 year &lt;= 1850" ; Times: 1
+	Query: "ducula bicolor" ; Times: 4
+	Query: "wakensis" ; Times: 1
+	Query: "ROM 32343" ; Times: 1
+	Query: "irediparra" ; Times: 1
+	Query: "spilornis klossi" ; Times: 2
+	Query: "upper assam 1903" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1933 year &lt;= 1933" ; Times: 1
+	Query: "Accipiter striatus" ; Times: 1
+	Query: "Phoeniconaias minor" ; Times: 1
+	Query: "spilornis rufipectus" ; Times: 1
+	Query: "cursor" ; Times: 1
+	Query: "Royal Alberta Museum" ; Times: 1
+	Query: "piculus leucolaemus" ; Times: 2
+	Query: "Psittacidae stomach" ; Times: 3
+	Query: "geotrygon purpurata" ; Times: 1
+	Query: "caprimulgus asiaticus india" ; Times: 1
+	Query: "himantornis" ; Times: 1
+	Query: "Psittacula Andaman" ; Times: 1
+	Query: "Poicephalus meyeri uganda" ; Times: 1
+	Query: "catalognumber:29532 institutioncode:ROM" ; Times: 2
+	Query: "haliaeetus leucocephalus" ; Times: 1
+	Query: "Chlorostilbon canivetii" ; Times: 3
+	Query: "columba speciosa brazil" ; Times: 1
+	Query: "edward arnold egg" ; Times: 1
+	Query: "menstruus" ; Times: 1
+	Query: "82074" ; Times: 1
+	Query: "Picumnus lafresnayi" ; Times: 2
+	Query: "class:aves recordedby:wheeler" ; Times: 1
+	Query: "columba bollii" ; Times: 1
+	Query: "specificepithet:asio genus:Otus" ; Times: 3
+	Query: "apus barbatus" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;ontario&#34; country:&#34;canada&#34; year &gt;= 1921 year &lt;= 1930" ; Times: 1
+	Query: "ROM 22876" ; Times: 1
+	Query: "threskiornis melanocephalus" ; Times: 4
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1955 year &lt;= 1959" ; Times: 1
+	Query: "specificepithet:chrysaetos genus:aquila year &gt;= 1905 year &lt;= 1910" ; Times: 1
+	Query: "ROM 2403" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 35
+	Query: "polyboroides radiatus" ; Times: 1
+	Query: "stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; recordedby:WALKER" ; Times: 1
+	Query: "ptilinopus monacha" ; Times: 4
+	Query: "neophron" ; Times: 1
+	Query: "rallus semiplumbeus" ; Times: 2
+	Query: "diet" ; Times: 1
+	Query: "trogon citreolus citreolus" ; Times: 2
+	Query: "scotopelia type:specimen" ; Times: 1
+	Query: "Aegypius monachus" ; Times: 3
+	Query: "Accipiter chionogaster type:specimen" ; Times: 1
+	Query: "Loriculus Andaman" ; Times: 1
+	Query: "conuropsis carolinensis" ; Times: 1
+	Query: "33903" ; Times: 1
+	Query: "caprimulgus macrurus" ; Times: 1
+	Query: "batrachostomus moniliger" ; Times: 3
+	Query: "rollandia microptera" ; Times: 1
+	Query: "33755" ; Times: 1
+	Query: "76895" ; Times: 2
+	Query: "specificepithet:chrysaetos genus:aquila year &gt;= 1908 year &lt;= 1908" ; Times: 1
+	Query: "trogon mexicanus" ; Times: 1
+	Query: "dragonfly" ; Times: 1
+	Query: "uwbm 82277" ; Times: 1
+	Query: "ROM 2144" ; Times: 2
+	Query: "tachyeres" ; Times: 1
+	Query: "psittacula columboides" ; Times: 1
+	Query: "ara militaris" ; Times: 12
+	Query: "Podiceps major" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 512 download events in this period)
+Total number of records downloaded: 39683
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 32
+	Country: Germany ; Times: 4
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-11 ; Times: 1
+	Date: 2016-02-08 ; Times: 2
+	Date: 2016-02-15 ; Times: 1
+	Date: 2016-02-04 ; Times: 1
+	Date: 2016-02-23 ; Times: 4
+	Date: 2016-02-22 ; Times: 1
+	Date: 2016-02-18 ; Times: 3
+	Date: 2016-02-19 ; Times: 4
+	Date: 2016-02-27 ; Times: 1
+	Date: 2016-02-26 ; Times: 7
+	Date: 2016-02-24 ; Times: 6
+	Date: 2016-02-10 ; Times: 1
+	Date: 2016-02-02 ; Times: 1
+	Date: 2016-02-05 ; Times: 1
+	Date: 2016-02-29 ; Times: 8
+	Date: 2016-02-14 ; Times: 1
+	Date: 2016-02-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "&#34;colaptes auratus&#34; year &gt;= 1900 year &lt;= 1910 mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1901 year &lt;= 1920" ; Times: 2
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1931 year &lt;= 1931" ; Times: 1
+	Query: "class:Aves county:&#34;Monroe&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "okinawa class:Aves" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1924 year &lt;= 1925" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1871 year &lt;= 1880" ; Times: 1
+	Query: "county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1929 year &lt;= 1930" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Yukon&#34; country:&#34;Canada&#34; year &gt;= 1900 year &lt;= 1950" ; Times: 1
+	Query: "sculpin" ; Times: 1
+	Query: "county:&#34;Gila&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Poicephalus meyeri" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1906 year &lt;= 1910" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1926 year &lt;= 1928" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1936 year &lt;= 1937" ; Times: 1
+	Query: "county:&#34;Hot Springs&#34; stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Strigops" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1955 year &lt;= 1959" ; Times: 1
+	Query: "Aves Andaman" ; Times: 1
+	Query: "&#34;colaptes auratus&#34; year &gt;= 1920 year &lt;= 1926 mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1946 year &lt;= 1949" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1960 year &lt;= 1964" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1975 year &lt;= 1979" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1800 year &lt;= 1850" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Ontario&#34; year &lt;= 1970" ; Times: 1
+	Query: "selasphorus (sasin OR sedentarius)" ; Times: 1
+	Query: "Aegypius monachus" ; Times: 1
+	Query: "Dunham class:Aves" ; Times: 1
+	Query: "&#34;colaptes auratus&#34; year &gt;= 1940 year &lt;= 1946 mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 2000 year &lt;= 2015" ; Times: 1
+	Query: "Hendee" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1896 year &lt;= 1900" ; Times: 1
+	Query: "Strigidae" ; Times: 1
+	Query: "capito" ; Times: 1
+	Query: "Loriculus Andaman" ; Times: 1
+	Query: "Podiceps major" ; Times: 1
+
+
+End of report.
