@@ -1,0 +1,462 @@
+Report for Institution Code ROM, Resource birdsnonpass
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 940
+Number of records retrieved in searches: 46735
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 356
+	Country: Brazil ; Times: 12
+	Country: Netherlands ; Times: 5
+	Country: Colombia ; Times: 34
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 278
+	Country: Montenegro ; Times: 4
+	Country: France ; Times: 5
+	Country: United States ; Times: 195
+	Country: Australia ; Times: 1
+	Country: Germany ; Times: 10
+	Country: United Kingdom ; Times: 2
+	Country: India ; Times: 6
+	Country: Denmark ; Times: 2
+	Country: Thailand ; Times: 1
+	Country: Russia ; Times: 18
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 39
+	Date: 2016-04-02 ; Times: 3
+	Date: 2016-04-07 ; Times: 17
+	Date: 2016-04-06 ; Times: 13
+	Date: 2016-04-05 ; Times: 68
+	Date: 2016-04-04 ; Times: 101
+	Date: 2016-04-21 ; Times: 15
+	Date: 2016-04-20 ; Times: 5
+	Date: 2016-04-23 ; Times: 3
+	Date: 2016-04-22 ; Times: 12
+	Date: 2016-04-25 ; Times: 5
+	Date: 2016-04-24 ; Times: 5
+	Date: 2016-04-09 ; Times: 31
+	Date: 2016-04-26 ; Times: 30
+	Date: 2016-04-08 ; Times: 10
+	Date: 2016-04-27 ; Times: 63
+	Date: 2016-04-18 ; Times: 8
+	Date: 2016-04-19 ; Times: 8
+	Date: 2016-04-14 ; Times: 62
+	Date: 2016-04-15 ; Times: 31
+	Date: 2016-04-16 ; Times: 15
+	Date: 2016-04-17 ; Times: 16
+	Date: 2016-04-10 ; Times: 33
+	Date: 2016-04-11 ; Times: 39
+	Date: 2016-04-12 ; Times: 68
+	Date: 2016-04-13 ; Times: 228
+	Date: 2016-04-03 ; Times: 7
+	Date: 2016-04-28 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Limosa fedoa Ontario" ; Times: 10
+	Query: "Bryant AND Anacapa" ; Times: 1
+	Query: "phalacrocorax carbo" ; Times: 9
+	Query: "spiders" ; Times: 1
+	Query: "ROM 32276" ; Times: 1
+	Query: "sula granti" ; Times: 1
+	Query: "MMNH" ; Times: 1
+	Query: "columba rufina" ; Times: 3
+	Query: "distance(location,geopoint(32.149036,-111.827516))&lt;15000" ; Times: 1
+	Query: "Rom 39692" ; Times: 1
+	Query: "Ara macao" ; Times: 2
+	Query: "Pterocles alchata mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-111.147516))&lt;15000" ; Times: 2
+	Query: "151 ONTARIO 1" ; Times: 1
+	Query: "distance(location,geopoint(30.959036,-113.017516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-109.957516))&lt;15000" ; Times: 1
+	Query: "type:specimen genus:Starnoenas" ; Times: 1
+	Query: "Larus AND Santa Catalina Island" ; Times: 1
+	Query: "distance(location,geopoint(21.609036,-106.557516))&lt;15000" ; Times: 6
+	Query: "distance(location,geopoint(23.139036,-109.617516))&lt;15000" ; Times: 2
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "aburria aburri" ; Times: 8
+	Query: "psittacula eupatria india" ; Times: 1
+	Query: "distance(location,geopoint(24.669036,-111.827516))&lt;15000" ; Times: 1
+	Query: "trogon collaris" ; Times: 1
+	Query: "Kusche" ; Times: 1
+	Query: "Melanerpes erythrocephalus Ontario" ; Times: 10
+	Query: "aegotheles insignis" ; Times: 2
+	Query: "Eurostopodus" ; Times: 1
+	Query: "175 ONTARIO 1" ; Times: 1
+	Query: "UWBM AND Anacapa" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.637516))&lt;15000" ; Times: 1
+	Query: "(rubus) mappable:1" ; Times: 1
+	Query: "Phalaropus lobatus Ontario" ; Times: 10
+	Query: "Rhynchopsitta" ; Times: 1
+	Query: "ROM 34541" ; Times: 2
+	Query: "clamator jacobinus" ; Times: 1
+	Query: "witch" ; Times: 19
+	Query: "Columba fasciata Ontario" ; Times: 10
+	Query: "Rom 36978" ; Times: 2
+	Query: "Otus choliba" ; Times: 1
+	Query: "gbifdatasetid:136560fa-9eb9-492f-866e-5bd110c52f74" ; Times: 1
+	Query: "genus:Ectopistes institutioncode:ROM" ; Times: 1
+	Query: "Egretta caerulea" ; Times: 1
+	Query: "Egretta rufescens stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "distance(location,geopoint(22.969036,-109.787516))&lt;15000" ; Times: 1
+	Query: "Riparia riparia Ontario" ; Times: 10
+	Query: "11221" ; Times: 1
+	Query: "Asio flammeus Ontario" ; Times: 10
+	Query: "angeli" ; Times: 1
+	Query: "starnoenas" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-106.557516))&lt;15000" ; Times: 1
+	Query: "ROM AND Thompson AND Anacapa" ; Times: 2
+	Query: "distance(location,geopoint(31.979036,-110.297516))&lt;15000" ; Times: 1
+	Query: "Columba fasciata Ontario 1" ; Times: 1
+	Query: "Semnornis ramphastinus" ; Times: 1
+	Query: "type:specimen genus:ara (militaris)" ; Times: 1
+	Query: "Lakeside county:&#34;san diego&#34;" ; Times: 1
+	Query: "megalaima haemacephala india" ; Times: 1
+	Query: "falco columbarius (british columbia)" ; Times: 1
+	Query: "gallinula chloropus (kenya)" ; Times: 1
+	Query: "Buteo lineatus Ontario" ; Times: 10
+	Query: "genus:ara (militaris)" ; Times: 1
+	Query: "birds from Europe" ; Times: 3
+	Query: "75377" ; Times: 2
+	Query: "recurvirostra skeleton africa" ; Times: 1
+	Query: "184 ONTARIO 1" ; Times: 1
+	Query: "CICCABA ALBITARSUS" ; Times: 7
+	Query: "Synthliboramphus AND Island" ; Times: 1
+	Query: "pelecanus onocrotalus" ; Times: 3
+	Query: "91380" ; Times: 1
+	Query: "raja ampat" ; Times: 1
+	Query: "Coeligena bonapartei" ; Times: 1
+	Query: "Ecuador birds" ; Times: 48
+	Query: "Chordeiles minor Ontario" ; Times: 10
+	Query: "order:Tinamiformes country:&#34;Mexico&#34; continent:America" ; Times: 3
+	Query: "distance(location,geopoint(31.979036,-108.427516))&lt;15000" ; Times: 1
+	Query: "Branta nigricans (British Columbia)" ; Times: 1
+	Query: "Branta bernicla (British Columbia)" ; Times: 1
+	Query: "colibri coruscans" ; Times: 2
+	Query: "Rom 39902" ; Times: 1
+	Query: "Rom 45288" ; Times: 3
+	Query: "distance(location,geopoint(21.439036,-105.027516))&lt;15000" ; Times: 8
+	Query: "larus pipixcan (British Columbia)" ; Times: 1
+	Query: "birds ECUADOR" ; Times: 24
+	Query: "tachybaptus (africa)" ; Times: 2
+	Query: "distance(location,geopoint(31.979036,-111.657516))&lt;15000" ; Times: 2
+	Query: "11650" ; Times: 3
+	Query: "Tryngites subruficollis Ontario" ; Times: 10
+	Query: "crex" ; Times: 2
+	Query: "Gypaetus barbatus" ; Times: 2
+	Query: "Histrionicus histrionicus Ontario" ; Times: 10
+	Query: "Calidris canutus Ontario" ; Times: 10
+	Query: "distance(location,geopoint(31.639036,-109.107516))&lt;15000" ; Times: 1
+	Query: "family:Cathartidae country:&#34;Colombia&#34;" ; Times: 5
+	Query: "violacea" ; Times: 1
+	Query: "Pyrrhura" ; Times: 3
+	Query: "&#34;Buteo lagopus&#34; AND Ontario AND weight" ; Times: 1
+	Query: "206 ONTARIO 1" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-113.357516))&lt;15000" ; Times: 1
+	Query: "stateprovince:&#34;boyaca&#34; country:&#34;colombia&#34;" ; Times: 2
+	Query: "Anacapa AND Egg NOT 1988" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-111.827516))&lt;15000" ; Times: 1
+	Query: "Bucephala islandica Ontario 1" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-113.527516))&lt;15000" ; Times: 1
+	Query: "Larus pipixcan (British Columbia)" ; Times: 2
+	Query: "Pica pica Ontario 1" ; Times: 1
+	Query: "distance(location,geopoint(23.479036,-110.127516))&lt;15000" ; Times: 1
+	Query: "182 ONTARIO 1" ; Times: 1
+	Query: "14199" ; Times: 1
+	Query: "Karesuando" ; Times: 1
+	Query: "Aegotheles cristatus eggs" ; Times: 1
+	Query: "type:specimen genus: Amazona (imperialis)" ; Times: 1
+	Query: "501775" ; Times: 1
+	Query: "Geotrygon montana" ; Times: 1
+	Query: "Pica pica ONTARIO 1" ; Times: 2
+	Query: "type:specimen genus:Psittacula (columboides)" ; Times: 1
+	Query: "aegotheles cristatus type:specimen (egg)" ; Times: 1
+	Query: "distance(location,geopoint(28.749036,-111.997516))&lt;15000" ; Times: 1
+	Query: "Haliaeetus leucocephalus Ontario 1" ; Times: 1
+	Query: "Larus philadelphia (British Columbia)" ; Times: 1
+	Query: "Pelecanus erythrorhynchos Ontario" ; Times: 10
+	Query: "eubucco bourcierii country:&#34;Colombia&#34;" ; Times: 2
+	Query: "boyaca" ; Times: 1
+	Query: "Minatitlan -Colima" ; Times: 4
+	Query: "ROM 38002" ; Times: 1
+	Query: "1900 Jackson" ; Times: 1
+	Query: "Melierax gabar" ; Times: 1
+	Query: "Darling Asia 1879" ; Times: 1
+	Query: "&#34;Buteo jamaicensis&#34; AND Ontario AND weight" ; Times: 2
+	Query: "distance(location,geopoint(24.159036,-110.127516))&lt;15000" ; Times: 2
+	Query: "Howell AND 1913" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-109.617516))&lt;15000" ; Times: 1
+	Query: "Aves year &gt;= 1874 year &lt;= 1874 month &gt;= 8 month &lt;= 8" ; Times: 1
+	Query: "distance(location,geopoint(24.669036,-107.407516))&lt;15000" ; Times: 1
+	Query: "locality:Lincoln stateprovince:&#34;Maine&#34; year &gt;= 1895 year &lt;= 1897" ; Times: 1
+	Query: "Oceanodroma macrodactyla" ; Times: 1
+	Query: "Nandayus" ; Times: 1
+	Query: "Pileated Woodpecker" ; Times: 2
+	Query: "distance(location,geopoint(32.149036,-109.787516))&lt;15000" ; Times: 1
+	Query: "Charadrius melodus Ontario" ; Times: 10
+	Query: "sula dactylatra" ; Times: 1
+	Query: "38 ONTARIO 1" ; Times: 1
+	Query: "phalacrocorax africanus" ; Times: 2
+	Query: "14798" ; Times: 1
+	Query: "Starnoenas" ; Times: 1
+	Query: "melidora" ; Times: 1
+	Query: "Anacapa AND Egg" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-109.447516))&lt;15000" ; Times: 1
+	Query: "columba subvinacea" ; Times: 1
+	Query: "egretta caerulea" ; Times: 1
+	Query: "Larus pipixcan (British columbia)" ; Times: 1
+	Query: "150 ONTARIO 1" ; Times: 1
+	Query: "distance(location,geopoint(23.649036,-109.957516))&lt;15000" ; Times: 1
+	Query: "ONTARIO" ; Times: 9
+	Query: "2 ONTARIO 1" ; Times: 1
+	Query: "Asio AND Island" ; Times: 1
+	Query: "phoenicopterus" ; Times: 1
+	Query: "distance(location,geopoint(29.939036,-108.427516))&lt;15000" ; Times: 2
+	Query: "talegalla rom" ; Times: 1
+	Query: "type:specimen genus:Psittacula (alexandri)" ; Times: 1
+	Query: "Jackson 1917 Africa" ; Times: 1
+	Query: "stateprovince:&#34;Boyaca&#34; country:&#34;Colombia&#34; mappable:1" ; Times: 2
+	Query: "Abbott AND ROM" ; Times: 1
+	Query: "129 ONTARIO 1" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.807516))&lt;15000" ; Times: 1
+	Query: "gallinula chloropus skeleton" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-111.317516))&lt;15000" ; Times: 1
+	Query: "&#34;CMNH&#34;" ; Times: 1
+	Query: "ROM 30259" ; Times: 2
+	Query: "Platalea ajaja stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Haliaeetus leucocephalus Ontario" ; Times: 10
+	Query: "Starnoenas cyanocephala" ; Times: 2
+	Query: "distance(location,geopoint(32.149036,-111.997516))&lt;15000" ; Times: 2
+	Query: "Trogon curucui" ; Times: 1
+	Query: "Anacapa AND Eggs AND 1928" ; Times: 2
+	Query: "Anacapa AND Eggs AND 1929" ; Times: 2
+	Query: "Amazilia tzacatl" ; Times: 2
+	Query: "Ixobrychus exilis Ontario" ; Times: 10
+	Query: "distance(location,geopoint(31.299036,-105.877516))&lt;15000" ; Times: 2
+	Query: "Podiceps grisegena Ontario" ; Times: 10
+	Query: "distance(location,geopoint(31.469036,-105.877516))&lt;15000" ; Times: 1
+	Query: "specificepithet:stagnatilis" ; Times: 2
+	Query: "distance(location,geopoint(30.109036,-110.467516))&lt;15000" ; Times: 1
+	Query: "Lakhimpur 1904" ; Times: 1
+	Query: "aegotheles cristatus eggs" ; Times: 1
+	Query: "coragyps" ; Times: 1
+	Query: "distance(location,geopoint(31.129036,-105.707516))&lt;15000" ; Times: 1
+	Query: "rallus caerulescens skin" ; Times: 1
+	Query: "Amazona viridigenalis" ; Times: 1
+	Query: "Tyto alba ONTARIO 1" ; Times: 2
+	Query: "rock sandpiper" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-106.047516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.969036,-109.617516))&lt;15000" ; Times: 1
+	Query: "Vanellus cinereus" ; Times: 1
+	Query: "Larus AND Anacapa" ; Times: 1
+	Query: "distance(location,geopoint(23.479036,-106.387516))&lt;15000" ; Times: 1
+	Query: "podiceps cristatus" ; Times: 6
+	Query: "corythaeola cristata" ; Times: 2
+	Query: "halcyon smyrnensis" ; Times: 1
+	Query: "Buteogallus urubitinga" ; Times: 2
+	Query: "Pelecanus erythrorhynchos ONTARIO 1" ; Times: 3
+	Query: "mvz AND gymnogyps AND california" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-110.977516))&lt;15000" ; Times: 1
+	Query: "196 ONTARIO 1" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-110.637516))&lt;15000" ; Times: 1
+	Query: "Pagophila eburnea Ontario" ; Times: 10
+	Query: "Pernis apivorus" ; Times: 2
+	Query: "ROM AND Thompson" ; Times: 1
+	Query: "Crax rubra" ; Times: 8
+	Query: "mvz gymnogyps california" ; Times: 1
+	Query: "Bucephala islandica Ontario" ; Times: 10
+	Query: "38758" ; Times: 1
+	Query: "sarkidiornis" ; Times: 1
+	Query: "peregrine falcon" ; Times: 2
+	Query: "distance(location,geopoint(23.479036,-110.297516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.139036,-109.787516))&lt;15000" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Erie&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Caprimulgus eximius" ; Times: 1
+	Query: "Linton AND Miguel" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-108.257516))&lt;15000" ; Times: 1
+	Query: "Chaetura pelagica Ontario" ; Times: 10
+	Query: "Haliaeetus leucocephalus ONTARIO 1" ; Times: 2
+	Query: "distance(location,geopoint(32.149036,-112.167516))&lt;15000" ; Times: 1
+	Query: "Darling Asia" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "distance(location,geopoint(23.989036,-105.027516))&lt;15000" ; Times: 1
+	Query: "class:aves catalognumber:41515" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-111.317516))&lt;15000" ; Times: 1
+	Query: "Pica pica Ontario" ; Times: 10
+	Query: "distance(location,geopoint(31.979036,-109.787516))&lt;15000" ; Times: 1
+	Query: "Minatitlan MZFC" ; Times: 1
+	Query: "Larus argentatus (British Columbia)" ; Times: 1
+	Query: "Podiceps auritus Ontario" ; Times: 10
+	Query: "SAN MIGUEL ISLAND AND Egg AND 1927" ; Times: 1
+	Query: "SAN MIGUEL ISLAND AND Egg AND 1928" ; Times: 1
+	Query: "Tyto alba Ontario" ; Times: 10
+	Query: "distance(location,geopoint(31.809036,-108.257516))&lt;15000" ; Times: 1
+	Query: "Rom 39248" ; Times: 2
+	Query: "crex crex" ; Times: 1
+	Query: "psittacula alexandri india" ; Times: 1
+	Query: "Ecuador Birds" ; Times: 83
+	Query: "Haliaeetus vocifer" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Cayuga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "distance(location,geopoint(23.989036,-110.297516))&lt;15000" ; Times: 2
+	Query: "psittacula columboides" ; Times: 1
+	Query: "anhinga rufa" ; Times: 1
+	Query: "distance(location,geopoint(24.839036,-110.637516))&lt;15000" ; Times: 1
+	Query: "12216" ; Times: 3
+	Query: "distance(location,geopoint(21.269036,-105.027516))&lt;15000" ; Times: 6
+	Query: "Phoenicopterus ruber type:specimen AND (roseus)" ; Times: 1
+	Query: "Rom 39851" ; Times: 1
+	Query: "mammal institutioncode:ROM" ; Times: 1
+	Query: "goudotii" ; Times: 1
+	Query: "Falco peregrinus anatum  Ontario" ; Times: 10
+	Query: "distance(location,geopoint(24.839036,-107.407516))&lt;15000" ; Times: 1
+	Query: "rallus caerulescens" ; Times: 1
+	Query: "35651" ; Times: 1
+	Query: "DAPTION CAPENSE" ; Times: 1
+	Query: "distance(location,geopoint(24.839036,-110.467516))&lt;15000" ; Times: 1
+	Query: "Royal Ontario Museum" ; Times: 2
+	Query: "Riparia riparia Ontario 1" ; Times: 1
+	Query: "birds brazil" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-106.727516))&lt;15000" ; Times: 1
+	Query: "Aechmophorus occidentalis Ontario" ; Times: 10
+	Query: "goudoti" ; Times: 1
+	Query: "Phoenicopterus" ; Times: 1
+	Query: "distance(location,geopoint(27.899036,-115.057516))&lt;15000" ; Times: 1
+	Query: "Tyto alba Ontario 1" ; Times: 1
+	Query: "distance(location,geopoint(24.159036,-110.297516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(24.499036,-111.827516))&lt;15000" ; Times: 2
+	Query: "ROM 30246" ; Times: 1
+	Query: "38774" ; Times: 1
+	Query: "R-15469" ; Times: 1
+	Query: "recordedby:Dickerman year &gt;= 1957 year &lt;= 1957" ; Times: 1
+	Query: "CMNH" ; Times: 1
+	Query: "38882" ; Times: 1
+	Query: "126420" ; Times: 1
+	Query: "Anacapa AND Eggs AND 1915" ; Times: 1
+	Query: "Pelecanus erythrorhynchos Ontario 1" ; Times: 1
+	Query: "Phoenicopterus ruber type:specimen" ; Times: 1
+	Query: "Anacapa AND Eggs AND 1911" ; Times: 1
+	Query: "Tinamus major" ; Times: 2
+	Query: "distance(location,geopoint(31.129036,-114.717516))&lt;15000" ; Times: 1
+	Query: "98 ONTARIO 1" ; Times: 1
+	Query: "Accipiter striatus perobscurus" ; Times: 1
+	Query: "hydrobates" ; Times: 1
+	Query: "distance(location,geopoint(28.749036,-113.017516))&lt;15000" ; Times: 1
+	Query: "glaucidium brodiei" ; Times: 1
+	Query: "aegotheles cristatus (egg)" ; Times: 1
+	Query: "distance(location,geopoint(31.129036,-113.017516))&lt;15000" ; Times: 1
+	Query: "birds from Turkey" ; Times: 1
+	Query: "specificepithet:sonneratii genus:Gallus" ; Times: 1
+	Query: "UWBM Anacapa" ; Times: 1
+	Query: "mosquito specimen" ; Times: 1
+	Query: "Tryngites subruficollis ONTARIO 1" ; Times: 2
+	Query: "sarkidiornis skeleton" ; Times: 5
+	Query: "distance(location,geopoint(24.159036,-110.467516))&lt;15000" ; Times: 1
+	Query: "Coatzacoalcos" ; Times: 2
+	Query: "107 ONTARIO 1" ; Times: 1
+	Query: "gallinula chloropus" ; Times: 1
+	Query: "Penelope purpurascens" ; Times: 12
+	Query: "Poicephalus" ; Times: 1
+	Query: "Phoenicopterus ruber type:specimen AND (NOT roseus)" ; Times: 1
+	Query: "Columba fasciata ONTARIO 1" ; Times: 2
+	Query: "pteroglossus aracari type:specimen" ; Times: 4
+	Query: "149 ONTARIO 1" ; Times: 1
+	Query: "Chlidonias hybrida" ; Times: 5
+	Query: "pyrrhura frontalis" ; Times: 1
+	Query: "ontario" ; Times: 27
+	Query: "calothorax" ; Times: 4
+	Query: "distance(location,geopoint(29.939036,-108.257516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-111.997516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-110.637516))&lt;15000" ; Times: 1
+	Query: "Linton AND San Miguel Island" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-109.447516))&lt;15000" ; Times: 1
+	Query: "Great auk" ; Times: 2
+	Query: "Anacapa AND Egg NOT 1988 NOT 1974" ; Times: 1
+	Query: "Capito hypoleucus" ; Times: 6
+	Query: "calothorax lucifer" ; Times: 1
+	Query: "pelecanus" ; Times: 1
+	Query: "vultur" ; Times: 1
+	Query: "Accipiter striatus 1" ; Times: 2
+	Query: "ectopistes migratorius" ; Times: 6
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "distance(location,geopoint(23.479036,-109.957516))&lt;15000" ; Times: 2
+	Query: "catalognumber:148685" ; Times: 1
+	Query: "38875" ; Times: 2
+	Query: "(mammal) institutioncode:ROM" ; Times: 1
+	Query: "Tyto AND Island" ; Times: 1
+	Query: "stevens india" ; Times: 4
+	Query: "year &gt;= 1874 year &lt;= 1874 month &gt;= 8 month &lt;= 8" ; Times: 1
+	Query: "Bucephala islandica ONTARIO 1" ; Times: 2
+	Query: "podargus ocellatus" ; Times: 2
+	Query: "Riparia riparia ONTARIO 1" ; Times: 2
+	Query: "ROM 36823" ; Times: 2
+	Query: "10371" ; Times: 1
+	Query: "Aquila chrysaetos Ontario" ; Times: 10
+	Query: "accipiter poliogaster" ; Times: 3
+	Query: "Anacapa AND Eggs" ; Times: 1
+	Query: "Tryngites subruficollis Ontario 1" ; Times: 1
+	Query: "Lakhimpur" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 1312 download events in this period)
+Total number of records downloaded: 411
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 13
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 2
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-27 ; Times: 2
+	Date: 2016-04-07 ; Times: 1
+	Date: 2016-04-19 ; Times: 1
+	Date: 2016-04-05 ; Times: 2
+	Date: 2016-04-15 ; Times: 2
+	Date: 2016-04-14 ; Times: 1
+	Date: 2016-04-18 ; Times: 1
+	Date: 2016-04-23 ; Times: 2
+	Date: 2016-04-08 ; Times: 1
+	Date: 2016-04-10 ; Times: 2
+	Date: 2016-04-11 ; Times: 3
+	Date: 2016-04-12 ; Times: 1
+	Date: 2016-04-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen class:Aves county:&#34;Erie&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Platalea ajaja stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Egretta rufescens stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Doricha eliza" ; Times: 2
+	Query: "selasphorus platycercus" ; Times: 1
+	Query: "Amazona viridigenalis" ; Times: 1
+	Query: "Pernis apivorus" ; Times: 1
+	Query: "class:Aves country:&#34;nicaragua&#34;" ; Times: 1
+	Query: "&#34;Buteo jamaicensis&#34; AND Ontario AND weight" ; Times: 1
+	Query: "Crax rubra" ; Times: 2
+	Query: "Nandayus" ; Times: 1
+	Query: "Pileated Woodpecker" ; Times: 2
+	Query: "Melierax gabar" ; Times: 1
+	Query: "&#34;Buteo lagopus&#34; AND Ontario AND weight" ; Times: 1
+	Query: "Aves year &gt;= 1874 year &lt;= 1874 month &gt;= 8 month &lt;= 8" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Cayuga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Chlidonias hybrida" ; Times: 2
+	Query: "colibri coruscans" ; Times: 2
+	Query: "Ara macao" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+
+
+End of report.
