@@ -1,0 +1,220 @@
+Report for Institution Code ROM, Resource birdsnonpass
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 223
+Number of records retrieved in searches: 4159
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 11
+	Country: Ukraine ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Czech Republic ; Times: 2
+	Country: Portugal ; Times: 7
+	Country: Mexico ; Times: 26
+	Country: Unknown ; Times: 75
+	Country: Panama ; Times: 3
+	Country: Japan ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 58
+	Country: China ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 12
+	Country: Denmark ; Times: 1
+	Country: Germany ; Times: 11
+	Country: Venezuela ; Times: 1
+	Country: Russia ; Times: 4
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 15
+	Date: 2016-05-18 ; Times: 4
+	Date: 2016-05-17 ; Times: 2
+	Date: 2016-05-16 ; Times: 3
+	Date: 2016-05-15 ; Times: 6
+	Date: 2016-05-14 ; Times: 1
+	Date: 2016-05-13 ; Times: 10
+	Date: 2016-05-12 ; Times: 2
+	Date: 2016-05-11 ; Times: 3
+	Date: 2016-05-10 ; Times: 7
+	Date: 2016-05-31 ; Times: 8
+	Date: 2016-05-30 ; Times: 5
+	Date: 2016-05-08 ; Times: 3
+	Date: 2016-05-09 ; Times: 20
+	Date: 2016-05-02 ; Times: 14
+	Date: 2016-05-03 ; Times: 27
+	Date: 2016-05-04 ; Times: 5
+	Date: 2016-05-05 ; Times: 1
+	Date: 2016-05-06 ; Times: 15
+	Date: 2016-05-07 ; Times: 5
+	Date: 2016-05-26 ; Times: 21
+	Date: 2016-05-27 ; Times: 8
+	Date: 2016-05-24 ; Times: 3
+	Date: 2016-05-25 ; Times: 8
+	Date: 2016-05-22 ; Times: 3
+	Date: 2016-05-23 ; Times: 2
+	Date: 2016-05-20 ; Times: 15
+	Date: 2016-05-21 ; Times: 2
+	Date: 2016-05-28 ; Times: 2
+	Date: 2016-05-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 2
+	Query: "Campethera nubica pallida" ; Times: 1
+	Query: "Synthliboramphus antiquus AND Island" ; Times: 1
+	Query: "Aythya marila AND Island" ; Times: 1
+	Query: "Tympanuchus cupido" ; Times: 3
+	Query: "Aechmophorus occidentalis" ; Times: 1
+	Query: "chlorostilbon forficatus" ; Times: 1
+	Query: "neophema" ; Times: 2
+	Query: "Falco sparverius AND Island" ; Times: 1
+	Query: "TROGON MASSENA" ; Times: 2
+	Query: "Gypaetus barbatus" ; Times: 7
+	Query: "Oxyura jamaicensis AND Island" ; Times: 1
+	Query: "phalacrocorax harrisi" ; Times: 1
+	Query: "Halcyon albiventris Kenya" ; Times: 1
+	Query: "Amazilia beryllina devillei" ; Times: 1
+	Query: "lerwa lerwa" ; Times: 2
+	Query: "caprimulgus indicus" ; Times: 2
+	Query: "Kamchatka" ; Times: 1
+	Query: "Aix sponsa AND Island" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 4
+	Query: "warbler colorado usa" ; Times: 1
+	Query: "nasutus Kenya" ; Times: 1
+	Query: "type:specimen class:Aves country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Bancroft AND Island" ; Times: 1
+	Query: "oceanodroma tethys country:&#34;united states&#34;" ; Times: 1
+	Query: "philomachus pugnax" ; Times: 1
+	Query: "Halcyon leucocephala Kenya" ; Times: 1
+	Query: "133942" ; Times: 1
+	Query: "Amazilia beryllina" ; Times: 2
+	Query: "ROM 31683" ; Times: 1
+	Query: "genus:ectopistes stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "Pedionomus torquatus" ; Times: 1
+	Query: "Chlorostilbon forficatus" ; Times: 1
+	Query: "Neophema" ; Times: 1
+	Query: "aramus guarauna" ; Times: 2
+	Query: "batrachostomus javensis" ; Times: 1
+	Query: "hare" ; Times: 1
+	Query: "gyps" ; Times: 1
+	Query: "A. Downs" ; Times: 1
+	Query: "iceland 1929 egg" ; Times: 1
+	Query: "Ptychoramphus aleuticus AND Santa Barbara Island" ; Times: 1
+	Query: "Echo Lake" ; Times: 1
+	Query: "Cundinamarca" ; Times: 1
+	Query: "mvz AND gymnogyps AND california" ; Times: 1
+	Query: "Pionus senilis" ; Times: 1
+	Query: "aegotheles insignis" ; Times: 1
+	Query: "netta rufina" ; Times: 2
+	Query: "Podiceps auritus AND Island NOT Canada" ; Times: 1
+	Query: "Aves nasutus Kenya" ; Times: 1
+	Query: "catalognumber:95656 OR catalognumber:103274 OR catalognumber:186655 OR catalognumber:186656 OR catalognumber:220658 OR catalognumber:220659 OR catalognumber:220660 OR catalognumber:220661 OR catalognumber:224152 OR catalognumber:224153 OR catalognumber:285575 OR catalognumber:298234 OR catalognumber:301935 OR catalognumber:357942" ; Times: 1
+	Query: "Phalacrocorax penicillatus AND San Miguel" ; Times: 1
+	Query: "mvz gymnogyps california" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 2
+	Query: "specificepithet:militaris genus:ara" ; Times: 1
+	Query: "ROM 95211" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "catalognumber:44571" ; Times: 1
+	Query: "witch" ; Times: 4
+	Query: "black rail" ; Times: 1
+	Query: "ara militaris" ; Times: 1
+	Query: "Puffinus carneipes" ; Times: 1
+	Query: "Numida" ; Times: 1
+	Query: "Ptychoramphus aleuticus AND Santa Barbara Island NOT Mexico" ; Times: 1
+	Query: "Ocreatus" ; Times: 3
+	Query: "catalognumber:45140 institutioncode:ROM" ; Times: 1
+	Query: "crinifer" ; Times: 1
+	Query: "scotland 1921 egg" ; Times: 1
+	Query: "glaucidium minutissimum" ; Times: 2
+	Query: "genus:ectopistes institutioncode:ROM" ; Times: 3
+	Query: "specificepithet:virgata genus:Ciccaba country:&#34;Colombia&#34;" ; Times: 1
+	Query: "lerwa" ; Times: 1
+	Query: "Callipepla squamata" ; Times: 1
+	Query: "Anas AND Santa Cruz Island" ; Times: 1
+	Query: "Tympanuchus cupido (Canada)" ; Times: 2
+	Query: "Linton AND San Miguel Island" ; Times: 1
+	Query: "ivory" ; Times: 1
+	Query: "conuropsis" ; Times: 1
+	Query: "ecuador birds" ; Times: 25
+	Query: "falco sparverius (british columbia)" ; Times: 1
+	Query: "Aves Madagascar type:specimen" ; Times: 1
+	Query: "Dryocopus cubla" ; Times: 1
+	Query: "Lampornis hemileucus" ; Times: 1
+	Query: "nesoctites micromegas" ; Times: 1
+	Query: "distance(location,geopoint(31.769036,-109.037516))&lt;15000" ; Times: 1
+	Query: "Ptychoramphus aleuticus AND San Miguel Island" ; Times: 1
+	Query: "Asio AND Catalina" ; Times: 1
+	Query: "leopard frog" ; Times: 2
+	Query: "Parabuteo unicinctus Mexico" ; Times: 1
+	Query: "Pterodroma hypoleuca" ; Times: 1
+	Query: "threskiornis bernieri" ; Times: 1
+	Query: "Ardea AND Island" ; Times: 1
+	Query: "numenius borealis" ; Times: 2
+	Query: "Campephilus imperialis" ; Times: 1
+	Query: "catalognumber:44144" ; Times: 1
+	Query: "Phalacrocorax penicillatus AND Anacapa" ; Times: 1
+	Query: "32603" ; Times: 1
+	Query: "Mergus serrator AND Island" ; Times: 1
+	Query: "Oxypogon guerinii" ; Times: 1
+	Query: "Synthliboramphus AND Island" ; Times: 1
+	Query: "Aves Kamchatka" ; Times: 1
+	Query: "vestitus" ; Times: 1
+	Query: "vegetation africa" ; Times: 2
+	Query: "Ecuador birds" ; Times: 43
+	Query: "anhima cornuta" ; Times: 4
+	Query: "anser" ; Times: 1
+	Query: "Asio AND Island" ; Times: 1
+	Query: "class:aves stateprovince:&#34;michigan&#34; (egg) year &gt;= 1850 year &lt;= 2016" ; Times: 1
+	Query: "melanerpes santacruzi" ; Times: 1
+	Query: "conuropsis carolinensis" ; Times: 4
+	Query: "ROM 31783" ; Times: 1
+	Query: "albicaudatus" ; Times: 1
+	Query: "fungi" ; Times: 1
+	Query: "Aythya AND California AND Island" ; Times: 1
+	Query: "Tympanuchus cupido (Canada) year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "Passer domesticus" ; Times: 2
+	Query: "selasphorus ardens" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 327 download events in this period)
+Total number of records downloaded: 1784
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 2
+	Country: China ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-15 ; Times: 2
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-25 ; Times: 2
+	Date: 2016-05-31 ; Times: 1
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Peromyscus" ; Times: 1
+	Query: "Texas Brewster type:specimen class:Aves" ; Times: 1
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "mongolia" ; Times: 1
+	Query: "Pionus senilis" ; Times: 1
+	Query: "Parabuteo unicinctus Mexico" ; Times: 2
+	Query: "lerwa lerwa" ; Times: 1
+	Query: "calypte anna" ; Times: 1
+	Query: "class:aves distance(location,geopoint(21.585935114788498,-106.611328125))&lt;29438.373509106972" ; Times: 1
+	Query: "netta rufina" ; Times: 1
+
+
+End of report.
