@@ -1,0 +1,427 @@
+Report for Institution Code ROM, Resource birdsnonpass
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 454
+Number of records retrieved in searches: 3112
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 11
+	Country: Brazil ; Times: 9
+	Country: Argentina ; Times: 4
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Portugal ; Times: 15
+	Country: Mexico ; Times: 93
+	Country: Unknown ; Times: 7
+	Country: Singapore ; Times: 1
+	Country: India ; Times: 17
+	Country: France ; Times: 2
+	Country: United States ; Times: 257
+	Country: Sweden ; Times: 5
+	Country: Germany ; Times: 10
+	Country: United Kingdom ; Times: 4
+	Country: Chile ; Times: 3
+	Country: Denmark ; Times: 1
+	Country: South Korea ; Times: 4
+	Country: Russia ; Times: 6
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 5
+	Date: 2016-06-24 ; Times: 25
+	Date: 2016-06-09 ; Times: 19
+	Date: 2016-06-22 ; Times: 18
+	Date: 2016-06-21 ; Times: 7
+	Date: 2016-06-20 ; Times: 22
+	Date: 2016-06-05 ; Times: 12
+	Date: 2016-06-04 ; Times: 8
+	Date: 2016-06-07 ; Times: 17
+	Date: 2016-06-06 ; Times: 2
+	Date: 2016-06-01 ; Times: 17
+	Date: 2016-06-03 ; Times: 10
+	Date: 2016-06-02 ; Times: 50
+	Date: 2016-06-23 ; Times: 24
+	Date: 2016-06-08 ; Times: 17
+	Date: 2016-06-18 ; Times: 3
+	Date: 2016-06-19 ; Times: 9
+	Date: 2016-06-16 ; Times: 21
+	Date: 2016-06-17 ; Times: 6
+	Date: 2016-06-14 ; Times: 59
+	Date: 2016-06-15 ; Times: 25
+	Date: 2016-06-12 ; Times: 12
+	Date: 2016-06-13 ; Times: 32
+	Date: 2016-06-10 ; Times: 24
+	Date: 2016-06-11 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "egg Iceland 1909" ; Times: 1
+	Query: "14852" ; Times: 1
+	Query: "Nyctibius jamaicensis" ; Times: 3
+	Query: "30753" ; Times: 1
+	Query: "Pharomachrus antisianus" ; Times: 1
+	Query: "1897-08-04 AND Island" ; Times: 1
+	Query: "francolinus leucoscepus" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 9
+	Query: "Melanitta AND ISland" ; Times: 1
+	Query: "77997" ; Times: 1
+	Query: "type:specimen (Colibri thalassinus)" ; Times: 1
+	Query: "london" ; Times: 1
+	Query: "Circus approximans AND skeleton" ; Times: 1
+	Query: "Rhodonessa" ; Times: 1
+	Query: "34808" ; Times: 1
+	Query: "Ready AND Island" ; Times: 2
+	Query: "104912" ; Times: 1
+	Query: "clappertoni" ; Times: 1
+	Query: "Cursorius" ; Times: 1
+	Query: "specificepithet:chrysogenys genus:Melanerpes year &gt;= 1970 year &lt;= 1990" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 7
+	Query: "goura" ; Times: 1
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "(margarobyas OR gymnoglaux)" ; Times: 1
+	Query: "Psephotus pulcherrimus" ; Times: 4
+	Query: "type:specimen country:&#34;Canada&#34; institutioncode:ROM" ; Times: 1
+	Query: "35018" ; Times: 2
+	Query: "podiceps occipitalis" ; Times: 1
+	Query: "Anhima cornuta" ; Times: 1
+	Query: "13164" ; Times: 1
+	Query: "egg bisseling" ; Times: 1
+	Query: "county:&#34;Wheeler&#34; stateprovince:&#34;Texas&#34;" ; Times: 4
+	Query: "Campephilus principalis" ; Times: 2
+	Query: "egg 1904 florida" ; Times: 1
+	Query: "Melanerpes formicivorus county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; mappable:1" ; Times: 2
+	Query: "CMNH" ; Times: 1
+	Query: "Campylopterus curvipennis" ; Times: 1
+	Query: "aegolius funereus" ; Times: 3
+	Query: "Isla Coronados Mexico AND 1917" ; Times: 1
+	Query: "rom 2514" ; Times: 1
+	Query: "annamensis" ; Times: 1
+	Query: "Phaethon aethereus AND Island" ; Times: 2
+	Query: "Smith AND Catalina" ; Times: 2
+	Query: "egg 1920 ca" ; Times: 1
+	Query: "Francolinus pondicerianus" ; Times: 2
+	Query: "Isla Coronados Mexico AND 1919" ; Times: 1
+	Query: "38682" ; Times: 1
+	Query: "laterallus" ; Times: 2
+	Query: "Columba livia" ; Times: 1
+	Query: "41594" ; Times: 1
+	Query: "Cairina moschata 1" ; Times: 3
+	Query: "chaetura andrei" ; Times: 4
+	Query: "egg iceland larus marinus" ; Times: 1
+	Query: "Isla Natividad Mexico AND 1930" ; Times: 1
+	Query: "francolinus adspersus" ; Times: 2
+	Query: "Lepidoptera" ; Times: 1
+	Query: "Agriocharis ocellata" ; Times: 1
+	Query: "ROM 15079" ; Times: 2
+	Query: "comoros aves" ; Times: 1
+	Query: "111499" ; Times: 3
+	Query: "&#34;Thalassarche chlororhynchos&#34;" ; Times: 3
+	Query: "Breninger AND 1903" ; Times: 1
+	Query: "73277" ; Times: 1
+	Query: "harpagus bidentatus" ; Times: 1
+	Query: "grus americana" ; Times: 1
+	Query: "sturgeon" ; Times: 1
+	Query: "Cerorhinca psm" ; Times: 3
+	Query: "galloperdix spadicea" ; Times: 2
+	Query: "specificepithet:penelope" ; Times: 1
+	Query: "francolinus natalensis" ; Times: 2
+	Query: "aegolius harrisii" ; Times: 2
+	Query: "Gavia immer AND Island" ; Times: 1
+	Query: "Sceloglaux" ; Times: 1
+	Query: "Bubo virginianus AND Island" ; Times: 1
+	Query: "francolinus swainsonii" ; Times: 5
+	Query: "11139" ; Times: 8
+	Query: "Campylopterus largipennis" ; Times: 1
+	Query: "Spilornis andaman" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "glaucidium brodiei" ; Times: 1
+	Query: "86655" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 5
+	Query: "77593" ; Times: 1
+	Query: "BC Canada" ; Times: 2
+	Query: "Pluvialis AND Island" ; Times: 1
+	Query: "mvz AND gymnogyps AND california" ; Times: 6
+	Query: "rom 96122" ; Times: 1
+	Query: "melanerpes pygmaeus" ; Times: 3
+	Query: "93683" ; Times: 1
+	Query: "Bonasa AND Island" ; Times: 1
+	Query: "cracidae mitu mitu" ; Times: 1
+	Query: "Fratercula cirrhata British Columbia" ; Times: 2
+	Query: "ROM 15233" ; Times: 1
+	Query: "francolinus francolinus" ; Times: 4
+	Query: "columba livia" ; Times: 1
+	Query: "pseudoscops grammicus" ; Times: 9
+	Query: "8516" ; Times: 1
+	Query: "vultur gryphus" ; Times: 4
+	Query: "amazilia rutila" ; Times: 1
+	Query: "11714" ; Times: 2
+	Query: "oreophasis derbianus" ; Times: 1
+	Query: "Alopochen aegyptiaca 1" ; Times: 3
+	Query: "Isla Natividad Mexico AND 1916" ; Times: 1
+	Query: "34780" ; Times: 1
+	Query: "Isla Coronados Mexico AND 1932" ; Times: 1
+	Query: "mvz gymnogyps california" ; Times: 6
+	Query: "11899" ; Times: 4
+	Query: "gbifdatasetid:136560fa-9eb9-492f-866e-5bd110c52f74" ; Times: 3
+	Query: "myiopsitta monachus" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "MANTA" ; Times: 1
+	Query: "Oxyura jamaicensis 1" ; Times: 2
+	Query: "Meadows AND Island NOT ALaska" ; Times: 1
+	Query: "egg 1904 florida carter" ; Times: 1
+	Query: "specificepithet:chrysogenys genus:Melanerpes year &gt;= 1970 year &lt;= 2000" ; Times: 1
+	Query: "grey wolf" ; Times: 1
+	Query: "buteo rufinus" ; Times: 2
+	Query: "Santa Cruz Island AND Birds AND 1901" ; Times: 1
+	Query: "Numenius minutus" ; Times: 1
+	Query: "Blandford Sindh" ; Times: 2
+	Query: "ortalis vetula type:specimen" ; Times: 1
+	Query: "12522" ; Times: 1
+	Query: "Circus cyaneus AND Island" ; Times: 1
+	Query: "157870" ; Times: 1
+	Query: "canada goose" ; Times: 1
+	Query: "egg 1909 alberta" ; Times: 1
+	Query: "27097" ; Times: 1
+	Query: "type:specimen class:Aves stateprovince:&#34;Iowa&#34;" ; Times: 2
+	Query: "egg blagdon england" ; Times: 1
+	Query: "35723" ; Times: 1
+	Query: "witch" ; Times: 6
+	Query: "Santa Cruz Island AND Birds AND 1929" ; Times: 1
+	Query: "94314" ; Times: 1
+	Query: "gbifdatasetid:136560fa-9eb9-492f-866e-5bd110c52f74 struthio" ; Times: 3
+	Query: "Asio flammeus AND Island AND California" ; Times: 1
+	Query: "Poicephalus Kenya" ; Times: 7
+	Query: "catalognumber:35344" ; Times: 2
+	Query: "Gujarat" ; Times: 3
+	Query: "Opisthoprora euryptera" ; Times: 1
+	Query: "type:specimen genus:Phoenicopterus year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "Isla Natividad Mexico" ; Times: 1
+	Query: "selasphorus sasin" ; Times: 1
+	Query: "191 belize" ; Times: 1
+	Query: "Francolinus pintadeanus" ; Times: 1
+	Query: "buteo regalis uwbm" ; Times: 1
+	Query: "Oxyura AND Santa Cruz" ; Times: 1
+	Query: "ramphastos" ; Times: 3
+	Query: "cerorhinca psm" ; Times: 1
+	Query: "gymnoglaux" ; Times: 1
+	Query: "119164" ; Times: 1
+	Query: "119165" ; Times: 1
+	Query: "160399" ; Times: 3
+	Query: "Stephens AND Catalina" ; Times: 1
+	Query: "34844" ; Times: 1
+	Query: "type:specimen genus:ectopistes institutioncode:ROM" ; Times: 2
+	Query: "Pelican AND Anacapa" ; Times: 1
+	Query: "Sceloglaux albifacies" ; Times: 2
+	Query: "Amazona xantholora" ; Times: 1
+	Query: "Blandford" ; Times: 4
+	Query: "Accipiter cooperii AND Island" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;Acorn Woodpecker&#34; OR &#34;Melanerpes formicivorus&#34;) mappable:1" ; Times: 1
+	Query: "cypseloides class:aves" ; Times: 2
+	Query: "oceanites oceanicus" ; Times: 3
+	Query: "ortalis vetula type:specimen year &gt;= 1970 year &lt;= 2016" ; Times: 1
+	Query: "38590" ; Times: 1
+	Query: "ecuador birds" ; Times: 2
+	Query: "francolinus gularis" ; Times: 3
+	Query: "haliaeetus vocifer" ; Times: 2
+	Query: "Melanotrochilus fuscus" ; Times: 2
+	Query: "134397" ; Times: 1
+	Query: "catalognumber:45180" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "4774" ; Times: 1
+	Query: "japonica 1794" ; Times: 1
+	Query: "39534" ; Times: 1
+	Query: "Isla Margarita AND Mexico NOT Lamb" ; Times: 1
+	Query: "ramphastos tucanus" ; Times: 1
+	Query: "county:&#34;Hampton&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Snyder AND Island" ; Times: 1
+	Query: "Catalina Island AND 1893" ; Times: 1
+	Query: "Oceanodroma homochroa egg" ; Times: 2
+	Query: "anhinga" ; Times: 1
+	Query: "73821" ; Times: 1
+	Query: "San Miguel Island AND Birds AND 1927" ; Times: 1
+	Query: "Andalusia" ; Times: 1
+	Query: "Egretta AND Island" ; Times: 1
+	Query: "institutioncode:rom" ; Times: 1
+	Query: "Ptychoramphus aleuticus AND San Miguel Island" ; Times: 1
+	Query: "francolinus afer" ; Times: 1
+	Query: "San Miguel Island AND Birds AND 1928" ; Times: 1
+	Query: "gymnoglaux type:specimen" ; Times: 1
+	Query: "fazenda cayoa" ; Times: 2
+	Query: "Snyder AND Prince Island" ; Times: 1
+	Query: "Campephilus imperialis" ; Times: 1
+	Query: "Rostrhamus sociabilis" ; Times: 1
+	Query: "Isla Margarita AND Mexico NOT Lamb NOT Fish" ; Times: 1
+	Query: "strix aluco" ; Times: 4
+	Query: "crax rubra" ; Times: 1
+	Query: "ninox jacquinoti" ; Times: 1
+	Query: "Streptopelia risoria 1" ; Times: 2
+	Query: "francolinus clappertoni" ; Times: 1
+	Query: "Circus maillardi" ; Times: 1
+	Query: "Aves Kenya stomach" ; Times: 1
+	Query: "14352" ; Times: 1
+	Query: "Melanerpes pygmaeus" ; Times: 1
+	Query: "Breninger" ; Times: 1
+	Query: "specificepithet:virgata stateprovince:&#34;alaska&#34; year &lt;= 1926 month &lt;= 1926" ; Times: 1
+	Query: "egg texas 1900" ; Times: 1
+	Query: "150922" ; Times: 1
+	Query: "67447" ; Times: 1
+	Query: "Rollandia rolland" ; Times: 1
+	Query: "ROM 112237" ; Times: 1
+	Query: "aegolius" ; Times: 1
+	Query: "1903 AND Catalina ISland NOT Velero" ; Times: 1
+	Query: "francolinus pictus" ; Times: 1
+	Query: "county:&#34;Hampton&#34;" ; Times: 1
+	Query: "Blandford Sindh year &gt;= 1877 year &lt;= 1877" ; Times: 6
+	Query: "San Miguel Island AND Egg AND 1927" ; Times: 1
+	Query: "San Miguel Island AND Birds AND 1909" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 1
+	Query: "selasphorus ardens" ; Times: 3
+	Query: "egg 1883 miami" ; Times: 1
+	Query: "egg 1924 england" ; Times: 1
+	Query: "a.w. anthony" ; Times: 3
+	Query: "7777" ; Times: 1
+	Query: "34959" ; Times: 2
+	Query: "Isla Margarita AND Mexico" ; Times: 1
+	Query: "specificepithet:chrysogenys genus:Melanerpes year &gt;= 1970 year &lt;= 2015" ; Times: 1
+	Query: "ortalis vetula" ; Times: 1
+	Query: "Haliaeetus AND ISland" ; Times: 1
+	Query: "(Colibri thalassinus)" ; Times: 1
+	Query: "112237" ; Times: 1
+	Query: "106853" ; Times: 3
+	Query: "ROM 2398" ; Times: 1
+	Query: "Spilornis davisoni" ; Times: 1
+	Query: "Phasianus colchicus 1" ; Times: 2
+	Query: "DeGroot AND San Miguel Island" ; Times: 1
+	Query: "selasphorus flammula" ; Times: 1
+	Query: "Meadows AND Island NOT British" ; Times: 1
+	Query: "1831 L" ; Times: 1
+	Query: "16754" ; Times: 1
+	Query: "Gujarat Aves" ; Times: 1
+	Query: "14557" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "leopard" ; Times: 1
+	Query: "ROM 96122" ; Times: 2
+	Query: "97086" ; Times: 1
+	Query: "Fulica americana AND Island" ; Times: 1
+	Query: "egg iceland 1909" ; Times: 1
+	Query: "Aegypius monachus" ; Times: 1
+	Query: "type:specimen class:aves recordedby:grant" ; Times: 2
+	Query: "polar bear" ; Times: 1
+	Query: "9197" ; Times: 1
+	Query: "8555" ; Times: 2
+	Query: "Penelope purpurascens purpurascens" ; Times: 1
+	Query: "ara macao" ; Times: 5
+	Query: "45816" ; Times: 1
+	Query: "Tetraoninae AND Island" ; Times: 1
+	Query: "cypseloides cryptus class:aves" ; Times: 1
+	Query: "agriocharis ocellata" ; Times: 4
+	Query: "glaucidium radiatum" ; Times: 1
+	Query: "San Miguel Island AND Egg AND 1928" ; Times: 1
+	Query: "Peyton AND Anacapa" ; Times: 1
+	Query: "Psittacula krameri 1" ; Times: 2
+	Query: "neomorphus" ; Times: 1
+	Query: "Meadows AND Island NOT British NOT Singapore" ; Times: 1
+	Query: "2083" ; Times: 1
+	Query: "anas cyanoptera" ; Times: 1
+	Query: "Threskiornis aethiopicus 1" ; Times: 1
+	Query: "75167" ; Times: 1
+	Query: "tufts nova scotia 1917" ; Times: 1
+	Query: "Doryfera ludovicae" ; Times: 1
+	Query: "Selasphorus ardens type:specimen" ; Times: 3
+	Query: "amazilia yucatanensis" ; Times: 1
+	Query: "phaethornis mexicanus" ; Times: 2
+	Query: "Santa Cruz Island AND eggs AND 1929" ; Times: 1
+	Query: "Ptychoramphus aleuticus AND Santa Catalina Island" ; Times: 1
+	Query: "Meinertzhagen" ; Times: 1
+	Query: "E. cayennensis" ; Times: 1
+	Query: "Halmahera" ; Times: 1
+	Query: "Rallus limicola AND Island" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+	Query: "anhima cornuta" ; Times: 1
+	Query: "egg gowland" ; Times: 1
+	Query: "dragonflies" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 56 (out of 1052 download events in this period)
+Total number of records downloaded: 101846
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 35
+	Country: India ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 11
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 8
+	Date: 2016-06-09 ; Times: 2
+	Date: 2016-06-08 ; Times: 7
+	Date: 2016-06-18 ; Times: 2
+	Date: 2016-06-20 ; Times: 4
+	Date: 2016-06-05 ; Times: 6
+	Date: 2016-06-04 ; Times: 2
+	Date: 2016-06-14 ; Times: 6
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-01 ; Times: 2
+	Date: 2016-06-13 ; Times: 3
+	Date: 2016-06-10 ; Times: 2
+	Date: 2016-06-11 ; Times: 1
+	Date: 2016-06-16 ; Times: 2
+	Date: 2016-06-21 ; Times: 1
+	Date: 2016-06-23 ; Times: 1
+	Date: 2016-06-02 ; Times: 2
+	Date: 2016-06-07 ; Times: 2
+	Date: 2016-06-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Pharomachrus antisianus" ; Times: 1
+	Query: "Anhima cornuta" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "Colibri thalassinus" ; Times: 2
+	Query: "grus americana" ; Times: 3
+	Query: "goura" ; Times: 2
+	Query: "Cerorhinca psm" ; Times: 1
+	Query: "aegolius harrisii" ; Times: 2
+	Query: "Aptenodytes forsteri" ; Times: 3
+	Query: "Columba livia" ; Times: 1
+	Query: "Gujarat Aves" ; Times: 1
+	Query: "aegolius Acadicus" ; Times: 1
+	Query: "melanerpes pygmaeus" ; Times: 1
+	Query: "birds" ; Times: 1
+	Query: "cerorhinca psm" ; Times: 1
+	Query: "type:specimen country:&#34;Canada&#34; institutioncode:ROM" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 3
+	Query: "gymnoglaux type:specimen" ; Times: 1
+	Query: "Castor (California)" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "Melanerpes formicivorus county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "Melanotrochilus fuscus" ; Times: 2
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "Aegypius monachus" ; Times: 1
+	Query: "trogon elegans" ; Times: 1
+	Query: "Melanerpes pygmaeus" ; Times: 1
+	Query: "gbifdatasetid:136560fa-9eb9-492f-866e-5bd110c52f74" ; Times: 1
+	Query: "aegolius funereus" ; Times: 2
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "ara macao" ; Times: 4
+	Query: "agriocharis ocellata" ; Times: 1
+	Query: "laterallus" ; Times: 1
+	Query: "columba livia" ; Times: 1
+	Query: "amazilia yucatanensis" ; Times: 1
+	Query: "type:specimen class:Aves stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 1
+	Query: "E. cayennensis" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+	Query: "comoros aves" ; Times: 1
+
+
+End of report.
