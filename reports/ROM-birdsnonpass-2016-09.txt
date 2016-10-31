@@ -1,0 +1,385 @@
+Report for Institution Code ROM, Resource birdsnonpass
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 386
+Number of records retrieved in searches: 5585
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 9
+	Country: United Kingdom ; Times: 5
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 2
+	Country: Portugal ; Times: 137
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 4
+	Country: Poland ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 102
+	Country: Germany ; Times: 8
+	Country: Colombia ; Times: 89
+	Country: Belgium ; Times: 3
+	Country: Thailand ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-07 ; Times: 37
+	Date: 2016-09-16 ; Times: 1
+	Date: 2016-09-13 ; Times: 28
+	Date: 2016-09-12 ; Times: 13
+	Date: 2016-09-11 ; Times: 4
+	Date: 2016-09-10 ; Times: 78
+	Date: 2016-09-08 ; Times: 96
+	Date: 2016-09-09 ; Times: 54
+	Date: 2016-09-14 ; Times: 20
+	Date: 2016-09-04 ; Times: 4
+	Date: 2016-09-05 ; Times: 13
+	Date: 2016-09-06 ; Times: 14
+	Date: 2016-09-25 ; Times: 1
+	Date: 2016-09-01 ; Times: 12
+	Date: 2016-09-02 ; Times: 7
+	Date: 2016-09-03 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Buteo rufofuscus 1" ; Times: 1
+	Query: "gallus" ; Times: 1
+	Query: "Phaethornis yaruqui 1" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 3
+	Query: "cittura cyanotis" ; Times: 3
+	Query: "Anthracothorax nigricollis 1" ; Times: 1
+	Query: "Larus argentatus type:specimen (egg or clutch)" ; Times: 1
+	Query: "Anas undulata 1" ; Times: 1
+	Query: "falco jugger india" ; Times: 1
+	Query: "Aythya novaeseelandiae 1" ; Times: 1
+	Query: "Phaethornis longuemareus 1" ; Times: 1
+	Query: "cuculus varius" ; Times: 1
+	Query: "Bubo virginianus 1" ; Times: 2
+	Query: "Branta bernicla 1" ; Times: 1
+	Query: "Aix galericulata 1" ; Times: 2
+	Query: "tockus jacksoni" ; Times: 2
+	Query: "Anas americana 1" ; Times: 3
+	Query: "Anas poecilorhyncha 1" ; Times: 1
+	Query: "Buteogallus" ; Times: 1
+	Query: "Topaza pella 1" ; Times: 1
+	Query: "Eudyptes chrysocome 1" ; Times: 1
+	Query: "birds travancore" ; Times: 1
+	Query: "Phaethornis superciliosus 1" ; Times: 1
+	Query: "&#34;Ardea alba&#34; AND weight" ; Times: 1
+	Query: "Pulsatrix perspicillata brazil" ; Times: 1
+	Query: "Centropus andamanensis" ; Times: 2
+	Query: "13921" ; Times: 1
+	Query: "genus:Xiphidiopicus country:&#34;Cuba&#34;" ; Times: 1
+	Query: "Archilochus colubris 1" ; Times: 1
+	Query: "Rallus tenuirostris" ; Times: 1
+	Query: "Hylocharis leucotis 1" ; Times: 1
+	Query: "manatee mappable:1" ; Times: 1
+	Query: "tachornis squamata continent:america mappable:1" ; Times: 1
+	Query: "Columbina cruziana 1" ; Times: 1
+	Query: "Coturnix delegorguei 1" ; Times: 1
+	Query: "Anthracothorax dominicus 1" ; Times: 1
+	Query: "specificepithet:platycercus genus:Selasphorus country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "Cyanoramphus auriceps 1" ; Times: 1
+	Query: "Campephilus leucopogon" ; Times: 1
+	Query: "genus:Chaetocercus" ; Times: 1
+	Query: "Anas capensis 1" ; Times: 2
+	Query: "Cygnus olor 1" ; Times: 2
+	Query: "Dromaius novaehollandiae 1" ; Times: 1
+	Query: "Anser anser 1" ; Times: 1
+	Query: "type:specimen genus:Chelidoptera class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Forpus coelestis 1" ; Times: 1
+	Query: "Eudocimus ruber 1" ; Times: 2
+	Query: "Cairina moschata 1" ; Times: 4
+	Query: "circus assimilis type:specimen" ; Times: 1
+	Query: "Amazona albifrons 1" ; Times: 3
+	Query: "egg CA 1909" ; Times: 1
+	Query: "Merops revoilii" ; Times: 1
+	Query: "circus macrosceles type:specimen" ; Times: 1
+	Query: "Anas sibilatrix 1" ; Times: 1
+	Query: "Phasianus colchicus 1" ; Times: 3
+	Query: "Anas luzonica 1" ; Times: 1
+	Query: "9759 class:Aves" ; Times: 1
+	Query: "human" ; Times: 1
+	Query: "year &gt;= 1838 year &lt;= 1845" ; Times: 1
+	Query: "egg ontario 1902" ; Times: 1
+	Query: "Anas falcata 1" ; Times: 1
+	Query: "Aquila nipalensis 1" ; Times: 1
+	Query: "Eugenes fulgens 1" ; Times: 1
+	Query: "Anas cyanoptera 1" ; Times: 2
+	Query: "scientificname:&#34;simocyon primigenius&#34; OR scientificname:&#34;arctodus simus&#34; OR scientificname:&#34;ara macao&#34; OR scientificname:&#34;arctotherium sp.&#34; OR scientificname:&#34;hapalemur griseus&#34; OR scientificname:&#34;cheirogaleus medius&#34; OR scientificname:&#34;loris tardigradus&#34; OR scientificname:&#34;cercopithecus denti&#34; OR scientificname:&#34;alouatta seniculus&#34; OR scientificname:&#34;alouatta sp.&#34; OR scientificname:&#34;cercopithecus albogularis&#34; OR scientificname:&#34;semnopithecus entellus&#34; OR scientificname:&#34;omomyidae incertae sedis&#34; OR scientificname:&#34;cercopithecus mona&#34; OR scientificname:&#34;hylobates lar&#34; OR scientificname:&#34;daubentonia madagascariensis&#34; OR scientificname:&#34;macaca fascicularis&#34; OR scientificname:&#34;pan troglodytes&#34; OR scientificname:&#34;nycticebus coucang&#34; OR scientificname:&#34;galago moholi&#34; OR scientificname:&#34;mandrillus sphinx&#34; OR scientificname:&#34;homo naledi&#34; OR scientificname:&#34;pan  troglodytes&#34; OR scientificname:&#34;presbytis phayrei&#34; OR scientificname:&#34;pygathrix neameus&#34; OR scientificname:&#34;propithecus sp.&#34; OR scientificname:&#34;brachycephalus sp&#34; OR scientificname:&#34;otolemur garnetti&#34; OR scientificname:&#34;microcebus murinus&#34; OR scientificname:&#34;desmognathus sp&#34; OR scientificname:&#34;aotus sp.&#34;" ; Times: 1
+	Query: "Merops leschenaulti" ; Times: 1
+	Query: "Aramus guarauna 1" ; Times: 1
+	Query: "Heliangelus clarisse 1" ; Times: 1
+	Query: "G. variegatus mappable:1" ; Times: 2
+	Query: "falco biarmicus" ; Times: 1
+	Query: "centropus goliath" ; Times: 1
+	Query: "locality:darling downs country:&#34;Australia&#34;" ; Times: 1
+	Query: "Eurypyga helias 1" ; Times: 1
+	Query: "glaucis hirsuta" ; Times: 1
+	Query: "glaucis hirsuta (weight)" ; Times: 1
+	Query: "Anas platyrhynchos 1" ; Times: 1
+	Query: "centropus grillii" ; Times: 2
+	Query: "egg egretta florida" ; Times: 1
+	Query: "Sula leucogaster type:specimen continent:North America" ; Times: 1
+	Query: "aviceda leuphotes" ; Times: 2
+	Query: "Chlorostilbon aureoventris 1" ; Times: 1
+	Query: "specificepithet:cyanocephala genus:Amazilia" ; Times: 2
+	Query: "mvz AND gymnogyps AND california" ; Times: 2
+	Query: "Anas erythrorhyncha 1" ; Times: 1
+	Query: "Aratinga pertinax 1" ; Times: 1
+	Query: "Amazona ochrocephala 1" ; Times: 2
+	Query: "Meleagris gallopavo 1" ; Times: 2
+	Query: "Bostrychia hagedash 1" ; Times: 1
+	Query: "Amazilia fimbriata 1" ; Times: 1
+	Query: "Platalea ajaja 1" ; Times: 1
+	Query: "Amazilia amazilia 1" ; Times: 1
+	Query: "Alectoris chukar 1" ; Times: 2
+	Query: "Himantopus mexicanus 1" ; Times: 1
+	Query: "Doricha enicura" ; Times: 1
+	Query: "megalaima zeylanica" ; Times: 3
+	Query: "egg ireland 1901" ; Times: 1
+	Query: "cacomantis merulinus" ; Times: 1
+	Query: "Acryllium vulturinum 1" ; Times: 1
+	Query: "21963" ; Times: 1
+	Query: "Coscoroba coscoroba" ; Times: 1
+	Query: "118309" ; Times: 2
+	Query: "egg california 1888" ; Times: 1
+	Query: "Haliaeetus leucocephalus 1" ; Times: 1
+	Query: "eupetomena macroura" ; Times: 1
+	Query: "type:specimen specificepithet:striata genus:Malacoptila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Aptenodytes patagonicus 1" ; Times: 1
+	Query: "Colibri coruscans 1" ; Times: 1
+	Query: "Lorius garrulus 1" ; Times: 2
+	Query: "Forpus conspicillatus 1" ; Times: 1
+	Query: "egg mass 1910" ; Times: 1
+	Query: "witch" ; Times: 1
+	Query: "falco rufigularis continent:america" ; Times: 1
+	Query: "trogon citreolus" ; Times: 2
+	Query: "Oxyura jamaicensis 1" ; Times: 2
+	Query: "Anthracothorax aurulentus 1" ; Times: 1
+	Query: "Haliaeetus albicilla 1" ; Times: 1
+	Query: "Necrosyrtes monachus 1" ; Times: 1
+	Query: "Oena capensis 1" ; Times: 1
+	Query: "69273" ; Times: 1
+	Query: "Aix sponsa 1" ; Times: 2
+	Query: "gallus sonneratii" ; Times: 1
+	Query: "Amazilia chionopectus 1" ; Times: 2
+	Query: "phaethornis guy (weight )" ; Times: 2
+	Query: "Human" ; Times: 1
+	Query: "circus approximans type:specimen" ; Times: 1
+	Query: "mvz gymnogyps california" ; Times: 2
+	Query: "momotus momota" ; Times: 2
+	Query: "eurostopodus macrotis india" ; Times: 1
+	Query: "Sterna aurantia" ; Times: 2
+	Query: "type:specimen family:Tinamidae AND (male)" ; Times: 1
+	Query: "Numida meleagris 1" ; Times: 2
+	Query: "cuculus micropterus india" ; Times: 1
+	Query: "Centropus grillii" ; Times: 3
+	Query: "egg Louisiana" ; Times: 2
+	Query: "ants" ; Times: 1
+	Query: "type:specimen specificepithet:nigrifrons genus:monasa class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Anas crecca 1" ; Times: 1
+	Query: "Chaetura spinicauda continent:america mappable:1" ; Times: 2
+	Query: "Lagopus lagopus 1" ; Times: 1
+	Query: "&#34;Ardea cinerea&#34; AND weight" ; Times: 1
+	Query: "Crax rubra 1" ; Times: 1
+	Query: "Nyctyornis athertoni" ; Times: 3
+	Query: "vultur gryphus" ; Times: 1
+	Query: "birds cochin" ; Times: 1
+	Query: "batrachostomus moniliger" ; Times: 2
+	Query: "egg murchison" ; Times: 1
+	Query: "panyptila cayennensis continent:america mappable:1" ; Times: 1
+	Query: "type:specimen family:Tinamidae AND (egg)" ; Times: 1
+	Query: "falco peregrinus continent:America" ; Times: 1
+	Query: "Tockus nasutus 1" ; Times: 1
+	Query: "specificepithet:concretus" ; Times: 2
+	Query: "Chloephaga picta 1" ; Times: 2
+	Query: "carpenter egg california" ; Times: 1
+	Query: "Phaethornis guy 1" ; Times: 1
+	Query: "Anas hottentota 1" ; Times: 1
+	Query: "oxyura jamaicensis andina" ; Times: 1
+	Query: "Amazilia cyanocephala 1" ; Times: 1
+	Query: "egg egretta Louisiana" ; Times: 1
+	Query: "Coracias temminckii" ; Times: 1
+	Query: "Eutoxeres aquila 1" ; Times: 1
+	Query: "Deroptyus accipitrinus 1" ; Times: 1
+	Query: "lorius hypoinochrous type:specimen" ; Times: 1
+	Query: "12359" ; Times: 1
+	Query: "Campylopterus largipennis 1" ; Times: 1
+	Query: "numenius tahitiensis" ; Times: 1
+	Query: "Amazilia yucatanensis" ; Times: 1
+	Query: "Columba livia 1" ; Times: 1
+	Query: "NA 1" ; Times: 42
+	Query: "Anas versicolor 1" ; Times: 2
+	Query: "Aquila chrysaetos 1" ; Times: 1
+	Query: "Anthracothorax prevostii 1" ; Times: 2
+	Query: "type:specimen specificepithet:maculirostris genus:selenidera class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "podiceps colorado" ; Times: 1
+	Query: "Anser albifrons 1" ; Times: 2
+	Query: "Chrysolophus pictus 1" ; Times: 2
+	Query: "Cygnus buccinator" ; Times: 4
+	Query: "Adelomyia melanogenys 1" ; Times: 1
+	Query: "Alectoris graeca 1" ; Times: 1
+	Query: "egg bear island" ; Times: 1
+	Query: "podiceps auritus" ; Times: 1
+	Query: "Pavo cristatus 1" ; Times: 1
+	Query: "Melopsittacus undulatus 1" ; Times: 2
+	Query: "Branta canadensis 1" ; Times: 1
+	Query: "Dendragapus canadensis 1" ; Times: 1
+	Query: "Thalurania furcata 1" ; Times: 1
+	Query: "Haematopus bachmani 1" ; Times: 1
+	Query: "Anas bahamensis 1" ; Times: 2
+	Query: "columba elphinstonii" ; Times: 1
+	Query: "14798" ; Times: 1
+	Query: "G. variegatus" ; Times: 1
+	Query: "egg oregon 1922" ; Times: 2
+	Query: "Anas rubripes 1" ; Times: 1
+	Query: "Lesbia nuna 1" ; Times: 1
+	Query: "Threskiornis aethiopicus 1" ; Times: 1
+	Query: "Chlorestes notatus" ; Times: 1
+	Query: "Anas formosa 1" ; Times: 1
+	Query: "Agapornis fischeri 1" ; Times: 2
+	Query: "egg nebraska" ; Times: 1
+	Query: "Platycercus icterotis 1" ; Times: 1
+	Query: "Buteo jamaicensis 1" ; Times: 4
+	Query: "Anthracoceros marchei 1" ; Times: 1
+	Query: "Amazilia saucerrottei 1" ; Times: 1
+	Query: "streptoprocne zonaris continent:America mappable:1" ; Times: 3
+	Query: "Lophura swinhoii 1" ; Times: 1
+	Query: "Anas flavirostris 1" ; Times: 1
+	Query: "Ara ararauna 1" ; Times: 1
+	Query: "Amazilia tzacatl 1" ; Times: 1
+	Query: "Cygnus columbianus 1" ; Times: 1
+	Query: "Psittacula krameri 1" ; Times: 2
+	Query: "eos histrio type:specimen" ; Times: 1
+	Query: "Sula leucogaster type:specimen country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Colinus virginianus 1" ; Times: 6
+	Query: "ensifera ensifera" ; Times: 2
+	Query: "Falco jugger 1" ; Times: 1
+	Query: "Strigops" ; Times: 1
+	Query: "egg bowmanville ontario" ; Times: 1
+	Query: "Cathartes aura 1" ; Times: 1
+	Query: "didunculus" ; Times: 1
+	Query: "locality:Isla Ella country:&#34;argentina&#34;" ; Times: 1
+	Query: "rom 107299" ; Times: 1
+	Query: "urochroa bougueri" ; Times: 1
+	Query: "Rodent is" ; Times: 1
+	Query: "Selasphorus rufus 1" ; Times: 1
+	Query: "caprimulgus nigrescens" ; Times: 1
+	Query: "birds malabar" ; Times: 2
+	Query: "Coracias spatulata" ; Times: 1
+	Query: "Sula leucogaster type:specimen" ; Times: 1
+	Query: "cuculus canorus india" ; Times: 1
+	Query: "Anas discors 1" ; Times: 2
+	Query: "Ardeidae Costa Rica" ; Times: 1
+	Query: "Alopochen aegyptiaca 1" ; Times: 1
+	Query: "Bonasa umbellus 1" ; Times: 2
+	Query: "Colibri thalassinus 1" ; Times: 1
+	Query: "egg rallus san diego" ; Times: 1
+	Query: "Burk Museum" ; Times: 1
+	Query: "Momotus coeruliceps" ; Times: 1
+	Query: "Bucephala clangula 1" ; Times: 1
+	Query: "rollandia microptera" ; Times: 3
+	Query: "cypseloides cryptus class:aves" ; Times: 1
+	Query: "locality:buldir stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Andigena laminirostris" ; Times: 1
+	Query: "Bubo bubo 1" ; Times: 1
+	Query: "Aythya valisineria 1" ; Times: 1
+	Query: "Vireo philadelphicus year &gt;= 1980" ; Times: 1
+	Query: "Aquila rapax 1" ; Times: 1
+	Query: "44736" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 2
+	Query: "falco rufigularis continent:america mappable:1" ; Times: 1
+	Query: "circus maillardi type:specimen" ; Times: 1
+	Query: "Accipiter cooperii 1" ; Times: 2
+	Query: "type:specimen specificepithet:castanotis genus:Pteroglossus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Eudocimus albus 1" ; Times: 1
+	Query: "Parabuteo unicinctus 1" ; Times: 1
+	Query: "Amazilia tobaci 1" ; Times: 1
+	Query: "Grus canadensis 1" ; Times: 2
+	Query: "Merops persicus" ; Times: 1
+	Query: "&#34;Falco tinnunculus&#34; AND weight" ; Times: 1
+	Query: "Penelopina nigra 1" ; Times: 1
+	Query: "9795 class:Aves" ; Times: 1
+	Query: "Falco sparverius 1" ; Times: 1
+	Query: "type:specimen specificepithet:cuvieri genus:Ramphastos class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Psittacula alexandri 1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 811 download events in this period)
+Total number of records downloaded: 741
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: Brazil ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 27
+	Country: Colombia ; Times: 6
+	Country: Thailand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 9
+	Date: 2016-09-12 ; Times: 1
+	Date: 2016-09-11 ; Times: 2
+	Date: 2016-09-10 ; Times: 2
+	Date: 2016-09-08 ; Times: 10
+	Date: 2016-09-14 ; Times: 2
+	Date: 2016-09-05 ; Times: 2
+	Date: 2016-09-06 ; Times: 2
+	Date: 2016-09-07 ; Times: 9
+	Date: 2016-09-01 ; Times: 3
+	Date: 2016-09-02 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "eos histrio type:specimen" ; Times: 1
+	Query: "Anthracothorax dominicus" ; Times: 1
+	Query: "circus maillardi type:specimen" ; Times: 1
+	Query: "streptoprocne zonaris continent:America mappable:1" ; Times: 1
+	Query: "tachornis squamata continent:america mappable:1" ; Times: 1
+	Query: "falco peregrinus continent:america" ; Times: 1
+	Query: "Merops leschenaulti" ; Times: 1
+	Query: "Chaetura spinicauda continent:america mappable:1" ; Times: 1
+	Query: "glaucis hirsuta (weight)" ; Times: 1
+	Query: "urochroa bougueri" ; Times: 1
+	Query: "abeillia abeillei" ; Times: 1
+	Query: "amazilia edward" ; Times: 1
+	Query: "Phaethornis eurynome" ; Times: 1
+	Query: "Sula leucogaster type:specimen country:&#34;Mexico&#34;" ; Times: 2
+	Query: "circus approximans type:specimen" ; Times: 1
+	Query: "phaethornis guy (weight )" ; Times: 1
+	Query: "panyptila cayennensis continent:america mappable:1" ; Times: 1
+	Query: "boissonneaua jardini" ; Times: 1
+	Query: "specificepithet:concretus" ; Times: 1
+	Query: "Heliomaster furcifer" ; Times: 1
+	Query: "lorius hypoinochrous type:specimen" ; Times: 1
+	Query: "locality:Kanuku country:&#34;guyana&#34;" ; Times: 1
+	Query: "cygnus" ; Times: 1
+	Query: "Campylopterus falcatus" ; Times: 1
+	Query: "aves and Guinea type:specimen" ; Times: 1
+	Query: "Coracias temminckii" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "Ardeidae Costa Rica" ; Times: 1
+	Query: "thailand" ; Times: 2
+	Query: "Vireo philadelphicus year &gt;= 1980" ; Times: 1
+	Query: "Cygnus buccinator" ; Times: 1
+	Query: "Coracias spatulata" ; Times: 1
+	Query: "aves and cameroon type:specimen" ; Times: 1
+	Query: "uria aalge type:specimen (alaska) AND (Egg)" ; Times: 1
+	Query: "type:specimen country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Stephanoxis lalandi" ; Times: 1
+	Query: "Merops revoilii" ; Times: 2
+	Query: "circus macrosceles type:specimen" ; Times: 1
+	Query: "Tilmatura dupontii" ; Times: 1
+	Query: "circus assimilis type:specimen" ; Times: 1
+	Query: "Andigena laminirostris" ; Times: 1
+	Query: "Phaethornis pretrei" ; Times: 1
+
+
+End of report.
