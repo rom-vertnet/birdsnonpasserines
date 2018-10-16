@@ -1,0 +1,477 @@
+Report for Institution Code ROM, Resource birdsnonpass
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 534
+Number of records retrieved in searches: 4075
+Number of different countries where searches have been originated: 27
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 30
+	Country: Brazil ; Times: 50
+	Country: Italy ; Times: 60
+	Country: Unknown ; Times: 8
+	Country: Costa Rica ; Times: 4
+	Country: France ; Times: 9
+	Country: Peru ; Times: 2
+	Country: Argentina ; Times: 2
+	Country: Australia ; Times: 2
+	Country: Singapore ; Times: 7
+	Country: China ; Times: 8
+	Country: Thailand ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Spain ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: Turkey ; Times: 1
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 270
+	Country: Sweden ; Times: 7
+	Country: Switzerland ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: India ; Times: 7
+	Country: United Kingdom ; Times: 28
+	Country: Austria ; Times: 9
+	Country: Colombia ; Times: 8
+	Country: Japan ; Times: 1
+	Country: Cyprus ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 5
+	Date: 2018-05-29 ; Times: 12
+	Date: 2018-05-20 ; Times: 14
+	Date: 2018-05-21 ; Times: 13
+	Date: 2018-05-22 ; Times: 2
+	Date: 2018-05-23 ; Times: 9
+	Date: 2018-05-24 ; Times: 19
+	Date: 2018-05-25 ; Times: 6
+	Date: 2018-05-26 ; Times: 6
+	Date: 2018-05-27 ; Times: 10
+	Date: 2018-05-06 ; Times: 14
+	Date: 2018-05-07 ; Times: 47
+	Date: 2018-05-04 ; Times: 11
+	Date: 2018-05-05 ; Times: 1
+	Date: 2018-05-02 ; Times: 33
+	Date: 2018-05-03 ; Times: 10
+	Date: 2018-05-01 ; Times: 28
+	Date: 2018-05-08 ; Times: 18
+	Date: 2018-05-09 ; Times: 6
+	Date: 2018-05-31 ; Times: 8
+	Date: 2018-05-30 ; Times: 9
+	Date: 2018-05-15 ; Times: 64
+	Date: 2018-05-14 ; Times: 15
+	Date: 2018-05-17 ; Times: 27
+	Date: 2018-05-16 ; Times: 47
+	Date: 2018-05-11 ; Times: 6
+	Date: 2018-05-10 ; Times: 13
+	Date: 2018-05-13 ; Times: 26
+	Date: 2018-05-12 ; Times: 9
+	Date: 2018-05-19 ; Times: 35
+	Date: 2018-05-18 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Rhodonessa" ; Times: 1
+	Query: "specificepithet:monachus genus:Myiopsitta mappable:1" ; Times: 1
+	Query: "class:aves country:&#34;mozambique&#34;" ; Times: 1
+	Query: "distance(location,geopoint(43.8214476702145,-91.3120372855))&lt;21629" ; Times: 2
+	Query: "133988" ; Times: 1
+	Query: "rom 30260" ; Times: 1
+	Query: "specificepithet:funereus genus:Aegolius class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "rom 30263" ; Times: 1
+	Query: "vntype:specimen specificepithet:mollissima genus:Somateria country:&#34;usa&#34;" ; Times: 1
+	Query: "class:aves locality:glacier bay stateprovince:&#34;alaska&#34; AND (NOT dixon NOT littlejohn NOT alexander)" ; Times: 1
+	Query: "pygmeus" ; Times: 1
+	Query: "genus:Limosa continent:south america" ; Times: 1
+	Query: "sterna hirundinacea" ; Times: 1
+	Query: "Indicator minor" ; Times: 1
+	Query: "porzana porzana vntype:specimen hastissue:1" ; Times: 1
+	Query: "genus:Tryngites class:Aves institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Phaethornis augusti" ; Times: 1
+	Query: "burhinus superciliaris" ; Times: 3
+	Query: "Agapornis lilianae " ; Times: 19
+	Query: "distance(location,geopoint(42.2832807888075,-83.1083580444698))&lt;9603" ; Times: 1
+	Query: "vntype:specimen locality:MIRAFLORES country:&#34;ARGENTINA&#34;" ; Times: 1
+	Query: "genus:otus country:&#34;china&#34;" ; Times: 1
+	Query: "Phaethornis eurynome" ; Times: 3
+	Query: "Gypaetus barbatus" ; Times: 1
+	Query: "witch" ; Times: 8
+	Query: "Royal Ontario Museum Aves Recent" ; Times: 1
+	Query: "vntype:specimen country:&#34;Bolivia&#34; recordedby:steinbach year &gt;= 1941 month &gt;= 10 month &lt;= 11" ; Times: 1
+	Query: "vntype:specimen specificepithet:hasitata genus:Pterodroma" ; Times: 1
+	Query: "specificepithet:aucklandica genus:Anas institutioncode:ROM" ; Times: 1
+	Query: "Eupetomena macroura" ; Times: 1
+	Query: "distance(location,geopoint(48.485831828,-95.0056130685))&lt;51608" ; Times: 1
+	Query: "class:aves locality:glacier bay stateprovince:&#34;alaska&#34; (NOT kleinschmidt NOT shortt) AND (NOT dixon NOT littlejohn NOT alexander NOT brooks NOT bailey NOT stephens)" ; Times: 1
+	Query: "distance(location,geopoint(43.779212493,-95.2178509615))&lt;17306" ; Times: 2
+	Query: "distance(location,geopoint(43.9584463493511,-95.1858499928992))&lt;39197" ; Times: 1
+	Query: "Psephotus pulcherrimus" ; Times: 7
+	Query: "catalognumber:121173" ; Times: 1
+	Query: "bird eggs nebraska" ; Times: 9
+	Query: "british columbia shrew" ; Times: 1
+	Query: "specificepithet:funereus genus:Aegolius class:Aves institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "distance(location,geopoint(46.9340888008072,-95.7192915126383))&lt;56921" ; Times: 1
+	Query: "specificepithet:striatus genus:Accipiter hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(40.4417059145379,-90.00673221017))&lt;13766" ; Times: 1
+	Query: "aves charadrius montana" ; Times: 1
+	Query: "specificepithet:indicus genus:Anser mappable:1" ; Times: 6
+	Query: "Colaptes auratus rufipileus" ; Times: 5
+	Query: "distance(location,geopoint(45.2821609080001,-95.686562195))&lt;36869" ; Times: 2
+	Query: "rom 43625" ; Times: 1
+	Query: "specificepithet:atroflavus genus:Pogoniulus" ; Times: 1
+	Query: "Chrysolampis mosquitus" ; Times: 1
+	Query: "entomology" ; Times: 1
+	Query: "specificepithet:sponsa genus:Aix mappable:1 year&gt;=2000" ; Times: 1
+	Query: "distance(location,geopoint(44.7957496956751,-91.7467886332316))&lt;28569" ; Times: 2
+	Query: "distance(location,geopoint(44.0205308500001,-83.4492345135))&lt;2766" ; Times: 2
+	Query: "distance(location,geopoint(41.0082879640365,-89.3925110450531))&lt;13315" ; Times: 1
+	Query: "columbina minuta" ; Times: 1
+	Query: "rom 36948" ; Times: 2
+	Query: "buteo jamaicensis harlani" ; Times: 1
+	Query: "rom 38526" ; Times: 1
+	Query: "distance(location,geopoint(45.50675844225,-95.9057693345))&lt;68126" ; Times: 2
+	Query: "ornithology vntype:specimen (skeleton) institutioncode:ROM" ; Times: 1
+	Query: "buteo jamaicensis harlani institutioncode:ROM" ; Times: 1
+	Query: "distance(location,geopoint(46.549969033168,-93.2889456231873))&lt;14587" ; Times: 2
+	Query: "Andaman aves" ; Times: 3
+	Query: "11051" ; Times: 1
+	Query: "rom 38286" ; Times: 1
+	Query: "uropelia campestris arari" ; Times: 1
+	Query: "genus:scolopax country:&#34;china&#34;" ; Times: 1
+	Query: "pileated woodpecker" ; Times: 1
+	Query: "catalognumber:141190 collectioncode:Birds" ; Times: 1
+	Query: "distance(location,geopoint(44.8282772465001,-94.2789839965))&lt;24347" ; Times: 2
+	Query: "dactylortyx thoracicus" ; Times: 2
+	Query: "invertebrates" ; Times: 1
+	Query: "genus:Syrrhaptes institutioncode:ROM" ; Times: 6
+	Query: "distance(location,geopoint(43.5855034415,-88.6414220575))&lt;8668" ; Times: 2
+	Query: "specificepithet:totanus genus:Tringa hastissue:1" ; Times: 4
+	Query: "genus:Pterocles institutioncode:ROM" ; Times: 1
+	Query: "class:aves locality:glacier bay stateprovince:&#34;alaska&#34; AND (NOT dixon NOT littlejohn NOT alexander NOT brooks NOT bailey NOT stephens)" ; Times: 1
+	Query: "37184" ; Times: 1
+	Query: "Phaethornis ruber" ; Times: 2
+	Query: "distance(location,geopoint(46.9340952330001,-95.719205936))&lt;42896" ; Times: 2
+	Query: "10048" ; Times: 2
+	Query: "Anthracothorax viridigula" ; Times: 1
+	Query: "distance(location,geopoint(45.0141512276285,-95.9688083927552))&lt;7555" ; Times: 1
+	Query: "genus:apus country:&#34;china&#34; recordedby:LOUKASHKIN" ; Times: 1
+	Query: "Rhynchortyx" ; Times: 1
+	Query: "distance(location,geopoint(44.89221551525,-95.84415616))&lt;61793" ; Times: 2
+	Query: "&#34;Lake Baringo&#34;" ; Times: 1
+	Query: "specificepithet:nisus genus:Accipiter month &gt;= 6 month &lt;= 9" ; Times: 1
+	Query: "genus:glaucidium country:&#34;china&#34;" ; Times: 3
+	Query: "spider" ; Times: 1
+	Query: "distance(location,geopoint(45.0386038400001,-96.221293923))&lt;30445" ; Times: 2
+	Query: "distance(location,geopoint(46.988734162,-95.625347563))&lt;12690" ; Times: 2
+	Query: "distance(location,geopoint(43.466185122,-93.645471037))&lt;10654" ; Times: 2
+	Query: "vntype:specimen specificepithet:mollissima genus:Somateria country:&#34;usa&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:aucklandica genus:Anas" ; Times: 2
+	Query: "specificepithet:gallopavo genus:Meleagris country:&#34;Mexico&#34; year &gt;= 1890 year &lt;= 1970" ; Times: 1
+	Query: "distance(location,geopoint(47.7460065965,-96.0598279575))&lt;46258" ; Times: 2
+	Query: "minnesota v" ; Times: 1
+	Query: "distance(location,geopoint(40.32824132246,-90.012530480135))&lt;15087" ; Times: 1
+	Query: "Falco cherrug" ; Times: 1
+	Query: "white-breasted nuthatch" ; Times: 1
+	Query: "vntype:specimen specificepithet:alexandri genus:Archilochus country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Florisuga mellivora" ; Times: 1
+	Query: "rom 39802" ; Times: 1
+	Query: "distance(location,geopoint(45.1119865645001,-94.506924154))&lt;30886" ; Times: 2
+	Query: "specificepithet:chilensis genus:Phoenicopterus mappable:1" ; Times: 1
+	Query: "specificepithet:canadensis genus:Branta mappable:1 year&gt;=2000" ; Times: 1
+	Query: "genus:Rallus hastissue:1" ; Times: 2
+	Query: "Leadbeater India" ; Times: 2
+	Query: "36458" ; Times: 1
+	Query: "distance(location,geopoint(37.2278846305001,-89.1481192859999))&lt;20185" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;la paz&#34; country:&#34;bolivia&#34; recordedby:steinbach" ; Times: 1
+	Query: "specificepithet:striatus genus:Accipiter AND (USA) hastissue:1" ; Times: 1
+	Query: "specificepithet:atratus genus:Cygnus mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(43.067916277931,-89.428143815909))&lt;9664" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 1
+	Query: "specificepithet:eupatria genus:Psittacula mappable:1" ; Times: 1
+	Query: "pueh" ; Times: 1
+	Query: "thalasseus maximus skeleton vntype:specimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufus genus:selasphorus country:&#34;mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "aves arari" ; Times: 2
+	Query: "genus:coeligena class:aves country:&#34;Colombia&#34;" ; Times: 1
+	Query: "rom 43059" ; Times: 1
+	Query: "Leadbeater" ; Times: 1
+	Query: "locality:McKay" ; Times: 1
+	Query: "specificepithet:pictus genus:Chrysolophus mappable:1" ; Times: 6
+	Query: "aves yapen" ; Times: 3
+	Query: "class:aves country:&#34;mozambique&#34; year &lt;= 1950 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:aves recordedby:rodgers" ; Times: 1
+	Query: "ephippiorhynchus" ; Times: 1
+	Query: "Lake Baringo" ; Times: 1
+	Query: "distance(location,geopoint(44.3604113495001,-93.3289771619999))&lt;20441" ; Times: 2
+	Query: "distance(location,geopoint(43.6598489215647,-95.6791910181292))&lt;33610" ; Times: 1
+	Query: "aves arari maranhão" ; Times: 1
+	Query: "distance(location,geopoint(39.152078820787,-93.5543637292319))&lt;66104" ; Times: 3
+	Query: "class:aves country:&#34;mozambique&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Andaman osmaston 1906" ; Times: 1
+	Query: "preparations:skin burhinus superciliaris" ; Times: 1
+	Query: "class:aves locality:glacier bay stateprovince:&#34;alaska&#34; (NOT kleinschmidt NOT shortt NOT hasselborg NOT walker) AND (NOT dixon NOT littlejohn NOT alexander NOT brooks NOT bailey NOT stephens) year &gt;= 1800 year &lt;= 1947" ; Times: 1
+	Query: "Cuculus canorus" ; Times: 2
+	Query: "Aphantochroa cirrochloris" ; Times: 1
+	Query: "genus:Rhea" ; Times: 1
+	Query: "skeleton genus:Pterocles institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:reevesii genus:Syrmaticus mappable:1" ; Times: 6
+	Query: "Spizaetus" ; Times: 1
+	Query: "cynanthus sordidus" ; Times: 1
+	Query: "40447" ; Times: 2
+	Query: "distance(location,geopoint(43.1571285953795,-89.428143815909))&lt;9654" ; Times: 1
+	Query: "Colibri serrirostris" ; Times: 2
+	Query: "Campylopterus hyperythrus" ; Times: 2
+	Query: "rom 32995" ; Times: 1
+	Query: "37232" ; Times: 1
+	Query: "class:aves recordedby:boys" ; Times: 1
+	Query: "santa clara county egg vntype:specimen" ; Times: 1
+	Query: "Anarhynchus frontalis" ; Times: 1
+	Query: "specificepithet:pictus genus:Chrysolophus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "peaples" ; Times: 1
+	Query: "Phaethornis pretrei" ; Times: 1
+	Query: "Phaethornis griseogularis" ; Times: 2
+	Query: "distance(location,geopoint(41.115162657804,-89.3887602040832))&lt;14794" ; Times: 1
+	Query: "harpyhaliaetus coronatus" ; Times: 2
+	Query: "Campylopterus largipennis" ; Times: 1
+	Query: "rom 43044" ; Times: 2
+	Query: "mvz gymnogyps california" ; Times: 1
+	Query: "vntype:specimen class:aves locality:esperanza stateprovince:&#34;la paz&#34; country:&#34;bolivia&#34;" ; Times: 1
+	Query: "distance(location,geopoint(43.0969653373316,-93.4336533711819))&lt;29868" ; Times: 1
+	Query: "distance(location,geopoint(45.3941139210832,-96.4433876691735))&lt;48705" ; Times: 1
+	Query: "Palm Beach Zoo" ; Times: 1
+	Query: "rom 41015" ; Times: 1
+	Query: "specificepithet:microsoma order:Procellariiformes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "rom 33160" ; Times: 1
+	Query: "distance(location,geopoint(45.0141613725,-95.721651943))&lt;22000" ; Times: 2
+	Query: "genus:Probosciger country:&#34;Indonesia&#34;" ; Times: 4
+	Query: "rom 38999" ; Times: 1
+	Query: "atthis heloisa" ; Times: 1
+	Query: "distance(location,geopoint(43.0969710040001,-93.433419615))&lt;16732" ; Times: 2
+	Query: "14.2.23.2" ; Times: 2
+	Query: "pyrrhura frontalis" ; Times: 2
+	Query: "rom 28955" ; Times: 1
+	Query: "Impennis" ; Times: 2
+	Query: "distance(location,geopoint(43.4623053706115,-89.3701269216162))&lt;38648" ; Times: 1
+	Query: "specificepithet:mollissima genus:Somateria country:&#34;usa&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:torquata genus:coeligena class:aves country:&#34;Colombia&#34;" ; Times: 1
+	Query: "distance(location,geopoint(45.586172872,-95.9919551615))&lt;27154" ; Times: 2
+	Query: "locality:Lita " ; Times: 1
+	Query: "Lampornis calolaema" ; Times: 1
+	Query: "Columbina talpacoti" ; Times: 1
+	Query: "royal tern" ; Times: 1
+	Query: "impennis" ; Times: 1
+	Query: "specificepithet:moschata genus:Cairina mappable:1" ; Times: 1
+	Query: "rom 27276" ; Times: 1
+	Query: "claravis mondetoura" ; Times: 1
+	Query: "rom 34429" ; Times: 1
+	Query: "lizards" ; Times: 2
+	Query: "rom 27279" ; Times: 1
+	Query: "Agapornis nigrigenis" ; Times: 1
+	Query: "Andaman 1906" ; Times: 1
+	Query: "specificepithet:varia genus:strix hastissue:1" ; Times: 4
+	Query: "&#34;Cochlearius cochlearius&#34; preparations:skeleton" ; Times: 2
+	Query: "&#34;Agamia agami&#34; preparations:skeleton" ; Times: 1
+	Query: "distance(location,geopoint(45.4726993784101,-93.738240342895))&lt;25496" ; Times: 1
+	Query: "specificepithet:funereus genus:Aegolius class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "chinchilla" ; Times: 1
+	Query: "rom 43071" ; Times: 1
+	Query: "class:aves locality:glacier bay stateprovince:&#34;alaska&#34; (NOT kleinschmidt NOT shortt NOT hasselborg NOT walker NOT jewett) AND (NOT dixon NOT littlejohn NOT alexander NOT brooks NOT bailey NOT stephens) year &gt;= 1800 year &lt;= 1947" ; Times: 1
+	Query: "catalognumber:95077" ; Times: 1
+	Query: "specificepithet:barbara genus:Alectoris mappable:1" ; Times: 6
+	Query: "rom 38665" ; Times: 1
+	Query: "institutioncode:ROM" ; Times: 2
+	Query: "genus:heliodoxa" ; Times: 1
+	Query: "specificepithet:formosa class:Aves institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Phaethornis malaris" ; Times: 2
+	Query: "class:aves country:&#34;mozambique&#34; year &gt;= 1950 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "distance(location,geopoint(45.0141512276285,-95.808063154572))&lt;8289" ; Times: 1
+	Query: "distance(location,geopoint(43.7499802595001,-88.6469025154999))&lt;13262" ; Times: 2
+	Query: "rom 41476" ; Times: 1
+	Query: "brown bear" ; Times: 2
+	Query: "27634" ; Times: 1
+	Query: "columba plumbea" ; Times: 3
+	Query: "distance(location,geopoint(43.9584544995,-95.1857501855))&lt;25378" ; Times: 2
+	Query: "pygmeus India" ; Times: 1
+	Query: "Doryfera johannae" ; Times: 2
+	Query: "NMV" ; Times: 1
+	Query: "fannin" ; Times: 1
+	Query: "DM 7774" ; Times: 2
+	Query: "celeus flavescens" ; Times: 1
+	Query: "distance(location,geopoint(45.5426280460001,-94.638845168))&lt;45992" ; Times: 2
+	Query: "distance(location,geopoint(44.707048188,-95.953677021))&lt;41601" ; Times: 2
+	Query: "44963" ; Times: 1
+	Query: "Pazos" ; Times: 1
+	Query: "Gampsonyx skeleton vntype:specimen" ; Times: 1
+	Query: "columba plumbea bogotensis" ; Times: 1
+	Query: "Pharomachrus" ; Times: 18
+	Query: "distance(location,geopoint(45.5861773815354,-95.991834180909))&lt;41308" ; Times: 1
+	Query: "A. G. Burr" ; Times: 1
+	Query: "alectoris rufa" ; Times: 1
+	Query: "catalognumber:9932" ; Times: 1
+	Query: "vntype:specimen (dove wing)" ; Times: 1
+	Query: "rom 28542" ; Times: 1
+	Query: "lampornis calolaema" ; Times: 4
+	Query: "specificepithet:caerulescens genus:Anser mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(40.3259339471276,-90.0988653032703))&lt;18259" ; Times: 1
+	Query: "rom 41463" ; Times: 2
+	Query: "decapods" ; Times: 2
+	Query: "rom 43084" ; Times: 1
+	Query: "distance(location,geopoint(42.186861331453,-83.1081271922452))&lt;9629" ; Times: 1
+	Query: "urubitinga" ; Times: 1
+	Query: "Reed warbler country:&#34;United Kingdom&#34; continent:Europe" ; Times: 2
+	Query: "Psittacula Andaman" ; Times: 1
+	Query: "family:charadriidae country:&#34;china&#34; recordedby:loukashkin" ; Times: 1
+	Query: "distance(location,geopoint(43.5032331415001,-95.747594044))&lt;52150" ; Times: 2
+	Query: "rom 44376" ; Times: 1
+	Query: "genus:anas country:&#34;china&#34; recordedby:loukashkin" ; Times: 1
+	Query: "specificepithet:gallopavo genus:Meleagris country:&#34;Mexico&#34; year &gt;= 1850 year &lt;= 1970" ; Times: 1
+	Query: "Psittacula krameri mappable:1" ; Times: 1
+	Query: "genus:Picoides year &gt;= 1882 year &lt;= 1882" ; Times: 1
+	Query: "tringa totanus" ; Times: 3
+	Query: "distance(location,geopoint(43.198280134,-93.665024173))&lt;9598" ; Times: 2
+	Query: "catalognumber:9219" ; Times: 1
+	Query: "aves maranhao arari" ; Times: 1
+	Query: "rom 38981" ; Times: 1
+	Query: "distance(location,geopoint(42.0904418740985,-83.1130695620183))&lt;9302" ; Times: 1
+	Query: "genus:Probosciger" ; Times: 1
+	Query: "blue shark" ; Times: 2
+	Query: "Passenger pigeon" ; Times: 1
+	Query: "9219 ornithology" ; Times: 2
+	Query: "Phaethornis superciliosus" ; Times: 1
+	Query: "vntype:specimen specificepithet:hasitata genus:Pterodroma institutioncode:ROM" ; Times: 1
+	Query: "Colibri delphinae" ; Times: 1
+	Query: "specificepithet:japonica genus:Coturnix mappable:1 year&gt;=2000" ; Times: 1
+	Query: "distance(location,geopoint(39.070019590351,-93.3608964360506))&lt;77242" ; Times: 3
+	Query: "specificepithet:americana genus:Rhea mappable:1" ; Times: 1
+	Query: "35076" ; Times: 1
+	Query: "specificepithet:aterrimus genus:Probosciger" ; Times: 1
+	Query: "aves maranhão" ; Times: 2
+	Query: "distance(location,geopoint(45.7550869125,-85.5708632605))&lt;22392" ; Times: 2
+	Query: "specificepithet:gallopavo genus:Meleagris mappable:1 year&gt;=2000" ; Times: 1
+	Query: "aves maranhao" ; Times: 1
+	Query: "ROM 111106" ; Times: 1
+	Query: "distance(location,geopoint(43.2547916795001,-94.2313004395))&lt;32280" ; Times: 2
+	Query: "distance(location,geopoint(43.749976328584,-88.6470217159059))&lt;26905" ; Times: 1
+	Query: "otis tarda" ; Times: 1
+	Query: "specificepithet:philippensis genus:Pelecanus" ; Times: 1
+	Query: "laterallus jamaicensis" ; Times: 1
+	Query: "distance(location,geopoint(39.2341380512235,-93.5623870643903))&lt;65495" ; Times: 3
+	Query: "specificepithet:impennis" ; Times: 1
+	Query: "Colaptes rufipileus" ; Times: 2
+	Query: "rom 38005" ; Times: 1
+	Query: "Falco peregrinus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Eurynorhynchus pygmeus" ; Times: 1
+	Query: "distance(location,geopoint(42.7928688510001,-88.9497216725))&lt;13745" ; Times: 2
+	Query: "distance(location,geopoint(44.8004086755001,-95.0160474075))&lt;38370" ; Times: 2
+	Query: "mimosa" ; Times: 1
+	Query: "class:aves locality:glacier bay stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "distance(location,geopoint(44.7957518880001,-91.7466035155))&lt;14610" ; Times: 2
+	Query: "Agamia agami" ; Times: 1
+	Query: "Aegolius harrisii" ; Times: 2
+	Query: "speotyto cunicularia" ; Times: 1
+	Query: "specificepithet:cupido class:Aves institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "ROM 11679" ; Times: 2
+	Query: "Phaethornis squalidus" ; Times: 2
+	Query: "vntype:specimen class:Aves country:&#34;Vietnam&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aythya collaris hastissue:1" ; Times: 2
+	Query: "class:aves locality:glacier bay stateprovince:&#34;alaska&#34; (NOT kleinschmidt NOT shortt NOT hasselborg NOT walker) AND (NOT dixon NOT littlejohn NOT alexander NOT brooks NOT bailey NOT stephens)" ; Times: 1
+	Query: "Gypaetus" ; Times: 1
+	Query: "rom 32597" ; Times: 1
+	Query: "specificepithet:aethiopicus genus:Threskiornis mappable:1" ; Times: 6
+	Query: "specificepithet:krameri genus:Psittacula mappable:1" ; Times: 6
+	Query: "institutioncode:rom" ; Times: 1
+	Query: "iridescens" ; Times: 1
+	Query: "specificepithet:virginianus genus:Colinus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "39454" ; Times: 1
+	Query: "distance(location,geopoint(42.212541833,-83.139158085))&lt;3263" ; Times: 2
+	Query: "distance(location,geopoint(38.823841899042,-90.7090116510005))&lt;58590" ; Times: 1
+	Query: "specificepithet:paradisaea genus:Sterna recordedby:Palsson" ; Times: 1
+	Query: "specificepithet:galericulata genus:Aix mappable:1" ; Times: 7
+	Query: "distance(location,geopoint(45.259052436225,-93.979293029214))&lt;21143" ; Times: 2
+	Query: "specificepithet:carolinensis genus:Conuropsis" ; Times: 1
+	Query: "amazilia yucatanensis" ; Times: 2
+	Query: "rom 39909" ; Times: 1
+	Query: "specificepithet:japonica genus:Coturnix mappable:1" ; Times: 1
+	Query: "genus:syrrhaptes country:&#34;china&#34;" ; Times: 1
+	Query: "Chlorostilbon mellisugus" ; Times: 1
+	Query: "wolves" ; Times: 1
+	Query: "rom 37983" ; Times: 1
+	Query: "locality:Medicine Hat institutioncode:ROM" ; Times: 1
+	Query: "rom 37985" ; Times: 1
+	Query: "&#34;Cochlearius cochlearius&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 1178 download events in this period)
+Total number of records downloaded: 5594
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 25
+	Country: Austria ; Times: 8
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 1
+	Date: 2018-05-15 ; Times: 2
+	Date: 2018-05-04 ; Times: 1
+	Date: 2018-05-16 ; Times: 5
+	Date: 2018-05-02 ; Times: 3
+	Date: 2018-05-03 ; Times: 5
+	Date: 2018-05-01 ; Times: 2
+	Date: 2018-05-17 ; Times: 4
+	Date: 2018-05-09 ; Times: 2
+	Date: 2018-05-29 ; Times: 1
+	Date: 2018-05-10 ; Times: 2
+	Date: 2018-05-11 ; Times: 2
+	Date: 2018-05-22 ; Times: 2
+	Date: 2018-05-23 ; Times: 5
+	Date: 2018-05-24 ; Times: 1
+	Date: 2018-05-31 ; Times: 1
+	Date: 2018-05-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:apus country:&#34;china&#34; recordedby:LOUKASHKIN" ; Times: 1
+	Query: "ara ararauna" ; Times: 2
+	Query: "genus:glaucidium country:&#34;china&#34;" ; Times: 1
+	Query: "specificepithet:striatus genus:Accipiter AND (USA) hastissue:1" ; Times: 2
+	Query: "genus:anas country:&#34;china&#34; recordedby:loukashkin" ; Times: 1
+	Query: "specificepithet:aucklandica genus:Anas" ; Times: 1
+	Query: "specificepithet:gallopavo genus:Meleagris country:&#34;Mexico&#34; year &gt;= 1890 year &lt;= 1970" ; Times: 1
+	Query: "Columbina passerina" ; Times: 1
+	Query: "class:aves preparations:skin distance(location,geopoint(37.861844098370945,-122.04025268554688))&lt;80690" ; Times: 2
+	Query: "gulf of california class:aves year &lt;= 1960" ; Times: 1
+	Query: "vntype:specimen specificepithet:alexandri genus:Archilochus country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:otus country:&#34;china&#34;" ; Times: 1
+	Query: "Falco peregrinus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Rallus hastissue:1" ; Times: 1
+	Query: "Hybrid vntype:specimen class:Aves" ; Times: 1
+	Query: "family:charadriidae country:&#34;china&#34; recordedby:loukashkin" ; Times: 1
+	Query: "specificepithet:varia genus:strix hastissue:1" ; Times: 1
+	Query: "&#34;Cochlearius cochlearius&#34; preparations:skeleton" ; Times: 1
+	Query: "vntype:specimen country:&#34;Bolivia&#34; recordedby:steinbach year &gt;= 1941 month &gt;= 10 month &lt;= 11" ; Times: 1
+	Query: "class:Aves preparations:skin distance(location,geopoint(37.85750715625203,-121.9866943359375))&lt;28430.074091808372" ; Times: 1
+	Query: "Columbina talpacoti" ; Times: 1
+	Query: "vntype:specimen specificepithet:rhami genus:lamprolaima country:&#34;mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Colaptes auratus rufipileus" ; Times: 1
+	Query: "specificepithet:anna genus:Calypte" ; Times: 1
+	Query: "preparations:skin burhinus superciliaris" ; Times: 1
+	Query: "genus:syrrhaptes country:&#34;china&#34;" ; Times: 1
+	Query: "columbina minuta" ; Times: 1
+	Query: "cynanthus sordidus" ; Times: 1
+	Query: "class:Aves hastissue:1" ; Times: 1
+	Query: "class:Aves preparations:skin distance(location,geopoint(37.85750715625203,-121.9866943359375))&lt;45119" ; Times: 1
+	Query: "specificepithet:anna genus:Calypte preparations:Nest" ; Times: 1
+	Query: "Pazos" ; Times: 1
+	Query: "genus:scolopax country:&#34;china&#34;" ; Times: 1
+	Query: "pileated woodpecker" ; Times: 1
+	Query: "puffinus creatopus" ; Times: 1
+	Query: "specificepithet:pulchellus genus:nettapus" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufus genus:selasphorus country:&#34;mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:mollissima genus:Somateria" ; Times: 1
+	Query: "Aegolius harrisii" ; Times: 1
+
+
+End of report.
