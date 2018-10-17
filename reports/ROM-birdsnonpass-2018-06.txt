@@ -1,0 +1,390 @@
+Report for Institution Code ROM, Resource birdsnonpass
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 429
+Number of records retrieved in searches: 2168
+Number of different countries where searches have been originated: 25
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 17
+	Country: Canada ; Times: 6
+	Country: Italy ; Times: 3
+	Country: Solomon Islands ; Times: 1
+	Country: Unknown ; Times: 21
+	Country: France ; Times: 4
+	Country: Slovakia ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 4
+	Country: Venezuela ; Times: 2
+	Country: Ecuador ; Times: 24
+	Country: Australia ; Times: 77
+	Country: Singapore ; Times: 4
+	Country: China ; Times: 15
+	Country: Germany ; Times: 4
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 183
+	Country: New Zealand ; Times: 10
+	Country: Russia ; Times: 5
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 15
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 21
+	Country: Colombia ; Times: 6
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 24
+	Date: 2018-06-06 ; Times: 23
+	Date: 2018-06-05 ; Times: 33
+	Date: 2018-06-04 ; Times: 4
+	Date: 2018-06-03 ; Times: 9
+	Date: 2018-06-28 ; Times: 15
+	Date: 2018-06-01 ; Times: 13
+	Date: 2018-06-25 ; Times: 59
+	Date: 2018-06-24 ; Times: 5
+	Date: 2018-06-27 ; Times: 7
+	Date: 2018-06-26 ; Times: 6
+	Date: 2018-06-21 ; Times: 32
+	Date: 2018-06-20 ; Times: 14
+	Date: 2018-06-09 ; Times: 4
+	Date: 2018-06-08 ; Times: 17
+	Date: 2018-06-23 ; Times: 6
+	Date: 2018-06-22 ; Times: 27
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-11 ; Times: 13
+	Date: 2018-06-12 ; Times: 12
+	Date: 2018-06-13 ; Times: 11
+	Date: 2018-06-14 ; Times: 4
+	Date: 2018-06-15 ; Times: 16
+	Date: 2018-06-16 ; Times: 10
+	Date: 2018-06-17 ; Times: 3
+	Date: 2018-06-18 ; Times: 15
+	Date: 2018-06-19 ; Times: 26
+	Date: 2018-06-30 ; Times: 10
+	Date: 2018-06-29 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "A. bernieri" ; Times: 2
+	Query: "order:Strigiformes class:Aves year &gt;= 1800 year &lt;= 1969 basisofrecord:PreservedSpecimen distance(location,geopoint(35.82273883574265,-116.43670516153338))&lt;145986" ; Times: 1
+	Query: "distance(location,geopoint(43.5412602229842,-93.635249322547))&lt;19715" ; Times: 1
+	Query: "catalognumber:66171" ; Times: 1
+	Query: "vntype:specimen specificepithet:heloisa genus:atthis country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "(Jacutinga)" ; Times: 2
+	Query: "sterna hirundinacea" ; Times: 4
+	Query: "mallard" ; Times: 1
+	Query: "distance(location,geopoint(45.1119776310102,-94.507046023876))&lt;45034" ; Times: 1
+	Query: "specificepithet:totanus genus:tringa hastissue:1" ; Times: 1
+	Query: "Agapornis lilianae " ; Times: 16
+	Query: "Mesitornis variegata" ; Times: 2
+	Query: "wood duck" ; Times: 1
+	Query: "South toe north carolina" ; Times: 2
+	Query: "catalognumber:33306" ; Times: 1
+	Query: "133939" ; Times: 3
+	Query: "nyctibius" ; Times: 1
+	Query: "aves arari" ; Times: 1
+	Query: "laterallus jamaicensis" ; Times: 2
+	Query: "ROM 16805" ; Times: 1
+	Query: "bird eggs nebraska" ; Times: 2
+	Query: "specificepithet:podiceps genus:Podilymbus year &gt;= 1960 year &lt;= 1965" ; Times: 1
+	Query: "distance(location,geopoint(45.812200598155,-85.207397670422))&lt;10165" ; Times: 1
+	Query: "johannae" ; Times: 2
+	Query: "egg alaska 1898" ; Times: 2
+	Query: "catalognumber:16943" ; Times: 1
+	Query: "specificepithet:podiceps genus:Podilymbus year &gt;= 1960 year &lt;= 1962" ; Times: 1
+	Query: "ac-294" ; Times: 1
+	Query: "dragonfly" ; Times: 2
+	Query: "clangula hyemalis egg iceland" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Pinguinus impennis )" ; Times: 1
+	Query: "specificepithet:obsoletus genus:Rallus" ; Times: 1
+	Query: "distance(location,geopoint(44.0205215254591,-83.4491953173319))&lt;16895" ; Times: 1
+	Query: "aves arari maranhão" ; Times: 1
+	Query: "Pyrrhura" ; Times: 2
+	Query: "Black bear" ; Times: 1
+	Query: "distance(location,geopoint(43.990674911811,-88.7744394389554))&lt;16702" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Tribonyx mortierii )" ; Times: 1
+	Query: "16262" ; Times: 1
+	Query: "ROM 112197" ; Times: 3
+	Query: "MVZ 21452" ; Times: 2
+	Query: "pond turtle" ; Times: 1
+	Query: "himantopus novaezelandiae" ; Times: 4
+	Query: "francolinus (skeleton)" ; Times: 5
+	Query: "distance(location,geopoint(45.0186511975549,-94.162894036879))&lt;22087" ; Times: 1
+	Query: "laterallus" ; Times: 5
+	Query: "(Manitoba OR Ontario OR Quebec OR New Brunswick OR Nova Scotia OR Newfoundland OR Labrador)" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "uropelia campestris arari" ; Times: 1
+	Query: "Procellaria parkinsoni" ; Times: 2
+	Query: "calabasas" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Strigops habroptilus)" ; Times: 1
+	Query: "specificepithet:harpyja genus:Harpia" ; Times: 3
+	Query: "nothocercus" ; Times: 1
+	Query: "poling" ; Times: 1
+	Query: "Rhododendron" ; Times: 1
+	Query: "aves maranhão" ; Times: 1
+	Query: "Tachyeres patachonicus" ; Times: 1
+	Query: "vntype:specimen specificepithet:sordidus genus:cynanthus country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "atlantisia" ; Times: 4
+	Query: "hastissue:1 tringa totanus" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:taylor year &gt;= 1922 year &lt;= 1922 month &gt;= 11 month &lt;= 11" ; Times: 1
+	Query: "birds angola 19* distance(location,geopoint(-12.372101437805624,17.607421875))&lt;2443564" ; Times: 1
+	Query: "stateprovince:&#34;Himachal&#34; country:&#34;India&#34;" ; Times: 1
+	Query: "specificepithet:aucklandica genus:Anas" ; Times: 3
+	Query: "ROM 26536" ; Times: 1
+	Query: "distance(location,geopoint(44.8282743318785,-94.2790539204441))&lt;38517" ; Times: 1
+	Query: "Aratinga pertinax" ; Times: 1
+	Query: "melanerpes chrysogenys" ; Times: 2
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "genus:Rallus hastissue:1" ; Times: 2
+	Query: "mvz AND gymnogyps AND california" ; Times: 2
+	Query: "melanerpes pygmaeus" ; Times: 1
+	Query: "11605" ; Times: 1
+	Query: "cleckley" ; Times: 1
+	Query: "aburria jacutinga" ; Times: 1
+	Query: "thalasseus maximus" ; Times: 3
+	Query: "Struthio molybdophanes" ; Times: 1
+	Query: "vntype:specimen specificepithet:harpyja genus:Harpia" ; Times: 1
+	Query: "basilan birds" ; Times: 2
+	Query: "vntype:specimen preparations:skin (moa)" ; Times: 1
+	Query: "worthen 1884" ; Times: 1
+	Query: "distance(location,geopoint(43.34210307502,-93.6497951211712))&lt;21693" ; Times: 1
+	Query: "Crax rubra" ; Times: 6
+	Query: "body mass" ; Times: 1
+	Query: "white tail deer" ; Times: 1
+	Query: "atlantisia rogersi" ; Times: 1
+	Query: "witch" ; Times: 14
+	Query: "vntype:specimen preparations:skin (Phalacrocorax harrisi )" ; Times: 1
+	Query: "gbifdatasetid:136560fa-9eb9-492f-866e-5bd110c52f74" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Fulica gigantea)" ; Times: 1
+	Query: "Struthio camelus" ; Times: 2
+	Query: "Spizaetus" ; Times: 1
+	Query: "Diptera" ; Times: 1
+	Query: "distance(location,geopoint(44.954125234549,-93.1744568655617))&lt;12380" ; Times: 1
+	Query: "claravis mondetoura" ; Times: 1
+	Query: "ortalis canicollis" ; Times: 1
+	Query: "seahorse" ; Times: 1
+	Query: "68899" ; Times: 1
+	Query: "eupetomena" ; Times: 1
+	Query: "peregrine falcon" ; Times: 1
+	Query: "wood frog" ; Times: 1
+	Query: "21294" ; Times: 1
+	Query: "locality:sudest" ; Times: 1
+	Query: "36384`1" ; Times: 1
+	Query: "specificepithet:gallus genus:Gallus preparations:skeleton" ; Times: 2
+	Query: "Ognorhynchus icterotis" ; Times: 3
+	Query: "class:Aves stateprovince:&#34;Maranhão&#34;" ; Times: 1
+	Query: "Diomedea exulans" ; Times: 2
+	Query: "puffinus elegans" ; Times: 1
+	Query: "numenius borealis vntype:specimen" ; Times: 4
+	Query: "class:aves catalognumber:29304" ; Times: 1
+	Query: "98464" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "19696" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufus genus:selasphorus country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "archaeological" ; Times: 1
+	Query: "Harpia" ; Times: 1
+	Query: "16088 vntype:specimen collectioncode:birds" ; Times: 1
+	Query: "specificepithet:rufigularis genus:Falco" ; Times: 1
+	Query: "rom 37617" ; Times: 2
+	Query: "catalognumber:33281 institutioncode:ROM" ; Times: 2
+	Query: "class:aves catalognumber:36107" ; Times: 1
+	Query: "class:aves recordedby:laing year &gt;= 1925 year &lt;= 1925" ; Times: 2
+	Query: "rom 44291" ; Times: 1
+	Query: "vntype:specimen (Casuarius casuarius)" ; Times: 1
+	Query: "basilan" ; Times: 1
+	Query: "16088 vntype:specimen" ; Times: 1
+	Query: "Phlogophilus hemileucurus" ; Times: 2
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Apteryx haastii)" ; Times: 1
+	Query: "grey wolf" ; Times: 2
+	Query: "vntype:specimen order:Galliformes institutioncode:ROM hastissue:1" ; Times: 1
+	Query: "haliaeetus leucocephalus" ; Times: 1
+	Query: "distance(location,geopoint(45.2768308818963,-93.7703836750571))&lt;20247" ; Times: 1
+	Query: "institutioncode:ROM" ; Times: 2
+	Query: "bolivianus" ; Times: 1
+	Query: "Egretta intermedia" ; Times: 1
+	Query: "genus:Ninox class:Aves country:&#34;Solomon&#34;" ; Times: 1
+	Query: "distance(location,geopoint(43.234007768888,-93.6727266167564))&lt;19735" ; Times: 1
+	Query: "Bay Minette" ; Times: 1
+	Query: "specificepithet:harpyja genus:Harpia preparations:skin" ; Times: 1
+	Query: "Mackay Ardea" ; Times: 1
+	Query: "brown bear" ; Times: 1
+	Query: "15540" ; Times: 1
+	Query: "specificepithet:rufa genus:sarothrura collectioncode:birds" ; Times: 1
+	Query: "Wolves" ; Times: 1
+	Query: "class:Aves catalognumber:31381" ; Times: 3
+	Query: "vntype:specimen preparations:skin (Atlantisia rogersi)" ; Times: 1
+	Query: "specificepithet:buckleyi " ; Times: 1
+	Query: "vntype:specimen specificepithet:heloisa genus:Atthis country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen class:Aves catalognumber:35343" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Anas nesiotis)" ; Times: 1
+	Query: "specificepithet:podiceps genus:Podilymbus year &gt;= 1960 year &lt;= 1963" ; Times: 1
+	Query: "numenius borealis" ; Times: 77
+	Query: "cerulean" ; Times: 1
+	Query: "Aegolius harrisii harrisii" ; Times: 1
+	Query: "Fulica armillata" ; Times: 1
+	Query: "geotrygon purpurata" ; Times: 2
+	Query: "grallaria" ; Times: 1
+	Query: "Rollandia rolland chilensis" ; Times: 1
+	Query: "ROM 30426" ; Times: 1
+	Query: "42139-1" ; Times: 1
+	Query: "Rollandia rolland rolland" ; Times: 2
+	Query: "frogs" ; Times: 1
+	Query: "class:aves locality:glacier stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "class:Aves locality:Coonoor basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "diardi" ; Times: 1
+	Query: "caprimulgus longirostris" ; Times: 1
+	Query: "lamu aves" ; Times: 2
+	Query: "specificepithet:chrysoides genus:Colaptes AND (mearnsi)" ; Times: 1
+	Query: "tringa totanus" ; Times: 2
+	Query: "nothocercus bonapartei" ; Times: 2
+	Query: "vntype:specimen preparations:skin (Gallirallus australis)" ; Times: 1
+	Query: "black tail deer" ; Times: 1
+	Query: "298+785" ; Times: 1
+	Query: "black bear" ; Times: 6
+	Query: "GREY WOLF" ; Times: 1
+	Query: "locality:Nicholson country:&#34;Zealand&#34;" ; Times: 3
+	Query: "vntype:specimen specificepithet:femoralis genus:Falco basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:mexicanus genus:himantopus hastissue:1" ; Times: 1
+	Query: "chlorostilbon canivetii" ; Times: 4
+	Query: "puffin" ; Times: 2
+	Query: "MVZ 4736" ; Times: 1
+	Query: "28940" ; Times: 1
+	Query: "haight" ; Times: 1
+	Query: "pogoniulus pusillus" ; Times: 1
+	Query: "39043" ; Times: 3
+	Query: "156142" ; Times: 1
+	Query: "39047" ; Times: 1
+	Query: "vntype:specimen specificepithet:alexandri genus:archilochus country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "worthen labrador" ; Times: 1
+	Query: "Aramides wolfi" ; Times: 5
+	Query: "country:&#34;Kuwait&#34;" ; Times: 1
+	Query: "anas chlorotis" ; Times: 2
+	Query: "guantanamo bay class:aves country:&#34;cuba&#34;" ; Times: 1
+	Query: "Numenius tenuirostris" ; Times: 2
+	Query: "villosus new york" ; Times: 1
+	Query: "specificepithet:podiceps genus:Podilymbus year &gt;= 1956 year &lt;= 1957" ; Times: 1
+	Query: "distance(location,geopoint(45.7550856505649,-85.6091847628693))&lt;33017" ; Times: 2
+	Query: "anthracinus" ; Times: 3
+	Query: "himantopus himantopus leucocephalus year &lt;= 1950" ; Times: 3
+	Query: "Geotrygon purpurata" ; Times: 5
+	Query: "vntype:specimen preparations:skin (Eudyptes schlegeli)" ; Times: 1
+	Query: "MVZ 36507" ; Times: 3
+	Query: "class:Aves (15540)" ; Times: 1
+	Query: "Momotus lessonii" ; Times: 2
+	Query: "catalognumber:18721" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+	Query: "distance(location,geopoint(43.4501983811515,-93.6453331894598))&lt;21259" ; Times: 1
+	Query: "Rollandia rolland" ; Times: 1
+	Query: "amazilia yucatanensis" ; Times: 1
+	Query: "melanerpes rubricapillus vntype:specimen" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; year &gt;= 1922 year &lt;= 1922 month &gt;= 11 month &lt;= 11" ; Times: 1
+	Query: "specificepithet:discors genus:Anas year &gt;= 1956 year &lt;= 1957" ; Times: 1
+	Query: "Black Bear" ; Times: 1
+	Query: "tachyeres" ; Times: 1
+	Query: "wolves" ; Times: 3
+	Query: "locality:Medicine Hat institutioncode:ROM" ; Times: 1
+	Query: "class:Aves (33324)" ; Times: 1
+	Query: "CBG 806" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 77 (out of 1169 download events in this period)
+Total number of records downloaded: 11745
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: United States ; Times: 45
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Argentina ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Ecuador ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-08 ; Times: 6
+	Date: 2018-06-06 ; Times: 7
+	Date: 2018-06-05 ; Times: 10
+	Date: 2018-06-07 ; Times: 10
+	Date: 2018-06-11 ; Times: 4
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-04 ; Times: 3
+	Date: 2018-06-29 ; Times: 1
+	Date: 2018-06-02 ; Times: 1
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-19 ; Times: 10
+	Date: 2018-06-18 ; Times: 3
+	Date: 2018-06-03 ; Times: 2
+	Date: 2018-06-27 ; Times: 4
+	Date: 2018-06-22 ; Times: 2
+	Date: 2018-06-21 ; Times: 2
+	Date: 2018-06-23 ; Times: 1
+	Date: 2018-06-15 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "grey wolf" ; Times: 2
+	Query: "sea otter" ; Times: 2
+	Query: "vntype:specimen specificepithet:lucifer genus:Calothorax country:&#34;México&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "county:&#34;pierce&#34; stateprovince:&#34;washington&#34; continent:North America" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Maranhão&#34;" ; Times: 1
+	Query: "lemming" ; Times: 1
+	Query: "black tail deer" ; Times: 2
+	Query: "order:Strigiformes class:Aves year &gt;= 1800 year &lt;= 1969 basisofrecord:PreservedSpecimen distance(location,geopoint(35.82273883574265,-116.43670516153338))&lt;145986" ; Times: 1
+	Query: "Aechmophorus occidentalis" ; Times: 3
+	Query: "grey fox" ; Times: 1
+	Query: "GREY WOLF" ; Times: 1
+	Query: "chihuahua" ; Times: 2
+	Query: "order:Strigiformes" ; Times: 1
+	Query: "order:Strigiformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(36.635854298283164,-118.19603989720218))&lt;471504" ; Times: 1
+	Query: "red fox" ; Times: 1
+	Query: "frog" ; Times: 1
+	Query: "Phlogophilus hemileucurus" ; Times: 1
+	Query: "pond turtle" ; Times: 1
+	Query: "melanerpes chrysogenys" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "wood frog" ; Times: 1
+	Query: "white tail deer" ; Times: 1
+	Query: "order:Accipitriformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(36.635854298283164,-118.19603989720218))&lt;471504" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "Crax rubra" ; Times: 1
+	Query: "Egretta intermedia" ; Times: 1
+	Query: "order:Columbiformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(36.635854298283164,-118.19603989720218))&lt;471504" ; Times: 1
+	Query: "caprimulgus longirostris" ; Times: 1
+	Query: "blue jay" ; Times: 2
+	Query: "atlantisia rogersi" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 7
+	Query: "class:Aves stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:costae genus:Calypte country:&#34;México&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "oregon" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "Spizaetus" ; Times: 2
+	Query: "himantopus himantopus leucocephalus year &lt;= 1950" ; Times: 1
+	Query: "wolves" ; Times: 1
+	Query: "order:Galliformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(36.635854298283164,-118.19603989720218))&lt;471504" ; Times: 1
+	Query: "penguin" ; Times: 2
+	Query: "Podiceps grisegena" ; Times: 1
+	Query: "picoides arcticus" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "vntype:specimen specificepithet:heloisa genus:Atthis country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "barn owl" ; Times: 1
+	Query: "hasmass:1" ; Times: 1
+	Query: "black bear" ; Times: 4
+	Query: "puffin" ; Times: 1
+	Query: "numenius borealis" ; Times: 3
+	Query: "order:Falconiformes" ; Times: 1
+	Query: "Aegolius harrisii harrisii" ; Times: 1
+	Query: "Aves class:Aves country:&#34;Colombia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "orca" ; Times: 2
+	Query: "Microtus" ; Times: 1
+	Query: "wood frog continent:North America" ; Times: 1
+	Query: "Gaviidae" ; Times: 1
+
+
+End of report.
