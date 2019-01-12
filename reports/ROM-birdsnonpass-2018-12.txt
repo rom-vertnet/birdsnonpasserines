@@ -1,0 +1,387 @@
+Report for Institution Code ROM, Resource birdsnonpass
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 464
+Number of records retrieved in searches: 5715
+Number of different countries where searches have been originated: 25
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 26
+	Country: Canada ; Times: 9
+	Country: Italy ; Times: 2
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 38
+	Country: Peru ; Times: 13
+	Country: Argentina ; Times: 1
+	Country: Venezuela ; Times: 3
+	Country: Ecuador ; Times: 5
+	Country: Israel ; Times: 2
+	Country: El Salvador ; Times: 1
+	Country: Czechia ; Times: 4
+	Country: Germany ; Times: 18
+	Country: Spain ; Times: 30
+	Country: Denmark ; Times: 1
+	Country: Finland ; Times: 27
+	Country: United States ; Times: 150
+	Country: Switzerland ; Times: 5
+	Country: Russia ; Times: 3
+	Country: Mexico ; Times: 14
+	Country: India ; Times: 25
+	Country: United Kingdom ; Times: 78
+	Country: Colombia ; Times: 4
+	Country: Japan ; Times: 1
+	Country: Nicaragua ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-26 ; Times: 85
+	Date: 2018-12-09 ; Times: 2
+	Date: 2018-12-06 ; Times: 23
+	Date: 2018-12-19 ; Times: 10
+	Date: 2018-12-18 ; Times: 23
+	Date: 2018-12-31 ; Times: 2
+	Date: 2018-12-30 ; Times: 12
+	Date: 2018-12-15 ; Times: 4
+	Date: 2018-12-14 ; Times: 3
+	Date: 2018-12-17 ; Times: 15
+	Date: 2018-12-16 ; Times: 9
+	Date: 2018-12-11 ; Times: 7
+	Date: 2018-12-10 ; Times: 7
+	Date: 2018-12-13 ; Times: 23
+	Date: 2018-12-12 ; Times: 17
+	Date: 2018-12-20 ; Times: 31
+	Date: 2018-12-21 ; Times: 24
+	Date: 2018-12-23 ; Times: 7
+	Date: 2018-12-24 ; Times: 8
+	Date: 2018-12-25 ; Times: 14
+	Date: 2018-12-08 ; Times: 9
+	Date: 2018-12-27 ; Times: 8
+	Date: 2018-12-28 ; Times: 3
+	Date: 2018-12-29 ; Times: 25
+	Date: 2018-12-04 ; Times: 18
+	Date: 2018-12-05 ; Times: 13
+	Date: 2018-12-02 ; Times: 8
+	Date: 2018-12-03 ; Times: 11
+	Date: 2018-12-01 ; Times: 23
+	Date: 2018-12-07 ; Times: 20
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Manitoba&#34; recordedby:bell" ; Times: 3
+	Query: "Alca torda mappable:1" ; Times: 1
+	Query: "eulabeornis" ; Times: 1
+	Query: "Glaucidium brasilianum" ; Times: 11
+	Query: "vntype:specimen specificepithet:bicolor genus:accipiter country:&#34;bolivia&#34;" ; Times: 1
+	Query: "Eos squamata" ; Times: 20
+	Query: "juninensis" ; Times: 1
+	Query: "sterna hirundinacea" ; Times: 1
+	Query: "locality:Isla San Salvador" ; Times: 1
+	Query: "pterodroma mollis vntype:specimen preparations:skin basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cygnus olor" ; Times: 1
+	Query: "Brotogeris chiriri" ; Times: 2
+	Query: "country:(Kazakhstan)" ; Times: 1
+	Query: "vntype:specimen specificepithet:aegyptiaca genus:Alopochen" ; Times: 2
+	Query: "Osburn PI" ; Times: 1
+	Query: "otus sunia" ; Times: 3
+	Query: "Atlantisia rogersi" ; Times: 1
+	Query: "Psephotus pulcherrimus" ; Times: 2
+	Query: "Conuropsis carolinensis" ; Times: 8
+	Query: "Charadrius wilsonia" ; Times: 1
+	Query: "catalognumber:11660" ; Times: 1
+	Query: "34884" ; Times: 1
+	Query: "specificepithet:asio genus:otus" ; Times: 2
+	Query: "Larus michahellis mappable:1" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 3
+	Query: "county:&#34;Kenedy&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Belize&#34; (Mountain Pine Ridge)" ; Times: 1
+	Query: "Buteo brachyurus" ; Times: 1
+	Query: "genus:cypseloides country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Pyrrhura hoffmanni" ; Times: 1
+	Query: "continent:Antarctica basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "35439" ; Times: 1
+	Query: "herron skeleton" ; Times: 2
+	Query: "Strix aluco" ; Times: 1
+	Query: "treron granti" ; Times: 1
+	Query: "catalognumber:30450 institutioncode:ROM" ; Times: 1
+	Query: "Thalasseus sandvicensis mappable:1" ; Times: 1
+	Query: "Accipiter superciliosus basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Rheinartia" ; Times: 1
+	Query: "specificepithet:owenii genus:Apteryx" ; Times: 2
+	Query: "genus:phoenicopterus year &gt;= 1870 year &lt;= 1900" ; Times: 1
+	Query: "griseiceps" ; Times: 1
+	Query: "casuarius casuarius" ; Times: 2
+	Query: "pterodroma brevipes vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "UBC" ; Times: 1
+	Query: "35923" ; Times: 1
+	Query: "anthony country:&#34;Mexico&#34;" ; Times: 2
+	Query: "beali specificepithet:leucorhoa class:aves locality:sitka stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "specificepithet:aegyptiaca genus:Alopochen" ; Times: 2
+	Query: "39747" ; Times: 1
+	Query: "country:(Kazakhstan OR Kyrgyzstan)" ; Times: 1
+	Query: "curvirostris harringtoni" ; Times: 1
+	Query: "specificepithet:haastii genus:Apteryx" ; Times: 1
+	Query: "Penelope superciliaris mappable:1" ; Times: 8
+	Query: "10732" ; Times: 2
+	Query: "grus americana" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "accipiter superciliosus" ; Times: 5
+	Query: "recordedby:greenwood year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "Gavia arctica mappable:1" ; Times: 1
+	Query: "Darling ireland" ; Times: 2
+	Query: "Eyerdam" ; Times: 2
+	Query: "genus:Ramphastos hassex:1 hasmass:1" ; Times: 2
+	Query: "Agapornis" ; Times: 3
+	Query: "Herron" ; Times: 1
+	Query: "athene noctua" ; Times: 5
+	Query: "Charadrius melodus" ; Times: 4
+	Query: "phodilus badius" ; Times: 2
+	Query: "mvz AND gymnogyps AND california" ; Times: 3
+	Query: "Buteogallus anthracinus" ; Times: 1
+	Query: "Morus bassanus mappable:1" ; Times: 1
+	Query: "casuarius" ; Times: 1
+	Query: "Gavia immer mappable:1" ; Times: 1
+	Query: "Electron vntype:specimen country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "Accipiter superciliosus" ; Times: 20
+	Query: "class:Aves recordedby:Laing year &gt;= 1924 year &lt;= 1924" ; Times: 1
+	Query: "Harpia harpyja mappable:1" ; Times: 2
+	Query: "Melanitta nigra mappable:1" ; Times: 1
+	Query: "class:aves recordedby:armstrong year &gt;= 1894 year &lt;= 1894 month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "class:Aves recordedby:Laing" ; Times: 1
+	Query: "castorial" ; Times: 2
+	Query: "specificepithet:flavicollis genus:ixobrychus" ; Times: 1
+	Query: "vntype:specimen specificepithet:medius genus:Picoides" ; Times: 1
+	Query: "class:aves county:&#34;caroline&#34;" ; Times: 1
+	Query: "tragopan blythii" ; Times: 4
+	Query: "otus scops" ; Times: 1
+	Query: "Geotrygon montana" ; Times: 1
+	Query: "specificepithet:bicolor genus:accipiter country:&#34;costa rica&#34;" ; Times: 3
+	Query: "genus:accipiter country:&#34;venezuela&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Aegolius country:&#34;Mexico&#34;" ; Times: 1
+	Query: "mvz gymnogyps california" ; Times: 1
+	Query: "Glaucidium nanum" ; Times: 1
+	Query: "pterodroma hasitata vntype:specimen preparations:skin basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "country:(Kazakhstan OR Kyrgyzstan OR Tadjikistan)" ; Times: 1
+	Query: "146146" ; Times: 1
+	Query: "catalognumber:30740 institutioncode:ROM" ; Times: 2
+	Query: "pyrrhura" ; Times: 2
+	Query: "lamu aves" ; Times: 2
+	Query: "Brachyramphus marmoratus mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Russia&#34; recordedby:Koren basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "eubucco bourcierii" ; Times: 2
+	Query: "chordeiles gundlachii" ; Times: 3
+	Query: "locality:Oak Grove county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "witch" ; Times: 1
+	Query: "county:&#34;Kenedy&#34; stateprovince:&#34;Texas&#34; country:&#34;USA&#34;" ; Times: 2
+	Query: "13139" ; Times: 1
+	Query: "farallon island" ; Times: 1
+	Query: "Larus melanocephalus mappable:1" ; Times: 1
+	Query: "specificepithet:bicolor genus:accipiter country:&#34;argentina&#34;" ; Times: 1
+	Query: "Aix sponsa 100" ; Times: 1
+	Query: "19858" ; Times: 1
+	Query: "steatornis caripensis" ; Times: 1
+	Query: "Brotogeris tirica mappable:1" ; Times: 1
+	Query: "37809" ; Times: 1
+	Query: "16431" ; Times: 3
+	Query: "Neophema chrysogaster" ; Times: 1
+	Query: "tragopan" ; Times: 1
+	Query: "Fratercula arctica mappable:1" ; Times: 1
+	Query: "ramphastos" ; Times: 1
+	Query: "39048" ; Times: 1
+	Query: "Eos histrio" ; Times: 21
+	Query: "eubucco" ; Times: 1
+	Query: "rallus limicola hastissue:1" ; Times: 1
+	Query: "vntype:specimen class:Aves locality:Los Angeles stateprovince:&#34;California&#34; year &lt;= 1890" ; Times: 1
+	Query: "specificepithet:bicolor genus:accipiter country:&#34;mexico&#34;" ; Times: 1
+	Query: "ognorhynchus icterotis" ; Times: 2
+	Query: "Loriculus stigmatus" ; Times: 9
+	Query: "Glaucidium perlatum" ; Times: 1
+	Query: "athene brama" ; Times: 1
+	Query: "americanus clarke" ; Times: 1
+	Query: "Surnia ulula" ; Times: 1
+	Query: "institutioncode:ROM" ; Times: 3
+	Query: "15623" ; Times: 1
+	Query: "Pingree Osburn" ; Times: 3
+	Query: "anthony country:&#34;Mexico&#34; year &gt;= 1893" ; Times: 2
+	Query: "egg vntype:specimen family:Cracidae institutioncode:ROM" ; Times: 1
+	Query: "Jacamaralcyon tridactyla mappable:1" ; Times: 1
+	Query: "Alca torda  mappable:1" ; Times: 1
+	Query: "accipiter bicolor" ; Times: 1
+	Query: "loddigesia mirabilis" ; Times: 8
+	Query: "Alopochen" ; Times: 1
+	Query: "NMV" ; Times: 1
+	Query: "Buteo platypterus" ; Times: 1
+	Query: "Glaucidium jardinii" ; Times: 1
+	Query: "Alopochen aegyptiaca" ; Times: 3
+	Query: "Larus marinus mappable:1" ; Times: 1
+	Query: "class:Aves recordedby:Koren basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Reindeer" ; Times: 1
+	Query: "vntype:specimen genus:ptilinopus class:aves country:&#34;micronesia&#34;" ; Times: 1
+	Query: "genus:ptilinopus class:aves country:&#34;micronesia&#34;" ; Times: 1
+	Query: "JRT" ; Times: 2
+	Query: "JRT recordedby:Tamsitt" ; Times: 2
+	Query: "90486" ; Times: 1
+	Query: "Haliaeetus leucocephalus 100" ; Times: 1
+	Query: "Sterna albifrons mappable:1" ; Times: 1
+	Query: "glaucidium cuculoides" ; Times: 3
+	Query: "strix aluco" ; Times: 1
+	Query: "nyctibius jamaicensis" ; Times: 1
+	Query: "pterodroma cahow vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Psittacus erithacus" ; Times: 1
+	Query: "bannermani vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "picoides glacialis" ; Times: 2
+	Query: "pterodroma cahow vntype:specimen preparations:skin basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "32115" ; Times: 1
+	Query: "ROM 17490" ; Times: 1
+	Query: "35646" ; Times: 1
+	Query: "country:(kazakhstan OR kyrgyzstan)" ; Times: 1
+	Query: "Sterna paradisaea mappable:1" ; Times: 1
+	Query: "ROM 45289" ; Times: 2
+	Query: "Agapornis uganda" ; Times: 8
+	Query: "pterodroma nigripennis vntype:specimen preparations:skin basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "pterodroma axillaris vntype:specimen preparations:skin basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "alectoris graeca" ; Times: 1
+	Query: "recordedby:Tamsitt" ; Times: 4
+	Query: "megalaima asiatica" ; Times: 2
+	Query: "Melanitta fusca mappable:1" ; Times: 1
+	Query: "ninox superciliaris" ; Times: 2
+	Query: "ROM 15623" ; Times: 1
+	Query: "Strigops" ; Times: 3
+	Query: "Sterna hirundo mappable:1" ; Times: 1
+	Query: "specificepithet:leucorhoa class:aves locality:sitka stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "95015" ; Times: 1
+	Query: "stateprovince:&#34;Maranhao&#34; country:&#34;Brazil&#34;" ; Times: 2
+	Query: "recordedby:darcus" ; Times: 3
+	Query: "Chalcopsitta duivenbodei" ; Times: 26
+	Query: "Speotyto cunicularia hypugaea" ; Times: 3
+	Query: "aegolius funereus" ; Times: 1
+	Query: "Buteo albonotatus" ; Times: 2
+	Query: "eulabeornis vntype:specimen" ; Times: 3
+	Query: "Aglaeactis country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Paradisaea cm" ; Times: 1
+	Query: "Larus argentatus mappable:1" ; Times: 1
+	Query: "odontophorus buckleyi" ; Times: 1
+	Query: "psephotus pulcherrimus" ; Times: 2
+	Query: "19926" ; Times: 1
+	Query: "neophron" ; Times: 2
+	Query: "Accipiter gentilis eggs" ; Times: 1
+	Query: "beaks" ; Times: 1
+	Query: "1 JRT" ; Times: 3
+	Query: "Paradisaea CM" ; Times: 1
+	Query: "12281" ; Times: 1
+	Query: "10379" ; Times: 1
+	Query: "conuropsis carolinensis" ; Times: 15
+	Query: "recordedby:greenwood year &gt;= 1870 year &lt;= 1900" ; Times: 2
+	Query: "malacoptila fusca" ; Times: 1
+	Query: "glaucidium radiatum" ; Times: 1
+	Query: "tachyeres" ; Times: 1
+	Query: "45407" ; Times: 1
+	Query: "Natterer" ; Times: 1
+	Query: "Larus fuscus mappable:1" ; Times: 1
+	Query: "Larus ridibundus mappable:1" ; Times: 2
+	Query: "Rissa tridactyla mappable:1" ; Times: 1
+	Query: "black throated sparrow" ; Times: 1
+	Query: "catalognumber:44983" ; Times: 1
+	Query: "fungi" ; Times: 1
+	Query: "catalognumber:34901" ; Times: 1
+	Query: "pterodroma hasitata vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aegolius harrisii" ; Times: 1
+	Query: "recordedby:Pickering" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 10
+	Query: "specificepithet:jamaicensis genus:Buteo year &gt;= 2000 year &lt;= 2018 month &gt;= 4 month &lt;= 6 institutioncode:ROM" ; Times: 1
+	Query: "scientificname:Spheniscus mendiculus " ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 53 (out of 809 download events in this period)
+Total number of records downloaded: 10591
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 23
+	Country: France ; Times: 2
+	Country: United States ; Times: 12
+	Country: Germany ; Times: 2
+	Country: Ecuador ; Times: 1
+	Country: Taiwan ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-01 ; Times: 1
+	Date: 2018-12-12 ; Times: 3
+	Date: 2018-12-26 ; Times: 3
+	Date: 2018-12-11 ; Times: 1
+	Date: 2018-12-09 ; Times: 1
+	Date: 2018-12-17 ; Times: 13
+	Date: 2018-12-20 ; Times: 2
+	Date: 2018-12-21 ; Times: 2
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-25 ; Times: 1
+	Date: 2018-12-31 ; Times: 1
+	Date: 2018-12-27 ; Times: 2
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-07 ; Times: 5
+	Date: 2018-12-04 ; Times: 1
+	Date: 2018-12-05 ; Times: 1
+	Date: 2018-12-02 ; Times: 1
+	Date: 2018-12-03 ; Times: 1
+	Date: 2018-12-13 ; Times: 3
+	Date: 2018-12-18 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:asio genus:otus" ; Times: 1
+	Query: "Strigops" ; Times: 2
+	Query: "Glaucidium brasilianum" ; Times: 1
+	Query: "steatornis caripensis" ; Times: 1
+	Query: "Surnia ulula" ; Times: 1
+	Query: "papua new guinea" ; Times: 1
+	Query: "Ethiopia" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "glaucidium gnoma" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "Agapornis" ; Times: 1
+	Query: "ramphastos" ; Times: 1
+	Query: "athene noctua" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "phodilus badius" ; Times: 2
+	Query: "ninox superciliaris" ; Times: 1
+	Query: "chordeiles gundlachii" ; Times: 1
+	Query: "Osburn PI" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "otus sunia" ; Times: 1
+	Query: "aegolius funereus" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "phoenicurus phoenicurus" ; Times: 1
+	Query: "Apodiformes (skeleton)" ; Times: 1
+	Query: "Asio otus" ; Times: 1
+	Query: "strigidae" ; Times: 1
+	Query: "otus scops" ; Times: 1
+	Query: "Pingree Osburn" ; Times: 1
+	Query: "black throated sparrow" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "family:trochilidae" ; Times: 1
+	Query: "lynx lynx" ; Times: 1
+	Query: "Glaucidium perlatum" ; Times: 1
+	Query: "Strix aluco" ; Times: 1
+	Query: "malacoptila fusca" ; Times: 1
+	Query: "Rheinartia" ; Times: 1
+	Query: "glaucidium radiatum" ; Times: 1
+	Query: "Glaucidium jardinii" ; Times: 1
+	Query: "Glaucidium nanum" ; Times: 2
+	Query: "ecuador aves" ; Times: 1
+	Query: "country:&#34;Mexico&#34; continent:America" ; Times: 3
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "vietnam" ; Times: 1
+	Query: "Aegolius harrisii" ; Times: 1
+	Query: "pterodroma cahow vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+	Query: "glaucidium cuculoides" ; Times: 1
+
+
+End of report.
