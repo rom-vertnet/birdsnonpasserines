@@ -1,0 +1,725 @@
+Report for Institution Code ROM, Resource birdsnonpass
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 778
+Number of records retrieved in searches: 14322
+Number of different countries where searches have been originated: 30
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 60
+	Country: Canada ; Times: 196
+	Country: Unknown ; Times: 31
+	Country: Panama ; Times: 1
+	Country: France ; Times: 7
+	Country: Slovakia ; Times: 5
+	Country: Peru ; Times: 3
+	Country: Argentina ; Times: 24
+	Country: Bolivia ; Times: 7
+	Country: Norway ; Times: 6
+	Country: Ecuador ; Times: 2
+	Country: Singapore ; Times: 3
+	Country: Germany ; Times: 19
+	Country: Kuwait ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Denmark ; Times: 9
+	Country: Poland ; Times: 3
+	Country: United States ; Times: 330
+	Country: Sweden ; Times: 1
+	Country: Vietnam ; Times: 1
+	Country: New Zealand ; Times: 4
+	Country: Guadeloupe ; Times: 1
+	Country: Mexico ; Times: 20
+	Country: Cuba ; Times: 2
+	Country: India ; Times: 13
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 15
+	Country: Colombia ; Times: 1
+	Country: Paraguay ; Times: 6
+	Country: Japan ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 1
+	Date: 2019-09-15 ; Times: 1
+	Date: 2019-09-16 ; Times: 11
+	Date: 2019-09-17 ; Times: 20
+	Date: 2019-09-10 ; Times: 76
+	Date: 2019-09-11 ; Times: 39
+	Date: 2019-09-12 ; Times: 17
+	Date: 2019-09-13 ; Times: 24
+	Date: 2019-09-18 ; Times: 17
+	Date: 2019-09-19 ; Times: 17
+	Date: 2019-09-30 ; Times: 10
+	Date: 2019-09-09 ; Times: 23
+	Date: 2019-09-08 ; Times: 8
+	Date: 2019-09-03 ; Times: 22
+	Date: 2019-09-02 ; Times: 6
+	Date: 2019-09-01 ; Times: 9
+	Date: 2019-09-07 ; Times: 14
+	Date: 2019-09-06 ; Times: 112
+	Date: 2019-09-05 ; Times: 25
+	Date: 2019-09-04 ; Times: 177
+	Date: 2019-09-21 ; Times: 4
+	Date: 2019-09-20 ; Times: 6
+	Date: 2019-09-23 ; Times: 15
+	Date: 2019-09-22 ; Times: 16
+	Date: 2019-09-25 ; Times: 17
+	Date: 2019-09-24 ; Times: 23
+	Date: 2019-09-27 ; Times: 17
+	Date: 2019-09-26 ; Times: 37
+	Date: 2019-09-29 ; Times: 7
+	Date: 2019-09-28 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Glaucis hirsuta" ; Times: 1
+	Query: "Sphyrapicus ruber AND Island" ; Times: 1
+	Query: "genus:limosa haemastica" ; Times: 2
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "strix occidentalis" ; Times: 5
+	Query: "specificepithet:acadicus genus:Aegolius stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:rusticolus genus:Falco stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "Crotophaga preparations:alcohol" ; Times: 3
+	Query: "specificepithet:auratus genus:colaptes stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:auritus genus:phalacrocorax institutioncode:ROM" ; Times: 2
+	Query: "specificepithet:pubescens genus:picoides stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "Lagopus vntype:specimen locality:Newfoundland AND (NOT buteo)" ; Times: 1
+	Query: "Eupetomena macroura" ; Times: 1
+	Query: "Rhinoplax vigil" ; Times: 1
+	Query: "specificepithet:notabilis genus:Nestor preparations:skeleton" ; Times: 1
+	Query: "catalognumber:40319 institutioncode:ROM" ; Times: 1
+	Query: "Psephotus pulcherrimus" ; Times: 2
+	Query: "Chlorostilbon aureoventris" ; Times: 1
+	Query: "genus:gallicolumba hastissue:1" ; Times: 1
+	Query: "Ara macao" ; Times: 2
+	Query: "specificepithet:ulula genus:Surnia stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 2
+	Query: "Birds (Koelz OR Chand) year &gt;= 1930 year &lt;= 1953" ; Times: 1
+	Query: "specificepithet:lagopus genus:Buteo stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 2
+	Query: "Campephilus principalis" ; Times: 2
+	Query: "specificepithet:nebulosa genus:Strix stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 2
+	Query: "43180" ; Times: 1
+	Query: "country:&#34;Angola&#34; preparations:eggs" ; Times: 1
+	Query: "Chlorostilbon mellisugus" ; Times: 2
+	Query: "locality:Alberta institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:tristis genus:Meiglyptes basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:alpina genus:Calidris stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:gentilis genus:Accipiter country:&#34;Canada&#34; institutioncode:ROM" ; Times: 4
+	Query: "specificepithet:phasianellus genus:Tympanuchus stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 2
+	Query: "Nothocrax urumutum" ; Times: 1
+	Query: "elegans Trogon Female" ; Times: 2
+	Query: "Coeligena torquata" ; Times: 1
+	Query: "Phaethornis ruber" ; Times: 2
+	Query: "genus:Bucorvus sex:Female (Egg OR Ova OR Ovum OR Oviduct OR Ovary)" ; Times: 1
+	Query: "specificepithet:bahamensis country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:ulula genus:surnia stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "amazilia versicolor" ; Times: 1
+	Query: "Amazilia franciae" ; Times: 1
+	Query: "specificepithet:livia genus:Columba stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:phasianellus genus:Tympanuchus stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "loddigesia" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Conuropsis year &gt;= 1900" ; Times: 1
+	Query: "specificepithet:umbellus genus:bonasa stateprovince:&#34;quebec&#34; institutioncode:ROM" ; Times: 1
+	Query: "vntype:specimen family:Tinamidae class:Aves hastissue:1" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 1
+	Query: "Cm Trogon" ; Times: 2
+	Query: "specificepithet:imperialis genus:Campephilus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lagopus genus:Buteo stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 3
+	Query: "Thalurania glaucopis" ; Times: 1
+	Query: "Chrysuronia oenone" ; Times: 1
+	Query: "Halcyon chloris humii" ; Times: 3
+	Query: "specificepithet:gentilis genus:Accipiter stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:5481" ; Times: 1
+	Query: "specificepithet:Perdix genus:Perdix stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "Campylopterus hyperythrus" ; Times: 1
+	Query: "Charadrius mongolus" ; Times: 1
+	Query: "specificepithet:alcyon genus:ceryle stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "vntype:specimen specificepithet:principalis genus:Campephilus year &gt;= 1905 year &lt;= 1940" ; Times: 1
+	Query: "class:aves stateprovince:&#34;kilimanjaro&#34; country:&#34;tanzania&#34;" ; Times: 1
+	Query: "specificepithet:macroura genus:Zenaida stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 2
+	Query: "stateprovince:&#34;Alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "psophia napensis" ; Times: 1
+	Query: "specificepithet:carolina genus:Porzana stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "Osmaston" ; Times: 1
+	Query: "specificepithet:leucocephalus genus:Haliaeetus stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 3
+	Query: "Cana Honda" ; Times: 2
+	Query: "specificepithet:lagopus genus:Buteo stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "vntype:specimen specificepithet:perdicaria genus:Nothoprocta family:Tinamidae class:Aves hastissue:1" ; Times: 1
+	Query: "Flowerpot snake" ; Times: 1
+	Query: "specificepithet:funereus genus:aegolius stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 2
+	Query: "specificepithet:lagopus genus:Buteo stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "Amazilia viridigaster" ; Times: 1
+	Query: "41235" ; Times: 1
+	Query: "cm trogon" ; Times: 1
+	Query: "specificepithet:watsonii genus:Otus institutioncode:ROM" ; Times: 1
+	Query: "Boissonneaua matthewsii" ; Times: 2
+	Query: "trogon bairdii" ; Times: 2
+	Query: "cavity nesting birds" ; Times: 1
+	Query: "Colibri serrirostris" ; Times: 1
+	Query: "class:aves stateprovince:&#34;scotland&#34; year &gt;= 1905 year &lt;= 1915" ; Times: 1
+	Query: "genus:otus institutioncode:ROM" ; Times: 1
+	Query: "Buceros rhinoceros" ; Times: 3
+	Query: "genus:Buteogallus AND (skin) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:acadicus genus:aegolius stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 2
+	Query: "spilornis klossi" ; Times: 1
+	Query: "specificepithet:varius genus:sphyrapicus stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "vntype:specimen specificepithet:elegans genus:Eudromia family:Tinamidae class:Aves hastissue:1" ; Times: 1
+	Query: "genus:Pinguinus year &gt;= 1800 year &lt;= 1860" ; Times: 1
+	Query: "specificepithet:carolina genus:Porzana stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "class:Aves catalognumber:84886" ; Times: 1
+	Query: "stateprovince:&#34;kilimanjaro&#34; country:&#34;tanzania&#34;" ; Times: 1
+	Query: "FMNH-42099" ; Times: 1
+	Query: "Metallura tyrianthina" ; Times: 1
+	Query: "specificepithet:auritus genus:phalacrocorax institutioncode:ROM hastissue:1" ; Times: 1
+	Query: "specificepithet:pileatus genus:Dryocopus stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "skeleton specificepithet:auritus genus:phalacrocorax institutioncode:ROM" ; Times: 1
+	Query: "Polytmus thaumantias" ; Times: 1
+	Query: "Chlorestes notatus" ; Times: 1
+	Query: "preparations:skeleton dryocopus" ; Times: 3
+	Query: "lagopus mutus vntype:specimen stateprovince:&#34;newfoundland&#34; AND (NOT buteo)" ; Times: 1
+	Query: "specificepithet:gentilis genus:Accipiter stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "Dryocopus pileatus skeleton" ; Times: 3
+	Query: "specificepithet:pileatus genus:Dryocopus stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:Buteo stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "Conuropsis" ; Times: 1
+	Query: "genus:limosa haemastica institutioncode" ; Times: 2
+	Query: "Ocreatus underwoodii" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "Pseudoscops grammicus" ; Times: 1
+	Query: "Popelairia langsdorffi" ; Times: 1
+	Query: "laterallus fasciatus" ; Times: 1
+	Query: "21870" ; Times: 1
+	Query: "Pterodroma axillaris" ; Times: 1
+	Query: "Discosura longicauda" ; Times: 1
+	Query: "specificepithet:watsonii genus:otus institutioncode:ROM" ; Times: 1
+	Query: "nicobar" ; Times: 1
+	Query: "specificepithet:leucocephalus genus:Haliaeetus stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 3
+	Query: "specificepithet:gentilis genus:Accipiter stateprovince:&#34;Saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "Calliphlox amethystina" ; Times: 1
+	Query: "specificepithet:nebulosa genus:Strix stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 2
+	Query: "genus:Buteogallus NOT (skin egg)" ; Times: 1
+	Query: "Doryfera ludovicae" ; Times: 1
+	Query: "amazilia yucatanensis" ; Times: 3
+	Query: "Kalinowski" ; Times: 1
+	Query: "specificepithet:Lagopus genus:Lagopus stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "Leucochloris albicollis" ; Times: 1
+	Query: "specificepithet:arcticus genus:Picoides stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 2
+	Query: "45583" ; Times: 1
+	Query: "velox pinal" ; Times: 1
+	Query: "27957" ; Times: 1
+	Query: "Eutoxeres aquila" ; Times: 1
+	Query: "Laterallus fasciatus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "county:&#34;Benton&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 3
+	Query: "genus:Halcyon country:&#34;Philippines&#34;" ; Times: 1
+	Query: "pelecanoides urinator" ; Times: 1
+	Query: "country:&#34;Peru&#34; preparations:eggs" ; Times: 1
+	Query: "specificepithet:arcticus genus:Picoides stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 2
+	Query: "specificepithet:acadicus genus:Aegolius stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "vntype:specimen locality:Newfoundland (lagopus) AND (NOT buteo)" ; Times: 4
+	Query: "specificepithet:otus genus:Asio stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "anas flavirostris" ; Times: 2
+	Query: "Coeligena iris" ; Times: 1
+	Query: "specificepithet:chrysaetos genus:Aquila stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:funereus genus:Aegolius stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "Hylocharis chrysura" ; Times: 1
+	Query: "pterodroma macroptera" ; Times: 2
+	Query: "anas georgica" ; Times: 1
+	Query: "genus:gymnogyps" ; Times: 1
+	Query: "Harpactes reinwardtii" ; Times: 1
+	Query: "catalognumber:5841" ; Times: 1
+	Query: "specificepithet:gentilis genus:Accipiter stateprovince:&#34;Manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:varius genus:sphyrapicus stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 2
+	Query: "specificepithet:villosus genus:Picoides stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:gentilis genus:Accipiter institutioncode:ROM" ; Times: 1
+	Query: "Ionolaima schreibersii" ; Times: 1
+	Query: "specificepithet:californianus genus:gymnogyps" ; Times: 2
+	Query: "specificepithet:villosus genus:picoides stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "beetle" ; Times: 1
+	Query: "genus:Halcyon specificepithet:chloris country:&#34;Philippines&#34;" ; Times: 1
+	Query: "Lesbia" ; Times: 1
+	Query: "specificepithet:tridactylus genus:Picoides stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 2
+	Query: "Aglaeactis cupripennis" ; Times: 2
+	Query: "specificepithet:nebulosa genus:strix stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "genus:coturnicops" ; Times: 1
+	Query: "Pionus senilis" ; Times: 1
+	Query: "ROM Ichthyology vntype:specimen institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:carolina genus:Porzana stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 3
+	Query: "Aphantochroa cirrochloris" ; Times: 1
+	Query: "ROM 100546" ; Times: 2
+	Query: "Herpetotheres cachinnans" ; Times: 1
+	Query: "palumbus Columba" ; Times: 3
+	Query: "specificepithet:funereus genus:Aegolius stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:varius genus:sphyrapicus stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 2
+	Query: "Centrocercus urophasianus" ; Times: 10
+	Query: "genus:Pelecanus sex:Female preparations:Skeleton (Egg OR Ova OR Ovum OR Ovary OR Oviduct)" ; Times: 1
+	Query: "Chlorostilbon bracei" ; Times: 4
+	Query: "Lamb AND Podiceps" ; Times: 1
+	Query: "hemicircus concretus" ; Times: 1
+	Query: "USNM TROGON" ; Times: 2
+	Query: "specificepithet:chrysaetos genus:Aquila stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "newfoundland vntype:specimen (lagopus mutus)" ; Times: 1
+	Query: "metallura phoebe" ; Times: 2
+	Query: "Chalcophaps indica india" ; Times: 1
+	Query: "Lepidoptera" ; Times: 2
+	Query: "laterallus leucopyrrhus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:aves locality:machakos basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Leucopternis albicollis ghiesbreghti" ; Times: 1
+	Query: "weka" ; Times: 1
+	Query: "specificepithet:pubescens genus:picoides stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "span specificepithet:auritus genus:phalacrocorax institutioncode:ROM" ; Times: 1
+	Query: "GOW 52" ; Times: 1
+	Query: "Coeligena violifer" ; Times: 1
+	Query: "specificepithet:americanus genus:Coccyzus year &gt;= 2000 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "specificepithet:pulverulentus genus:Mulleripicus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "45812" ; Times: 1
+	Query: "oceanites oceanicus" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinerascens genus:Nothoprocta family:Tinamidae class:Aves hastissue:1" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 25
+	Query: "Melanotrochilus fuscus" ; Times: 1
+	Query: "Phaethornis malaris" ; Times: 1
+	Query: "Microtus pennsylvanicus 2004" ; Times: 1
+	Query: "Coenocorypha aucklandica rom" ; Times: 1
+	Query: "specificepithet:ulula genus:surnia stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 2
+	Query: "country:&#34;canada&#34; recordedby:beasley" ; Times: 3
+	Query: "Apteryx mantelli rom" ; Times: 1
+	Query: "specificepithet:Perdix genus:Perdix stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:ulula genus:Surnia stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "Phaethornis pretrei" ; Times: 1
+	Query: "specificepithet:tridactylus genus:Picoides stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:ararauna genus:Ara year &gt;= 1970 hassex:1" ; Times: 1
+	Query: "Francolinus pictus" ; Times: 2
+	Query: "specificepithet:carolina genus:Porzana stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 3
+	Query: "charadrius mongolus" ; Times: 2
+	Query: "genus:Bucorvus sex:Female preparations:skeleton (Egg OR Ova OR Ovum OR Oviduct OR Ovary)" ; Times: 1
+	Query: "14150" ; Times: 1
+	Query: "J. Kalinowski" ; Times: 2
+	Query: "institutioncode:ROM" ; Times: 3
+	Query: "Laterallus leucopyrrhus" ; Times: 4
+	Query: "specificepithet:acadicus genus:aegolius stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:chrysaetos genus:Aquila stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:otus genus:Asio stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:elegans genus:Trogon sex:Female" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "genus:Pinguinus year &gt;= 1800" ; Times: 1
+	Query: "butterfly" ; Times: 1
+	Query: "USNM TRogon" ; Times: 3
+	Query: "specificepithet:gentilis genus:Accipiter stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "&#34;Columba leucocephala&#34;" ; Times: 1
+	Query: "specificepithet:livia genus:Columba year &lt;= 2000" ; Times: 1
+	Query: "Campylopterus largipennis" ; Times: 2
+	Query: "Microtus pennsylvanicus 1999" ; Times: 1
+	Query: "Microtus pennsylvanicus 1998" ; Times: 1
+	Query: "GOW" ; Times: 1
+	Query: "catalognumber:20459" ; Times: 1
+	Query: "koelz" ; Times: 1
+	Query: "specificepithet:villosus genus:picoides stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "Heliomaster longirostris" ; Times: 1
+	Query: "vntype:specimen genus:Nothoprocta family:Tinamidae class:Aves hastissue:1" ; Times: 1
+	Query: "Polytmus guainumbi" ; Times: 1
+	Query: "locality:algonquin institutioncode:ROM" ; Times: 1
+	Query: "Pinguinus" ; Times: 3
+	Query: "catalognumber:40320 institutioncode:ROM" ; Times: 4
+	Query: "specificepithet:pulcherrimus genus:Psephotus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "67501" ; Times: 1
+	Query: "Francis 1912" ; Times: 1
+	Query: "Lophornis magnifica" ; Times: 1
+	Query: "Hitchcock creek" ; Times: 1
+	Query: "class:aves stateprovince:&#34;scotland&#34; year &gt;= 1890 year &lt;= 1905" ; Times: 2
+	Query: "Calidris canutus" ; Times: 20
+	Query: "genus:Halcyon specificepithet:chloris country:&#34;india&#34;" ; Times: 1
+	Query: "Nycticorax caledonicus caledonicus" ; Times: 1
+	Query: "Trogon bairdii" ; Times: 5
+	Query: "Phaethornis syrmatophorus" ; Times: 1
+	Query: "vntype:specimen locality:Newfoundland (lagopus) AND (NOT buteo NOT Alopex NOT Vulpes)" ; Times: 1
+	Query: "Aglaiocercus kingi" ; Times: 1
+	Query: "specificepithet:Perdix genus:Perdix stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:chloris stateprovince:&#34;Sumatra&#34;" ; Times: 1
+	Query: "laterallus ruber vntype:specimen" ; Times: 1
+	Query: "69308" ; Times: 1
+	Query: "specificepithet:umbellus genus:bonasa stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "Haplophaedia aureliae" ; Times: 1
+	Query: "specificepithet:funereus genus:aegolius stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 2
+	Query: "specificepithet:acadicus genus:Aegolius stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:americanus genus:Coccyzus sex:female year &gt;= 2000 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "Vassar College" ; Times: 5
+	Query: "vntype:specimen specificepithet:californianus genus:gymnogyps" ; Times: 2
+	Query: "alcyon AND Island" ; Times: 1
+	Query: "&#34;stomach contents saved&#34; class:Aves" ; Times: 1
+	Query: "genus:chauna country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "(lagopus) AND (not buteo)" ; Times: 1
+	Query: "Chlorostilbon prasinus" ; Times: 1
+	Query: "black swift" ; Times: 1
+	Query: "specificepithet:leucocephalus genus:Haliaeetus stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 2
+	Query: "pterodroma brevipes" ; Times: 4
+	Query: "specificepithet:sparverius genus:Falco stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:Lagopus genus:Lagopus stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "anhimidae" ; Times: 1
+	Query: "Campephilus guatemalensis" ; Times: 2
+	Query: "pterodroma hasitata" ; Times: 3
+	Query: "Lophornis verreauxii" ; Times: 2
+	Query: "campephilus imperialis" ; Times: 1
+	Query: "10430" ; Times: 1
+	Query: "Fregata magnificens" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 2
+	Query: "Heliomaster squamosus" ; Times: 1
+	Query: "genus:DENDROCYGNA country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "Chloris albicilla albicilla" ; Times: 1
+	Query: "mvz AND gymnogyps AND california" ; Times: 2
+	Query: "specificepithet:leucocephalus genus:Haliaeetus stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "Vassar" ; Times: 1
+	Query: "84733" ; Times: 1
+	Query: "specificepithet:gentilis genus:Accipiter stateprovince:&#34;Alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:elegans genus:Trogon" ; Times: 6
+	Query: "pseudoscops grammicus" ; Times: 1
+	Query: "Phaethornis eurynome" ; Times: 1
+	Query: "stateprovince:&#34;nicobar&#34; country:&#34;india&#34;" ; Times: 3
+	Query: "specificepithet:superciliaris genus:melanerpes" ; Times: 1
+	Query: "Ceryle AND Cruz" ; Times: 1
+	Query: "laterallus melanophaius vntype:specimen" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "eudyptes" ; Times: 1
+	Query: "genus:Buteogallus AND (skin)" ; Times: 1
+	Query: "specificepithet:pileatus genus:Dryocopus stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "class:aves locality:machakos" ; Times: 1
+	Query: "specificepithet:acadicus genus:aegolius stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 2
+	Query: "specificepithet:tridactylus genus:Picoides stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "Aptenodytes" ; Times: 1
+	Query: "specificepithet:sparverius genus:Falco stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "groundhog" ; Times: 2
+	Query: "kingi" ; Times: 1
+	Query: "Lesbia victoriae" ; Times: 1
+	Query: "class:aves locality:sakhalin country:&#34;russia&#34;" ; Times: 1
+	Query: "Heliodoxa rubinoides" ; Times: 1
+	Query: "specificepithet:pubescens genus:picoides stateprovince:&#34;Manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "Ibidorhyncha struthersii rom" ; Times: 1
+	Query: "catalognumber:84886" ; Times: 1
+	Query: "Amazilia viridigaster cupreicauda" ; Times: 2
+	Query: "specificepithet:otus genus:Asio stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:umbellus genus:bonasa stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "heliangelus" ; Times: 1
+	Query: "specificepithet:villosus genus:picoides stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:discolor genus:Lathamus" ; Times: 5
+	Query: "specificepithet:sparverius genus:Falco stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "genus:Halcyon specificepithet: chloris country:&#34;Philippines&#34;" ; Times: 1
+	Query: "Klais guimeti" ; Times: 1
+	Query: "specificepithet:nebulosa genus:strix stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "pelecanoididae" ; Times: 1
+	Query: "americanus clarke" ; Times: 1
+	Query: "specificepithet:villosus genus:picoides stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:striata genus:Ardeola stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 5
+	Query: "specificepithet:nebulosa genus:Strix stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 2
+	Query: "67424" ; Times: 1
+	Query: "hastissue:1 eudyptes" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;newfoundland&#34; (lagopus mutus) AND (NOT buteo)" ; Times: 2
+	Query: "specificepithet:macroura genus:Zenaida stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 3
+	Query: "country:&#34;Colombia&#34; preparations:eggs" ; Times: 3
+	Query: "bulleri" ; Times: 1
+	Query: "Adelomyia melanogenys" ; Times: 1
+	Query: "Ara ararauna" ; Times: 1
+	Query: "Cygnus buccinator" ; Times: 3
+	Query: "Amazilia chionopectus" ; Times: 1
+	Query: "Ibidorhyncha struthersii" ; Times: 1
+	Query: "specificepithet:pubescens genus:picoides stateprovince:&#34;Ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "Columba nigrirostris vntype:specimen country:&#34;Panama&#34;" ; Times: 1
+	Query: "wing specificepithet:auritus genus:phalacrocorax institutioncode:ROM" ; Times: 1
+	Query: "Pelecanus philippensis" ; Times: 1
+	Query: "Amazilia cupreicauda" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "specificepithet:funereus genus:aegolius stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "ROM 104637" ; Times: 1
+	Query: "class:aves country:&#34;russia&#34; year &gt;= 1906 year &lt;= 1906" ; Times: 1
+	Query: "specificepithet:ulula genus:Surnia stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:sparverius genus:Falco stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 2
+	Query: "Pelecanus occidentalis californicus" ; Times: 1
+	Query: "specificepithet:personatus collectioncode:Birds" ; Times: 2
+	Query: "laterallus leucopyrrhus" ; Times: 3
+	Query: "Casuarius casuarius" ; Times: 2
+	Query: "specificepithet:ulula genus:surnia stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 2
+	Query: "Myrtis fanny" ; Times: 1
+	Query: "genus:Pelecanus sex:Female (Egg OR Ova OR Ovum OR Ovary OR Oviduct)" ; Times: 1
+	Query: "amphipods" ; Times: 1
+	Query: "overington" ; Times: 1
+	Query: "Heliothryx aurita" ; Times: 1
+	Query: "Ictinia mississippiensis" ; Times: 1
+	Query: "mourning dove" ; Times: 1
+	Query: "11963" ; Times: 1
+	Query: "struthio molybdophanes rom" ; Times: 1
+	Query: "Aves Pyrenees" ; Times: 2
+	Query: "open bay" ; Times: 1
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "Ognorhynchus icterotis" ; Times: 2
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "specificepithet:erythrophthalma genus:Lophura basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Clytolaema rubricauda" ; Times: 1
+	Query: "class:aves country:&#34;KENYA&#34; recordedby:forbes-watson" ; Times: 1
+	Query: "Chloris albicilla" ; Times: 2
+	Query: "genus:HELIOMASTER family:trochilidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "41149" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "genus:aegolius AND (funereus) hastissue:1" ; Times: 1
+	Query: "Chrysolampis mosquitus" ; Times: 1
+	Query: "psophia leucoptera" ; Times: 1
+	Query: "Thalurania furcata" ; Times: 1
+	Query: "stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 2
+	Query: "specificepithet:arcticus genus:Picoides stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 3
+	Query: "specificepithet:Perdix genus:Perdix stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:alcyon genus:ceryle stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus mutus) AND (NOT buteo)" ; Times: 2
+	Query: "specificepithet:meridionalis genus:Nestor" ; Times: 1
+	Query: "genus:Buteogallus NOT (skin)" ; Times: 1
+	Query: "rhodonessa" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "specificepithet:virescens genus:Butorides class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 5
+	Query: "145583" ; Times: 1
+	Query: "Lophostrix cristata" ; Times: 1
+	Query: "145585" ; Times: 1
+	Query: "specificepithet:principalis genus:campephilus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Chalcophaps longirostris" ; Times: 1
+	Query: "145589" ; Times: 1
+	Query: "specificepithet:tridactylus genus:Picoides stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "laterallus viridis" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (Lagopus) AND (NOT Buteo)" ; Times: 1
+	Query: "genus:Bucorvus sex:Female" ; Times: 2
+	Query: "country:&#34;Indonesia&#34; preparations:eggs" ; Times: 1
+	Query: "45335" ; Times: 1
+	Query: "locality:Manitoba institutioncode:ROM" ; Times: 3
+	Query: "specificepithet:Lagopus genus:Lagopus stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "hastissue:1 gavia" ; Times: 1
+	Query: "specificepithet:acadicus genus:Aegolius stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "huegeli" ; Times: 1
+	Query: "Heliactin cornuta" ; Times: 1
+	Query: "specificepithet:chinensis genus:excalfactoria hastissue:1" ; Times: 1
+	Query: "136319" ; Times: 1
+	Query: "country:&#34;Nigeria&#34; preparations:eggs" ; Times: 1
+	Query: "Hylocharis sapphirina" ; Times: 1
+	Query: "USNM Trogon" ; Times: 5
+	Query: "specificepithet:auratus genus:colaptes stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "erythrocephalus hastissue:1" ; Times: 1
+	Query: "specificepithet:auratus genus:colaptes stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "specificepithet:pileatus genus:Dryocopus stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:phasianellus genus:Tympanuchus stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "Somateria fischeri" ; Times: 2
+	Query: "Anthracothorax nigricollis" ; Times: 1
+	Query: "specificepithet:capellei genus:Treron basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "15722" ; Times: 1
+	Query: "genus:Crotophaga preparations:alcohol basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "32980" ; Times: 1
+	Query: "genus:limosa haemastica institutioncode: ROM" ; Times: 1
+	Query: "Hylocharis cyanus" ; Times: 1
+	Query: "specificepithet:Lagopus genus:Lagopus stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "Cm trogon" ; Times: 1
+	Query: "specificepithet:elegans genus:Trogon sex:female" ; Times: 1
+	Query: "specificepithet:ulula genus:Surnia stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 2
+	Query: "locustus" ; Times: 1
+	Query: "genus:Lagopus stateprovince:&#34;Newfoundland&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "claravis mondetoura" ; Times: 5
+	Query: "Apteryx" ; Times: 3
+	Query: "Heliodoxa leadbeateri" ; Times: 1
+	Query: "specificepithet:macroura genus:Zenaida stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 2
+	Query: "Amazilia tobaci" ; Times: 2
+	Query: "Loddigesia mirabilis" ; Times: 1
+	Query: "specificepithet:ulula genus:surnia stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 2
+	Query: "harpia harpyja" ; Times: 1
+	Query: "lagopus mutus newfoundland" ; Times: 1
+	Query: "vntype:specimen specificepithet:principalis genus:Campephilus year &gt;= 1900 year &lt;= 1940" ; Times: 1
+	Query: "specificepithet:alpina genus:Calidris stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "Cathartes aura mappable:1" ; Times: 1
+	Query: "county:&#34;Wilbarger&#34;" ; Times: 1
+	Query: "gyldenstolpei" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 2
+	Query: "genus:Conuropsis year &gt;= 1900" ; Times: 1
+	Query: "Pezoporus flaviventris" ; Times: 1
+	Query: "Lagopus lagopus vntype:specimen locality:Newfoundland AND (NOT buteo)" ; Times: 1
+	Query: "specificepithet:varius genus:sphyrapicus stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 2
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "ROM 41005" ; Times: 1
+	Query: "canada lynx" ; Times: 1
+	Query: "Leucippus chionogaster" ; Times: 1
+	Query: "locality:Toronto institutioncode:ROM" ; Times: 1
+	Query: "Hitchcock creek nc" ; Times: 1
+	Query: "ROM 17499" ; Times: 2
+	Query: "specificepithet:cyaneus genus:Circus country:&#34;Canada&#34; institutioncode:ROM" ; Times: 2
+	Query: "specificepithet:VIDUATA genus:DENDROCYGNA country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "laterallus albigularis vntype:specimen" ; Times: 1
+	Query: "crotophaga preparations:alcohol" ; Times: 1
+	Query: "Heliomaster furcifer" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:Buteo stateprovince:&#34;Saskatchewan&#34; institutioncode:ROM" ; Times: 1
+	Query: "USNM Trogon violaceus" ; Times: 1
+	Query: "specificepithet:macroura genus:Zenaida stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:nebulosa genus:strix stateprovince:&#34;manitoba&#34; institutioncode:ROM" ; Times: 1
+	Query: "strigops habroptilus" ; Times: 3
+	Query: "vntype:specimen specificepithet:principalis genus:Campephilus" ; Times: 1
+	Query: "Phaethornis squalidus" ; Times: 1
+	Query: "ara macao" ; Times: 1
+	Query: "specificepithet:cyaneus genus:Circus institutioncode:ROM" ; Times: 2
+	Query: "specificepithet:varia genus:strix stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "laterallus albigularis" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:Buteo stateprovince:&#34;alberta&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:umbellus genus:bonasa stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo stateprovince:&#34;saskatchewan&#34; institutioncode:ROM" ; Times: 2
+	Query: "37768" ; Times: 2
+	Query: "Apteryx australis" ; Times: 2
+	Query: "specificepithet:colubris genus:Archilochus hastissue:1" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 6
+	Query: "MF 792" ; Times: 2
+	Query: "Coccyzus americanus americanus" ; Times: 45
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 136 (out of 1073 download events in this period)
+Total number of records downloaded: 2972
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 50
+	Country: United States ; Times: 37
+	Country: Singapore ; Times: 2
+	Country: Unknown ; Times: 25
+	Country: Mexico ; Times: 4
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Rwanda ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Argentina ; Times: 9
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-20 ; Times: 1
+	Date: 2019-09-23 ; Times: 2
+	Date: 2019-09-17 ; Times: 2
+	Date: 2019-09-10 ; Times: 58
+	Date: 2019-09-11 ; Times: 15
+	Date: 2019-09-12 ; Times: 1
+	Date: 2019-09-13 ; Times: 2
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-28 ; Times: 1
+	Date: 2019-09-26 ; Times: 3
+	Date: 2019-09-18 ; Times: 4
+	Date: 2019-09-19 ; Times: 23
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-09 ; Times: 7
+	Date: 2019-09-02 ; Times: 2
+	Date: 2019-09-27 ; Times: 5
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-06 ; Times: 1
+	Date: 2019-09-05 ; Times: 4
+	Date: 2019-09-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "Glaucis hirsuta" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "pelecanoides" ; Times: 1
+	Query: "Eutoxeres aquila" ; Times: 1
+	Query: "Lophornis magnifica" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "class:aves stateprovince:&#34;scotland&#34; year &gt;= 1890 year &lt;= 1905" ; Times: 2
+	Query: "Laterallus fasciatus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Clytolaema rubricauda" ; Times: 1
+	Query: "Phaethornis eurynome" ; Times: 1
+	Query: "chihuahua" ; Times: 2
+	Query: "Phaethornis syrmatophorus" ; Times: 1
+	Query: "Eupetomena macroura" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "Chlorostilbon aureoventris" ; Times: 1
+	Query: "vntype:specimen locality:Newfoundland (lagopus) AND (NOT buteo)" ; Times: 2
+	Query: "Ara macao" ; Times: 2
+	Query: "laterallus ruber vntype:specimen" ; Times: 1
+	Query: "order:psittaciformes haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Birds (Koelz OR Chand) year &gt;= 1930 year &lt;= 1953" ; Times: 1
+	Query: "Haplophaedia aureliae" ; Times: 1
+	Query: "Coeligena iris" ; Times: 1
+	Query: "Hylocharis chrysura" ; Times: 1
+	Query: "Chrysolampis mosquitus" ; Times: 1
+	Query: "specificepithet:americanus genus:Coccyzus sex:female year &gt;= 2000 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "anas georgica" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Chlorostilbon mellisugus" ; Times: 2
+	Query: "ants" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus) AND (NOT buteo)" ; Times: 11
+	Query: "Chlorostilbon prasinus" ; Times: 1
+	Query: "Coeligena torquata" ; Times: 1
+	Query: "Phaethornis ruber" ; Times: 2
+	Query: "Pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:principalis genus:campephilus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "laterallus viridis" ; Times: 1
+	Query: "Lophornis verreauxii" ; Times: 1
+	Query: "Amazilia franciae" ; Times: 1
+	Query: "Lesbia" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (Lagopus) AND (NOT Buteo)" ; Times: 3
+	Query: "Heliomaster squamosus" ; Times: 1
+	Query: "Aglaeactis cupripennis" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "Ramphodon naevius" ; Times: 1
+	Query: "Thalurania glaucopis" ; Times: 1
+	Query: "Chrysuronia oenone" ; Times: 1
+	Query: "lagopus newfoundland vntype:specimen" ; Times: 1
+	Query: "Aphantochroa cirrochloris" ; Times: 1
+	Query: "Hylocharis sapphirina" ; Times: 1
+	Query: "Colibri serrirostris" ; Times: 1
+	Query: "laterallus melanophaius vntype:specimen" ; Times: 1
+	Query: "Campylopterus hyperythrus" ; Times: 1
+	Query: "Charadrius mongolus" ; Times: 2
+	Query: "class:aves stateprovince:&#34;kilimanjaro&#34; country:&#34;tanzania&#34;" ; Times: 1
+	Query: "Ionolaima schreibersii" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus) AND (NOT Buteo)" ; Times: 1
+	Query: "Anthracothorax nigricollis" ; Times: 1
+	Query: "Hylocharis cyanus" ; Times: 1
+	Query: "Heliodoxa rubinoides" ; Times: 1
+	Query: "laterallus leucopyrrhus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Amazilia viridigaster cupreicauda" ; Times: 1
+	Query: "genus:Lagopus stateprovince:&#34;Newfoundland&#34; country:&#34;Canada&#34;" ; Times: 2
+	Query: "Coeligena violifer" ; Times: 1
+	Query: "Amazilia viridigaster" ; Times: 1
+	Query: "Heliodoxa leadbeateri" ; Times: 1
+	Query: "Amazilia tobaci" ; Times: 1
+	Query: "Loddigesia mirabilis" ; Times: 1
+	Query: "Boissonneaua matthewsii" ; Times: 1
+	Query: "family:cracidae" ; Times: 1
+	Query: "class:aves stateprovince:&#34;scotland&#34; year &gt;= 1905 year &lt;= 1915" ; Times: 1
+	Query: "celebensis" ; Times: 1
+	Query: "Melanotrochilus fuscus" ; Times: 1
+	Query: "Phaethornis malaris" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;newfoundland&#34; (lagopus) AND (NOT buteo NOT Alopex NOT Vulpes)" ; Times: 3
+	Query: "Adelomyia melanogenys" ; Times: 1
+	Query: "amazilia versicolor" ; Times: 1
+	Query: "canorus" ; Times: 1
+	Query: "Amazilia chionopectus" ; Times: 1
+	Query: "Phaethornis pretrei" ; Times: 1
+	Query: "Metallura tyrianthina" ; Times: 1
+	Query: "Polytmus thaumantias" ; Times: 1
+	Query: "Chlorestes notatus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Popelairia langsdorffi" ; Times: 1
+	Query: "Leucippus chionogaster" ; Times: 1
+	Query: "Heliangelus viola" ; Times: 1
+	Query: "Amazilia cupreicauda" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Ocreatus underwoodii" ; Times: 1
+	Query: "laterallus albigularis vntype:specimen" ; Times: 1
+	Query: "anas flavirostris" ; Times: 2
+	Query: "Heliomaster furcifer" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "specificepithet:personatus collectioncode:Birds" ; Times: 1
+	Query: "pachyptila" ; Times: 1
+	Query: "Heliactin cornuta" ; Times: 1
+	Query: "Campylopterus largipennis" ; Times: 1
+	Query: "Discosura longicauda" ; Times: 1
+	Query: "Myrtis fanny" ; Times: 1
+	Query: "Phaethornis squalidus" ; Times: 2
+	Query: "locustus" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "Heliomaster longirostris" ; Times: 1
+	Query: "Heliothryx aurita" ; Times: 1
+	Query: "Polytmus guainumbi" ; Times: 1
+	Query: "Calliphlox amethystina" ; Times: 1
+	Query: "Stephanoxis lalandi" ; Times: 1
+	Query: "Doryfera ludovicae" ; Times: 1
+	Query: "Leucochloris albicollis" ; Times: 1
+	Query: "Thalurania furcata" ; Times: 1
+
+
+End of report.
