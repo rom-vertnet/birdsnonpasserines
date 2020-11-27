@@ -1,0 +1,525 @@
+Report for Institution Code ROM, Resource birdsnonpass
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 576
+Number of records retrieved in searches: 7603
+Number of different countries where searches have been originated: 26
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 139
+	Country: Brazil ; Times: 10
+	Country: Italy ; Times: 1
+	Country: Unknown ; Times: 23
+	Country: Panama ; Times: 1
+	Country: France ; Times: 6
+	Country: Slovakia ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Argentina ; Times: 19
+	Country: Venezuela ; Times: 1
+	Country: Ecuador ; Times: 17
+	Country: Australia ; Times: 4
+	Country: Germany ; Times: 4
+	Country: Thailand ; Times: 5
+	Country: Hong Kong ; Times: 2
+	Country: Spain ; Times: 3
+	Country: Denmark ; Times: 2
+	Country: Finland ; Times: 2
+	Country: United States ; Times: 222
+	Country: Sweden ; Times: 1
+	Country: Switzerland ; Times: 8
+	Country: Guadeloupe ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 78
+	Country: Colombia ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-03 ; Times: 37
+	Date: 2020-03-30 ; Times: 37
+	Date: 2020-03-31 ; Times: 17
+	Date: 2020-03-02 ; Times: 6
+	Date: 2020-03-18 ; Times: 15
+	Date: 2020-03-19 ; Times: 13
+	Date: 2020-03-16 ; Times: 4
+	Date: 2020-03-23 ; Times: 13
+	Date: 2020-03-14 ; Times: 12
+	Date: 2020-03-15 ; Times: 14
+	Date: 2020-03-12 ; Times: 8
+	Date: 2020-03-13 ; Times: 15
+	Date: 2020-03-10 ; Times: 19
+	Date: 2020-03-08 ; Times: 13
+	Date: 2020-03-17 ; Times: 2
+	Date: 2020-03-06 ; Times: 46
+	Date: 2020-03-27 ; Times: 12
+	Date: 2020-03-26 ; Times: 17
+	Date: 2020-03-25 ; Times: 22
+	Date: 2020-03-24 ; Times: 19
+	Date: 2020-03-09 ; Times: 26
+	Date: 2020-03-22 ; Times: 6
+	Date: 2020-03-21 ; Times: 1
+	Date: 2020-03-20 ; Times: 23
+	Date: 2020-03-05 ; Times: 14
+	Date: 2020-03-04 ; Times: 22
+	Date: 2020-03-07 ; Times: 24
+	Date: 2020-03-11 ; Times: 96
+	Date: 2020-03-01 ; Times: 1
+	Date: 2020-03-29 ; Times: 1
+	Date: 2020-03-28 ; Times: 21
+
+List of queries that retrieved data from the resource: 
+	Query: "puffinus haurakiensis year &gt;= 1968 year &lt;= 2020" ; Times: 1
+	Query: "Cathartes aura institutioncode:ROM" ; Times: 1
+	Query: "Sterna hirundo institutioncode:ROM" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Chuquisaca&#34; country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "tinamus major" ; Times: 1
+	Query: "specificepithet:lagopus pallidus genus:Buteo" ; Times: 1
+	Query: "35626" ; Times: 1
+	Query: "82768" ; Times: 1
+	Query: "specificepithet:canadensis maxima genus:Branta" ; Times: 1
+	Query: "vntype:specimen county:&#34;muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "75546" ; Times: 1
+	Query: "43878" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 3
+	Query: "Anas wyvilliana" ; Times: 1
+	Query: "eremita" ; Times: 2
+	Query: "vntype:specimen genus:Laterallus country:&#34;Mexico&#34;" ; Times: 2
+	Query: "ROM 77522" ; Times: 1
+	Query: "chalcites maculatus" ; Times: 1
+	Query: "Trinidad and Tobago egg crotophaga" ; Times: 1
+	Query: "specificepithet:ferruginea genus:Calidris class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:sapphirina genus:Hylocharis" ; Times: 2
+	Query: "Rynchops niger institutioncode:ROM" ; Times: 1
+	Query: "genus:Vultur country:&#34;Ecuador&#34;" ; Times: 12
+	Query: "22481" ; Times: 1
+	Query: "specificepithet:alcyon county:&#34;muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "class:Aves continent:Africa institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:squatarola county:&#34;muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:swainsoni genus:Buteo month &gt;= 1 month &lt;= 2" ; Times: 1
+	Query: "specificepithet:ruber genus:Phoenicopterus hastissue:1" ; Times: 4
+	Query: "african lion" ; Times: 1
+	Query: "Cuculus canorus" ; Times: 5
+	Query: "Larus delawarensis preparations:wing institutioncode:ROM" ; Times: 1
+	Query: "(77094)" ; Times: 1
+	Query: "Buteo regalis institutioncode:ROM" ; Times: 1
+	Query: "&#34;Columba leucocephala&#34; OR &#34;Patagioenas leucocephala&#34; vntype:specimen" ; Times: 1
+	Query: "banff specificepithet:lagopus genus:lagopus institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:branta county:&#34;muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:Hirundo genus:Sterna county:&#34;Muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "21297" ; Times: 1
+	Query: "Falco mexicanus institutioncode:ROM" ; Times: 1
+	Query: "skeleton specificepithet:canadensis maxima genus:Branta" ; Times: 2
+	Query: "pterodroma neglecta" ; Times: 1
+	Query: "buteo lagopus menzbieri" ; Times: 2
+	Query: "perdix class:aves year &gt;= 1908 year &lt;= 1911" ; Times: 1
+	Query: "puffinus elegans" ; Times: 6
+	Query: "Pelecanus occidentalis institutioncode:ROM" ; Times: 1
+	Query: "22544" ; Times: 1
+	Query: "87085" ; Times: 1
+	Query: "specificepithet:columbarius genus:falco county:&#34;muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "Aves 32113" ; Times: 1
+	Query: "family:heliornithidae institutioncode:ROM" ; Times: 1
+	Query: "159573" ; Times: 1
+	Query: "Trinidad and Tobago egg" ; Times: 1
+	Query: "21449" ; Times: 1
+	Query: "Calgary Zoo" ; Times: 1
+	Query: "locality:El Tambo " ; Times: 1
+	Query: "(35175)" ; Times: 1
+	Query: "genus:geococcyx institutioncode:ROM" ; Times: 1
+	Query: "genus:Laterallus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:pubescens genus:picoides county:&#34;muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "tyto furcata" ; Times: 4
+	Query: "bulweria bulweria" ; Times: 1
+	Query: "151107" ; Times: 1
+	Query: "genus:Phalacrocorax county:&#34;Muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "Amazilia cyanocephala" ; Times: 1
+	Query: "specificepithet:lagopus genus:Lagopus stateprovince:&#34;Quebec&#34; country:&#34;Canada&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Philortyx lifestage:adult sex:female" ; Times: 1
+	Query: "31896" ; Times: 1
+	Query: "159832" ; Times: 1
+	Query: "specificepithet:lagopus genus:Lagopus stateprovince:&#34;Manitoba&#34; country:&#34;Canada&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Eudocimus ruber" ; Times: 1
+	Query: "pedionomus" ; Times: 1
+	Query: "Pionus chalcopterus" ; Times: 3
+	Query: "37094" ; Times: 1
+	Query: "Haliaeetus leucocephalus institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:2514" ; Times: 1
+	Query: "genus:anas county:&#34;muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "Sterna paradisaea institutioncode:ROM" ; Times: 1
+	Query: "coracias benghalensis" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "locality:jenny lind" ; Times: 1
+	Query: "Coeligena bonapartei" ; Times: 1
+	Query: "38031" ; Times: 1
+	Query: "genus:bucephala county:&#34;Muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:lagopus genus:Lagopus stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "11188" ; Times: 1
+	Query: "Diomedea nigripes institutioncode:ROM" ; Times: 1
+	Query: "30740" ; Times: 1
+	Query: "buteo lagopus kamtschatkensis" ; Times: 1
+	Query: "TRING" ; Times: 1
+	Query: "oceanites oceanicus year &gt;= 1995 year &lt;= 2020" ; Times: 2
+	Query: "ROM 71227" ; Times: 1
+	Query: "Pteroglossus hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "mycteria ibis" ; Times: 1
+	Query: "Branta canadensis vntype:specimen preparations:wing institutioncode:ROM" ; Times: 1
+	Query: "county:&#34;refugio&#34; stateprovince:&#34;texas&#34; recordedby:carroll" ; Times: 1
+	Query: "institutioncode:rom" ; Times: 6
+	Query: "catalognumber:37079 institutioncode:ROM" ; Times: 2
+	Query: "37120" ; Times: 1
+	Query: "specificepithet:hirundo genus:sterna county:&#34;muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "Thalasseus sandvicensis institutioncode:ROM" ; Times: 1
+	Query: "Santa Cruz crotophaga" ; Times: 1
+	Query: "36879" ; Times: 2
+	Query: "40413" ; Times: 3
+	Query: "specificepithet:Cooperii genus:Accipiter county:&#34;Muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "harpactes fasciatus" ; Times: 1
+	Query: "Charadrius nivosus institutioncode:ROM" ; Times: 1
+	Query: "109193" ; Times: 1
+	Query: "159534" ; Times: 1
+	Query: "Pteroglossus beauharnaesii hassex:1" ; Times: 1
+	Query: "Pteroglossus hassex:1 haslength:1" ; Times: 3
+	Query: "128314" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Rio Grande do Sul&#34;" ; Times: 1
+	Query: "Loriculus pusillus" ; Times: 3
+	Query: "genus:Ibidorhyncha" ; Times: 1
+	Query: "45055" ; Times: 1
+	Query: "procellariiformes wake island" ; Times: 1
+	Query: "pterodroma cervicalis" ; Times: 10
+	Query: "96091" ; Times: 2
+	Query: "Bubo virginianus preparations:wing institutioncode:ROM" ; Times: 1
+	Query: "JAM 2864" ; Times: 3
+	Query: "Accipiter cooperii preparations:wing institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:minor genus:chordeiles county:&#34;Muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "breninger year &gt;= 1903 year &lt;= 1903" ; Times: 1
+	Query: "Falco columbarius preparations:wing institutioncode:ROM" ; Times: 1
+	Query: "(lizards) hassex:1 haslength:1" ; Times: 1
+	Query: "Davidson 1879" ; Times: 1
+	Query: "Ducula badia" ; Times: 1
+	Query: "16664" ; Times: 1
+	Query: "talamanca" ; Times: 1
+	Query: "16544" ; Times: 1
+	Query: "13619" ; Times: 2
+	Query: "aechmophorus" ; Times: 1
+	Query: "127162" ; Times: 1
+	Query: "genus:coturnicops" ; Times: 1
+	Query: "Pluvianus aegyptius" ; Times: 1
+	Query: "avian skins" ; Times: 1
+	Query: "29600" ; Times: 1
+	Query: "Egretta thula institutioncode:ROM" ; Times: 1
+	Query: "Plegadis falcinellus institutioncode:ROM" ; Times: 1
+	Query: "genus:Balearica institutioncode:ROM" ; Times: 1
+	Query: "scolopax rusticola india" ; Times: 1
+	Query: "aracari" ; Times: 1
+	Query: "R 27452" ; Times: 1
+	Query: "Strix varia preparations:wing institutioncode:ROM" ; Times: 1
+	Query: "Anas platyrhynchos preparations:wing institutioncode:ROM" ; Times: 1
+	Query: "Pelecanus erythrorhynchos institutioncode:ROM" ; Times: 1
+	Query: "83646" ; Times: 2
+	Query: "sapphirina" ; Times: 1
+	Query: "Ardea alba institutioncode:ROM" ; Times: 1
+	Query: "Passenger Pigeon" ; Times: 5
+	Query: "canada lynx" ; Times: 2
+	Query: "genus:Pedionomus" ; Times: 1
+	Query: "Virginia Rail" ; Times: 1
+	Query: "county:&#34;Madison&#34; stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "treron australis" ; Times: 3
+	Query: "Cygnus buccinator institutioncode:ROM" ; Times: 1
+	Query: "Falco peregrinus preparations:wing institutioncode:ROM" ; Times: 1
+	Query: "Heliodoxa leadbeateri" ; Times: 1
+	Query: "151344" ; Times: 1
+	Query: "(15209)" ; Times: 1
+	Query: "oceanites oceanicus" ; Times: 1
+	Query: "Tyto alba preparations:wing institutioncode:ROM" ; Times: 1
+	Query: "institutioncode:ROM" ; Times: 2
+	Query: "oceanites oceanicus hastissue:1" ; Times: 1
+	Query: "159506" ; Times: 1
+	Query: "&#34;JAM 2864&#34;" ; Times: 2
+	Query: "specificepithet:chrysaetos genus:aquila county:&#34;muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "(Hume) institutioncode:ROM" ; Times: 6
+	Query: "pterodroma axillaris" ; Times: 4
+	Query: "Zenaida macroura preparations:wing institutioncode:ROM" ; Times: 1
+	Query: "family:heliornithidae institutioncode:ROM skeleton" ; Times: 1
+	Query: "rodent" ; Times: 1
+	Query: "Pteroglossus torquatus hassex:1 haslength:1" ; Times: 1
+	Query: "112332" ; Times: 1
+	Query: "159824" ; Times: 1
+	Query: "diomedea kerguelen" ; Times: 1
+	Query: "centropus toulou" ; Times: 1
+	Query: "specificepithet:albonotatus genus:Buteo country:&#34;Mexico&#34;" ; Times: 6
+	Query: "genus:Asio institutioncode:ROM" ; Times: 2
+	Query: "13715" ; Times: 2
+	Query: "specificepithet:pileatus county:&#34;muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "vntype:specimen specificepithet:lagopus genus:Buteo institutioncode:ROM" ; Times: 2
+	Query: "albolarvatus California San Bernardino" ; Times: 1
+	Query: "Phalacrocorax penicillatus institutioncode:ROM" ; Times: 1
+	Query: "Nycticorax nycticorax institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:griseus hassex:1 hasmass:1" ; Times: 1
+	Query: "polar bear" ; Times: 2
+	Query: "Larus argentatus preparations:wing institutioncode:ROM" ; Times: 1
+	Query: "locality:Rio Blanco " ; Times: 1
+	Query: "diomedea hastissue:1" ; Times: 1
+	Query: "specificepithet:canadensis genus:Grus preparations:skeleton institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Larus californicus institutioncode:ROM" ; Times: 1
+	Query: "Caprimulgus 1938" ; Times: 1
+	Query: "135155" ; Times: 1
+	Query: "Thalasseus elegans institutioncode:ROM" ; Times: 1
+	Query: "JAM 2885" ; Times: 1
+	Query: "streptopelia orientalis india" ; Times: 2
+	Query: "mvz AND gymnogyps AND california" ; Times: 1
+	Query: "diomedea melanophrys" ; Times: 2
+	Query: "Athene cunicularia institutioncode:ROM" ; Times: 1
+	Query: "ducula spilorrhoa" ; Times: 1
+	Query: "campephilus egg" ; Times: 8
+	Query: "(11044)" ; Times: 1
+	Query: "1938 ripley aves" ; Times: 1
+	Query: "110804" ; Times: 1
+	Query: "Anas Versicolor" ; Times: 1
+	Query: "specificepithet:tridactylus genus:picoides county:&#34;muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "24967" ; Times: 1
+	Query: "genus:Pinguinus" ; Times: 1
+	Query: "poicephalus robustus" ; Times: 1
+	Query: "diomedea exulans hastissue:1" ; Times: 2
+	Query: "buteo lagopus sanctijohannis" ; Times: 1
+	Query: "AH 312" ; Times: 2
+	Query: "Pteroglossus beauharnaesii" ; Times: 11
+	Query: "154497" ; Times: 1
+	Query: "egretta gularis" ; Times: 1
+	Query: "pterodroma brevipes" ; Times: 11
+	Query: "Larus marinus preparations:wing institutioncode:ROM" ; Times: 1
+	Query: "Falco sparverius preparations:wing institutioncode:ROM" ; Times: 1
+	Query: "Aix sponsa preparations:wing institutioncode:ROM" ; Times: 1
+	Query: "Amazona oratrix" ; Times: 1
+	Query: "genus:Asio county:&#34;Muskoka&#34;" ; Times: 1
+	Query: "157299" ; Times: 1
+	Query: "specificepithet:benghalensis genus:coracias hasmass:1" ; Times: 1
+	Query: "Branta canadensis preparations:wing institutioncode:ROM" ; Times: 1
+	Query: "caquetá" ; Times: 1
+	Query: "Ceratogymna atrata AND (&#34;skin&#34;)" ; Times: 1
+	Query: "melanitta stejnegeri" ; Times: 6
+	Query: "A.O. Hume" ; Times: 1
+	Query: "tyto alba furcata" ; Times: 2
+	Query: "diomedea exulans kerguelen" ; Times: 1
+	Query: "eriocnemis luciani" ; Times: 1
+	Query: "class:aves recordedby:koren year &gt;= 1908 year &lt;= 1911" ; Times: 1
+	Query: "Buteo swainsoni institutioncode:ROM" ; Times: 1
+	Query: "Philortyx lifestage:immature" ; Times: 1
+	Query: "Gelochelidon nilotica institutioncode:ROM" ; Times: 1
+	Query: "mvz gymnogyps california" ; Times: 2
+	Query: "Quercus" ; Times: 1
+	Query: "Rostrhamus sociabilis institutioncode:ROM" ; Times: 1
+	Query: "(Hume) year &gt;= 1870 year &lt;= 1880 institutioncode:ROM" ; Times: 2
+	Query: "crossoptilon crossoptilon" ; Times: 1
+	Query: "Thalasseus maximus institutioncode:ROM" ; Times: 1
+	Query: "ROM 65867" ; Times: 1
+	Query: "Branta bernicla institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:arcticus county:&#34;muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "distance(location,geopoint(1.280708,-76.318197))&lt;40000" ; Times: 3
+	Query: "puffinus gulf" ; Times: 1
+	Query: "&#34;Rockstone Pond&#34;" ; Times: 2
+	Query: "Hydroprogne caspia institutioncode:ROM" ; Times: 1
+	Query: "rhea americana" ; Times: 1
+	Query: "genus:hydrobates" ; Times: 1
+	Query: "128920" ; Times: 1
+	Query: "128925" ; Times: 1
+	Query: "UAM 16566" ; Times: 2
+	Query: "Alca torda institutioncode:ROM" ; Times: 1
+	Query: "Anser caerulescens institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:minor genus:chordeiles county:&#34;muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:otus genus:asio county:&#34;muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "genus:Botaurus county:&#34;Muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:haematodus genus:trichoglossus hasmass:1" ; Times: 1
+	Query: "(14976)" ; Times: 1
+	Query: "pulsatrix perspicillata" ; Times: 3
+	Query: "ROM 114848" ; Times: 2
+	Query: "R.39075" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:Buteo country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:immer genus:Gavia county:&#34;muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "genus:geococcyx institutioncode:ROM skeleton" ; Times: 1
+	Query: "CIRCUS AERUGINOSUS" ; Times: 2
+	Query: "puffinus griseus year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "order:Aves year &gt;= 1900 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:Pubescens genus:Picoides county:&#34;Muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "diomedea exulans south georgia" ; Times: 1
+	Query: "Haematopus palliatus institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:canadensis county:&#34;muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "strix chacoensis" ; Times: 6
+	Query: "genus:scolopax county:&#34;muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "genus:limosa class:aves stateprovince:&#34;alaska&#34; year &gt;= 1992 year &lt;= 1992" ; Times: 1
+	Query: "Alcedo meninting" ; Times: 1
+	Query: "112331" ; Times: 1
+	Query: "catalognumber:37110 institutioncode:ROM" ; Times: 1
+	Query: "12212" ; Times: 1
+	Query: "elanoides" ; Times: 2
+	Query: "pterodroma macroptera" ; Times: 5
+	Query: "Egretta rufescens institutioncode:ROM" ; Times: 1
+	Query: "genus:heliornis institutioncode:ROM skeleton" ; Times: 1
+	Query: "ROM 44298" ; Times: 1
+	Query: "Somateria fischeri institutioncode:ROM" ; Times: 1
+	Query: "diomedea exulans chionoptera" ; Times: 1
+	Query: "77071" ; Times: 1
+	Query: "(Hume) year &gt;= 1870 startdayofyear &lt;= 1870 institutioncode:ROM" ; Times: 1
+	Query: "picus viridis" ; Times: 1
+	Query: "specificepithet:americana genus:Grus stateprovince:&#34;Manitoba&#34;" ; Times: 1
+	Query: "24177" ; Times: 1
+	Query: "specificepithet:lagopus genus:Lagopus stateprovince:&#34;Saskatchewan&#34; country:&#34;Canada&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Aves year &gt;= 1900 year &lt;= 1910 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "Kangaroo mouse" ; Times: 1
+	Query: "catalognumber:13619" ; Times: 2
+	Query: "specificepithet:swainsoni genus:Buteo country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Anhima cornuta" ; Times: 1
+	Query: "genus:larus institutioncode:ROM" ; Times: 4
+	Query: "(84514)" ; Times: 1
+	Query: "stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 2
+	Query: "specificepithet:Hyemalis county:&#34;Muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:canadensis genus:Grus institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Buteo lineatus institutioncode:ROM" ; Times: 1
+	Query: "laterallus jamaicensis" ; Times: 1
+	Query: "Gavia immer preparations:wing institutioncode:ROM" ; Times: 1
+	Query: "Crayfish frog" ; Times: 1
+	Query: "specificepithet:merganser genus:mergus county:&#34;muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:aleuticus genus:Ptychoramphus hassex:1 hasmass:1" ; Times: 3
+	Query: "30505" ; Times: 1
+	Query: "specificepithet:Pileatus county:&#34;Muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "Philortyx lifestage:adult" ; Times: 1
+	Query: "Owls" ; Times: 1
+	Query: "asio flammeus suinda" ; Times: 1
+	Query: "genus:Halcyon hassex:1 hasmass:1" ; Times: 1
+	Query: "vntype:specimen genus:Neochen institutioncode:ROM" ; Times: 1
+	Query: "genus:Fulica county:&#34;Muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "Mycteria americana institutioncode:ROM" ; Times: 1
+	Query: "&#34;Monte Verde&#34;" ; Times: 1
+	Query: "157834" ; Times: 1
+	Query: "(H 59-40)" ; Times: 1
+	Query: "Philortyx" ; Times: 2
+	Query: "24123" ; Times: 1
+	Query: "rhopodytes viridirostris" ; Times: 1
+	Query: "pelecanus crispus" ; Times: 1
+	Query: "butterfly" ; Times: 1
+	Query: "134928" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 9
+	Query: "Haida Gwaii" ; Times: 1
+	Query: "puffinus africa" ; Times: 3
+	Query: "stateprovince:&#34;texas&#34; recordedby:carroll" ; Times: 2
+	Query: "taccocua leschenaultii" ; Times: 2
+	Query: "Pteroglossus torquatus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "76294" ; Times: 1
+	Query: "pelecanus philippensis" ; Times: 3
+	Query: "turtur new zealand" ; Times: 1
+	Query: "&#34;WING CHORD&#34; specificepithet:platyrhynchos genus:ANAS continent:NORTH AMERICA lifestage:ADULT haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Puffinus haurakiensis" ; Times: 1
+	Query: "Picoides borealis institutioncode:ROM" ; Times: 1
+	Query: "gbifdatasetid:136560fa-9eb9-492f-866e-5bd110c52f74" ; Times: 1
+	Query: "Accipiter gentilis preparations:wing institutioncode:ROM" ; Times: 1
+	Query: "93597" ; Times: 1
+	Query: "specificepithet:Varia genus:Strix county:&#34;Muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "Buteo jamaicensis preparations:wing institutioncode:ROM" ; Times: 1
+	Query: "great auk" ; Times: 3
+	Query: "diomedea exulans" ; Times: 1
+	Query: "34264 ROM" ; Times: 2
+	Query: "22251" ; Times: 1
+	Query: "(16380)" ; Times: 1
+	Query: "genus:chaetura county:&#34;muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:chukar genus:alectoris hastissue:1" ; Times: 1
+	Query: "elanus leucurus" ; Times: 2
+	Query: "impennis" ; Times: 1
+	Query: "coeligena prunellei" ; Times: 2
+	Query: "order:Aves year &gt;= 1901 year &lt;= 1901 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "103852" ; Times: 1
+	Query: "Grus canadensis institutioncode:ROM" ; Times: 1
+	Query: "ciconia maguari" ; Times: 2
+	Query: "genus:chlidonias county:&#34;Muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "71223" ; Times: 1
+	Query: "Amazilia yucatanensis" ; Times: 1
+	Query: "Jackson 1902 Uganda" ; Times: 1
+	Query: "specificepithet:lagopus genus:Lagopus stateprovince:&#34;Alberta&#34; country:&#34;Canada&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:coccyzus county:&#34;muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "Pandion haliaetus preparations:wing institutioncode:ROM" ; Times: 1
+	Query: "procellariiformes phoenix" ; Times: 1
+	Query: "Aquila chrysaetos preparations:wing institutioncode:ROM" ; Times: 1
+	Query: "columba elphinstonii" ; Times: 2
+	Query: "VULTUR GRYPHUS" ; Times: 1
+	Query: "38874" ; Times: 1
+	Query: "vntype:specimen genus:aegolius county:&#34;muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "Larus occidentalis institutioncode:ROM" ; Times: 1
+	Query: "32113" ; Times: 1
+	Query: "ROM 110807" ; Times: 3
+	Query: "genus:bolbopsittacus country:&#34;philippines&#34;" ; Times: 1
+	Query: "Puffinus assimilis haurakiensis" ; Times: 1
+	Query: "79922" ; Times: 1
+	Query: "Phalacrocorax auritus preparations:wing institutioncode:ROM" ; Times: 1
+	Query: "&#34;Candelaria&#34;" ; Times: 3
+	Query: "79924" ; Times: 1
+	Query: "Scolopax minor preparations:wing institutioncode:ROM" ; Times: 1
+	Query: "66359" ; Times: 1
+	Query: "theristicus melanopis" ; Times: 1
+	Query: "38130" ; Times: 1
+	Query: "aviceda stenozona" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 853 download events in this period)
+Total number of records downloaded: 12245
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 4
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Guadeloupe ; Times: 3
+	Country: United States ; Times: 8
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-11 ; Times: 3
+	Date: 2020-03-27 ; Times: 2
+	Date: 2020-03-26 ; Times: 5
+	Date: 2020-03-25 ; Times: 2
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-03 ; Times: 2
+	Date: 2020-03-04 ; Times: 1
+	Date: 2020-03-05 ; Times: 5
+	Date: 2020-03-09 ; Times: 2
+	Date: 2020-03-06 ; Times: 1
+	Date: 2020-03-13 ; Times: 3
+	Date: 2020-03-10 ; Times: 1
+	Date: 2020-03-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "VULTUR GRYPHUS" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;New Mexico&#34; hastissue:1" ; Times: 1
+	Query: "Kangaroo mouse" ; Times: 1
+	Query: "elanus leucurus" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "stateprovince:&#34;ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "procellariiformes hastissue:1" ; Times: 1
+	Query: "country:&#34;Singapore&#34;" ; Times: 1
+	Query: "class:Aves continent:Africa institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:swainsoni genus:Buteo country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:aleuticus genus:Ptychoramphus hassex:1 hasmass:1" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Rio Grande do Sul&#34;" ; Times: 1
+	Query: "Amazilia cyanocephala" ; Times: 1
+	Query: "specificepithet:lagopus genus:Lagopus stateprovince:&#34;Quebec&#34; country:&#34;Canada&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:albonotatus genus:Buteo country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Anas wyvilliana" ; Times: 1
+	Query: "Amazilia yucatanensis" ; Times: 1
+	Query: "colaptes chrysoides" ; Times: 1
+	Query: "northern flicker" ; Times: 1
+	Query: "specificepithet:lagopus genus:Lagopus stateprovince:&#34;Manitoba&#34; country:&#34;Canada&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "&#34;Columba leucocephala&#34; OR &#34;Patagioenas leucocephala&#34; vntype:specimen" ; Times: 3
+	Query: "specificepithet:jamaicensis genus:Buteo country:&#34;Mexico&#34;" ; Times: 1
+	Query: "county:&#34;Amador&#34;" ; Times: 1
+	Query: "(Hume) year &gt;= 1870 year &lt;= 1880 institutioncode:ROM" ; Times: 1
+	Query: "Philortyx" ; Times: 2
+	Query: "egretta gularis" ; Times: 1
+
+
+End of report.
