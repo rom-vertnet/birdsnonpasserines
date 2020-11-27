@@ -1,0 +1,681 @@
+Report for Institution Code ROM, Resource birdsnonpass
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1330
+Number of records retrieved in searches: 22060
+Number of different countries where searches have been originated: 26
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 890
+	Country: Turkey ; Times: 1
+	Country: Peru ; Times: 7
+	Country: Unknown ; Times: 5
+	Country: Panama ; Times: 2
+	Country: Costa Rica ; Times: 2
+	Country: France ; Times: 1
+	Country: Ireland ; Times: 9
+	Country: Argentina ; Times: 19
+	Country: Venezuela ; Times: 3
+	Country: Ecuador ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Singapore ; Times: 3
+	Country: Germany ; Times: 8
+	Country: Iraq ; Times: 5
+	Country: Hong Kong ; Times: 1
+	Country: Spain ; Times: 3
+	Country: United States ; Times: 297
+	Country: Brazil ; Times: 11
+	Country: Mexico ; Times: 25
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 15
+	Country: United Kingdom ; Times: 8
+	Country: Austria ; Times: 1
+	Country: Colombia ; Times: 6
+	Country: Paraguay ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 22
+	Date: 2020-05-24 ; Times: 14
+	Date: 2020-05-27 ; Times: 15
+	Date: 2020-05-26 ; Times: 16
+	Date: 2020-05-21 ; Times: 3
+	Date: 2020-05-20 ; Times: 24
+	Date: 2020-05-23 ; Times: 4
+	Date: 2020-05-22 ; Times: 12
+	Date: 2020-05-29 ; Times: 2
+	Date: 2020-05-28 ; Times: 4
+	Date: 2020-05-18 ; Times: 5
+	Date: 2020-05-19 ; Times: 5
+	Date: 2020-05-10 ; Times: 32
+	Date: 2020-05-11 ; Times: 9
+	Date: 2020-05-12 ; Times: 4
+	Date: 2020-05-13 ; Times: 9
+	Date: 2020-05-15 ; Times: 22
+	Date: 2020-05-16 ; Times: 14
+	Date: 2020-05-17 ; Times: 22
+	Date: 2020-05-30 ; Times: 11
+	Date: 2020-05-31 ; Times: 15
+	Date: 2020-05-09 ; Times: 11
+	Date: 2020-05-08 ; Times: 13
+	Date: 2020-05-07 ; Times: 149
+	Date: 2020-05-06 ; Times: 59
+	Date: 2020-05-05 ; Times: 66
+	Date: 2020-05-04 ; Times: 12
+	Date: 2020-05-03 ; Times: 18
+	Date: 2020-05-02 ; Times: 4
+	Date: 2020-05-01 ; Times: 734
+
+List of queries that retrieved data from the resource: 
+	Query: "ROM 37622" ; Times: 1
+	Query: "36580" ; Times: 1
+	Query: "Aquila chrysaetos ws OR wingspan OR wing span" ; Times: 6
+	Query: "134721" ; Times: 1
+	Query: "vntype:specimen specificepithet:buccinator genus:Cygnus stateprovince:&#34;Ontario&#34; institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Prosobonia" ; Times: 1
+	Query: "larus maculipennis" ; Times: 2
+	Query: "Thalasseus sandvicensis (ws OR wingspan OR wing span)" ; Times: 4
+	Query: "Rostrhamus ws OR wingspan OR wing+span" ; Times: 1
+	Query: "geotrygon saphirina" ; Times: 3
+	Query: "vntype:specimen genus:Rynchops &#34;span&#34;" ; Times: 1
+	Query: "Buteo jamaicensis harlani" ; Times: 6
+	Query: "Branta ws OR wingspan OR wing+span" ; Times: 2
+	Query: "Tyto ws OR wingspan OR wing+span" ; Times: 1
+	Query: "vntype:specimen specificepithet:rubripes genus:Anas lifestage:adult sex:male" ; Times: 1
+	Query: "Sterna paradisaea ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 1
+	Query: "Anas wyvilliana" ; Times: 2
+	Query: "Bucephala clangula ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 1
+	Query: "vntype:specimen specificepithet:alba genus:Ardea &#34;ws&#34;" ; Times: 1
+	Query: "genus:Sterna class:Aves country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:rubripes genus:Anas lifestage:adult sex:female" ; Times: 1
+	Query: "specificepithet:pipixcan stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Charadrius nivosus" ; Times: 1
+	Query: "vntype:specimen specificepithet:borealis genus:Picoides &#34;span&#34;" ; Times: 2
+	Query: "specificepithet:buccinator genus:Cygnus stateprovince:&#34;Ontario&#34; year &gt;= 2010 year &lt;= 2020 institutioncode:ROM" ; Times: 1
+	Query: "&#34;Anas rubripes&#34; lifestage:immature sex:male" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo lifestage:juvenile sex:female" ; Times: 1
+	Query: "Geotrygon montana montana" ; Times: 1
+	Query: "Falco peregrinus ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 3
+	Query: "Falco peregrinus (ws OR wingspan OR wing span)" ; Times: 4
+	Query: "Charadrius nivosus ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 1
+	Query: "specificepithet:canadensis genus:Branta (ws OR wing span OR wingspan AND adult OR mature OR ad)" ; Times: 1
+	Query: "Somateria spectabilis ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 1
+	Query: "Haematopus bachmani ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 1
+	Query: "15583" ; Times: 1
+	Query: "vntype:specimen specificepithet:lobatus genus:Phalaropus lifestage:juvenile sex:female" ; Times: 1
+	Query: "Buteo regalis ws OR wingspan OR wing span" ; Times: 6
+	Query: "Cygnus buccinator ws OR wingspan OR wing+span" ; Times: 9
+	Query: "catalognumber:35597 institutioncode:ROM" ; Times: 7
+	Query: "vntype:specimen specificepithet:rubripes genus:Anas sex:female" ; Times: 1
+	Query: "79663" ; Times: 2
+	Query: "Rhynchopsitta" ; Times: 1
+	Query: "Accipiter cooperii ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 2
+	Query: "Accipiter cooperii ws OR wingspan OR wing+span" ; Times: 9
+	Query: "Zenaida ws OR wingspan OR wing+span" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:Phalaropus lifestage:juvenile sex:male" ; Times: 1
+	Query: "Cathartes aura ws OR wingspan OR wing+span" ; Times: 10
+	Query: "witch" ; Times: 1
+	Query: "specificepithet:crecca genus:Anas lifestage:adult sex:male" ; Times: 1
+	Query: "genus:Halcyon stateprovince:&#34;Mindanao&#34; year &gt;= 1900" ; Times: 1
+	Query: "catalognumber:125551" ; Times: 1
+	Query: "Rynchops niger ws OR wingspan OR wing+span" ; Times: 10
+	Query: "Falco peregrinus ws OR wingspan OR wing span" ; Times: 7
+	Query: "specificepithet:fulicarius genus:Phalaropus lifestage:adult sex:female" ; Times: 1
+	Query: "Texas Arenaria interpres" ; Times: 1
+	Query: "locality:Veraguas country:&#34;Panama&#34;" ; Times: 2
+	Query: "ROM 158376" ; Times: 1
+	Query: "Larus californicus ws OR wingspan OR wing span" ; Times: 6
+	Query: "monachus" ; Times: 2
+	Query: "catalognumber:28784" ; Times: 2
+	Query: "Aquila chrysaetos ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 2
+	Query: "vntype:specimen specificepithet:autumnalis genus:Dendrocygna sex:female" ; Times: 1
+	Query: "quercus" ; Times: 1
+	Query: "specificepithet:dougalli genus:Sterna (&#34;ws&#34; OR &#34;wing span&#34; OR &#34;wingspan&#34;)" ; Times: 2
+	Query: "vntype:specimen specificepithet:tricolor genus:Phalaropus lifestage:adult sex:female" ; Times: 1
+	Query: "Charadrius melodus (ws OR wingspan OR wing span)" ; Times: 4
+	Query: "recordedby:Fite" ; Times: 1
+	Query: "Falco peregrinus ws OR wingspan OR wing+span" ; Times: 10
+	Query: "159578" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo lifestage:immature sex:female" ; Times: 1
+	Query: "119648" ; Times: 1
+	Query: "baer" ; Times: 1
+	Query: "genus:Surnia county:&#34;Muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "Buteo lineatus ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 2
+	Query: "Texas Accipiter cooperii" ; Times: 1
+	Query: "MVZ 154783" ; Times: 2
+	Query: "Charadrius wilsonia ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 1
+	Query: "Ardea alba ws OR wingspan OR wing+span" ; Times: 10
+	Query: "Amazilia cyanocephala" ; Times: 1
+	Query: "Branta bernicla ws OR wingspan OR wing+span" ; Times: 10
+	Query: "Picoides borealis ws OR wingspan OR wing+span" ; Times: 9
+	Query: "Larus argentatus ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 3
+	Query: "Larus marinus (ws OR wingspan OR wing span)" ; Times: 4
+	Query: "Amazona stateprovince:&#34;tamaulipas&#34;" ; Times: 2
+	Query: "156311" ; Times: 1
+	Query: "20009" ; Times: 1
+	Query: "Andigena nigrirostris" ; Times: 4
+	Query: "Accipiter gentilis ws OR wingspan OR wing+span" ; Times: 10
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas sex:female" ; Times: 1
+	Query: "Texas Ictinia mississippiensis" ; Times: 1
+	Query: "pine siskin" ; Times: 1
+	Query: "Texas Zenaida asiatica" ; Times: 1
+	Query: "Aquila chrysaetos ws OR wingspan OR wing+span" ; Times: 10
+	Query: "Larus delawarensis (ws OR wingspan OR wing span)" ; Times: 4
+	Query: "Limosa haemastica ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 1
+	Query: "genus:tringa county:&#34;Muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "vntype:specimen genus:Rynchops &#34;wing span&#34;" ; Times: 2
+	Query: "Athene ws OR wingspan OR wing+span" ; Times: 1
+	Query: "Accipiter gentilis ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 2
+	Query: "specificepithet:acuta genus:Anas lifestage:juvenile sex:male" ; Times: 1
+	Query: "Branta canadensis ws OR wingspan OR wing+span" ; Times: 10
+	Query: "vntype:specimen specificepithet:tricolor genus:Phalaropus lifestage:adult sex:male" ; Times: 1
+	Query: "Charadrius alexandrinus" ; Times: 1
+	Query: "baker egg england" ; Times: 1
+	Query: "151630" ; Times: 1
+	Query: "Egretta ws OR wingspan OR wing+span" ; Times: 1
+	Query: "Branta canadensis ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 4
+	Query: "specificepithet:leucotis genus:Pyrrhura country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Hydroprogne caspia ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 3
+	Query: "specificepithet:canadensis genus:Branta (&#34;ws&#34; OR &#34;wing span&#34; OR &#34;wingspan&#34;)" ; Times: 2
+	Query: "Phalacrocorax auritus (ws OR wingspan OR wing span)" ; Times: 4
+	Query: "Cathartes aura (ws OR wingspan OR wing span)" ; Times: 5
+	Query: "Falco sparverius (ws OR wingspan OR wing span)" ; Times: 4
+	Query: "Sterna hirundo ws OR wingspan OR wing span" ; Times: 6
+	Query: "Thalassarche chlororhynchos" ; Times: 1
+	Query: "vntype:specimen genus:Rynchops span" ; Times: 1
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas lifestage:immature sex:female" ; Times: 1
+	Query: "Larus marinus ws OR wingspan OR wing span" ; Times: 6
+	Query: "Accipiter gentilis (ws OR wingspan OR wing span)" ; Times: 4
+	Query: "specificepithet:spinosa genus:Jacana lifestage:adult sex:female" ; Times: 1
+	Query: "Phalacrocorax auritus ws OR wingspan OR wing span" ; Times: 7
+	Query: "Thalasseus ws OR wingspan OR wing+span" ; Times: 3
+	Query: "genus:Vultur" ; Times: 4
+	Query: "Larus californicus ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 2
+	Query: "Godwin-Austen" ; Times: 1
+	Query: "Geotrygon purpurata" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo lifestage:immature sex:male" ; Times: 1
+	Query: "Rissa tridactyla ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 1
+	Query: "vntype:specimen specificepithet:borealis genus:Picoides &#34;wing span&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:rubripes genus:Anas sex:male" ; Times: 1
+	Query: "fungi" ; Times: 1
+	Query: "genus:anas county:&#34;Muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "Tyto alba affinis" ; Times: 1
+	Query: "Haematopus ws OR wingspan OR wing+span" ; Times: 1
+	Query: "ROM 35605" ; Times: 1
+	Query: "Anas fulvigula" ; Times: 3
+	Query: "genus:Doryfera country:&#34;Costa Rica&#34;" ; Times: 2
+	Query: "Sterna ws OR wingspan OR wing+span" ; Times: 2
+	Query: "Larus marinus ws OR wingspan OR wing+span" ; Times: 10
+	Query: "Numenius arquata india" ; Times: 1
+	Query: "ROM 26536" ; Times: 2
+	Query: "pterocles senegallus India" ; Times: 1
+	Query: "specificepithet:spinosa genus:Jacana lifestage:immature sex:male" ; Times: 1
+	Query: "ROM Aethia pusilla" ; Times: 1
+	Query: "Sterna hirundo ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 3
+	Query: "28960" ; Times: 1
+	Query: "36803" ; Times: 1
+	Query: "Anas bahamensis" ; Times: 3
+	Query: "18482" ; Times: 1
+	Query: "gypaetus barbatus" ; Times: 1
+	Query: "Larus argentatus ws OR wingspan OR wing span" ; Times: 6
+	Query: "vntype:specimen specificepithet:nigripes genus:Diomedea WS" ; Times: 1
+	Query: "catalognumber:16611" ; Times: 2
+	Query: "Thalasseus sandvicensis ws OR wingspan OR wing span" ; Times: 6
+	Query: "Buteo lineatus ws OR wingspan OR wing+span" ; Times: 9
+	Query: "albigularis" ; Times: 1
+	Query: "Caprimulgus affinis" ; Times: 2
+	Query: "vntype:specimen specificepithet:tricolor genus:Phalaropus lifestage:immature sex:male" ; Times: 1
+	Query: "Larus marinus ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 2
+	Query: "vntype:specimen specificepithet:borealis genus:Picoides &#34;WS&#34;" ; Times: 1
+	Query: "specificepithet:collaris genus:Trogon country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Numenius phaeopus ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 1
+	Query: "44752" ; Times: 2
+	Query: "Aquila chrysaetos (ws OR wingspan OR wing span)" ; Times: 4
+	Query: "genus:chelidoptera country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Alisterus amboinensis buruensis" ; Times: 1
+	Query: "Anas ws OR wingspan OR wing+span" ; Times: 1
+	Query: "33797" ; Times: 1
+	Query: "Anas platyrhynchos (ws OR wingspan OR wing span)" ; Times: 4
+	Query: "Buteo jamaicensis ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 2
+	Query: "vntype:specimen specificepithet:fasciatus genus:Philortyx" ; Times: 1
+	Query: "79125" ; Times: 1
+	Query: "vntype:specimen specificepithet:rubripes genus:Anas lifestage:immature sex:male" ; Times: 1
+	Query: "specificepithet:spinosa genus:Jacana sex:female" ; Times: 1
+	Query: "Haliaeetus leucocephalus ws OR wingspan OR wing span" ; Times: 7
+	Query: "ROM 23336" ; Times: 1
+	Query: "specificepithet:crecca genus:Anas lifestage:juvenile sex:male" ; Times: 1
+	Query: "Buteo regalis (ws OR wingspan OR wing span)" ; Times: 4
+	Query: "Haliaeetus leucocephalus ws OR wingspan OR wing+span" ; Times: 9
+	Query: "vultur gryphus" ; Times: 6
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas lifestage:adult sex:female" ; Times: 1
+	Query: "Hydroprogne ws OR wingspan OR wing+span" ; Times: 1
+	Query: "&#34;Anas rubripes&#34; lifestage:juvenile sex:female" ; Times: 1
+	Query: "genus:Halcyon stateprovince:&#34;Mindanao&#34;" ; Times: 1
+	Query: "&#34;Anas rubripes&#34; sex:male" ; Times: 1
+	Query: "Charadrius melodus ws OR wingspan OR wing span" ; Times: 6
+	Query: "43990" ; Times: 1
+	Query: "catalognumber:19612" ; Times: 1
+	Query: "specificepithet:acuta genus:Anas lifestage:adult sex:male" ; Times: 1
+	Query: "ROM 117835" ; Times: 1
+	Query: "vntype:specimen specificepithet:autumnalis genus:Dendrocygna lifestage:juvenile sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:lobatus genus:Phalaropus lifestage:adult sex:male" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:Buteo class:aves stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "genus:zenaida county:&#34;Muskoka&#34; institutioncode:ROM" ; Times: 2
+	Query: "specificepithet:canadensis genus:Branta (&#34;ws&#34; OR &#34;wing span&#34; OR &#34;wingspan&#34; AND &#34;adult&#34; OR &#34;mature&#34; OR &#34;ad&#34;)" ; Times: 1
+	Query: "Apus pacificus" ; Times: 5
+	Query: "Charadrius melodus ws OR wingspan OR wing+span" ; Times: 9
+	Query: "vntype:specimen specificepithet:buccinator genus:Cygnus WS" ; Times: 1
+	Query: "Branta canadensis (ws OR wingspan OR wing span)" ; Times: 56
+	Query: "Charadrius leschenaultii india" ; Times: 1
+	Query: "&#34;monachus monachus&#34;" ; Times: 1
+	Query: "Vanellus+chilensis" ; Times: 1
+	Query: "Cathartes aura ws OR wingspan OR wing span" ; Times: 7
+	Query: "specificepithet:Canadensis genus:Branta (&#34;ws&#34; OR &#34;wing span&#34; OR &#34;wingspan&#34; AND &#34;adult&#34; OR &#34;mature&#34; OR &#34;ad&#34;)" ; Times: 1
+	Query: "Plegadis ridgwayi" ; Times: 2
+	Query: "Hydroprogne caspia ws OR wingspan OR wing+span" ; Times: 10
+	Query: "Anas rubripes" ; Times: 10
+	Query: "16804" ; Times: 1
+	Query: "specificepithet:crecca genus:Anas lifestage:adult sex:female" ; Times: 1
+	Query: "&#34;Anas rubripes&#34; sex:female" ; Times: 1
+	Query: "catalognumber:45779" ; Times: 1
+	Query: "Buteo regalis ws OR wingspan OR wing+span" ; Times: 9
+	Query: "Falco sparverius ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 3
+	Query: "genus:clangula county:&#34;Muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "Tyto alba (ws OR wingspan OR wing span)" ; Times: 4
+	Query: "pluvialis obscura" ; Times: 1
+	Query: "Cygnus buccinator (ws OR wingspan OR wing span)" ; Times: 4
+	Query: "Aythya affinis ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 1
+	Query: "specificepithet:Canadensis genus:Branta (&#34;ws&#34; OR &#34;wing span&#34; OR &#34;wingspan&#34;)" ; Times: 1
+	Query: "&#34;Anas rubripes&#34; lifestage:adult sex:female" ; Times: 1
+	Query: "Haematopus palliatus ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 3
+	Query: "vntype:specimen specificepithet:migratorius genus:Ectopistes institutioncode:ROM" ; Times: 4
+	Query: "class:Aves institutioncode:ROM" ; Times: 1
+	Query: "75267" ; Times: 2
+	Query: "Branta bernicla ws OR wingspan OR wing span" ; Times: 6
+	Query: "specificepithet:viduata genus:dendrocygna country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "33042" ; Times: 1
+	Query: "Buteo lineatus ws OR wingspan OR wing span" ; Times: 6
+	Query: "genus:aythya county:&#34;Muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "vntype:specimen genus:Branta lifestage:adult (ws) haslifestage:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas lifestage:adult sex:male" ; Times: 1
+	Query: "Halcyon OR Todiramphus Tahiti" ; Times: 1
+	Query: "Alca torda ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 1
+	Query: "Larus argentatus (ws OR wingspan OR wing span)" ; Times: 4
+	Query: "vntype:specimen specificepithet:rubripes genus:Anas lifestage:immature sex:female" ; Times: 1
+	Query: "tai o" ; Times: 1
+	Query: "cacomantis passerinus india" ; Times: 1
+	Query: "country:&#34;saudi arabia&#34;" ; Times: 1
+	Query: "Rynchops niger ws OR wingspan OR wing span" ; Times: 6
+	Query: "specificepithet:buccinator genus:Cygnus year &gt;= 1917 year &lt;= 2020 institutioncode:ROM" ; Times: 1
+	Query: "charadrius modestus" ; Times: 1
+	Query: "Caprimulgus vociferus Texas" ; Times: 1
+	Query: "specificepithet:fulicarius genus:Phalaropus lifestage:juvenile sex:male" ; Times: 1
+	Query: "specificepithet:albonotatus genus:Buteo country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Rynchops ws OR wingspan OR wing+span" ; Times: 1
+	Query: "79403" ; Times: 1
+	Query: "trogon collaris" ; Times: 2
+	Query: "Pterocles orientalis India" ; Times: 1
+	Query: "specificepithet:fulicarius genus:Phalaropus lifestage:juvenile sex:female" ; Times: 1
+	Query: "33761" ; Times: 1
+	Query: "Buteo jamaicensis ws OR wingspan OR wing+span" ; Times: 9
+	Query: "Strix varia ws OR wingspan OR wing+span" ; Times: 9
+	Query: "egg Stevens" ; Times: 1
+	Query: "ws OR wingspan OR wing span Cathartes aura" ; Times: 1
+	Query: "Strix varia ws OR wingspan OR wing span" ; Times: 6
+	Query: "Branta bernicla ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 2
+	Query: "Cygnus buccinator ws OR wingspan OR wing span" ; Times: 7
+	Query: "Anas platyrhynchos ws OR wingspan OR wing+span" ; Times: 10
+	Query: "Grus canadensis ws OR wingspan OR wing+span" ; Times: 8
+	Query: "Bartramia longicauda" ; Times: 3
+	Query: "121605" ; Times: 1
+	Query: "specificepithet:crecca genus:Anas lifestage:juvenile sex:female" ; Times: 1
+	Query: "pelagodroma marina" ; Times: 3
+	Query: "pachyptila vittata" ; Times: 3
+	Query: "Geotrygon mystacea" ; Times: 2
+	Query: "aegypius monachus" ; Times: 1
+	Query: "37765" ; Times: 1
+	Query: "specificepithet:MACULATUS genus:PARDIRALLUS country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:fulicarius genus:Phalaropus lifestage:immature sex:female" ; Times: 1
+	Query: "Haematopus palliatus (ws OR wingspan OR wing span)" ; Times: 4
+	Query: "30246" ; Times: 1
+	Query: "Larus californicus (ws OR wingspan OR wing span)" ; Times: 4
+	Query: "34415" ; Times: 1
+	Query: "genus:Colaptes county:&#34;Muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "34410" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:Phalaropus sex:male" ; Times: 1
+	Query: "Anas rubripes sex:male" ; Times: 1
+	Query: "Thalasseus sandvicensis ws OR wingspan OR wing+span" ; Times: 10
+	Query: "Anas diazi sex:male" ; Times: 2
+	Query: "specificepithet:acuta genus:Anas lifestage:immature sex:male" ; Times: 1
+	Query: "Zenaida macroura ws OR wingspan OR wing span" ; Times: 7
+	Query: "ROM Pluvialis apricaria" ; Times: 1
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas lifestage:immature sex:male" ; Times: 1
+	Query: "ROM 3891" ; Times: 2
+	Query: "aves TRUE" ; Times: 1
+	Query: "Pelecanus ws OR wingspan OR wing+span" ; Times: 2
+	Query: "Accipiter cooperii (ws OR wingspan OR wing span)" ; Times: 4
+	Query: "vntype:specimen genus:Branta lifestage:adult (ws wing span) haslifestage:1" ; Times: 1
+	Query: "Tyto alba ws OR wingspan OR wing+span" ; Times: 10
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas lifestage:adult sex:male" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo lifestage:adult sex:male" ; Times: 1
+	Query: "Ardea alba ws OR wingspan OR wing span" ; Times: 6
+	Query: "Cygnus ws OR wingspan OR wing+span" ; Times: 1
+	Query: "N.e. erythrophthalma" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufescens genus:Egretta" ; Times: 1
+	Query: "Pandion haliaetus ws OR wingspan OR wing+span" ; Times: 10
+	Query: "Halcyon colona" ; Times: 1
+	Query: "country:&#34;belize&#34; institutioncode:ROM" ; Times: 1
+	Query: "Geotrygon chrysia" ; Times: 1
+	Query: "specificepithet:pugnax class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Zenaida macroura (ws OR wingspan OR wing span)" ; Times: 4
+	Query: "coccyzus americanus Ecuador" ; Times: 1
+	Query: "charadrius rubricollis" ; Times: 1
+	Query: "45761" ; Times: 1
+	Query: "vntype:specimen specificepithet:lobatus genus:Phalaropus lifestage:adult sex:female" ; Times: 1
+	Query: "Anser caerulescens ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 1
+	Query: "Pelecanus erythrorhynchos ws OR wingspan OR wing span" ; Times: 7
+	Query: "Cathartes ws OR wingspan OR wing+span" ; Times: 1
+	Query: "&#34;very heavy&#34; egg incubation" ; Times: 1
+	Query: "vntype:specimen specificepithet:lobatus genus:Phalaropus lifestage:immature sex:female" ; Times: 1
+	Query: "Nycticorax nycticorax ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 1
+	Query: "Larus californicus ws OR wingspan OR wing+span" ; Times: 9
+	Query: "mvz AND gymnogyps AND california" ; Times: 1
+	Query: "Rostrhamus sociabilis ws OR wingspan OR wing span" ; Times: 6
+	Query: "specificepithet:acuta genus:Anas lifestage:adult sex:female" ; Times: 1
+	Query: "genus:Branta institutioncode:ROM haslength:1" ; Times: 1
+	Query: "ROM Vanellus tricolor" ; Times: 1
+	Query: "specificepithet:spinosa genus:Jacana lifestage:adult sex:male" ; Times: 1
+	Query: "Larus delawarensis ws OR wingspan OR wing span" ; Times: 6
+	Query: "vntype:specimen genus:Philortyx" ; Times: 1
+	Query: "vntype:specimen genus:Rynchops &#34;ws&#34;" ; Times: 1
+	Query: "mvz gymnogyps california" ; Times: 3
+	Query: "Haematopus palliatus ws OR wingspan OR wing+span" ; Times: 9
+	Query: "charadrius placidus" ; Times: 1
+	Query: "Phalacrocorax ws OR wingspan OR wing+span" ; Times: 2
+	Query: "Falco sparverius ws OR wingspan OR wing span" ; Times: 7
+	Query: "Texas Limnodromus scolopaceus" ; Times: 1
+	Query: "37232" ; Times: 2
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas lifestage:juvenile sex:male" ; Times: 1
+	Query: "Pandion haliaetus (ws OR wingspan OR wing span)" ; Times: 4
+	Query: "puffin" ; Times: 1
+	Query: "vntype:specimen specificepithet:strigilatus class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "16883" ; Times: 1
+	Query: "16881" ; Times: 1
+	Query: "USNM 285" ; Times: 1
+	Query: "Leptodon cayanensis" ; Times: 4
+	Query: "Charadrius melodus ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 2
+	Query: "Ardea alba (ws OR wingspan OR wing span)" ; Times: 4
+	Query: "“Very heavy” incubation" ; Times: 1
+	Query: "Sarothrura" ; Times: 1
+	Query: "vntype:specimen specificepithet:autumnalis genus:Dendrocygna sex:male" ; Times: 1
+	Query: "Diomedea nigripes ws OR wingspan OR wing+span" ; Times: 8
+	Query: "specificepithet:crecca genus:Anas lifestage:immature sex:male" ; Times: 1
+	Query: "recordedby:McCallum" ; Times: 1
+	Query: "Sterna hirundo (ws OR wingspan OR wing span)" ; Times: 4
+	Query: "38592" ; Times: 1
+	Query: "specificepithet:bahamensis country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "columba plumbea" ; Times: 2
+	Query: "argent" ; Times: 1
+	Query: "ROM 114848" ; Times: 2
+	Query: "Pandion ws OR wingspan OR wing+span" ; Times: 1
+	Query: "Strix ws OR wingspan OR wing+span" ; Times: 1
+	Query: "Haliaeetus leucocephalus (ws OR wingspan OR wing span)" ; Times: 4
+	Query: "Branta bernicla (ws OR wingspan OR wing span)" ; Times: 4
+	Query: "Amazona ochrocephala specificepithet:ochrocephala genus:Amazona stateprovince:&#34;tamaulipas&#34;" ; Times: 1
+	Query: "38633" ; Times: 1
+	Query: "Netta erythrophthalma" ; Times: 1
+	Query: "Rynchops niger (ws OR wingspan OR wing span)" ; Times: 4
+	Query: "Mergus merganser ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 1
+	Query: "recordnumber:35597 institutioncode:ROM" ; Times: 1
+	Query: "Burhinus indicus" ; Times: 2
+	Query: "ROM 37937" ; Times: 1
+	Query: "ROM 37936" ; Times: 3
+	Query: "specificepithet:acuta genus:Anas lifestage:juvenile sex:female" ; Times: 1
+	Query: "Strix varia ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 2
+	Query: "Amazona ochrocephala stateprovince:&#34;tamaulipas&#34;" ; Times: 1
+	Query: "specificepithet:aura genus:cathartes (&#34;ws&#34; OR &#34;wing span&#34; OR &#34;wingspan&#34;)" ; Times: 1
+	Query: "&#34;Anas rubripes&#34; lifestage:juvenile sex:male" ; Times: 1
+	Query: "157016" ; Times: 1
+	Query: "157015" ; Times: 1
+	Query: "12549" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:Phalaropus lifestage:immature sex:female" ; Times: 1
+	Query: "38568" ; Times: 1
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas lifestage:juvenile sex:male" ; Times: 1
+	Query: "class:Aves country:&#34;Angola&#34; continent:Africa" ; Times: 1
+	Query: "peru class:aves stateprovince:&#34;arequipa&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Charadrius mongolus india" ; Times: 2
+	Query: "vntype:specimen genus:Branta (ws wing span) haslifestage:1" ; Times: 1
+	Query: "family:Cathartidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs" ; Times: 1
+	Query: "141074" ; Times: 1
+	Query: "149391" ; Times: 1
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas lifestage:immature sex:female" ; Times: 1
+	Query: "&#34;Anas rubripes&#34; lifestage:immature sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:nigripes genus:Diomedea" ; Times: 1
+	Query: "&#34;very heavy&#34; egg" ; Times: 1
+	Query: "Passenger pigeon" ; Times: 3
+	Query: "Gavia immer ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 1
+	Query: "Strix varia (ws OR wingspan OR wing span)" ; Times: 4
+	Query: "Hydroprogne caspia (ws OR wingspan OR wing span)" ; Times: 4
+	Query: "Amazona oratrix stateprovince:&#34;Tamaulipas&#34;" ; Times: 2
+	Query: "specificepithet:migratorius genus:Ectopistes" ; Times: 7
+	Query: "gypaetus" ; Times: 1
+	Query: "vntype:specimen specificepithet:rubripes genus:Anas lifestage:juvenile sex:male" ; Times: 1
+	Query: "Geotrygon montana martinica" ; Times: 1
+	Query: "Melanitta deglandi ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 1
+	Query: "Buteo jamaicensis ws OR wingspan OR wing span" ; Times: 6
+	Query: "genus:calidris county:&#34;Muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "Vultur gryphus" ; Times: 2
+	Query: "Amazona oratrix tamaulipas" ; Times: 1
+	Query: "Chordeiles gundlachii" ; Times: 3
+	Query: "Branta canadensis ws OR wingspan OR wing span" ; Times: 7
+	Query: "Texas Anser albifrons" ; Times: 1
+	Query: "Zenaida macroura ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 3
+	Query: "149300" ; Times: 1
+	Query: "specificepithet:crecca genus:Anas lifestage:immature sex:female" ; Times: 1
+	Query: "Ardea ws OR wingspan OR wing+span" ; Times: 1
+	Query: "Fratercula arctica" ; Times: 2
+	Query: "genus:Pagophila class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "Aquila ws OR wingspan OR wing+span" ; Times: 1
+	Query: "Pelecanus erythrorhynchos (ws OR wingspan OR wing span)" ; Times: 4
+	Query: "&#34;Anas rubripes&#34; lifestage:adult sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas lifestage:immature sex:male" ; Times: 1
+	Query: "specificepithet:buccinator genus:Cygnus stateprovince:&#34;Ontario&#34; year &gt;= 2001 year &lt;= 2020 institutioncode:ROM" ; Times: 1
+	Query: "genus:falco county:&#34;Muskoka&#34; institutioncode:ROM" ; Times: 1
+	Query: "Uria lomvia ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 1
+	Query: "Yemen" ; Times: 3
+	Query: "156117" ; Times: 1
+	Query: "(tai o)" ; Times: 1
+	Query: "specificepithet:aura genus:Cathartes (&#34;ws&#34; OR &#34;wing span&#34; OR &#34;wingspan&#34;)" ; Times: 1
+	Query: "Tyto alba ws OR wingspan OR wing span" ; Times: 7
+	Query: "catalognumber:35605 institutioncode:ROM" ; Times: 3
+	Query: "Haematopus palliatus ws OR wingspan OR wing span" ; Times: 6
+	Query: "vntype:specimen specificepithet:lobatus genus:Phalaropus lifestage:immature sex:male" ; Times: 1
+	Query: "Falco sparverius ws OR wingspan OR wing+span" ; Times: 9
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas lifestage:juvenile sex:female" ; Times: 1
+	Query: "10041" ; Times: 1
+	Query: "vntype:specimen specificepithet:rubripes genus:Anas lifestage:juvenile sex:female" ; Times: 1
+	Query: "Geotrygon saphirina" ; Times: 1
+	Query: "Anas platyrhynchos ws OR wingspan OR wing span" ; Times: 6
+	Query: "Rostrhamus sociabilis (ws OR wingspan OR wing span)" ; Times: 4
+	Query: "glaucidium brodiei" ; Times: 1
+	Query: "ROM 105314" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:Phalaropus lifestage:juvenile sex:female" ; Times: 1
+	Query: "Larus delawarensis ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 2
+	Query: "Amazona oratrix stateprovince:&#34;tamaulipas&#34;" ; Times: 1
+	Query: "Chrysolophus x" ; Times: 1
+	Query: "vntype:specimen specificepithet:buccinator genus:Cygnus institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Thalasseus sandvicensis ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 3
+	Query: "Zenaida macroura ws OR wingspan OR wing+span" ; Times: 9
+	Query: "catalognumber:30627 institutioncode:ROM" ; Times: 2
+	Query: "county:&#34;Lee&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:lobatus genus:Phalaropus lifestage:juvenile sex:male" ; Times: 1
+	Query: "Anas diazi lifestage:adult sex:male" ; Times: 1
+	Query: "Pelecanus erythrorhynchos ws OR wingspan OR wing+span" ; Times: 9
+	Query: "Buteo jamaicensis (ws OR wingspan OR wing span)" ; Times: 4
+	Query: "157288" ; Times: 1
+	Query: "Halcyon OR Todiramphus Society" ; Times: 2
+	Query: "157285" ; Times: 1
+	Query: "79405" ; Times: 1
+	Query: "Anas platyrhynchos ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 3
+	Query: "ROM 11951" ; Times: 1
+	Query: "Accipiter ws OR wingspan OR wing+span" ; Times: 2
+	Query: "specificepithet:fulicarius genus:Phalaropus lifestage:immature sex:male" ; Times: 1
+	Query: "monachus monachus" ; Times: 2
+	Query: "159562" ; Times: 1
+	Query: "Hydroprogne caspia ws OR wingspan OR wing span" ; Times: 7
+	Query: "501202" ; Times: 1
+	Query: "specificepithet:spinosa genus:Jacana sex:male" ; Times: 1
+	Query: "Iraq" ; Times: 2
+	Query: "specificepithet:migratorius genus:Ectopistes institutioncode:ROM" ; Times: 16
+	Query: "Pandion haliaetus ws OR wingspan OR wing span" ; Times: 7
+	Query: "specificepithet:migratorius genus:Ectopistes institutioncode:ROM haslifestage:1" ; Times: 1
+	Query: "38185" ; Times: 1
+	Query: "saphirina" ; Times: 1
+	Query: "115914" ; Times: 1
+	Query: "Texas Dendrocygna uwbm" ; Times: 1
+	Query: "Charadrius ws OR wingspan OR wing+span" ; Times: 1
+	Query: "bone valley" ; Times: 2
+	Query: "specificepithet:aura genus:cathartes ws OR wing span OR wingspan" ; Times: 1
+	Query: "specificepithet:spinosa genus:Jacana lifestage:immature sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas lifestage:adult sex:female" ; Times: 1
+	Query: "specificepithet:Insignis genus:Panterpe country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:nigripes genus:Diomedea span" ; Times: 1
+	Query: "Amazona leucocephala leucocephala" ; Times: 1
+	Query: "Accipiter cooperii ws OR wingspan OR wing span" ; Times: 6
+	Query: "Halcyon pileata India" ; Times: 1
+	Query: "Scolopax minor ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 1
+	Query: "specificepithet:fuscata genus:Sterna class:Aves country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cygnus buccinator ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 3
+	Query: "family:Columbidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs" ; Times: 1
+	Query: "Rostrhamus sociabilis ws OR wingspan OR wing+span" ; Times: 10
+	Query: "159638" ; Times: 2
+	Query: "39437" ; Times: 1
+	Query: "Tyto alba ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 3
+	Query: "158356" ; Times: 2
+	Query: "Buteo lineatus (ws OR wingspan OR wing span)" ; Times: 4
+	Query: "Texas Dendrocygna" ; Times: 2
+	Query: "Haliaeetus ws OR wingspan OR wing+span" ; Times: 1
+	Query: "specificepithet:striatus genus:accipiter stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo lifestage:juvenile sex:male" ; Times: 1
+	Query: "Phalacrocorax auritus ws OR wingspan OR wing+span" ; Times: 9
+	Query: "specificepithet:peposaca country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "125792" ; Times: 1
+	Query: "mollusca" ; Times: 1
+	Query: "passenger pigeon" ; Times: 1
+	Query: "Ceyx azureus" ; Times: 1
+	Query: "Rynchops niger ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 2
+	Query: "vntype:specimen specificepithet:autumnalis genus:Dendrocygna lifestage:adult sex:female" ; Times: 1
+	Query: "15579" ; Times: 1
+	Query: "charadrius obscurus" ; Times: 4
+	Query: "73832" ; Times: 1
+	Query: "Anas fulvigula ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 1
+	Query: "genus:colinus stateprovince:&#34;tennessee&#34;" ; Times: 8
+	Query: "specificepithet:bicolor country:&#34;philippines&#34;" ; Times: 1
+	Query: "Texas Accipiter striatus" ; Times: 1
+	Query: "Anas diazi lifestage:immature sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas lifestage:juvenile sex:female" ; Times: 1
+	Query: "Sterna hirundo ws OR wingspan OR wing+span" ; Times: 10
+	Query: "(roderick)" ; Times: 1
+	Query: "Larus argentatus ws OR wingspan OR wing+span" ; Times: 10
+	Query: "Agamia agami" ; Times: 1
+	Query: "Anas acuta ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 1
+	Query: "specificepithet:AUTUMNALIS genus:dendrocygna country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "county:&#34;Angelina&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:fulicarius genus:Phalaropus lifestage:adult sex:male" ; Times: 2
+	Query: "Larus delawarensis ws OR wingspan OR wing+span" ; Times: 9
+	Query: "Accipiter gentilis ws OR wingspan OR wing span" ; Times: 6
+	Query: "Bubo virginianus ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 1
+	Query: "Aix sponsa ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 1
+	Query: "501201" ; Times: 1
+	Query: "12552" ; Times: 1
+	Query: "specificepithet:acuta genus:Anas lifestage:immature sex:female" ; Times: 1
+	Query: "catalognumber:140077" ; Times: 1
+	Query: "Haliaeetus leucocephalus ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 3
+	Query: "Falco columbarius ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 1
+	Query: "79557" ; Times: 1
+	Query: "genus:Branta (ws wing span)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 1106 download events in this period)
+Total number of records downloaded: 77307
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 25
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 4
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 3
+	Date: 2020-05-24 ; Times: 3
+	Date: 2020-05-27 ; Times: 1
+	Date: 2020-05-30 ; Times: 1
+	Date: 2020-05-22 ; Times: 1
+	Date: 2020-05-31 ; Times: 3
+	Date: 2020-05-02 ; Times: 1
+	Date: 2020-05-07 ; Times: 3
+	Date: 2020-05-06 ; Times: 11
+	Date: 2020-05-01 ; Times: 3
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 2
+	Date: 2020-05-10 ; Times: 2
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-13 ; Times: 3
+	Date: 2020-05-03 ; Times: 1
+	Date: 2020-05-15 ; Times: 1
+	Date: 2020-05-16 ; Times: 2
+	Date: 2020-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "Birds Texas" ; Times: 1
+	Query: "recordedby:McCallum" ; Times: 1
+	Query: "vntype:specimen specificepithet:migratorius genus:Ectopistes institutioncode:ROM" ; Times: 1
+	Query: "Geotrygon montana montana" ; Times: 1
+	Query: "Geotrygon saphirina" ; Times: 1
+	Query: "Geotrygon montana martinica" ; Times: 1
+	Query: "vntype:specimen specificepithet:fasciatus genus:Philortyx" ; Times: 1
+	Query: "vultur gryphus" ; Times: 4
+	Query: "class:AVES stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Angola&#34; continent:Africa" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sarothrura" ; Times: 1
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;District of Columbia&#34;" ; Times: 1
+	Query: "Anas diazi sex:male" ; Times: 1
+	Query: "Agamia agami" ; Times: 1
+	Query: "Amazona oratrix stateprovince:&#34;tamaulipas&#34;" ; Times: 2
+	Query: "Amazona leucocephala leucocephala" ; Times: 2
+	Query: "Fratercula cirrhata" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "Accipiter hastissue:1" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "country:&#34;Russia&#34;" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oaxaca&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "bone valley" ; Times: 1
+	Query: "Geotrygon purpurata" ; Times: 1
+	Query: "class:Aves institutioncode:ROM" ; Times: 1
+	Query: "egg texas" ; Times: 1
+	Query: "Geotrygon chrysia" ; Times: 1
+	Query: "Amazona ochrocephala specificepithet:ochrocephala genus:Amazona stateprovince:&#34;tamaulipas&#34;" ; Times: 1
+	Query: "mollusca" ; Times: 1
+	Query: "Geotrygon mystacea" ; Times: 2
+	Query: "Netta erythrophthalma" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+	Query: "specificepithet:collaris genus:Trogon country:&#34;Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:strigilatus class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
