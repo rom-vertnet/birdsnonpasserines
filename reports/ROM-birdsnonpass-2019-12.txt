@@ -1,0 +1,413 @@
+Report for Institution Code ROM, Resource birdsnonpass
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 455
+Number of records retrieved in searches: 3787
+Number of different countries where searches have been originated: 28
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 16
+	Country: Canada ; Times: 12
+	Country: Unknown ; Times: 79
+	Country: France ; Times: 1
+	Country: Peru ; Times: 7
+	Country: Argentina ; Times: 31
+	Country: Ecuador ; Times: 3
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Germany ; Times: 7
+	Country: Belgium ; Times: 2
+	Country: Thailand ; Times: 5
+	Country: Hong Kong ; Times: 1
+	Country: Poland ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Netherlands ; Times: 8
+	Country: Gambia ; Times: 3
+	Country: Turkey ; Times: 1
+	Country: United States ; Times: 177
+	Country: Philippines ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Honduras ; Times: 2
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 13
+	Country: United Kingdom ; Times: 39
+	Country: Colombia ; Times: 32
+	Country: Kenya ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 1
+	Date: 2019-12-27 ; Times: 4
+	Date: 2019-12-26 ; Times: 4
+	Date: 2019-12-21 ; Times: 7
+	Date: 2019-12-20 ; Times: 21
+	Date: 2019-12-23 ; Times: 7
+	Date: 2019-12-22 ; Times: 31
+	Date: 2019-12-29 ; Times: 4
+	Date: 2019-12-28 ; Times: 15
+	Date: 2019-12-18 ; Times: 15
+	Date: 2019-12-19 ; Times: 5
+	Date: 2019-12-10 ; Times: 44
+	Date: 2019-12-11 ; Times: 10
+	Date: 2019-12-12 ; Times: 18
+	Date: 2019-12-13 ; Times: 5
+	Date: 2019-12-14 ; Times: 3
+	Date: 2019-12-15 ; Times: 1
+	Date: 2019-12-16 ; Times: 10
+	Date: 2019-12-17 ; Times: 16
+	Date: 2019-12-30 ; Times: 16
+	Date: 2019-12-31 ; Times: 8
+	Date: 2019-12-09 ; Times: 29
+	Date: 2019-12-08 ; Times: 4
+	Date: 2019-12-07 ; Times: 10
+	Date: 2019-12-06 ; Times: 8
+	Date: 2019-12-05 ; Times: 21
+	Date: 2019-12-04 ; Times: 79
+	Date: 2019-12-03 ; Times: 20
+	Date: 2019-12-02 ; Times: 32
+	Date: 2019-12-01 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 3
+	Query: "genus:Aquila class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:prunellei genus:Coeligena mappable:1" ; Times: 1
+	Query: "polyborinae" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "Buteo platypterus mexico" ; Times: 2
+	Query: "strix occidentalis" ; Times: 1
+	Query: "vntype:specimen specificepithet:porphyreolophus genus:Tauraco institutioncode:ROM" ; Times: 3
+	Query: "mallard duck" ; Times: 2
+	Query: "marsh new mexico 1885 aves" ; Times: 1
+	Query: "specificepithet:sponsa genus:Aix county:&#34;Toronto&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "mallard" ; Times: 1
+	Query: "specificepithet:garzetta genus:Egretta" ; Times: 2
+	Query: "stateprovince:&#34;NE&#34;" ; Times: 1
+	Query: "(Sarcoramphus papa) year &lt;= 1900" ; Times: 1
+	Query: "Picus mentalis" ; Times: 1
+	Query: "Aegolius funereus" ; Times: 1
+	Query: "specificepithet:aenea genus:Chloroceryle mappable:1" ; Times: 1
+	Query: "recordedby:Barrow" ; Times: 1
+	Query: "Nyctyornis" ; Times: 1
+	Query: "109195" ; Times: 1
+	Query: "specificepithet:paradisaea genus:Sterna continent:Europe" ; Times: 1
+	Query: "house wren" ; Times: 1
+	Query: "specificepithet:jardini genus:Boissonneaua mappable:1" ; Times: 1
+	Query: "Gypaetus barbatus" ; Times: 3
+	Query: "Colaptes auratus stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:aureliae genus:Haplophaedia mappable:1" ; Times: 1
+	Query: "specificepithet:fulgidus genus:Pharomachrus mappable:1" ; Times: 1
+	Query: "Crypturellus obsoletus" ; Times: 3
+	Query: "Tachornis phoenicobia" ; Times: 1
+	Query: "class:Chordata" ; Times: 1
+	Query: "bird egg vanellus" ; Times: 1
+	Query: "Strigops habroptilus" ; Times: 2
+	Query: "ROM 159634" ; Times: 1
+	Query: "Megadyptes antipodes" ; Times: 1
+	Query: "Psephotus pulcherrimus" ; Times: 1
+	Query: "specificepithet:villosus stateprovince:&#34;ontario&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "Buteo jamaicensis harlani" ; Times: 1
+	Query: "specificepithet:matthewsii genus:Boissonneaua mappable:1" ; Times: 1
+	Query: "ovary regulus" ; Times: 5
+	Query: "rom 262" ; Times: 1
+	Query: "genus:nothoprocta family:tinamidae order:tinamiformes class:aves hasmass:1" ; Times: 1
+	Query: "specificepithet:luciani genus:Eriocnemis mappable:1" ; Times: 1
+	Query: "Pterodroma hasitata vntype:specimen" ; Times: 1
+	Query: "18569" ; Times: 1
+	Query: "rom 1927 queen charlotte" ; Times: 1
+	Query: "genus:Nyctyornis" ; Times: 1
+	Query: "vntype:specimen genus:Fulmarus year &gt;= 2000 year &lt;= 2019 basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:leucocephala genus:amazona" ; Times: 1
+	Query: "pterodroma macroptera" ; Times: 3
+	Query: "Eutoxeres" ; Times: 1
+	Query: "10.2.132 institutioncode:ROM" ; Times: 1
+	Query: "10.2.127 institutioncode:ROM" ; Times: 1
+	Query: "Chrysococcyx+cupreus" ; Times: 1
+	Query: "Opisthoprora" ; Times: 1
+	Query: "ahm" ; Times: 1
+	Query: "rev young pine" ; Times: 1
+	Query: "patagona gigas" ; Times: 3
+	Query: "amazona xantholora vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "nothocrax" ; Times: 1
+	Query: "continent:south america preparations:eggs" ; Times: 1
+	Query: "specificepithet:capense genus:Glaucidium" ; Times: 1
+	Query: "Morococcyx erythropygus" ; Times: 2
+	Query: "Ramphodon sex:female" ; Times: 6
+	Query: "specificepithet:americana genus:Chloroceryle mappable:1" ; Times: 1
+	Query: "red knot" ; Times: 1
+	Query: "class:aves stateprovince:&#34;espirito santo&#34; country:&#34;brazil&#34;" ; Times: 1
+	Query: "cepphus 1932" ; Times: 1
+	Query: "genus:macropygia country:&#34;philippines&#34;" ; Times: 1
+	Query: "melanerpes portoricensis" ; Times: 9
+	Query: "specificepithet:carolinensis class:aves stateprovince:Ontario year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Ciconia+abdimii" ; Times: 1
+	Query: "\10.2.132 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:iris genus:Coeligena mappable:1" ; Times: 1
+	Query: "32093" ; Times: 1
+	Query: "specificepithet:flavescens genus:Boissonneaua mappable:1" ; Times: 1
+	Query: "young rev bare" ; Times: 2
+	Query: "genus:pterocnemia class:aves hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:williami genus:Metallura mappable:1" ; Times: 1
+	Query: "continent:north america recordedby:anderson year &gt;= 1850 year &lt;= 1900" ; Times: 2
+	Query: "Eulampis vntype:specimen sex:female preparations:skin" ; Times: 1
+	Query: "Claravis pretiosa AND (&#34;alc&#34; OR &#34;alcohol&#34;) NOT (&#34;skin&#34;)" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 8
+	Query: "White Ibis" ; Times: 2
+	Query: "Clamator+levaillantii" ; Times: 1
+	Query: "specificepithet:portoricensis genus:melanerpes" ; Times: 3
+	Query: "Apus pacificus" ; Times: 1
+	Query: "class:aves continent:asia preparations:eggs" ; Times: 1
+	Query: "specificepithet:variegatus genus:crypturellus family:tinamidae order:tinamiformes class:aves hassex:1 hasmass:1" ; Times: 1
+	Query: "genus:Pterodroma hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:corythaix genus:Tauraco country:&#34;South Africa&#34;" ; Times: 1
+	Query: "rev young bare" ; Times: 2
+	Query: "vntype:specimen specificepithet:xantholora genus:amazona" ; Times: 1
+	Query: "Prosopeia personata" ; Times: 1
+	Query: "prosobonia" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 3
+	Query: "Eulampis jugularis vntype:specimen sex:female" ; Times: 1
+	Query: "specificepithet:violifer genus:Coeligena mappable:1" ; Times: 1
+	Query: "wood duck" ; Times: 1
+	Query: "catalognumber:71814" ; Times: 1
+	Query: "pseudoscops grammicus" ; Times: 6
+	Query: "young 1932 bare" ; Times: 1
+	Query: "Streptopelia+semitorquata" ; Times: 1
+	Query: "specificepithet:thyroideus genus:Sphyrapicus stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "vntype:specimen preparations:skeleton (polyborinae)" ; Times: 1
+	Query: "Falco naumanni" ; Times: 3
+	Query: "Balaeniceps rex" ; Times: 2
+	Query: "coturnix novaezelandiae" ; Times: 3
+	Query: "specificepithet:coelestis genus:Aglaiocercus mappable:1" ; Times: 1
+	Query: "23496" ; Times: 1
+	Query: "Cynanthus sordidus sex:female" ; Times: 2
+	Query: "specificepithet:laminirostris genus:Andigena mappable:1" ; Times: 1
+	Query: "specificepithet:FEMORALIS genus:falco county:&#34;CAMERON&#34;" ; Times: 1
+	Query: "mvz gymnogyps california" ; Times: 1
+	Query: "vntype:specimen specificepithet:autumnalis genus:amazona" ; Times: 1
+	Query: "specificepithet:cinerascens genus:nothoprocta family:tinamidae order:tinamiformes class:aves hasmass:1" ; Times: 1
+	Query: "genus:Ramphastos" ; Times: 1
+	Query: "specificepithet:querquedula genus:anas country:&#34;philippines&#34;" ; Times: 1
+	Query: "recordedby:anderson year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "specificepithet:flavirostris genus:anas class:aves hasmass:1" ; Times: 1
+	Query: "sula sula stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "1932 bare british columbia" ; Times: 3
+	Query: "ROM 158379" ; Times: 1
+	Query: "Tachybaptus novaehollandiae" ; Times: 1
+	Query: "coeligena iris" ; Times: 5
+	Query: "Otus lettia" ; Times: 1
+	Query: "Streptoprocne zonaris" ; Times: 1
+	Query: "accipiter poliogaster" ; Times: 24
+	Query: "genus:hirundapus class:aves year &gt;= 1980" ; Times: 1
+	Query: "specificepithet:pileatus class:aves stateprovince:Ontario year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "ROM 158376" ; Times: 1
+	Query: "76706" ; Times: 1
+	Query: "peregrine falcon" ; Times: 2
+	Query: "catalognumber:19053 institutioncode:ROM" ; Times: 1
+	Query: "rom 3283" ; Times: 2
+	Query: "37484" ; Times: 2
+	Query: "specificepithet:ypecaha genus:Aramides mappable:1" ; Times: 1
+	Query: "polar bear" ; Times: 3
+	Query: "order:Procellariiformes country:&#34;Argentina&#34;" ; Times: 1
+	Query: "Gallicolumba" ; Times: 1
+	Query: "genus:nothoprocta family:tinamidae order:tinamiformes class:aves hastissue:1" ; Times: 1
+	Query: "malacoptila fusca" ; Times: 7
+	Query: "Circus aeruginosus" ; Times: 1
+	Query: "specificepithet:obsoletus genus:crypturellus family:tinamidae order:tinamiformes class:aves" ; Times: 1
+	Query: "specificepithet:pamela genus:Aglaeactis mappable:1" ; Times: 1
+	Query: "Centropus grillii" ; Times: 1
+	Query: "Phodilus badius" ; Times: 1
+	Query: "Cathartes aura AND Island NOT Cuba NOT Falkland" ; Times: 2
+	Query: "genus:Sula stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:crypturellus family:tinamidae order:tinamiformes class:aves hasmass:1" ; Times: 2
+	Query: "vntype:specimen class:Aves locality:Greenland" ; Times: 1
+	Query: "17045" ; Times: 1
+	Query: "metallura phoebe" ; Times: 1
+	Query: "catalognumber:91053 institutioncode:ROM" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "darcus" ; Times: 3
+	Query: "androdon vntype:specimen sex:female" ; Times: 1
+	Query: "langara island darcus" ; Times: 1
+	Query: "11270." ; Times: 1
+	Query: "Claravis pretiosa AND (&#34;alc&#34; OR &#34;alcohol&#34;)" ; Times: 1
+	Query: "specificepithet:bonapartei genus:Coeligena mappable:1" ; Times: 1
+	Query: "vntype:specimen family:tinamidae order:tinamiformes class:aves hasmass:1" ; Times: 11
+	Query: "young rev 1930" ; Times: 1
+	Query: "Ramphodon vntype:specimen sex:female" ; Times: 1
+	Query: "class:aves stateprovince:&#34;minas&#34; country:&#34;brazil&#34;" ; Times: 1
+	Query: "28549" ; Times: 1
+	Query: "amazona xantholora" ; Times: 1
+	Query: "Sula nebouxii AND Island" ; Times: 1
+	Query: "catalognumber:36799" ; Times: 1
+	Query: "crax fasciolata" ; Times: 1
+	Query: "Lophostrix stricklandi" ; Times: 1
+	Query: "13208" ; Times: 1
+	Query: "ROM 113216" ; Times: 1
+	Query: "reindeer" ; Times: 1
+	Query: "Apteryx mantelli" ; Times: 1
+	Query: "young rev 1932" ; Times: 2
+	Query: "lepidoptera" ; Times: 1
+	Query: "rom 500065" ; Times: 2
+	Query: "egretta schistacea" ; Times: 3
+	Query: "Eulampis jugularis vntype:specimen sex:female preparations:skin year &gt;= 1950 year &lt;= 1980" ; Times: 1
+	Query: "specificepithet:cristatus genus:Pavo hastissue:1" ; Times: 1
+	Query: "Ramphomicron sex:female" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; country:&#34;usa&#34; year &gt;= 1750 year &lt;= 1900 basisofrecord:PreservedSpecimen" ; Times: 5
+	Query: "class:aves continent:south america preparations:eggs" ; Times: 1
+	Query: "vntype:specimen specificepithet:porphyreolophus genus:Tauraco" ; Times: 2
+	Query: "Androdon vntype:specimen" ; Times: 1
+	Query: "genus:nothoprocta family:tinamidae order:tinamiformes class:aves" ; Times: 1
+	Query: "specificepithet:wilsoni genus:Coeligena mappable:1" ; Times: 1
+	Query: "specificepithet:coromanda genus:halcyon country:&#34;philippines&#34;" ; Times: 1
+	Query: "specificepithet:cinerascens genus:nothoprocta family:tinamidae order:tinamiformes class:aves hassex:1 hasmass:1" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Jammu and Kashmir&#34; country:&#34;India&#34;" ; Times: 2
+	Query: "specificepithet:leucocephala genus:Halcyon class:Aves country:&#34;Kenya&#34; continent:Africa" ; Times: 1
+	Query: "Lophostrix cristata" ; Times: 1
+	Query: "specificepithet:melanops genus:Leucopternis mappable:1" ; Times: 1
+	Query: "1932 bare" ; Times: 3
+	Query: "class:Aves institutioncode:ROM" ; Times: 1
+	Query: "Cyanophaia bicolor" ; Times: 6
+	Query: "Eudocimus albus" ; Times: 2
+	Query: "Buteo jamaicensis underwood" ; Times: 1
+	Query: "Opisthoprora vntype:specimen" ; Times: 3
+	Query: "Pterodroma hasitata" ; Times: 1
+	Query: "Ramphomicron sex:female preparations:skin" ; Times: 1
+	Query: "Pterodroma hasitata vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:rhynchotus family:tinamidae order:tinamiformes class:aves hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:torquata genus:Coeligena mappable:1" ; Times: 1
+	Query: "sanguineus" ; Times: 2
+	Query: "13110" ; Times: 1
+	Query: "catalognumber:19035 institutioncode:ROM" ; Times: 1
+	Query: "rev young" ; Times: 6
+	Query: "agua de obispo" ; Times: 1
+	Query: "Anser frontalis" ; Times: 1
+	Query: "Apus horus" ; Times: 1
+	Query: "Centropus+grillii" ; Times: 1
+	Query: "specificepithet:inda genus:Chloroceryle mappable:1" ; Times: 1
+	Query: "rom 1927" ; Times: 2
+	Query: "Tauraco+hartlaubi" ; Times: 1
+	Query: "specificepithet:tyrianthina genus:Metallura mappable:1" ; Times: 1
+	Query: "specificepithet:lutetiae genus:Coeligena mappable:1" ; Times: 1
+	Query: "specificepithet:peregrinus class:aves year &gt;= 1929 year &lt;= 1929" ; Times: 1
+	Query: "vntype:specimen family:Podicipedidae class:Aves locality:Greenland" ; Times: 1
+	Query: "Eulampis vntype:specimen sex:female" ; Times: 1
+	Query: "Himantopus AND Island" ; Times: 1
+	Query: "Chaetocercus jourdanii" ; Times: 3
+	Query: "specificepithet:pileatus class:aves year &gt;= 1990 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "eulampis" ; Times: 1
+	Query: "rom 113216" ; Times: 2
+	Query: "1932 &#34;bare island&#34;" ; Times: 1
+	Query: "specificepithet:nigrirostris genus:Andigena mappable:1" ; Times: 1
+	Query: "hirundapus" ; Times: 1
+	Query: "specificepithet:phoebe genus:Metallura mappable:1" ; Times: 1
+	Query: "specificepithet:perdicaria genus:nothoprocta family:tinamidae order:tinamiformes class:aves hasmass:1" ; Times: 1
+	Query: "specificepithet:rusticolus genus:Falco class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:flavirostris genus:anas class:aves hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:wolfi genus:Aramides mappable:1" ; Times: 1
+	Query: "family:tinamidae class:aves preparations:skin hasmass:1" ; Times: 1
+	Query: "specificepithet:longirostris genus:Rallus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "1932 bare island" ; Times: 1
+	Query: "young pine island" ; Times: 1
+	Query: "rom 1927 haematopus" ; Times: 1
+	Query: "specificepithet:coeligena genus:Coeligena mappable:1" ; Times: 1
+	Query: "specificepithet:soui genus:crypturellus family:tinamidae order:tinamiformes class:aves hassex:1 hasmass:1" ; Times: 2
+	Query: "Accipiter bicolor" ; Times: 1
+	Query: "Coenocorypha" ; Times: 1
+	Query: "specificepithet:sinensis genus:centropus country:&#34;philippines&#34;" ; Times: 1
+	Query: "Agapornis lilianae" ; Times: 1
+	Query: "vntype:specimen specificepithet:femoralis genus:falco continent:south america basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:tinamus family:tinamidae order:tinamiformes class:aves hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:canadensis class:aves stateprovince:Ontario year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Accipiter AND Island" ; Times: 1
+	Query: "specificepithet:amazona genus:Chloroceryle mappable:1" ; Times: 1
+	Query: "14865" ; Times: 1
+	Query: "125787" ; Times: 1
+	Query: "class:aves continent:africa preparations:eggs" ; Times: 1
+	Query: "33534" ; Times: 1
+	Query: "Buteo jamaicensis 1937" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "young 1932" ; Times: 1
+	Query: "Androdon vntype:specimen sex:female" ; Times: 1
+	Query: "cepphus columba 1932" ; Times: 1
+	Query: "Ramphomicron microrhynchum sex:female" ; Times: 2
+	Query: "specificepithet:perdicaria genus:nothoprocta family:tinamidae order:tinamiformes class:aves" ; Times: 1
+	Query: "154973" ; Times: 1
+	Query: "ROM 159639" ; Times: 1
+	Query: "ara macao" ; Times: 1
+	Query: "country:&#34;Canada&#34; recordedby:Gunn institutioncode:ROM" ; Times: 4
+	Query: "specificepithet:cupripennis genus:Aglaeactis mappable:1" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "Cathartes aura AND Island" ; Times: 1
+	Query: "continent:africa preparations:eggs" ; Times: 1
+	Query: "Numida+meleagris" ; Times: 1
+	Query: "recordnumber:7446 institutioncode:ROM" ; Times: 2
+	Query: "Buteo jamaicensis fmnh" ; Times: 1
+	Query: "catalognumber:71812" ; Times: 1
+	Query: "specificepithet:pavoninus genus:Pharomachrus mappable:1" ; Times: 1
+	Query: "specificepithet:maculatus genus:Pardirallus mappable:1" ; Times: 1
+	Query: "hylonomus" ; Times: 1
+	Query: "darcus 1927" ; Times: 15
+	Query: "vntype:specimen locality:Greenland" ; Times: 2
+	Query: "genus:tinamus family:tinamidae order:tinamiformes class:aves hasmass:1" ; Times: 2
+	Query: "Alcedo meninting" ; Times: 1
+	Query: "CIRCUS PYGARGUS" ; Times: 1
+	Query: "11719" ; Times: 1
+	Query: "anhima cornuta" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 596 download events in this period)
+Total number of records downloaded: 313
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Unknown ; Times: 4
+	Country: United States ; Times: 13
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-11 ; Times: 1
+	Date: 2019-12-21 ; Times: 1
+	Date: 2019-12-18 ; Times: 5
+	Date: 2019-12-09 ; Times: 3
+	Date: 2019-12-08 ; Times: 1
+	Date: 2019-12-07 ; Times: 2
+	Date: 2019-12-06 ; Times: 1
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-04 ; Times: 1
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-02 ; Times: 2
+	Date: 2019-12-01 ; Times: 2
+	Date: 2019-12-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Circus aeruginosus" ; Times: 1
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "specificepithet:garzetta genus:Egretta" ; Times: 1
+	Query: "class:aves continent:asia preparations:eggs" ; Times: 1
+	Query: "class:aves stateprovince:&#34;minas&#34; country:&#34;brazil&#34;" ; Times: 1
+	Query: "family:tinamidae class:aves preparations:skin hasmass:1" ; Times: 1
+	Query: "genus:Pterodroma hastissue:1" ; Times: 1
+	Query: "order:Procellariiformes country:&#34;Argentina&#34;" ; Times: 1
+	Query: "crax fasciolata" ; Times: 1
+	Query: "specificepithet:villosus stateprovince:&#34;ontario&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; country:&#34;usa&#34; year &gt;= 1750 year &lt;= 1900 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:thyroideus genus:Sphyrapicus stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "Head Tail hasmass:1 haslength:1" ; Times: 1
+	Query: "class:aves continent:africa preparations:eggs" ; Times: 1
+	Query: "vntype:specimen genus:Fulmarus year &gt;= 2000 year &lt;= 2019 basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "class:aves continent:south america preparations:eggs" ; Times: 1
+	Query: "CIRCUS PYGARGUS" ; Times: 1
+	Query: "genus:Sula stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "malacoptila fusca" ; Times: 1
+	Query: "patagona gigas" ; Times: 1
+	Query: "continent:africa preparations:eggs" ; Times: 1
+	Query: "specificepithet:thyroideus genus:Sphyrapicus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "class:aves stateprovince:&#34;espirito santo&#34; country:&#34;brazil&#34;" ; Times: 1
+
+
+End of report.
