@@ -1,0 +1,655 @@
+Report for Institution Code ROM, Resource birdsnonpass
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 811
+Number of records retrieved in searches: 8663
+Number of different countries where searches have been originated: 26
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 71
+	Country: Brazil ; Times: 121
+	Country: Unknown ; Times: 24
+	Country: France ; Times: 4
+	Country: Peru ; Times: 2
+	Country: Argentina ; Times: 6
+	Country: Ecuador ; Times: 2
+	Country: Australia ; Times: 7
+	Country: Singapore ; Times: 4
+	Country: Germany ; Times: 12
+	Country: Belgium ; Times: 1
+	Country: Thailand ; Times: 10
+	Country: Hong Kong ; Times: 1
+	Country: Netherlands ; Times: 4
+	Country: Denmark ; Times: 4
+	Country: United States ; Times: 383
+	Country: Vietnam ; Times: 1
+	Country: Hungary ; Times: 2
+	Country: Mexico ; Times: 54
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 67
+	Country: United Kingdom ; Times: 18
+	Country: Colombia ; Times: 8
+	Country: Paraguay ; Times: 2
+	Country: Kenya ; Times: 1
+	Country: Taiwan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 18
+	Date: 2019-10-08 ; Times: 16
+	Date: 2019-10-21 ; Times: 33
+	Date: 2019-10-20 ; Times: 3
+	Date: 2019-10-27 ; Times: 73
+	Date: 2019-10-26 ; Times: 2
+	Date: 2019-10-25 ; Times: 18
+	Date: 2019-10-22 ; Times: 127
+	Date: 2019-10-01 ; Times: 17
+	Date: 2019-10-03 ; Times: 16
+	Date: 2019-10-02 ; Times: 14
+	Date: 2019-10-05 ; Times: 2
+	Date: 2019-10-04 ; Times: 10
+	Date: 2019-10-07 ; Times: 22
+	Date: 2019-10-06 ; Times: 6
+	Date: 2019-10-23 ; Times: 19
+	Date: 2019-10-24 ; Times: 46
+	Date: 2019-10-29 ; Times: 15
+	Date: 2019-10-18 ; Times: 21
+	Date: 2019-10-19 ; Times: 2
+	Date: 2019-10-12 ; Times: 26
+	Date: 2019-10-13 ; Times: 4
+	Date: 2019-10-10 ; Times: 18
+	Date: 2019-10-11 ; Times: 36
+	Date: 2019-10-16 ; Times: 19
+	Date: 2019-10-31 ; Times: 50
+	Date: 2019-10-14 ; Times: 3
+	Date: 2019-10-17 ; Times: 42
+	Date: 2019-10-15 ; Times: 25
+	Date: 2019-10-28 ; Times: 38
+	Date: 2019-10-30 ; Times: 70
+
+List of queries that retrieved data from the resource: 
+	Query: "Charadrius melodus 2008" ; Times: 1
+	Query: "Charadrius melodus 2009" ; Times: 1
+	Query: "catalognumber:98520" ; Times: 1
+	Query: "Buteo platypterus mexico" ; Times: 2
+	Query: "Charadrius melodus 2003" ; Times: 1
+	Query: "Charadrius melodus 2004" ; Times: 1
+	Query: "specificepithet:chrysogaster genus:Neophema" ; Times: 2
+	Query: "specificepithet:falcinellus genus:Plegadis class:Aves country:&#34;Canada&#34; continent:North America" ; Times: 1
+	Query: "colinus virginianus ridgwayi" ; Times: 1
+	Query: "ROM 112601" ; Times: 1
+	Query: "Halcyon chloris occipitalis" ; Times: 2
+	Query: "Merganser India" ; Times: 1
+	Query: "T-1484" ; Times: 1
+	Query: "Tinamiformes" ; Times: 1
+	Query: "ku 4686" ; Times: 1
+	Query: "Andaman aves osmaston 1906" ; Times: 1
+	Query: "Ramandurg" ; Times: 2
+	Query: "43878" ; Times: 1
+	Query: "Euptilotis" ; Times: 4
+	Query: "11188" ; Times: 1
+	Query: "Stercorariidae continent:America" ; Times: 3
+	Query: "(Picoides arcticus) year &gt;= 1990 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "96152" ; Times: 2
+	Query: "Priotelus temnurus" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 5
+	Query: "Halcyon country:india" ; Times: 1
+	Query: "10109" ; Times: 3
+	Query: "platycercus Selasphorus" ; Times: 2
+	Query: "Penelope superciliaris mappable:1" ; Times: 1
+	Query: "71718" ; Times: 1
+	Query: "ROM 101000" ; Times: 2
+	Query: "71480" ; Times: 1
+	Query: "Euptilotis neoxenus" ; Times: 2
+	Query: "class:aves country:&#34;India&#34; &#34;Coturnix coturnix&#34;" ; Times: 1
+	Query: "Halcyon chloris davisoni" ; Times: 1
+	Query: "specificepithet:cristatella genus:Aethia" ; Times: 2
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Sarawak&#34; country:&#34;Malaysia&#34;" ; Times: 2
+	Query: "Charadrius collaris mappable:1" ; Times: 1
+	Query: "Prosopeia personata" ; Times: 3
+	Query: "genus:Apteryx institutioncode:ROM" ; Times: 1
+	Query: "Falco sparverius stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "ROM 119621" ; Times: 1
+	Query: "A. Forbes-Watson class:aves country:&#34;kenya&#34; (A. Forbes-Watson) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Coccyzus americanus 2010" ; Times: 1
+	Query: "Sphyrapicus varius year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "witch" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 2
+	Query: "family:Bucconidae institutioncode:ROM" ; Times: 1
+	Query: "Grey Wolf" ; Times: 1
+	Query: "ROM 120517" ; Times: 1
+	Query: "Puffinus griseus AND Island" ; Times: 1
+	Query: "temnotrogon" ; Times: 1
+	Query: "ROM-35.7.26.187" ; Times: 1
+	Query: "harpactes reinwardtii" ; Times: 3
+	Query: "Perdicula argoondah" ; Times: 3
+	Query: "Calidris canutus rufa 1985" ; Times: 1
+	Query: "quercus" ; Times: 2
+	Query: "specificepithet:leschenaultii genus:Charadrius institutioncode:ROM" ; Times: 1
+	Query: "Coccyzus americanus 1978" ; Times: 1
+	Query: "Coccyzus americanus 1979" ; Times: 1
+	Query: "genus:Ectopistes institutioncode:ROM" ; Times: 3
+	Query: "Coccyzus americanus 1974" ; Times: 1
+	Query: "Coccyzus americanus 1975" ; Times: 1
+	Query: "Coccyzus americanus 1976" ; Times: 1
+	Query: "Coccyzus americanus 1972" ; Times: 1
+	Query: "Coccyzus americanus 1973" ; Times: 1
+	Query: "family:Struthionidae sex:Female (Ovary OR oviduct OR ovum OR ova OR egg OR follicle)" ; Times: 1
+	Query: "Stercorariidae continent:North America" ; Times: 3
+	Query: "ROM 115737" ; Times: 1
+	Query: "ROM 115736" ; Times: 1
+	Query: "ROM 120601" ; Times: 1
+	Query: "institutioncode:ROM struthio camelus" ; Times: 1
+	Query: "Psephotus chrysopterygius" ; Times: 10
+	Query: "ROM 112630" ; Times: 2
+	Query: "specificepithet:furcata genus:thalurania" ; Times: 3
+	Query: "albolarvatus Picoides" ; Times: 2
+	Query: "ROM 111531" ; Times: 1
+	Query: "ROM 111530" ; Times: 1
+	Query: "44016" ; Times: 1
+	Query: "specificepithet:americana genus:Grus class:Aves continent:North America" ; Times: 2
+	Query: "ROM 114191" ; Times: 1
+	Query: "32998" ; Times: 1
+	Query: "institutioncode:ROM 110072" ; Times: 1
+	Query: "institutioncode:ROM hasmass:1" ; Times: 1
+	Query: "genus:Nystalus institutioncode:ROM" ; Times: 1
+	Query: "Coccyzus americanus 2017" ; Times: 1
+	Query: "ROM 99223" ; Times: 2
+	Query: "amethystina" ; Times: 1
+	Query: "Coccyzus americanus 2011" ; Times: 1
+	Query: "Campephilus imperialis" ; Times: 5
+	Query: "class:aves country:&#34;india&#34; &#34;Coturnix coturnix&#34;" ; Times: 2
+	Query: "buteo platypterus hastissue:1" ; Times: 2
+	Query: "Coccyzus americanus 2018" ; Times: 2
+	Query: "class:aves country:&#34;India&#34; coturnix" ; Times: 1
+	Query: "33502" ; Times: 1
+	Query: "Jehl AND Island" ; Times: 1
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "genus:theristicus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Mesitornis" ; Times: 2
+	Query: "Pharomachrus auriceps" ; Times: 1
+	Query: "specificepithet:mongolus genus:Charadrius institutioncode:ROM" ; Times: 1
+	Query: "vntype:specimen family:Trochilidae institutioncode:ROM" ; Times: 1
+	Query: "class:Aves country:&#34;India&#34; Travancore" ; Times: 1
+	Query: "Halcyon chloris collaris" ; Times: 1
+	Query: "Rom 97543" ; Times: 2
+	Query: "67534" ; Times: 1
+	Query: "rOM 113151" ; Times: 2
+	Query: "Haliaeetus leucocephalus mappable:1" ; Times: 3
+	Query: "ROM 40533" ; Times: 1
+	Query: "Charadrius melodus 1977" ; Times: 1
+	Query: "vntype:specimen class:aves country:&#34;oman&#34;" ; Times: 1
+	Query: "ROM 104821" ; Times: 1
+	Query: "ROM 104820" ; Times: 1
+	Query: "specificepithet:caudata genus:Coracias institutioncode:ROM" ; Times: 1
+	Query: "Phalaenoptilus nuttallii AND Cruz" ; Times: 1
+	Query: "institutioncode:rom" ; Times: 1
+	Query: "parabuteo" ; Times: 1
+	Query: "ROM 100870" ; Times: 1
+	Query: "Molo" ; Times: 1
+	Query: "Aegolius acadicus brooksi mappable:1" ; Times: 1
+	Query: "Pharomachrus antisianus" ; Times: 2
+	Query: "ROM 112682" ; Times: 1
+	Query: "nothura nigroguttata" ; Times: 1
+	Query: "Tachornis phoenicobia" ; Times: 2
+	Query: "Calidris canutus rufa 2002" ; Times: 1
+	Query: "Calidris canutus rufa 2003" ; Times: 1
+	Query: "Calidris canutus rufa 2001" ; Times: 1
+	Query: "Calidris canutus rufa 2004" ; Times: 1
+	Query: "128314" ; Times: 1
+	Query: "jacobi" ; Times: 1
+	Query: "Calidris canutus rufa 2008" ; Times: 1
+	Query: "Calidris canutus rufa 2009" ; Times: 1
+	Query: "Odontophorus hyperythrus" ; Times: 2
+	Query: "Nystalus radiatus" ; Times: 1
+	Query: "Loriculus pusillus" ; Times: 1
+	Query: "Rallus tenuirostris" ; Times: 1
+	Query: "Bond AND Podiceps NOT frank" ; Times: 1
+	Query: "Harpactes reinwardtii" ; Times: 4
+	Query: "Phaethon aethereus AND Island" ; Times: 1
+	Query: "egg vntype:specimen family:Trochilidae institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "USNM trogon violaceus" ; Times: 4
+	Query: "specificepithet:ruber genus:Eudocimus institutioncode:ROM" ; Times: 1
+	Query: "Charadrius melodus 1997" ; Times: 1
+	Query: "Charadrius melodus 1995" ; Times: 1
+	Query: "Charadrius melodus 1994" ; Times: 1
+	Query: "Charadrius melodus 1993" ; Times: 1
+	Query: "Mycteria americana 2011" ; Times: 1
+	Query: "Charadrius melodus 1991" ; Times: 1
+	Query: "ROM 106594" ; Times: 1
+	Query: "ROM 115660" ; Times: 1
+	Query: "Egretta thula AND Baja" ; Times: 1
+	Query: "ROM 111546" ; Times: 1
+	Query: "Brachyramphus marmoratus 2002" ; Times: 1
+	Query: "Brachyramphus marmoratus 2005" ; Times: 1
+	Query: "Brachyramphus marmoratus 2004" ; Times: 1
+	Query: "Brachyramphus marmoratus 2009" ; Times: 1
+	Query: "Brachyramphus marmoratus 2008" ; Times: 1
+	Query: "Coccyzus americanus 1998" ; Times: 1
+	Query: "Coccyzus americanus 1999" ; Times: 1
+	Query: "Coccyzus americanus 1997" ; Times: 1
+	Query: "Coccyzus americanus 1994" ; Times: 1
+	Query: "Coccyzus americanus 1995" ; Times: 1
+	Query: "Coccyzus americanus 1992" ; Times: 1
+	Query: "Coccyzus americanus 1993" ; Times: 1
+	Query: "Coccyzus americanus 1990" ; Times: 1
+	Query: "Coccyzus americanus 1991" ; Times: 1
+	Query: "Bonasa AND Island" ; Times: 1
+	Query: "Xema sabini continent:America" ; Times: 2
+	Query: "Pharomachrus fulgidus" ; Times: 1
+	Query: "Patagona gigas" ; Times: 3
+	Query: "genus:struthio sex:Female (Ovary OR oviduct OR ovum OR ova OR egg OR follicle)" ; Times: 1
+	Query: "class:Aves country:&#34;India&#34; Chennai" ; Times: 2
+	Query: "specificepithet:leschenaultii genus:Charadrius hastissue:1" ; Times: 1
+	Query: "struthio" ; Times: 1
+	Query: "Aeronautes AND Baja" ; Times: 1
+	Query: "Mourning dove" ; Times: 1
+	Query: "country:&#34;Australia&#34; institutioncode:ROM" ; Times: 4
+	Query: "trogon caligatus" ; Times: 1
+	Query: "R-21808" ; Times: 2
+	Query: "19803" ; Times: 1
+	Query: "genus:Struthio sex:Female preparations:skeleton (Ovary OR oviduct OR ovum OR ova OR egg OR follicle)" ; Times: 1
+	Query: "genus:aETHIA institutioncode:ROM" ; Times: 2
+	Query: "bath royal" ; Times: 1
+	Query: "37120" ; Times: 1
+	Query: "hylonomus" ; Times: 2
+	Query: "colinus virginianus graysoni" ; Times: 1
+	Query: "catalognumber:135154 institutioncode:ROM" ; Times: 2
+	Query: "minnesota Ectopistes" ; Times: 3
+	Query: "ROM 98061" ; Times: 1
+	Query: "specificepithet:exulans genus:Diomedea institutioncode:ROM" ; Times: 2
+	Query: "Chinchilla chinchilla" ; Times: 2
+	Query: "institutioncode:ROM apteryx australis" ; Times: 1
+	Query: "Cyanoramphus" ; Times: 2
+	Query: "ROM 103411" ; Times: 1
+	Query: "C. Jacobi" ; Times: 1
+	Query: "ROM 104466" ; Times: 1
+	Query: "ROM-91958" ; Times: 1
+	Query: "osmaston andaman" ; Times: 1
+	Query: "Phaethon aethereus AND Isla" ; Times: 1
+	Query: "white footed mouse" ; Times: 1
+	Query: "ROM 120270" ; Times: 1
+	Query: "Ara militaris" ; Times: 2
+	Query: "Loddigesia mirabilis" ; Times: 1
+	Query: "Bond AND Podiceps" ; Times: 1
+	Query: "Temnotrogon roseigaster" ; Times: 2
+	Query: "ROM 97543" ; Times: 4
+	Query: "procellaria aequinoctialis" ; Times: 2
+	Query: "vntype:specimen institutioncode:ROM" ; Times: 1
+	Query: "10492" ; Times: 2
+	Query: "ROM 105208" ; Times: 1
+	Query: "Coccyzus americanus 2009" ; Times: 1
+	Query: "Coccyzus americanus 2008" ; Times: 1
+	Query: "charadrius mongolus" ; Times: 2
+	Query: "Coccyzus americanus 2003" ; Times: 1
+	Query: "Coccyzus americanus 2002" ; Times: 1
+	Query: "Coccyzus americanus 2005" ; Times: 1
+	Query: "Coccyzus americanus 2004" ; Times: 1
+	Query: "Coccyzus americanus 2006" ; Times: 1
+	Query: "specificepithet:skua genus:Catharacta" ; Times: 1
+	Query: "12619" ; Times: 2
+	Query: "ROM 112661" ; Times: 1
+	Query: "palm tree" ; Times: 1
+	Query: "13267" ; Times: 3
+	Query: "Calidris tenuirostris" ; Times: 2
+	Query: "class:aves catalognumber:12077" ; Times: 1
+	Query: "Gavia stellata AND Island" ; Times: 1
+	Query: "ROM 104049" ; Times: 1
+	Query: "ROM 99239" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 38
+	Query: "specificepithet:rufescens genus:Rhynchotus institutioncode:ROM" ; Times: 1
+	Query: "stateprovince:&#34;West Bengal&#34; country:&#34;India&#34; continent:Asia" ; Times: 1
+	Query: "onocrotalus" ; Times: 1
+	Query: "recordedby:Armitage" ; Times: 1
+	Query: "12953" ; Times: 1
+	Query: "specificepithet:canadensis genus:Grus stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America" ; Times: 1
+	Query: "specificepithet:ani genus:Crotophaga institutioncode:ROM" ; Times: 1
+	Query: "Strix occidentalis caurina 2018" ; Times: 1
+	Query: "ROM 111613" ; Times: 1
+	Query: "specificepithet:ruber genus:Eudocimus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "erythrorhynchos Pelecanus" ; Times: 12
+	Query: "halcyon chloris humii" ; Times: 1
+	Query: "country:&#34;Paraguay&#34; year &gt;= 1940 year &lt;= 1941 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "institutioncode:ROM Aratinga wagleri" ; Times: 1
+	Query: "Centrocercus minimus 2018" ; Times: 1
+	Query: "striata basisofrecord:PreservedSpecimen hastissue:1" ; Times: 3
+	Query: "genus:Patagona institutioncode:ROM" ; Times: 1
+	Query: "Centrocercus minimus 2010" ; Times: 1
+	Query: "dragonflies" ; Times: 1
+	Query: "ROM 106356" ; Times: 2
+	Query: "Tympanuchus phasianellus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Tamil Nadu&#34;" ; Times: 8
+	Query: "USNM capitonidae" ; Times: 1
+	Query: "Aechmophorus occidentalis AND Baja" ; Times: 3
+	Query: "39463" ; Times: 1
+	Query: "genus:Coturnicops stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves country:&#34;India&#34; Madras" ; Times: 2
+	Query: "genus:Eudromias institutioncode:ROM" ; Times: 1
+	Query: "Strigops habroptilus" ; Times: 9
+	Query: "specificepithet:americana genus:Grus" ; Times: 5
+	Query: "Centropus sinensis" ; Times: 1
+	Query: "specificepithet:mongolus genus:charadrius institutioncode:ROM" ; Times: 1
+	Query: "class:aves country:&#34;india&#34; Coturnix coturnix" ; Times: 1
+	Query: "Rallus elegans" ; Times: 1
+	Query: "catalognumber:12077" ; Times: 1
+	Query: "vntype:specimen specificepithet:californianus genus:Gymnogyps preparations:skeleton basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ROM 103455" ; Times: 1
+	Query: "Batrachostomus" ; Times: 1
+	Query: "ROM 103456" ; Times: 1
+	Query: "mindanensis mindanao" ; Times: 1
+	Query: "class:Aves country:&#34;India&#34; &#34;coturnix coturnix&#34;" ; Times: 1
+	Query: "institutioncode:ROM 157322" ; Times: 1
+	Query: "ROM 112590" ; Times: 1
+	Query: "genus:Anarhynchus institutioncode:ROM" ; Times: 1
+	Query: "Tringa stagnatilis hasmass:1" ; Times: 2
+	Query: "Calidris canutus rufa 2011" ; Times: 1
+	Query: "Calidris canutus rufa 2010" ; Times: 1
+	Query: "class:Aves locality:Babar" ; Times: 2
+	Query: "Calidris canutus rufa 2017" ; Times: 1
+	Query: "Calidris canutus rufa 2016" ; Times: 1
+	Query: "Calidris canutus rufa 2018" ; Times: 1
+	Query: "order:Falconiformes class:Aves locality:Apatzingan country:&#34;Mexico&#34;" ; Times: 1
+	Query: "calidris canutus rufa" ; Times: 1
+	Query: "Apteryx hastissue:1" ; Times: 19
+	Query: "32887" ; Times: 1
+	Query: "white-throated sparrow" ; Times: 1
+	Query: "Calidris canutus rufa 1994" ; Times: 1
+	Query: "genus:Ectopistes" ; Times: 1
+	Query: "28676" ; Times: 1
+	Query: "Charadrius melodus 1985" ; Times: 1
+	Query: "Charadrius melodus 1981" ; Times: 1
+	Query: "Stercorariidae continent:Asia" ; Times: 5
+	Query: "family:Bucconidae institutioncode:ROM skeleton" ; Times: 1
+	Query: "colinus virginianus cubanensis" ; Times: 1
+	Query: "Linton AND Arenaria" ; Times: 1
+	Query: "class:Aves country:&#34;India&#34; Tamil" ; Times: 1
+	Query: "class:aves country:&#34;oman&#34;" ; Times: 1
+	Query: "40047" ; Times: 1
+	Query: "hymenoptera" ; Times: 2
+	Query: "Tringa totanus hasmass:1" ; Times: 2
+	Query: "body mass" ; Times: 1
+	Query: "Phalaenoptilus nuttallii AND &#34;Cruz&#34;" ; Times: 2
+	Query: "ROM 101167" ; Times: 2
+	Query: "10495" ; Times: 2
+	Query: "11893" ; Times: 3
+	Query: "Coccyzus americanus 1981" ; Times: 1
+	Query: "Coccyzus americanus 1983" ; Times: 1
+	Query: "Coccyzus americanus 1985" ; Times: 1
+	Query: "Coccyzus americanus 1984" ; Times: 1
+	Query: "Coccyzus americanus 1987" ; Times: 1
+	Query: "Coccyzus americanus 1988" ; Times: 1
+	Query: "catalognumber:1459" ; Times: 1
+	Query: "struthio egg" ; Times: 1
+	Query: "genus:Apteryx institutioncode:ROM 159625" ; Times: 1
+	Query: "ara militaris" ; Times: 4
+	Query: "Phodilus badius" ; Times: 1
+	Query: "USNM capito niger" ; Times: 1
+	Query: "genus:Metriopelia institutioncode:ROM" ; Times: 1
+	Query: "Brachyramphus marmoratus 2018" ; Times: 1
+	Query: "specificepithet:discolor genus:Lathamus" ; Times: 2
+	Query: "Brachyramphus marmoratus 2017" ; Times: 1
+	Query: "Brachyramphus marmoratus 2010" ; Times: 1
+	Query: "ROM 100419" ; Times: 1
+	Query: "reindeer" ; Times: 1
+	Query: "family:Apterygidae sex:Female (Ovary OR oviduct OR ovum OR ova OR egg OR follicle)" ; Times: 1
+	Query: "green sturgeon" ; Times: 1
+	Query: "Larus canus AND Island" ; Times: 1
+	Query: "ROM 111656" ; Times: 1
+	Query: "genus:Struthio" ; Times: 2
+	Query: "genus:Apteryx institutioncode:ROM mantelli" ; Times: 2
+	Query: "ROM 99284" ; Times: 4
+	Query: "ROM 105622" ; Times: 2
+	Query: "Brachyramphus marmoratus 1980" ; Times: 1
+	Query: "Stercorariidae continent:Antarctica" ; Times: 6
+	Query: "Calidris canutus rufa 2005" ; Times: 1
+	Query: "phodilus" ; Times: 1
+	Query: "brown bear" ; Times: 1
+	Query: "FMNH priotelus" ; Times: 6
+	Query: "Halcyon Tahiti" ; Times: 1
+	Query: "Calidris canutus rufa 1988" ; Times: 1
+	Query: "Calidris canutus rufa 1983" ; Times: 1
+	Query: "Calidris canutus rufa 1980" ; Times: 1
+	Query: "Calidris canutus rufa 1981" ; Times: 1
+	Query: "Calidris canutus rufa 1986" ; Times: 1
+	Query: "Calidris canutus rufa 1987" ; Times: 1
+	Query: "genus:Diomedea institutioncode:ROM" ; Times: 1
+	Query: "papua Pygoscelis" ; Times: 1
+	Query: "Cathartes aura" ; Times: 1
+	Query: "lophostrix cristata" ; Times: 2
+	Query: "Spheniscus" ; Times: 2
+	Query: "Columba nigrirostris vntype:specimen country:&#34;Panama&#34;" ; Times: 10
+	Query: "aratinga wagleri" ; Times: 4
+	Query: "Tapera naevia" ; Times: 2
+	Query: "Psittacula andaman" ; Times: 3
+	Query: "ROM 113151" ; Times: 4
+	Query: "Tringa glareola hasmass:1" ; Times: 2
+	Query: "harpactes mackloti" ; Times: 1
+	Query: "ROM 105217" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Tamil Nadu&#34; country:&#34;India&#34;" ; Times: 1
+	Query: "Mycteria americana 2018" ; Times: 1
+	Query: "Mycteria americana 2016" ; Times: 1
+	Query: "Linton AND Miguel Island" ; Times: 1
+	Query: "Branta bernicla AND Island" ; Times: 2
+	Query: "Mycteria americana 2010" ; Times: 1
+	Query: "ROM 99834" ; Times: 3
+	Query: "Charadrius melodus 2018" ; Times: 1
+	Query: "ROM 99830" ; Times: 2
+	Query: "Stercorariidae continent:Oceania" ; Times: 6
+	Query: "Charadrius melodus 2013" ; Times: 1
+	Query: "Charadrius melodus 2012" ; Times: 1
+	Query: "ROM 115915" ; Times: 1
+	Query: "genus:Coenocorypha institutioncode:ROM" ; Times: 3
+	Query: "Charadrius melodus 2017" ; Times: 1
+	Query: "Charadrius melodus 2016" ; Times: 1
+	Query: "Charadrius melodus 2015" ; Times: 1
+	Query: "collectioncode:Birds india" ; Times: 5
+	Query: "stateprovince:&#34;Nebraska&#34; country:&#34;USA&#34;" ; Times: 2
+	Query: "Egretta tricolor AND Island" ; Times: 1
+	Query: "ROM 114102" ; Times: 1
+	Query: "chloephaga rubidiceps" ; Times: 2
+	Query: "Grus americana mappable:1" ; Times: 1
+	Query: "Charadrius melodus 1975" ; Times: 1
+	Query: "buteo platypterus" ; Times: 1
+	Query: "catalognumber:39862 institutioncode:ROM" ; Times: 2
+	Query: "cyrtonyx ocellatus" ; Times: 1
+	Query: "Chordeiles gundlachii" ; Times: 4
+	Query: "Strix occidentalis caurina 2008" ; Times: 1
+	Query: "Strix occidentalis caurina 2009" ; Times: 1
+	Query: "ROM 109300" ; Times: 1
+	Query: "ROM-91945" ; Times: 1
+	Query: "specificepithet:amboinensis genus:macropygia hasmass:1" ; Times: 1
+	Query: "Centropus senegalensis" ; Times: 1
+	Query: "Charadrius melodus 2010" ; Times: 1
+	Query: "islas coronados" ; Times: 1
+	Query: "34.9.9.274" ; Times: 1
+	Query: "16467" ; Times: 1
+	Query: "osmaston andaman 1906" ; Times: 1
+	Query: "ROM 115546" ; Times: 2
+	Query: "Syrmaticus humiae" ; Times: 1
+	Query: "Stercorariidae continent:Europe" ; Times: 3
+	Query: "ROM 37333" ; Times: 1
+	Query: "Calidris canutus rufa 1992" ; Times: 1
+	Query: "Andaman aves" ; Times: 1
+	Query: "Branta bernicla AND Island AND California" ; Times: 1
+	Query: "USNM Trogon violaceus" ; Times: 1
+	Query: "ROM 100917" ; Times: 1
+	Query: "ponderosa Pinus" ; Times: 1
+	Query: "specificepithet:meridionalis genus:Nestor" ; Times: 1
+	Query: "ROM 100857" ; Times: 1
+	Query: "Calidris canutus rufa 1997" ; Times: 1
+	Query: "cmnh aves" ; Times: 1
+	Query: "Phalacrocorax pelagicus AND Farallon" ; Times: 1
+	Query: "15983" ; Times: 1
+	Query: "genus:Ara institutioncode:ROM" ; Times: 5
+	Query: "institutioncode:ROM 175358" ; Times: 1
+	Query: "family:Capitonidae institutioncode:ROM skeleton" ; Times: 1
+	Query: "Caloenas nicobarica" ; Times: 1
+	Query: "ROM 114700" ; Times: 1
+	Query: "Phaethon aethereus AND Isla NOT Nayarit" ; Times: 1
+	Query: "specificepithet:leschenaultii genus:Charadrius institutioncode:ROM hastissue:1" ; Times: 1
+	Query: "ROM 37809" ; Times: 1
+	Query: "class:Aves stateprovince:Tamil" ; Times: 1
+	Query: "&#34;Coturnix coturnix&#34;" ; Times: 1
+	Query: "Loriculus philippensis" ; Times: 2
+	Query: "ROM 70874" ; Times: 4
+	Query: "rhinoplax vigil" ; Times: 1
+	Query: "specificepithet:novaeseelandiae genus:Hemiphaga institutioncode:ROM" ; Times: 1
+	Query: "male institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:nigripes" ; Times: 2
+	Query: "grey wolf" ; Times: 2
+	Query: "class:Aves country:&#34;India&#34; coturnix" ; Times: 1
+	Query: "Stercorariidae continent:South America" ; Times: 8
+	Query: "specificepithet:flammeolus" ; Times: 3
+	Query: "genus:Apteryx sex:Female (Ovary OR oviduct OR ovum OR ova OR egg OR follicle)" ; Times: 1
+	Query: "(Apterygiformes) hastissue:1" ; Times: 7
+	Query: "colinus virginianus atriceps" ; Times: 1
+	Query: "ROM 105245" ; Times: 2
+	Query: "specificepithet:macao genus:Ara institutioncode:ROM" ; Times: 1
+	Query: "Calidris canutus rufa 1975" ; Times: 1
+	Query: "Neophema chrysogaster" ; Times: 2
+	Query: "ROM 118992" ; Times: 1
+	Query: "ROM 118993" ; Times: 1
+	Query: "class:Aves country:&#34;Tanzania&#34; continent:Africa recordedby:Williams" ; Times: 1
+	Query: "Mimosa" ; Times: 1
+	Query: "11817" ; Times: 1
+	Query: "ROM 114137" ; Times: 1
+	Query: "FMNH Priotelus" ; Times: 1
+	Query: "country:&#34;New zealand&#34; institutioncode:ROM" ; Times: 2
+	Query: "specificepithet:platurus genus:Prioniturus" ; Times: 1
+	Query: "ROM 98466" ; Times: 1
+	Query: "ROM 98467" ; Times: 4
+	Query: "specificepithet:costae class:Aves locality:Palm Springs county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Xema sabini continent:Europe" ; Times: 3
+	Query: "arcticus minnesota" ; Times: 1
+	Query: "Tympanuchus cupido stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "Hemiprocne mystacea" ; Times: 1
+	Query: "Pterodroma hasitata" ; Times: 1
+	Query: "párabuteo" ; Times: 1
+	Query: "catalognumber:15063 institutioncode:ROM" ; Times: 1
+	Query: "Megadyptes antipodes" ; Times: 9
+	Query: "ROM 99787" ; Times: 4
+	Query: "genus:Attagis institutioncode:ROM" ; Times: 1
+	Query: "Ceyx cyanopectus" ; Times: 1
+	Query: "ROM 106017" ; Times: 1
+	Query: "Jehl AND Island NOT Jersey NOT Ocean" ; Times: 1
+	Query: "genus:recurvirostra institutioncode:ROM" ; Times: 1
+	Query: "Pterocles India" ; Times: 2
+	Query: "ROM 105993" ; Times: 1
+	Query: "Brachyramphus marmoratus 1984" ; Times: 1
+	Query: "Tringa ochropus hasmass:1" ; Times: 2
+	Query: "Trogon elegans canescens" ; Times: 2
+	Query: "Tamil Nadu francolinus" ; Times: 1
+	Query: "specificepithet:meridionalis genus:Nestor institutioncode:ROM" ; Times: 1
+	Query: "Calidris canutus rufa 1998" ; Times: 1
+	Query: "specificepithet:leucurus genus:Lagopus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Calidris canutus rufa 1991" ; Times: 1
+	Query: "Mycteria americana 2008" ; Times: 1
+	Query: "Calidris canutus rufa 1993" ; Times: 1
+	Query: "family:Struthionidae sex:Female preparations:skeleton (Ovary OR oviduct OR ovum OR ova OR egg OR follicle)" ; Times: 1
+	Query: "Koelz" ; Times: 1
+	Query: "ROM 107331" ; Times: 1
+	Query: "class:Aves locality:Madras" ; Times: 3
+	Query: "llanos" ; Times: 1
+	Query: "specificepithet:cristatella genus:aETHIA year &gt;= 1826 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:16172" ; Times: 1
+	Query: "speotyto cunicularia" ; Times: 1
+	Query: "ROM 95705" ; Times: 2
+	Query: "colinus virginianus texanus" ; Times: 1
+	Query: "class:Aves locality:Madras country:&#34;India&#34;" ; Times: 1
+	Query: "vntype:specimen (DRD) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Mycteria americana 2009" ; Times: 1
+	Query: "Mycteria americana 2004" ; Times: 1
+	Query: "Mycteria americana 2000" ; Times: 1
+	Query: "Stercorariidae continent:America North" ; Times: 1
+	Query: "Mycteria americana 2003" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 60 (out of 1308 download events in this period)
+Total number of records downloaded: 3235
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: United States ; Times: 26
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: India ; Times: 10
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: Ecuador ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 3
+	Date: 2019-10-08 ; Times: 3
+	Date: 2019-10-18 ; Times: 6
+	Date: 2019-10-02 ; Times: 2
+	Date: 2019-10-24 ; Times: 1
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-05 ; Times: 1
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-11 ; Times: 2
+	Date: 2019-10-30 ; Times: 9
+	Date: 2019-10-31 ; Times: 5
+	Date: 2019-10-07 ; Times: 1
+	Date: 2019-10-17 ; Times: 12
+	Date: 2019-10-12 ; Times: 1
+	Date: 2019-10-21 ; Times: 2
+	Date: 2019-10-29 ; Times: 2
+	Date: 2019-10-06 ; Times: 1
+	Date: 2019-10-28 ; Times: 1
+	Date: 2019-10-10 ; Times: 4
+	Date: 2019-10-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Tympanuchus phasianellus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "genus:Ectopistes institutioncode:ROM" ; Times: 1
+	Query: "buteo platypterus" ; Times: 1
+	Query: "galbula" ; Times: 1
+	Query: "class:Aves country:&#34;Tanzania&#34; continent:Africa recordedby:Williams" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Tamil Nadu&#34;" ; Times: 3
+	Query: "Tympanuchus cupido stateprovince:&#34;Nebraska&#34;" ; Times: 5
+	Query: "colinus virginianus floridanus" ; Times: 1
+	Query: "Neophema chrysogaster" ; Times: 1
+	Query: "Tapera naevia" ; Times: 1
+	Query: "colinus virginianus ridgwayi" ; Times: 1
+	Query: "specificepithet:cristatella genus:Aethia" ; Times: 1
+	Query: "genus:Ectopistes" ; Times: 1
+	Query: "class:Aves country:&#34;India&#34; Madras" ; Times: 1
+	Query: "Strigops habroptilus" ; Times: 1
+	Query: "Falco sparverius stateprovince:&#34;Michigan&#34;" ; Times: 2
+	Query: "prairie falcon" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 3
+	Query: "colinus virginianus graysoni" ; Times: 1
+	Query: "class:Aves locality:Madras" ; Times: 1
+	Query: "class:Aves country:&#34;India&#34; Chennai" ; Times: 1
+	Query: "Rallus tenuirostris" ; Times: 1
+	Query: "Falco sparverius vntype:specimen" ; Times: 1
+	Query: "stercorariidae" ; Times: 1
+	Query: "window class:Aves" ; Times: 1
+	Query: "Mourning dove" ; Times: 1
+	Query: "class:Aves country:&#34;India&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;India&#34; &#34;coturnix coturnix&#34;" ; Times: 1
+	Query: "vntype:specimen class:aves country:&#34;oman&#34;" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "colinus virginianus" ; Times: 1
+	Query: "egg vntype:specimen family:Trochilidae institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Halcyon country:india" ; Times: 1
+	Query: "country:&#34;india&#34;" ; Times: 1
+	Query: "colinus virginianus texanus" ; Times: 1
+	Query: "specificepithet:flammeolus" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 2
+	Query: "genus:Calypte" ; Times: 1
+	Query: "colinus virginianus cubanensis" ; Times: 1
+	Query: "amethystina" ; Times: 1
+	Query: "Campephilus imperialis" ; Times: 4
+	Query: "colinus virginianus atriceps" ; Times: 1
+	Query: "class:aves country:&#34;india&#34; &#34;Coturnix coturnix&#34;" ; Times: 1
+	Query: "chloephaga rubidiceps" ; Times: 2
+	Query: "ara militaris" ; Times: 1
+
+
+End of report.
