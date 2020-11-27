@@ -1,0 +1,470 @@
+Report for Institution Code ROM, Resource birdsnonpass
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 502
+Number of records retrieved in searches: 4756
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 30
+	Country: Unknown ; Times: 5
+	Country: France ; Times: 9
+	Country: Argentina ; Times: 8
+	Country: Norway ; Times: 2
+	Country: Israel ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 8
+	Country: Denmark ; Times: 4
+	Country: China ; Times: 2
+	Country: Dominican Republic ; Times: 1
+	Country: Iraq ; Times: 2
+	Country: Gambia ; Times: 2
+	Country: Finland ; Times: 2
+	Country: United States ; Times: 263
+	Country: Guyana ; Times: 2
+	Country: Romania ; Times: 2
+	Country: Mexico ; Times: 26
+	Country: Uruguay ; Times: 19
+	Country: United Kingdom ; Times: 106
+	Country: Austria ; Times: 2
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 9
+	Date: 2020-02-23 ; Times: 20
+	Date: 2020-02-02 ; Times: 2
+	Date: 2020-02-03 ; Times: 20
+	Date: 2020-02-26 ; Times: 19
+	Date: 2020-02-01 ; Times: 4
+	Date: 2020-02-20 ; Times: 39
+	Date: 2020-02-21 ; Times: 36
+	Date: 2020-02-22 ; Times: 2
+	Date: 2020-02-05 ; Times: 20
+	Date: 2020-02-08 ; Times: 2
+	Date: 2020-02-09 ; Times: 8
+	Date: 2020-02-28 ; Times: 11
+	Date: 2020-02-29 ; Times: 2
+	Date: 2020-02-11 ; Times: 11
+	Date: 2020-02-10 ; Times: 26
+	Date: 2020-02-13 ; Times: 11
+	Date: 2020-02-12 ; Times: 24
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-14 ; Times: 21
+	Date: 2020-02-17 ; Times: 47
+	Date: 2020-02-16 ; Times: 5
+	Date: 2020-02-19 ; Times: 24
+	Date: 2020-02-18 ; Times: 24
+	Date: 2020-02-24 ; Times: 55
+	Date: 2020-02-25 ; Times: 9
+	Date: 2020-02-27 ; Times: 29
+	Date: 2020-02-06 ; Times: 13
+	Date: 2020-02-07 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Mellivora" ; Times: 1
+	Query: "2-6775" ; Times: 1
+	Query: "specificepithet:kingi institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:43253" ; Times: 1
+	Query: "circus hudsonius hastissue:1" ; Times: 1
+	Query: "36877" ; Times: 1
+	Query: "17179" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe country:&#34;Mexico&#34; (hypoleuca)" ; Times: 1
+	Query: "JAM 2885" ; Times: 1
+	Query: "ROM larus thayeri hastissue:1" ; Times: 1
+	Query: "39343" ; Times: 1
+	Query: "locality:trout bay institutioncode:ROM" ; Times: 1
+	Query: "Egretta gularis schistacea" ; Times: 1
+	Query: "country:&#34;eritrea&#34; recordedby:schrader" ; Times: 1
+	Query: "17161" ; Times: 1
+	Query: "36879" ; Times: 2
+	Query: "genus:Neochen institutioncode:ROM skeleton" ; Times: 1
+	Query: "14267" ; Times: 1
+	Query: "22179" ; Times: 1
+	Query: "megapodius freycinet freycinet" ; Times: 1
+	Query: "fulmarus nunavut year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "Podiceps cristatus" ; Times: 4
+	Query: "larus glaucoides hastissue:1" ; Times: 3
+	Query: "coracopsis nigra" ; Times: 4
+	Query: "specificepithet:marmoratus class:aves stateprovince:&#34;alaska&#34;" ; Times: 2
+	Query: "151306" ; Times: 1
+	Query: "Oceanodroma leucorhoa chapmani" ; Times: 1
+	Query: "Amazilia candida" ; Times: 1
+	Query: "institutioncode:ROM 124446" ; Times: 3
+	Query: "specificepithet:delawarensis genus:Larus county:&#34;Klamath&#34; stateprovince:&#34;Oregon&#34; month &gt;= 4 month &lt;= 6" ; Times: 1
+	Query: "Larus delawarensis stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "ubc" ; Times: 1
+	Query: "institutioncode:ROM daption" ; Times: 1
+	Query: "ROM 23336" ; Times: 2
+	Query: "Pelagodroma marina new zealand" ; Times: 1
+	Query: "genus:lagopus stateprovince:&#34;British columbia&#34;" ; Times: 1
+	Query: "steatornis" ; Times: 1
+	Query: "ROM 3088" ; Times: 1
+	Query: "catalognumber:43246" ; Times: 1
+	Query: "catalognumber:1625" ; Times: 1
+	Query: "specificepithet:lobatus genus:Phalaropus class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "trogon brazil" ; Times: 2
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Guadalupe) AND (NOT aleuticus)" ; Times: 1
+	Query: "Philortyx fasciatus" ; Times: 20
+	Query: "14846" ; Times: 1
+	Query: "specificepithet:sasin genus:selasphorus county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "specificepithet:americana genus:Chloroceryle country:&#34;Mexico&#34;" ; Times: 1
+	Query: "fulmarus minor year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "eremita" ; Times: 2
+	Query: "specificepithet:delawarensis genus:Larus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "&#34;North Bay&#34; vntype:specimen institutioncode:ROM" ; Times: 4
+	Query: "Egretta gularis" ; Times: 1
+	Query: "Amazona leucocephala" ; Times: 2
+	Query: "vntype:specimen class:Aves locality:Avila country:&#34;Ecuador&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "26637" ; Times: 1
+	Query: "evolution" ; Times: 1
+	Query: "dresden museum" ; Times: 1
+	Query: "sarcoramphus papa" ; Times: 4
+	Query: "recordedby:Picchi" ; Times: 2
+	Query: "Amazona albifrons" ; Times: 2
+	Query: "institutioncode:ROM 114190" ; Times: 1
+	Query: "Frogs" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Prigogine" ; Times: 1
+	Query: "genus:Neochen institutioncode:ROM" ; Times: 2
+	Query: "Anas diazi" ; Times: 18
+	Query: "144987" ; Times: 1
+	Query: "prairie chicken" ; Times: 3
+	Query: "Eurypyga helias" ; Times: 2
+	Query: "UMMZ 99230" ; Times: 2
+	Query: "pterodroma leucoptera" ; Times: 1
+	Query: "93535" ; Times: 1
+	Query: "institutioncode:ROM 106293" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe country:&#34;Mexico&#34; (Brachyramphus)" ; Times: 1
+	Query: "26348" ; Times: 1
+	Query: "Oceanodroma leucorhoa year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "NA NA" ; Times: 9
+	Query: "oceanites oceanicus year &gt;= 1997 year &lt;= 2020" ; Times: 1
+	Query: "phoeniconaias minor" ; Times: 1
+	Query: "Campephilus guatemalensis" ; Times: 1
+	Query: "Oceanodroma leucorhoa guadalupe year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "country:&#34;finland&#34; sex:male" ; Times: 3
+	Query: "family:Accipitridae institutioncode:ROM" ; Times: 1
+	Query: "hylonympha" ; Times: 1
+	Query: "specificepithet:fedoa genus:Limosa class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "spanish ontario" ; Times: 1
+	Query: "rusty blackbird" ; Times: 1
+	Query: "fulmarus glacialis year &gt;= 1980 year &lt;= 2020" ; Times: 2
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Guadalupe) AND (NOT aleuticus NOT monocerata)" ; Times: 1
+	Query: "Chondrohierax uncinatus" ; Times: 1
+	Query: "Candee" ; Times: 1
+	Query: "specificepithet:cyanopectus genus:ceyx country:&#34;philippines&#34;" ; Times: 1
+	Query: "24101" ; Times: 1
+	Query: "genus:Aegolius institutioncode:ROM hastissue:1 skin female" ; Times: 1
+	Query: "vntype:specimen specificepithet:arcticus genus:Picoides hastissue:1" ; Times: 1
+	Query: "genus:Aegolius institutioncode:ROM hastissue:1 skin" ; Times: 1
+	Query: "egg falco peregrinus ontario" ; Times: 1
+	Query: "45612" ; Times: 1
+	Query: "Oceanodroma leucorhoa guadalupe year &gt;= 1965 year &lt;= 2020" ; Times: 1
+	Query: "crecca minnesota" ; Times: 2
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:walker" ; Times: 2
+	Query: "Pharomachrus" ; Times: 2
+	Query: "stateprovince:&#34;England&#34; country:&#34;United Kingdom&#34; institutioncode:ROM" ; Times: 2
+	Query: "82104" ; Times: 2
+	Query: "class:aves institutioncode:ROM" ; Times: 1
+	Query: "15969" ; Times: 1
+	Query: "country:&#34;finland&#34;" ; Times: 2
+	Query: "ROM 32032" ; Times: 1
+	Query: "pachyptila belcheri" ; Times: 1
+	Query: "seahorse" ; Times: 1
+	Query: "&#34;WING CHORD&#34; specificepithet:platyrhynchos genus:ANAS continent:NORTH AMERICA lifestage:ADULT haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "fulmarus minor" ; Times: 1
+	Query: "pterodroma brevipes" ; Times: 8
+	Query: "genus:Aegolius institutioncode:ROM hastissue:1" ; Times: 1
+	Query: "specificepithet:varius genus:Sphyrapicus class:Aves county:&#34;Toronto&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "witch" ; Times: 2
+	Query: "fulmarus minor year &gt;= 1970 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "gbifdatasetid:136560fa-9eb9-492f-866e-5bd110c52f74" ; Times: 1
+	Query: "Oceanodroma leucorhoa socorroensis year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "17132" ; Times: 2
+	Query: "accipiter collaris vntype:specimen year &gt;= 1950 year &lt;= 2020" ; Times: 2
+	Query: "Monachus" ; Times: 2
+	Query: "Amazilia tzacatl" ; Times: 1
+	Query: "160145" ; Times: 1
+	Query: "coeligena iris" ; Times: 3
+	Query: "royal ontario museum" ; Times: 1
+	Query: "catalognumber:43064" ; Times: 1
+	Query: "class:aves recordedby:ritson basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "procellariiformes institutioncode:ROM hastissue:1" ; Times: 2
+	Query: "Melidora" ; Times: 1
+	Query: "Anas clypeata vntype:specimen institutioncode:ROM" ; Times: 1
+	Query: "Brown Joseph vntype:specimen institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:43732" ; Times: 1
+	Query: "105222" ; Times: 1
+	Query: "locality:El Arenal " ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Guadalupe)" ; Times: 1
+	Query: "megapodius freycinet" ; Times: 6
+	Query: "Anas clypeata Edmund vntype:specimen institutioncode:ROM" ; Times: 2
+	Query: "15683" ; Times: 1
+	Query: "specificepithet:aenea genus:Chloroceryle country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Abeillia abeillei" ; Times: 5
+	Query: "country:&#34;finland&#34; sex:male OR female" ; Times: 2
+	Query: "Passenger Pigeon" ; Times: 2
+	Query: "jubata" ; Times: 1
+	Query: "irrorata" ; Times: 1
+	Query: "41501" ; Times: 2
+	Query: "puffinus gulf" ; Times: 1
+	Query: "Diomedea exulans" ; Times: 1
+	Query: "perdix class:aves year &gt;= 1908 year &lt;= 1910" ; Times: 1
+	Query: "145084" ; Times: 1
+	Query: "FMNH striatus" ; Times: 1
+	Query: "puffinus assimilis new zealand" ; Times: 1
+	Query: "great Auk" ; Times: 1
+	Query: "svalbard" ; Times: 3
+	Query: "pachyptila turtur" ; Times: 5
+	Query: "conuropsis year &gt; 1900" ; Times: 1
+	Query: "neochen jubata" ; Times: 10
+	Query: "specificepithet:varius genus:Sphyrapicus class:Aves county:&#34;Peel&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "larus kumlieni hastissue:1" ; Times: 2
+	Query: "Guyana (Ceiba)" ; Times: 1
+	Query: "Oceanites galapagos" ; Times: 2
+	Query: "ROM 35245" ; Times: 2
+	Query: "FMNH mergus merganser" ; Times: 1
+	Query: "conuropsis" ; Times: 1
+	Query: "class:aves stateprovince:&#34;minas gerais&#34;" ; Times: 1
+	Query: "39229" ; Times: 1
+	Query: "Tigrisoma mexicanum" ; Times: 1
+	Query: "lizards" ; Times: 1
+	Query: "16240" ; Times: 1
+	Query: "distance(location,geopoint(48.00910073883534,-74.58984375))&lt;100000" ; Times: 1
+	Query: "Casuarius vntype:specimen" ; Times: 1
+	Query: "fulmarus baffin" ; Times: 1
+	Query: "ROM 37941" ; Times: 2
+	Query: "lyme" ; Times: 1
+	Query: "FMNH cathartes aura" ; Times: 1
+	Query: "15700" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 8
+	Query: "accipiter nisus" ; Times: 2
+	Query: "grey wolf" ; Times: 1
+	Query: "Apteryx mantelli" ; Times: 1
+	Query: "family:Cathartidae institutioncode:ROM" ; Times: 1
+	Query: "Iraq" ; Times: 2
+	Query: "institutioncode:ROM 96679" ; Times: 1
+	Query: "genus:Chloephaga institutioncode:ROM" ; Times: 1
+	Query: "class:Aves catalognumber:12020" ; Times: 1
+	Query: "passenger pigeon" ; Times: 5
+	Query: "fmnh birds" ; Times: 1
+	Query: "stateprovince:&#34;Mississippi&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "continent:africa recordedby:schrader" ; Times: 1
+	Query: "institutioncode:ROM" ; Times: 3
+	Query: "72167" ; Times: 1
+	Query: "Ceiba" ; Times: 2
+	Query: "specificepithet:hypoleuca family:Alcidae locality:Guadalupe country:&#34;Mexico&#34;" ; Times: 1
+	Query: "fulmarus nunavut" ; Times: 3
+	Query: "locality:volcan antisana " ; Times: 1
+	Query: "Oceanites gracilis gracilis" ; Times: 1
+	Query: "pterodroma nigripennis" ; Times: 3
+	Query: "12020" ; Times: 1
+	Query: "trogon rufus" ; Times: 1
+	Query: "institutioncode:ROM 34975" ; Times: 1
+	Query: "aves body mass birds" ; Times: 1
+	Query: "red wing blackbird" ; Times: 1
+	Query: "ROM 35902" ; Times: 1
+	Query: "72164" ; Times: 2
+	Query: "buteo plagiata year &gt;= 1950 year &lt;= 2020" ; Times: 1
+	Query: "Royal ontario museum" ; Times: 1
+	Query: "JAM 1084" ; Times: 1
+	Query: "91643" ; Times: 1
+	Query: "daption new zealand" ; Times: 3
+	Query: "gbifdatasetid:136560fa-9eb9-492f-866e-5bd110c52f74 procellariiformes" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:Buteo country:&#34;Mexico&#34;" ; Times: 1
+	Query: "fulmarus greenland" ; Times: 1
+	Query: "puffinus assimilis" ; Times: 2
+	Query: "28572" ; Times: 1
+	Query: "Pine Siskin" ; Times: 1
+	Query: "snowshoe hare" ; Times: 1
+	Query: "specificepithet:varius genus:Sphyrapicus class:Aves county:&#34;Halton&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "FMNH caprimulgus" ; Times: 1
+	Query: "specificepithet:macroura genus:Zenaida lifestage:ADULT (&#34;WING CHORD&#34;) haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "19835" ; Times: 1
+	Query: "fulmarus glacialis russia" ; Times: 1
+	Query: "specificepithet:fulicarius genus:Phalaropus class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:nycticorax genus:Nycticorax hastissue:1" ; Times: 2
+	Query: "specificepithet:pyrolophus genus:psilopogon hastissue:1" ; Times: 1
+	Query: "Amazilia cyanocephala" ; Times: 1
+	Query: "nestor notabilis" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Riggenbach" ; Times: 1
+	Query: "monachus" ; Times: 2
+	Query: "ROM 31031" ; Times: 3
+	Query: "Hylocharis sapphirina" ; Times: 1
+	Query: "Neochen jubata" ; Times: 2
+	Query: "genus:Chloephaga institutioncode:ROM skeleton" ; Times: 1
+	Query: "puffinus pacificus kermadec" ; Times: 1
+	Query: "accipiter griseiceps vntype:specimen year &lt;= 2020" ; Times: 1
+	Query: "spilornis klossi vntype:specimen year &lt;= 2020" ; Times: 2
+	Query: "specificepithet:varius genus:Sphyrapicus class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "frogs" ; Times: 1
+	Query: "order:Falconiformes institutioncode:ROM" ; Times: 1
+	Query: "procellaria parkinsoni" ; Times: 1
+	Query: "catalognumber:1392" ; Times: 1
+	Query: "institutioncode:ROM 160440" ; Times: 1
+	Query: "specificepithet:chionogaster institutioncode:ROM" ; Times: 1
+	Query: "14245" ; Times: 1
+	Query: "genus:Brachyramphus class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "camptorhynchus" ; Times: 1
+	Query: "neochen" ; Times: 2
+	Query: "ROM larus kumlieni hastissue:1" ; Times: 1
+	Query: "Amazilia yucatanensis" ; Times: 2
+	Query: "ROM 17499" ; Times: 2
+	Query: "Wood duck" ; Times: 3
+	Query: "Buteo albicaudatus" ; Times: 1
+	Query: "conuropsis carolinensis year &gt; 1900" ; Times: 1
+	Query: "genus:Brachyramphus family:Alcidae locality:Guadalupe country:&#34;Mexico&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Quebec&#34; year &gt;= 2000 year &lt;= 2020 institutioncode:ROM" ; Times: 1
+	Query: "genus:neochen preparations:skeleton" ; Times: 10
+	Query: "fulmarus glacialis baffin" ; Times: 1
+	Query: "spilornis klossi vntype:specimen year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:swainsoni genus:Buteo country:&#34;Mexico&#34;" ; Times: 2
+	Query: "specificepithet:canutus genus:Calidris institutioncode:ROM" ; Times: 1
+	Query: "87107" ; Times: 1
+	Query: "NT 376" ; Times: 3
+	Query: "locality:el centro" ; Times: 1
+	Query: "Coenocorypha" ; Times: 1
+	Query: "FMNH strix" ; Times: 1
+	Query: "class:aves locality:sycamore canyon" ; Times: 1
+	Query: "Grus canadensis" ; Times: 1
+	Query: "Larus delawarensis county:&#34;Klamath&#34; stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "anas discors" ; Times: 2
+	Query: "dog years" ; Times: 1
+	Query: "Oceanodroma leucorhoa socorroensis year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "41653" ; Times: 1
+	Query: "specificepithet:albonotatus genus:Buteo country:&#34;Mexico&#34;" ; Times: 3
+	Query: "accipiter collaris vntype:specimen year &gt;= 1920 year &lt;= 2020" ; Times: 1
+	Query: "order:Accipitriformes institutioncode:ROM" ; Times: 1
+	Query: "71925" ; Times: 1
+	Query: "specificepithet:delawarensis genus:Larus county:&#34;Klamath&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "catalognumber:12020" ; Times: 1
+	Query: "ROM 44298" ; Times: 1
+	Query: "gracilis galapagos" ; Times: 1
+	Query: "egg falco peregrinus" ; Times: 1
+	Query: "polar bear" ; Times: 3
+	Query: "locality:Chimborazo " ; Times: 1
+	Query: "Hylonympha" ; Times: 2
+	Query: "oceanites oceanicus year &gt;= 1995 year &lt;= 2020" ; Times: 1
+	Query: "catalognumber:15607 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves stateprovince:&#34;Oregon&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; recordedby:A. Walker" ; Times: 2
+	Query: "Oceanites gracilis" ; Times: 1
+	Query: "41652" ; Times: 1
+	Query: "FMNH gavia immer" ; Times: 1
+	Query: "7239" ; Times: 1
+	Query: "Oceanodroma leucorhoa socorroensis" ; Times: 1
+	Query: "specificepithet:marmoratus class:aves stateprovince:&#34;alaska&#34; year &gt;= 1888 year &lt;= 1910" ; Times: 1
+	Query: "33720 Aves" ; Times: 1
+	Query: "fulmarus minor year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "Skulls" ; Times: 1
+	Query: "larus thayeri hastissue:1" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Brachyramphus)" ; Times: 1
+	Query: "11796" ; Times: 1
+	Query: "specificepithet:imperialis genus:Campephilus" ; Times: 1
+	Query: "fulmarus glacialis canada year &gt;= 1980 year &lt;= 2020" ; Times: 2
+	Query: "Oceanodroma leucorhoa mexico" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves stateprovince:&#34;Oregon&#34; year &gt;= 1930 year &lt;= 1939 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Oceanodroma leucorhoa guadalupe year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "puffinus subalaris" ; Times: 2
+	Query: "Oceanodroma tethys" ; Times: 1
+	Query: "oceanites gracilis" ; Times: 5
+	Query: "ninox scutulata" ; Times: 1
+	Query: "specificepithet:Ciconia ciconia country:&#34;Romania&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 53 (out of 1023 download events in this period)
+Total number of records downloaded: 3653
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 34
+	Country: Romania ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: El Salvador ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: Peru ; Times: 1
+	Country: Guyana ; Times: 1
+	Country: Iraq ; Times: 1
+	Country: Norway ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-24 ; Times: 2
+	Date: 2020-02-27 ; Times: 3
+	Date: 2020-02-10 ; Times: 2
+	Date: 2020-02-18 ; Times: 3
+	Date: 2020-02-05 ; Times: 3
+	Date: 2020-02-26 ; Times: 2
+	Date: 2020-02-11 ; Times: 1
+	Date: 2020-02-25 ; Times: 3
+	Date: 2020-02-13 ; Times: 3
+	Date: 2020-02-12 ; Times: 3
+	Date: 2020-02-20 ; Times: 2
+	Date: 2020-02-14 ; Times: 2
+	Date: 2020-02-04 ; Times: 4
+	Date: 2020-02-16 ; Times: 1
+	Date: 2020-02-19 ; Times: 7
+	Date: 2020-02-06 ; Times: 3
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-09 ; Times: 1
+	Date: 2020-02-28 ; Times: 5
+	Date: 2020-02-02 ; Times: 1
+	Date: 2020-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Oceanodroma leucorhoa year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe country:&#34;Mexico&#34; (hypoleuca)" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "class:Aves county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Passenger Pigeon" ; Times: 2
+	Query: "momotus mexicanus" ; Times: 1
+	Query: "mammal hasmass:1" ; Times: 1
+	Query: "county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "class:aves stateprovince:&#34;minas gerais&#34;" ; Times: 1
+	Query: "Podiceps cristatus" ; Times: 1
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Casuarius vntype:specimen" ; Times: 1
+	Query: "Arequipa" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "genus:Geococcyx country:&#34;Mexico&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:arcticus genus:Picoides hastissue:1" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "sorex cinereus" ; Times: 1
+	Query: "wing order:Strigiformes class:Aves hasmass:1" ; Times: 2
+	Query: "family:Cathartidae institutioncode:ROM" ; Times: 1
+	Query: "genus:lagopus stateprovince:&#34;British columbia&#34;" ; Times: 1
+	Query: "louisiana" ; Times: 1
+	Query: "guyana" ; Times: 1
+	Query: "class:Aves (Aves AND Brasil OR Brazil)" ; Times: 1
+	Query: "Philortyx fasciatus" ; Times: 2
+	Query: "Tyto alba" ; Times: 1
+	Query: "distance(location,geopoint(33.00721728873146,-116.82047633587615))&lt;47696" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34; OR &#34;Brasil&#34;" ; Times: 1
+	Query: "&#34;North Bay&#34; vntype:specimen institutioncode:ROM" ; Times: 1
+	Query: "Amazona leucocephala" ; Times: 1
+	Query: "order:Accipitriformes institutioncode:ROM" ; Times: 1
+	Query: "vntype:specimen class:Aves locality:Avila country:&#34;Ecuador&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Monachus" ; Times: 1
+	Query: "Iraq" ; Times: 1
+	Query: "Grus canadensis" ; Times: 1
+	Query: "fulmarus glacialis year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "el salvador" ; Times: 1
+	Query: "Coenocorypha" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Prigogine" ; Times: 1
+	Query: "family:Accipitridae institutioncode:ROM" ; Times: 1
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "specificepithet:macroura genus:Zenaida lifestage:ADULT (&#34;WING CHORD&#34;) haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "country:&#34;Romania&#34;" ; Times: 1
+	Query: "genus:Colaptes hastissue:1" ; Times: 1
+	Query: "megapodius freycinet" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Riggenbach" ; Times: 1
+
+
+End of report.
