@@ -1,0 +1,389 @@
+Report for Institution Code ROM, Resource birdsnonpass
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 418
+Number of records retrieved in searches: 3263
+Number of different countries where searches have been originated: 27
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 9
+	Country: Brazil ; Times: 11
+	Country: Qatar ; Times: 1
+	Country: Peru ; Times: 30
+	Country: Unknown ; Times: 36
+	Country: France ; Times: 1
+	Country: Ireland ; Times: 6
+	Country: Laos ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Venezuela ; Times: 6
+	Country: Ecuador ; Times: 13
+	Country: Bangladesh ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Thailand ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Denmark ; Times: 4
+	Country: United States ; Times: 203
+	Country: Sweden ; Times: 11
+	Country: New Zealand ; Times: 2
+	Country: Honduras ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 48
+	Country: Uruguay ; Times: 5
+	Country: United Kingdom ; Times: 5
+	Country: Austria ; Times: 4
+	Country: Colombia ; Times: 10
+	Country: Paraguay ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 7
+	Date: 2020-07-08 ; Times: 8
+	Date: 2020-07-21 ; Times: 27
+	Date: 2020-07-20 ; Times: 65
+	Date: 2020-07-27 ; Times: 25
+	Date: 2020-07-26 ; Times: 5
+	Date: 2020-07-25 ; Times: 4
+	Date: 2020-07-22 ; Times: 16
+	Date: 2020-07-01 ; Times: 13
+	Date: 2020-07-03 ; Times: 9
+	Date: 2020-07-02 ; Times: 9
+	Date: 2020-07-05 ; Times: 2
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-07 ; Times: 2
+	Date: 2020-07-06 ; Times: 9
+	Date: 2020-07-24 ; Times: 10
+	Date: 2020-07-23 ; Times: 8
+	Date: 2020-07-29 ; Times: 54
+	Date: 2020-07-18 ; Times: 15
+	Date: 2020-07-19 ; Times: 6
+	Date: 2020-07-12 ; Times: 3
+	Date: 2020-07-13 ; Times: 4
+	Date: 2020-07-10 ; Times: 8
+	Date: 2020-07-11 ; Times: 13
+	Date: 2020-07-16 ; Times: 21
+	Date: 2020-07-31 ; Times: 14
+	Date: 2020-07-14 ; Times: 13
+	Date: 2020-07-17 ; Times: 9
+	Date: 2020-07-15 ; Times: 9
+	Date: 2020-07-28 ; Times: 20
+	Date: 2020-07-30 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 5
+	Query: "specificepithet:plumifera order:galliformes" ; Times: 1
+	Query: "lake whitefish" ; Times: 1
+	Query: "Buteo harlani" ; Times: 2
+	Query: "Costa Rica Boruca" ; Times: 2
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "11825" ; Times: 1
+	Query: "40497" ; Times: 1
+	Query: "specificepithet:superciliaris order:galliformes" ; Times: 1
+	Query: "Actophilornis albinucha" ; Times: 2
+	Query: "Colibri thalassinus" ; Times: 6
+	Query: "buteo harlani colorado" ; Times: 1
+	Query: "rodent" ; Times: 1
+	Query: "39186" ; Times: 1
+	Query: "human" ; Times: 1
+	Query: "harpactes fasciatus" ; Times: 1
+	Query: "catalognumber:37676" ; Times: 1
+	Query: "Neocrex erythrops" ; Times: 2
+	Query: "10347" ; Times: 1
+	Query: "ROM 30052" ; Times: 2
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 15
+	Query: "ROM 34118" ; Times: 2
+	Query: "catalognumber:42833" ; Times: 2
+	Query: "catalognumber:42836" ; Times: 1
+	Query: "Cooper AND Island" ; Times: 1
+	Query: "ROM 37861" ; Times: 2
+	Query: "Amazilia candida" ; Times: 3
+	Query: "gato" ; Times: 1
+	Query: "Schulze vntype:specimen country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:egretta class:aves country:&#34;somalia&#34; recordedby:archer" ; Times: 1
+	Query: "Buteo jamaicensis harlani" ; Times: 3
+	Query: "101569" ; Times: 1
+	Query: "134064?" ; Times: 1
+	Query: "Himantopus novaezelandiae" ; Times: 3
+	Query: "fratercula arctica" ; Times: 1
+	Query: "catalognumber:42598 institutioncode:ROM" ; Times: 1
+	Query: "12348 aves" ; Times: 2
+	Query: "Coeligena iris" ; Times: 1
+	Query: "country:&#34;Trinidad and Tobago&#34; institutioncode:ROM" ; Times: 3
+	Query: "buteogallus" ; Times: 1
+	Query: "specificepithet:erythrops genus:neocrex" ; Times: 2
+	Query: "ROM 30060" ; Times: 2
+	Query: "Rostratula australis" ; Times: 1
+	Query: "10347 aves" ; Times: 1
+	Query: "ROM 37534" ; Times: 2
+	Query: "Costa Rica Pozo Azul" ; Times: 1
+	Query: "larus bulleri" ; Times: 3
+	Query: "royal-ontario-museum/mammals" ; Times: 1
+	Query: "Cayenne guiana" ; Times: 1
+	Query: "buteo jamaicensis harlani" ; Times: 1
+	Query: "ROM 38104" ; Times: 2
+	Query: "19863" ; Times: 1
+	Query: "15110" ; Times: 1
+	Query: "Haematopus moquini" ; Times: 2
+	Query: "Amazona viridigenalis" ; Times: 1
+	Query: "Morococcyx erythropygus" ; Times: 2
+	Query: "ROM 34124" ; Times: 2
+	Query: "Accipiter rufitorques" ; Times: 1
+	Query: "102990" ; Times: 1
+	Query: "buteo harlani texas" ; Times: 1
+	Query: "Paramaribo" ; Times: 1
+	Query: "locality:rocky ford stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "35921" ; Times: 1
+	Query: "Glaucidium minutissimum" ; Times: 1
+	Query: "specificepithet:reinwardtii" ; Times: 1
+	Query: "Haematopus chathamensis" ; Times: 2
+	Query: "Todirhamphus OR Todiramphus OR Halcyon humii" ; Times: 1
+	Query: "ROM 30058" ; Times: 2
+	Query: "Amazona ochrocephala vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "40514" ; Times: 2
+	Query: "Buteo harlani Colorado" ; Times: 1
+	Query: "Crossoptilon harmani vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "20502" ; Times: 1
+	Query: "eurystomus orientalis india" ; Times: 1
+	Query: "Buteo harlani alberta" ; Times: 1
+	Query: "continent:africa year &gt;= 1924 year &lt;= 1924" ; Times: 2
+	Query: "class:Aves country:&#34;Iceland&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 6
+	Query: "Ensifera ensifera ecuador" ; Times: 2
+	Query: "ROM 30046" ; Times: 4
+	Query: "12348" ; Times: 1
+	Query: "13364" ; Times: 1
+	Query: "mvz AND gymnogyps AND california" ; Times: 1
+	Query: "Colaptes fernandinae" ; Times: 1
+	Query: "MVZ 138126" ; Times: 2
+	Query: "28482" ; Times: 1
+	Query: "78438" ; Times: 1
+	Query: "Peru Chuchurras" ; Times: 1
+	Query: "vntype:specimen specificepithet:ochrocephala genus:Amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "91859" ; Times: 1
+	Query: "ROM 37739" ; Times: 2
+	Query: "141136" ; Times: 1
+	Query: "tmm" ; Times: 2
+	Query: "merida venezuela" ; Times: 1
+	Query: "Audubon year &gt;= 1820 year &lt;= 1850" ; Times: 2
+	Query: "ROM 37752" ; Times: 2
+	Query: "Balaeniceps rex" ; Times: 3
+	Query: "5867 aves" ; Times: 1
+	Query: "genus:Tringa country:&#34;Iceland&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:nigricollis genus:Podiceps preparations:eggs" ; Times: 1
+	Query: "Spheniscus demersus" ; Times: 1
+	Query: "Accipiter gentilis hastissue:1" ; Times: 2
+	Query: "rhopodytes viridirostris" ; Times: 1
+	Query: "mvz gymnogyps california" ; Times: 1
+	Query: "class:aves country:&#34;somalia&#34; recordedby:archer" ; Times: 1
+	Query: "Buteo harlani texas" ; Times: 1
+	Query: "19966" ; Times: 1
+	Query: "class:aves stateprovince:&#34;jiangxi&#34; country:&#34;china&#34;" ; Times: 1
+	Query: "specificepithet:gularis order:galliformes" ; Times: 1
+	Query: "Pavo muticus" ; Times: 4
+	Query: "Androdon vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Rio Seco" ; Times: 1
+	Query: "ensifera ensifera" ; Times: 1
+	Query: "campephilus principalis" ; Times: 8
+	Query: "Boquete chiriqui" ; Times: 1
+	Query: "rhynchopsitta" ; Times: 2
+	Query: "specificepithet:urumutum order:galliformes" ; Times: 1
+	Query: "ROM 30061" ; Times: 2
+	Query: "Centrocercus urophasianus" ; Times: 2
+	Query: "44107" ; Times: 1
+	Query: "class:Aves country:&#34;Trinidad and Tobago&#34; institutioncode:ROM" ; Times: 2
+	Query: "catalognumber:38771 institutioncode:ROM" ; Times: 1
+	Query: "Haematopus unicolor" ; Times: 2
+	Query: "Cursorius coromandelicus" ; Times: 2
+	Query: "catalognumber:158434" ; Times: 1
+	Query: "gavia AND (&#34;alc&#34; OR &#34;alcohol&#34;)" ; Times: 1
+	Query: "Rynchops flavirostris" ; Times: 3
+	Query: "apple" ; Times: 1
+	Query: "grus canadensis tabida" ; Times: 1
+	Query: "nothoprocta curvirostris" ; Times: 1
+	Query: "ROM 32437" ; Times: 2
+	Query: "austria" ; Times: 1
+	Query: "royal-ontario-museum" ; Times: 1
+	Query: "ROM 32433" ; Times: 2
+	Query: "genus:Larus country:&#34;Iceland&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "ROM 32431" ; Times: 4
+	Query: "ROM 34090" ; Times: 4
+	Query: "000194" ; Times: 1
+	Query: "bequia" ; Times: 1
+	Query: "fm bailey" ; Times: 1
+	Query: "41449" ; Times: 1
+	Query: "Balaeniceps" ; Times: 2
+	Query: "Vanellus tectus" ; Times: 6
+	Query: "MVZ 82419" ; Times: 2
+	Query: "ROM 30059" ; Times: 2
+	Query: "genus:Calidris country:&#34;Iceland&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Wallace alfred institutioncode:ROM" ; Times: 1
+	Query: "ROM 29910" ; Times: 2
+	Query: "ROM 41547" ; Times: 4
+	Query: "specificepithet:jacutinga order:galliformes" ; Times: 1
+	Query: "Tricholaema ansorgii" ; Times: 2
+	Query: "vntype:specimen genus:Haematopus hastissue:1" ; Times: 2
+	Query: "ensifera ensifera aves south america" ; Times: 1
+	Query: "vultur" ; Times: 1
+	Query: "ROM 37822" ; Times: 2
+	Query: "Trichoglossus flavotectus" ; Times: 3
+	Query: "ROM 32428" ; Times: 4
+	Query: "ROM 34089" ; Times: 2
+	Query: "Eggs specificepithet:virginianus genus:Colinus" ; Times: 1
+	Query: "fratercula corniculata" ; Times: 1
+	Query: "tabida psm" ; Times: 1
+	Query: "catalognumber:39441 institutioncode:ROM" ; Times: 3
+	Query: "locality:Kolkata stateprovince:&#34;West Bengal&#34; country:&#34;India&#34;" ; Times: 2
+	Query: "Rhinoptilus cinctus" ; Times: 3
+	Query: "19825" ; Times: 1
+	Query: "Sterna saundersi" ; Times: 3
+	Query: "class:Aves country:&#34;Venezuela&#34; institutioncode:ROM" ; Times: 2
+	Query: "Aegolius funereus richardsoni" ; Times: 1
+	Query: "Tanygnathus sumatranus" ; Times: 2
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34; institutioncode:ROM" ; Times: 1
+	Query: "Ecuador Manabi chone" ; Times: 1
+	Query: "flavotectus" ; Times: 1
+	Query: "circaetus gallicus india" ; Times: 1
+	Query: "catalognumber:42842" ; Times: 1
+	Query: "hieraaetus pennatus india" ; Times: 1
+	Query: "vntype:specimen genus:Philortyx" ; Times: 1
+	Query: "Accipiter gentilis" ; Times: 1
+	Query: "larus fuliginosus" ; Times: 2
+	Query: "Psittacus erithacus" ; Times: 1
+	Query: "Boquete Chiriqui" ; Times: 1
+	Query: "ROM 35245" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:Laterallus" ; Times: 3
+	Query: "Buteo jamaicensis harlani texas" ; Times: 1
+	Query: "ruffed grouse" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 7
+	Query: "ROM 17496" ; Times: 1
+	Query: "28567" ; Times: 1
+	Query: "Schulze vntype:specimen country:&#34;Paraguay&#34; year &gt;= 1940 year &lt;= 1945" ; Times: 1
+	Query: "16350" ; Times: 1
+	Query: "21252" ; Times: 1
+	Query: "94277" ; Times: 1
+	Query: "23630" ; Times: 1
+	Query: "Glareola lactea" ; Times: 3
+	Query: "catalognumber:16553" ; Times: 1
+	Query: "procelsterna albivitta" ; Times: 2
+	Query: "eutoxeres aquila" ; Times: 1
+	Query: "Jamaica St. Andrew" ; Times: 1
+	Query: "Indicator indicator" ; Times: 2
+	Query: "javanensis" ; Times: 1
+	Query: "42543" ; Times: 1
+	Query: "Rhynchopsitta pachyrhyncha" ; Times: 2
+	Query: "ROM 105290" ; Times: 3
+	Query: "ROM 99232" ; Times: 2
+	Query: "genus:pedionomus" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "ROM 39306" ; Times: 1
+	Query: "larus Ichthyaetus" ; Times: 2
+	Query: "93698" ; Times: 1
+	Query: "37676" ; Times: 1
+	Query: "septentrionalis quebec" ; Times: 1
+	Query: "Thalasseus acuflavidus" ; Times: 3
+	Query: "Rynchops albicollis" ; Times: 1
+	Query: "ROM 29909" ; Times: 2
+	Query: "Valle Tumbaco" ; Times: 1
+	Query: "limnodromus griseus caurinus" ; Times: 5
+	Query: "buteo harlani michigan" ; Times: 1
+	Query: "45055" ; Times: 1
+	Query: "specificepithet:nigra order:galliformes" ; Times: 1
+	Query: "101571" ; Times: 1
+	Query: "Larus vegae" ; Times: 1
+	Query: "california (eggs or nest )" ; Times: 1
+	Query: "FMNH 5582" ; Times: 1
+	Query: "polar bear" ; Times: 3
+	Query: "genus:Vultur" ; Times: 1
+	Query: "Cittura" ; Times: 1
+	Query: "ROM 32427" ; Times: 4
+	Query: "specificepithet:californicus genus:Larus stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 2
+	Query: "Colaptes pitius" ; Times: 5
+	Query: "ROM 34109" ; Times: 1
+	Query: "ensifera ensifera aves" ; Times: 1
+	Query: "13627" ; Times: 1
+	Query: "dryocopus javensis" ; Times: 1
+	Query: "institutioncode:rom" ; Times: 1
+	Query: "Cursorius rufus" ; Times: 2
+	Query: "Sterna aurantia" ; Times: 1
+	Query: "vntype:specimen distance(location,geopoint(16.00309675035043,122.63482200511682))&lt;100000" ; Times: 1
+	Query: "11163" ; Times: 1
+	Query: "Buteo harlani Iowa" ; Times: 3
+	Query: "Cursorius temminckii" ; Times: 3
+	Query: "Todirhamphus OR Todiramphus OR Halcyon Andaman" ; Times: 1
+	Query: "31031" ; Times: 1
+	Query: "Buteo harlani Texas" ; Times: 1
+	Query: "Glareola ocularis" ; Times: 2
+	Query: "class:aves country:&#34;argentina&#34; year &gt;= 1953 year &lt;= 1953" ; Times: 2
+	Query: "ROM 35605" ; Times: 4
+	Query: "numenius arquata" ; Times: 1
+	Query: "sterna albistriata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 940 download events in this period)
+Total number of records downloaded: 982
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Unknown ; Times: 5
+	Country: Austria ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 12
+	Country: Sweden ; Times: 2
+	Country: Peru ; Times: 6
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-22 ; Times: 5
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-27 ; Times: 3
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-24 ; Times: 1
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 2
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-02 ; Times: 5
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-17 ; Times: 2
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-06 ; Times: 1
+	Date: 2020-07-28 ; Times: 2
+	Date: 2020-07-03 ; Times: 4
+	Date: 2020-07-15 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 3
+	Query: "specificepithet:plumifera order:galliformes" ; Times: 1
+	Query: "specificepithet:superciliaris order:galliformes" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Pennsylvania&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Crossoptilon harmani vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "Ensifera ensifera ecuador" ; Times: 1
+	Query: "eutoxeres aquila" ; Times: 1
+	Query: "Rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "Neocrex erythrops" ; Times: 3
+	Query: "specificepithet:jacutinga order:galliformes" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:ochrocephala genus:Amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vultur" ; Times: 1
+	Query: "class:aves stateprovince:&#34;jiangxi&#34; country:&#34;china&#34;" ; Times: 1
+	Query: "specificepithet:nigra order:galliformes" ; Times: 1
+	Query: "genus:egretta class:aves country:&#34;somalia&#34; recordedby:archer" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34; institutioncode:ROM" ; Times: 1
+	Query: "class:Aves country:&#34;Uganda&#34; continent:Africa" ; Times: 1
+	Query: "specificepithet:gularis order:galliformes" ; Times: 1
+	Query: "Pavo muticus" ; Times: 3
+	Query: "campephilus principalis" ; Times: 1
+	Query: "grus canadensis" ; Times: 1
+	Query: "specificepithet:urumutum order:galliformes" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "class:Aves country:&#34;Iceland&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 2
+	Query: "specificepithet:californicus genus:Larus stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 2
+
+
+End of report.
