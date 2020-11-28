@@ -1,0 +1,702 @@
+Report for Institution Code ROM, Resource birdsnonpass
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 815
+Number of records retrieved in searches: 14436
+Number of different countries where searches have been originated: 25
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 34
+	Country: Canada ; Times: 117
+	Country: Unknown ; Times: 44
+	Country: France ; Times: 23
+	Country: Peru ; Times: 8
+	Country: Argentina ; Times: 28
+	Country: Ecuador ; Times: 9
+	Country: Germany ; Times: 53
+	Country: Chile ; Times: 1
+	Country: Kuwait ; Times: 1
+	Country: Netherlands ; Times: 19
+	Country: Denmark ; Times: 3
+	Country: Philippines ; Times: 2
+	Country: United States ; Times: 265
+	Country: Vietnam ; Times: 2
+	Country: Japan ; Times: 2
+	Country: Switzerland ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 36
+	Country: India ; Times: 14
+	Country: United Kingdom ; Times: 132
+	Country: Austria ; Times: 4
+	Country: Colombia ; Times: 12
+	Country: Kenya ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 21
+	Date: 2020-10-18 ; Times: 5
+	Date: 2020-10-19 ; Times: 25
+	Date: 2020-10-08 ; Times: 23
+	Date: 2020-10-12 ; Times: 19
+	Date: 2020-10-13 ; Times: 202
+	Date: 2020-10-10 ; Times: 4
+	Date: 2020-10-11 ; Times: 12
+	Date: 2020-10-16 ; Times: 9
+	Date: 2020-10-31 ; Times: 7
+	Date: 2020-10-14 ; Times: 22
+	Date: 2020-10-15 ; Times: 14
+	Date: 2020-10-03 ; Times: 20
+	Date: 2020-10-23 ; Times: 40
+	Date: 2020-10-22 ; Times: 52
+	Date: 2020-10-21 ; Times: 17
+	Date: 2020-10-20 ; Times: 58
+	Date: 2020-10-27 ; Times: 27
+	Date: 2020-10-26 ; Times: 10
+	Date: 2020-10-25 ; Times: 5
+	Date: 2020-10-24 ; Times: 13
+	Date: 2020-10-01 ; Times: 14
+	Date: 2020-10-30 ; Times: 43
+	Date: 2020-10-29 ; Times: 11
+	Date: 2020-10-28 ; Times: 24
+	Date: 2020-10-05 ; Times: 23
+	Date: 2020-10-04 ; Times: 15
+	Date: 2020-10-07 ; Times: 49
+	Date: 2020-10-17 ; Times: 8
+	Date: 2020-10-06 ; Times: 4
+	Date: 2020-10-02 ; Times: 19
+
+List of queries that retrieved data from the resource: 
+	Query: "M.G Palmer" ; Times: 2
+	Query: "Anser fabalis" ; Times: 1
+	Query: "genus:Phalaropus institutioncode:ROM tissue skin" ; Times: 1
+	Query: "genus:Alca stateprovince:&#34;Newfoundland&#34; institutioncode:ROM" ; Times: 4
+	Query: "genus:Nothoprocta" ; Times: 1
+	Query: "specificepithet:bassanus genus:Sula institutioncode:ROM" ; Times: 2
+	Query: "vntype:specimen (birds) lengthtype:head-body length hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "JAM 2819" ; Times: 1
+	Query: "Sterna paradisaea" ; Times: 1
+	Query: "scientificname:Threskiornis aethiopicus" ; Times: 1
+	Query: "vntype:specimen specificepithet:macroura genus:Zenaida preparations:wing institutioncode:ROM" ; Times: 1
+	Query: "Podilymbus podiceps" ; Times: 1
+	Query: "Osmaston Narcondam" ; Times: 2
+	Query: "wing chord specificepithet:sparverius genus:Falco continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "catalognumber:1982" ; Times: 1
+	Query: "Dinopium benghalense puncticolle" ; Times: 3
+	Query: "Cairina moschata" ; Times: 1
+	Query: "genus:Rynchops basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "genus:coenocorypha institutioncode:ROM tissue" ; Times: 1
+	Query: "Anous tenuirostris" ; Times: 1
+	Query: "Geranospiza caerulescens" ; Times: 1
+	Query: "genus:mentocrex institutioncode:ROM" ; Times: 2
+	Query: "Cynanthus sordidus" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 13
+	Query: "alcedo meninting" ; Times: 1
+	Query: "scientificname:Psittacula eupatria" ; Times: 1
+	Query: "42514" ; Times: 1
+	Query: "specificepithet:herodias genus:ardea stateprovince:&#34;florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:microparra institutioncode:ROM" ; Times: 1
+	Query: "Stercorarius pomarinus" ; Times: 1
+	Query: "Chamaepetes unicolor" ; Times: 1
+	Query: "specificepithet:tricolor genus:phalaropus institutioncode:ROM hastissue:1" ; Times: 1
+	Query: "picoides arcticus vntype:specimen hastissue:1" ; Times: 2
+	Query: "ceiba" ; Times: 1
+	Query: "specificepithet:torda genus:Alca institutioncode:ROM skeleton" ; Times: 1
+	Query: "wing chord specificepithet:sparverius genus:Falco continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "genus:Phalaropus institutioncode:ROM tissue" ; Times: 1
+	Query: "Larus argentatus" ; Times: 1
+	Query: "specificepithet:aalge genus:Uria institutioncode:ROM" ; Times: 1
+	Query: "genus:Tachyeres institutioncode:ROM" ; Times: 3
+	Query: "ROM 33841" ; Times: 1
+	Query: "genus:Oceanodroma stateprovince:&#34;Newfoundland&#34; institutioncode:ROM" ; Times: 1
+	Query: "16252" ; Times: 1
+	Query: "Euptilotis neoxenus" ; Times: 2
+	Query: "genus:COENOCORYPHA institutioncode:ROM hastissue:1" ; Times: 1
+	Query: "genus:Uria stateprovince:&#34;Newfoundland&#34; institutioncode:ROM" ; Times: 2
+	Query: "casuarius" ; Times: 2
+	Query: "(12009)" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 1
+	Query: "Axis axis" ; Times: 2
+	Query: "genus:Apteryx hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:umbellus genus:bonasa hassex:1 hastissue:1" ; Times: 1
+	Query: "scientificname:Buceros rhinoceros" ; Times: 15
+	Query: "Rhynchopsitta" ; Times: 1
+	Query: "specificepithet:discors genus:Anas continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "lakshadweep" ; Times: 2
+	Query: "Pluvialis squatarola" ; Times: 1
+	Query: "specificepithet:platyrhynchos genus:Anas continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "sockeye" ; Times: 1
+	Query: "specificepithet:vermiculatus genus:Burhinus hastissue:1" ; Times: 1
+	Query: "Phalacrocorax magellanicus" ; Times: 1
+	Query: "Phalacrocorax pelagicus" ; Times: 1
+	Query: "quercus" ; Times: 1
+	Query: "Coturnicops" ; Times: 1
+	Query: "Anastomus oscitans India" ; Times: 1
+	Query: "specificepithet:fimbriata genus:Amazilia" ; Times: 1
+	Query: "genus:CYANOLISEUS institutioncode:ROM" ; Times: 2
+	Query: "Phalacrocorax varius" ; Times: 1
+	Query: "scientificname:Nothocrax urumutum" ; Times: 1
+	Query: "scientificname:Crax fasciolata" ; Times: 1
+	Query: "Rhynchopsitta preparations:skeleton" ; Times: 1
+	Query: "Strigops habroptilus" ; Times: 1
+	Query: "specificepithet:herodias genus:ardea class:aves stateprovince:&#34;florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Larus marinus" ; Times: 1
+	Query: "Branta canadensis" ; Times: 1
+	Query: "MVZ 154783" ; Times: 5
+	Query: "scientificname:Aix sponsa" ; Times: 32
+	Query: "wing chord specificepithet:pubescens genus:Picoides continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "aitkin aves minnesota" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "107711" ; Times: 1
+	Query: "genus:ABEILLIA institutioncode:ROM" ; Times: 2
+	Query: "vntype:specimen genus:Oxyura class:Aves country:&#34;Paraguay&#34;" ; Times: 3
+	Query: "kolkata" ; Times: 2
+	Query: "43733" ; Times: 1
+	Query: "Forbes-Watson" ; Times: 1
+	Query: "vntype:specimen genus:Gymnobucco" ; Times: 2
+	Query: "snowshoe hare" ; Times: 1
+	Query: "genus:Fratercula stateprovince:&#34;Newfoundland&#34; institutioncode:ROM" ; Times: 1
+	Query: "wing chord specificepithet:platyrhynchos genus:Anas continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "wing chord specificepithet:macroura genus:Zenaida continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "dinopium" ; Times: 1
+	Query: "Brachyramphus brevirostris" ; Times: 1
+	Query: "specificepithet:aalge genus:Uria institutioncode:ROM skin" ; Times: 1
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "Butastur indicus" ; Times: 1
+	Query: "scientificname:Crax rubra" ; Times: 1
+	Query: "Lakshadweep Aves" ; Times: 1
+	Query: "scientificname:Oreophasis derbianus" ; Times: 1
+	Query: "vntype:specimen specificepithet:chrysaetos genus:Aquila preparations:wing institutioncode:ROM" ; Times: 1
+	Query: "leucopternis melanops" ; Times: 4
+	Query: "class:Aves country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Herpetotheres cachinnans" ; Times: 2
+	Query: "genus:Neophema institutioncode:ROM tissue wing" ; Times: 2
+	Query: "Somateria fischeri" ; Times: 1
+	Query: "aves bolivia" ; Times: 1
+	Query: "catalognumber:20347" ; Times: 1
+	Query: "UWBM 34936" ; Times: 1
+	Query: "Dinopium benghalense" ; Times: 2
+	Query: "genus:Odontophorus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "scientificname:Chamaepetes goudotii" ; Times: 1
+	Query: "nicobar" ; Times: 2
+	Query: "Sterna sumatrana" ; Times: 1
+	Query: "specificepithet:pubescens genus:Picoides continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Rallus elegans stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Haematopus ostralegus" ; Times: 2
+	Query: "Phalacrocorax auritus" ; Times: 1
+	Query: "Cypsiurus parvus" ; Times: 1
+	Query: "catalognumber:159789 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:affinis genus:Aythya continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 2
+	Query: "Gallicolumba jobiensis" ; Times: 1
+	Query: "clark county (wisconsin)" ; Times: 1
+	Query: "specificepithet:leucorhoa genus:Oceanodroma institutioncode:ROM skeleton" ; Times: 1
+	Query: "Phalacrocorax capensis" ; Times: 1
+	Query: "specificepithet:furcifer genus:Heliomaster class:aves" ; Times: 1
+	Query: "specificepithet:capensis genus:Burhinus hastissue:1" ; Times: 1
+	Query: "Hylocharis chrysura" ; Times: 1
+	Query: "Gallus sonneratii" ; Times: 4
+	Query: "Anas formosa" ; Times: 1
+	Query: "wing chord specificepithet:crecca genus:Anas continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "scientificname:Crax alector" ; Times: 1
+	Query: "Circus hudsonius Texas" ; Times: 1
+	Query: "Haematopus palliatus" ; Times: 2
+	Query: "Circaetus gallicus" ; Times: 1
+	Query: "93638" ; Times: 1
+	Query: "specificepithet:benghalensis genus:Rostratula hastissue:1" ; Times: 2
+	Query: "Porphyrio melanotus" ; Times: 1
+	Query: "genus:Glaucidium hastissue:1" ; Times: 1
+	Query: "Aethia cristatella" ; Times: 1
+	Query: "mappable:1 scientificname:Crax fasciolata" ; Times: 1
+	Query: "wing chord specificepithet:canadensis genus:Branta continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 2
+	Query: "vntype:specimen specificepithet:alba genus:Tyto preparations:wing institutioncode:ROM" ; Times: 1
+	Query: "ognorhynchus colombia" ; Times: 1
+	Query: "mappable:1 scientificname:Histrio histrio" ; Times: 2
+	Query: "scientificname:Ortalis ruficauda" ; Times: 1
+	Query: "genus:Cursorius institutioncode:ROM" ; Times: 2
+	Query: "stateprovince:&#34;Newfoundland&#34; institutioncode:ROM" ; Times: 3
+	Query: "class:aves locality:indio" ; Times: 1
+	Query: "milkweed" ; Times: 1
+	Query: "vntype:specimen genus:Bucorvus" ; Times: 2
+	Query: "specificepithet:acuta genus:Anas continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "scientificname:Penelope argyrotis" ; Times: 1
+	Query: "Circus melanoleucos" ; Times: 1
+	Query: "Pluvialis dominica" ; Times: 1
+	Query: "Anas rubripes (Ontario )" ; Times: 7
+	Query: "ROM 27276" ; Times: 1
+	Query: "scientificname:Mitu mitu" ; Times: 1
+	Query: "wing chord specificepithet:affinis genus:Aythya continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "UMMZ recordedby:Snyder" ; Times: 1
+	Query: "Phalacrocorax penicillatus" ; Times: 1
+	Query: "wing chord specificepithet:sponsa genus:Aix continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "ummz 65785" ; Times: 1
+	Query: "Anser indicus" ; Times: 1
+	Query: "Phaethornis longuemareus" ; Times: 1
+	Query: "genus:prosobonia institutioncode:ROM" ; Times: 1
+	Query: "bellavista colombia" ; Times: 4
+	Query: "genus:ANARHYNCHUS institutioncode:ROM" ; Times: 2
+	Query: "Anser albifrons" ; Times: 1
+	Query: "Rissa tridactyla" ; Times: 1
+	Query: "Haematopus unicolor" ; Times: 1
+	Query: "Osmaston narcondam" ; Times: 4
+	Query: "genus:eupherusa institutioncode:ROM" ; Times: 2
+	Query: "81916" ; Times: 1
+	Query: "Anas rubripes Ontario" ; Times: 1
+	Query: "pterodroma cookii" ; Times: 9
+	Query: "Larus delawarensis" ; Times: 1
+	Query: "genus:GLossopsitta institutioncode:ROM tissue" ; Times: 1
+	Query: "Phalacrocorax harrisi" ; Times: 1
+	Query: "genus:Polysticta institutioncode:ROM" ; Times: 1
+	Query: "apus niansae" ; Times: 4
+	Query: "amazona oratrix" ; Times: 1
+	Query: "specificepithet:ulula genus:Surnia hastissue:1" ; Times: 1
+	Query: "aitkin lano" ; Times: 1
+	Query: "genus:Neophema institutioncode:ROM skin" ; Times: 1
+	Query: "institutioncode:ROM" ; Times: 4
+	Query: "vntype:specimen class:Aves country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "Larus heermanni" ; Times: 1
+	Query: "narcondam 1904" ; Times: 2
+	Query: "white footed mouse" ; Times: 1
+	Query: "Xema sabini" ; Times: 1
+	Query: "wing chord specificepithet:striatus genus:Accipiter continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "scientificname:Penelope purpurascens" ; Times: 1
+	Query: "specificepithet:herodias genus:ardea class:aves stateprovince:&#34;florida&#34; sex:female basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Anas falcata" ; Times: 1
+	Query: "genus:Ceratogymna institutioncode:ROM" ; Times: 2
+	Query: "Leptosomus discolor" ; Times: 1
+	Query: "Phalacrocorax carbo" ; Times: 1
+	Query: "genus:Phalaropus institutioncode:ROM" ; Times: 1
+	Query: "Oceanodroma macrodactyla" ; Times: 1
+	Query: "vntype:specimen specificepithet:habroptilus genus:strigops" ; Times: 1
+	Query: "Egretta garzetta haslifestage:1" ; Times: 1
+	Query: "scientificname:Penelope superciliaris" ; Times: 1
+	Query: "wing chord specificepithet:discors genus:Anas continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "charadrius mongolus" ; Times: 1
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "genus:Neophema institutioncode:ROM tissue skeleton" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 4
+	Query: "specificepithet:cyanocephala genus:Amazilia country:&#34;Belize&#34;" ; Times: 1
+	Query: "specificepithet:Sparverius genus:Falco preparations:Wing institutioncode:ROM" ; Times: 2
+	Query: "Larus crassirostris" ; Times: 1
+	Query: "shrews" ; Times: 1
+	Query: "sterna argentina" ; Times: 1
+	Query: "Microcarbo melanoleucos" ; Times: 2
+	Query: "specificepithet:superciliaris genus:Burhinus hastissue:1" ; Times: 1
+	Query: "Franklin 1888" ; Times: 1
+	Query: "catalognumber:31446 institutioncode:ROM" ; Times: 2
+	Query: "ROM 99232" ; Times: 1
+	Query: "Trachyphonus vaillantii" ; Times: 1
+	Query: "Dromaiidae" ; Times: 2
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "Egretta garzetta" ; Times: 5
+	Query: "Thalasseus acuflavidus" ; Times: 1
+	Query: "Phalacrocorax urile" ; Times: 1
+	Query: "specificepithet:formicivorus genus:Melanerpes country:&#34;Belize&#34;" ; Times: 1
+	Query: "Rallus crepitans" ; Times: 1
+	Query: "tropical birds" ; Times: 2
+	Query: "vntype:specimen family:Bucerotidae" ; Times: 1
+	Query: "specificepithet:aalge genus:Uria institutioncode:ROM skeleton" ; Times: 1
+	Query: "daphne" ; Times: 2
+	Query: "specificepithet:hyacinthinus genus:Anodorhynchus" ; Times: 2
+	Query: "genus:Rallus stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Arusha&#34;" ; Times: 1
+	Query: "Circus cinereus" ; Times: 2
+	Query: "Porphyrio porphyrio" ; Times: 1
+	Query: "Morus bassanus" ; Times: 1
+	Query: "Anas clypeata" ; Times: 1
+	Query: "genus:Rhodonessa" ; Times: 1
+	Query: "Anas acuta" ; Times: 1
+	Query: "41813" ; Times: 1
+	Query: "Himantopus himantopus" ; Times: 1
+	Query: "genus:Sula stateprovince:&#34;Newfoundland&#34; institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:19887" ; Times: 1
+	Query: "catalognumber:159674 institutioncode:ROM" ; Times: 2
+	Query: "Cygnus olor" ; Times: 1
+	Query: "genus:Gallicolumba institutioncode:ROM" ; Times: 2
+	Query: "Stercorarius longicaudus" ; Times: 1
+	Query: "genus:Coccyzus country:&#34;Dominican Republic&#34;" ; Times: 1
+	Query: "Phaps chalcoptera" ; Times: 1
+	Query: "Anas strepera" ; Times: 1
+	Query: "specificepithet:flavifrons genus:Melanerpes basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Coccyzus minor" ; Times: 1
+	Query: "genus:Eos institutioncode:ROM tissue" ; Times: 1
+	Query: "wing chord specificepithet:macroura genus:Zenaida continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "vntype:specimen genus:Netta class:Aves country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Apus affinis" ; Times: 2
+	Query: "wing chord specificepithet:striatus genus:Accipiter continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "genus:PSITTACULIROSTRIS institutioncode:ROM tissue" ; Times: 1
+	Query: "Buteo albicaudatus" ; Times: 1
+	Query: "Branta bernicla" ; Times: 1
+	Query: "genus:PHaps institutioncode:ROM" ; Times: 1
+	Query: "66015" ; Times: 1
+	Query: "genus:gallinago haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Sula institutioncode:ROM" ; Times: 1
+	Query: "C. psittacula" ; Times: 2
+	Query: "evolution" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Newfoundland&#34; institutioncode:ROM" ; Times: 3
+	Query: "class:aves county:&#34;hudspeth&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Thalasseus sandvicensis" ; Times: 1
+	Query: "ROM 112590" ; Times: 1
+	Query: "specificepithet:bassanus genus:Morus institutioncode:ROM" ; Times: 2
+	Query: "vntype:specimen specificepithet:canadensis genus:Branta preparations:wing institutioncode:ROM" ; Times: 1
+	Query: "vntype:specimen specificepithet:spinosa genus:Jacana" ; Times: 1
+	Query: "Branta sandvicensis" ; Times: 1
+	Query: "Cygnus atratus" ; Times: 1
+	Query: "rom 43101" ; Times: 1
+	Query: "pterodroma brevipes" ; Times: 5
+	Query: "Turtur tympanistria" ; Times: 1
+	Query: "specificepithet:bassana genus:Sula institutioncode:ROM skeleton" ; Times: 1
+	Query: "specificepithet:noctua genus:Athene hastissue:1" ; Times: 1
+	Query: "Anthracothorax viridigula" ; Times: 1
+	Query: "Underwood year &gt;= 1895 year &lt;= 1895 month &gt;= 7 month &lt;= 7" ; Times: 1
+	Query: "Anas crecca" ; Times: 1
+	Query: "Amazona xantholora" ; Times: 1
+	Query: "specificepithet:canadensis genus:Branta continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Larus glaucoides" ; Times: 1
+	Query: "hirundapus giganteus" ; Times: 3
+	Query: "genus:Gallicrex institutioncode:ROM" ; Times: 1
+	Query: "vntype:specimen specificepithet:delawarensis genus:Larus preparations:wing institutioncode:ROM" ; Times: 1
+	Query: "10431" ; Times: 1
+	Query: "Agapornis uganda" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 25
+	Query: "wing chord specificepithet:discors genus:Anas continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "wing chord specificepithet:platyrhynchos genus:Anas continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "genus:Anthracoceros institutioncode:ROM" ; Times: 4
+	Query: "scientificname:Penelope montagnii" ; Times: 1
+	Query: "woodchuck" ; Times: 2
+	Query: "Buteo polyosoma" ; Times: 1
+	Query: "genus:Microparra institutioncode:ROM" ; Times: 2
+	Query: "pseudoscops grammicus" ; Times: 1
+	Query: "genus:Xiphidiopicus" ; Times: 1
+	Query: "genus:gallinago hassex:1 hasmass:1" ; Times: 1
+	Query: "psephotus pulcherrimus" ; Times: 1
+	Query: "genus:Tanygnathus institutioncode:ROM" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "genus:Phalaropus institutioncode:ROM hastissue:1" ; Times: 4
+	Query: "vntype:specimen specificepithet:argentatus genus:Larus preparations:wing institutioncode:ROM" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Karnataka&#34; country:&#34;India&#34; year &gt;= 1750 year &lt;= 1970" ; Times: 4
+	Query: "campephilus principalis" ; Times: 2
+	Query: "specificepithet:bassana genus:Sula institutioncode:ROM" ; Times: 4
+	Query: "scientificname:Ortalis canicollis" ; Times: 1
+	Query: "Anser anser" ; Times: 1
+	Query: "capito hypoleucus" ; Times: 1
+	Query: "Ciconia ciconia" ; Times: 1
+	Query: "Roraima Whitely" ; Times: 1
+	Query: "genus:Coenocorypha hastissue:1" ; Times: 2
+	Query: "Ptychoramphus aleuticus" ; Times: 1
+	Query: "specificepithet:interpres genus:Arenaria hastissue:1" ; Times: 2
+	Query: "1906 osmaston" ; Times: 1
+	Query: "Stercorarius parasiticus" ; Times: 1
+	Query: "genus:Nyctanassa institutioncode:ROM" ; Times: 1
+	Query: "20347" ; Times: 1
+	Query: "genus:Rynchops" ; Times: 3
+	Query: "36220" ; Times: 2
+	Query: "Rallus elegans vntype:specimen stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Cerorhinca monocerata" ; Times: 1
+	Query: "genus:Dryolimnas institutioncode:ROM" ; Times: 1
+	Query: "Fratercula corniculata" ; Times: 1
+	Query: "Steere Expedition" ; Times: 2
+	Query: "Chalcophaps stephani" ; Times: 1
+	Query: "wickham 1905" ; Times: 1
+	Query: "wing chord specificepithet:canadensis genus:Branta continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "genus:Agapornis hasmass:1" ; Times: 8
+	Query: "Pterodroma hasitata vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 1
+	Query: "San Isidro Underwood" ; Times: 1
+	Query: "Anas poecilorhyncha" ; Times: 1
+	Query: "JAM 2698" ; Times: 2
+	Query: "Gallus gallus" ; Times: 2
+	Query: "specificepithet:herodias genus:ardea class:aves county:&#34;monroe&#34; stateprovince:&#34;florida&#34; sex:male basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "daphnia" ; Times: 1
+	Query: "Eudocimus albus" ; Times: 1
+	Query: "mappable:1 scientificname:Amazona ochrocephala" ; Times: 8
+	Query: "vntype:specimen genus:pandion preparations:wing institutioncode:ROM" ; Times: 1
+	Query: "genus:ABEILLIA" ; Times: 3
+	Query: "moth" ; Times: 1
+	Query: "distance(location,geopoint(-23.36384358253802,-49.5530826012379))&lt;100000" ; Times: 1
+	Query: "catalognumber:16891" ; Times: 1
+	Query: "Sterna striata" ; Times: 2
+	Query: "Himantopus mexicanus" ; Times: 1
+	Query: "Miri is" ; Times: 1
+	Query: "scientificname:Ortalis poliocephala" ; Times: 1
+	Query: "osmaston 1904" ; Times: 1
+	Query: "43096" ; Times: 1
+	Query: "Cyanochen cyanopterus" ; Times: 1
+	Query: "pandion haliaetus carolinensis" ; Times: 1
+	Query: "Phalacrocorax fuscicollis" ; Times: 1
+	Query: "wing chord specificepithet:affinis genus:Aythya continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:noveboracensis genus:Coturnicops class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "10766" ; Times: 1
+	Query: "scientificname:Streptopelia decaocto" ; Times: 1
+	Query: "scientificname:Ortalis vetula" ; Times: 1
+	Query: "cyanifrons colombia" ; Times: 1
+	Query: "crypturellus obsoletus" ; Times: 1
+	Query: "Phalacrocorax aristotelis" ; Times: 1
+	Query: "wing chord specificepithet:acuta genus:Anas continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "22692" ; Times: 1
+	Query: "Chaffanjon" ; Times: 1
+	Query: "ara maracana" ; Times: 2
+	Query: "Phalacrocorax fuscescens" ; Times: 1
+	Query: "Anas carolinensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:umbellus genus:bonasa haslifestage:1 hassex:1 hastissue:1" ; Times: 2
+	Query: "Halcyon albiventris" ; Times: 1
+	Query: "44455" ; Times: 1
+	Query: "specificepithet:bassana genus:Sula institutioncode:ROM skin" ; Times: 2
+	Query: "camel" ; Times: 4
+	Query: "wing chord specificepithet:acuta genus:Anas continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "genus:Neophema institutioncode:ROM tissue" ; Times: 2
+	Query: "scientificname:Chamaepetes unicolor" ; Times: 4
+	Query: "44356" ; Times: 2
+	Query: "Francolinus francolinus vntype:specimen country:&#34;India&#34;" ; Times: 2
+	Query: "human" ; Times: 1
+	Query: "specificepithet:australis genus:Apteryx hastissue:1" ; Times: 1
+	Query: "genus:Xiphidiopicus basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Somateria mollissima" ; Times: 1
+	Query: "scientificname:Penelope marail" ; Times: 1
+	Query: "genus:Cyanochen institutioncode:ROM" ; Times: 2
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "ROM 30246" ; Times: 1
+	Query: "Eudyptula minor" ; Times: 1
+	Query: "MR.2357" ; Times: 1
+	Query: "specificepithet:herodias genus:ardea county:&#34;monroe&#34; stateprovince:&#34;florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Calothorax pulcher" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "scientificname:Tadorna ferruginea" ; Times: 1
+	Query: "yellow-billed cuckoo" ; Times: 1
+	Query: "hassex:1 hasmass:1 zebra" ; Times: 1
+	Query: "scientificname:Accipiter nisus" ; Times: 8
+	Query: "wing chord specificepithet:sponsa genus:Aix continent:North America haslifestage:1 hassex:1" ; Times: 2
+	Query: "mappable:1 scientificname:Picoides borealis" ; Times: 3
+	Query: "vntype:specimen genus:Accipiter AND (NOT cirrocephalus NOT fasciatus NOT striatus NOT cooperii NOT novaehollandiae) year &gt;= 1990" ; Times: 1
+	Query: "Phalacrocorax sulcirostris" ; Times: 1
+	Query: "zebra sex:female hasmass:1" ; Times: 1
+	Query: "Accipiter nisus" ; Times: 2
+	Query: "specificepithet:formicivorus genus:melanerpes country:&#34;Belize&#34;" ; Times: 2
+	Query: "Larus dominicanus" ; Times: 1
+	Query: "Cygnus columbianus" ; Times: 1
+	Query: "scientificname:Aburria aburri" ; Times: 1
+	Query: "butterfly" ; Times: 1
+	Query: "Sula sula" ; Times: 1
+	Query: "Chalcophaps osmaston" ; Times: 6
+	Query: "Muticus" ; Times: 1
+	Query: "narcondam osmaston" ; Times: 19
+	Query: "vntype:specimen genus:Casuarius institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "andigena" ; Times: 1
+	Query: "genus:lophotibis institutioncode:ROM" ; Times: 1
+	Query: "narcondami 1904" ; Times: 5
+	Query: "Black Duck Ontario" ; Times: 1
+	Query: "Oreophasis derbianus" ; Times: 1
+	Query: "picoides tridactylus vntype:specimen hastissue:1" ; Times: 1
+	Query: "Pagophila eburnea" ; Times: 1
+	Query: "gallirallus hastissue:1" ; Times: 1
+	Query: "Antigone" ; Times: 1
+	Query: "Anas platyrhynchos" ; Times: 1
+	Query: "neafrapus cassini" ; Times: 2
+	Query: "wing chord specificepithet:cooperii genus:Accipiter continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "scientificname:Ortalis motmot" ; Times: 1
+	Query: "Phalacrocorax bougainvillii" ; Times: 1
+	Query: "Ispidina picta" ; Times: 1
+	Query: "ROM 112630" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "20582" ; Times: 1
+	Query: "Cladorhynchus leucocephalus" ; Times: 1
+	Query: "specificepithet:crecca genus:Anas continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "aitkin aves" ; Times: 1
+	Query: "specificepithet:georgicus genus:Pelecanoides" ; Times: 2
+	Query: "Lawas 1896" ; Times: 1
+	Query: "genus:gallinago institutioncode:ROM tissue" ; Times: 1
+	Query: "telacanthura" ; Times: 2
+	Query: "Thalasseus elegans" ; Times: 1
+	Query: "chrysocolaptes" ; Times: 1
+	Query: "melanerpes carolinus skeleton" ; Times: 1
+	Query: "Larus atricilla" ; Times: 1
+	Query: "Callonetta leucophrys" ; Times: 1
+	Query: "wing chord specificepithet:pubescens genus:Picoides continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "coeligena prunellei" ; Times: 3
+	Query: "genus:esacus institutioncode:ROM" ; Times: 1
+	Query: "0773" ; Times: 1
+	Query: "vntype:specimen specificepithet:umbellus genus:bonasa year &gt;= 1950 year &lt;= 2020 hassex:1 hastissue:1" ; Times: 3
+	Query: "apus unicolor" ; Times: 2
+	Query: "Surniculus dicruroides" ; Times: 2
+	Query: "(wisconsin clark)" ; Times: 1
+	Query: "specificepithet:albifrons genus:Sterna" ; Times: 1
+	Query: "Larus occidentalis" ; Times: 1
+	Query: "33842" ; Times: 1
+	Query: "33841" ; Times: 2
+	Query: "vntype:specimen specificepithet:virginianus genus:Bubo continent:South America" ; Times: 1
+	Query: "Tympanuchus cupido stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "specificepithet:herodias genus:ardea class:aves county:&#34;monroe&#34; stateprovince:&#34;florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Stiltia institutioncode:ROM" ; Times: 1
+	Query: "vntype:specimen specificepithet:auritus genus:phalacrocorax preparations:wing institutioncode:ROM" ; Times: 1
+	Query: "genus:coenocorypha institutioncode:ROM" ; Times: 1
+	Query: "genus:Rallus stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:microparra institutioncode:ROM tissue" ; Times: 1
+	Query: "specificepithet:cyanocephala genus:amazilia country:&#34;Belize&#34;" ; Times: 1
+	Query: "dinopium benghalense" ; Times: 5
+	Query: "Francolinus gularis vntype:specimen" ; Times: 1
+	Query: "Recurvirostra americana" ; Times: 1
+	Query: "Whitely 1883" ; Times: 2
+	Query: "wing chord specificepithet:crecca genus:Anas continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "99233" ; Times: 2
+	Query: "vntype:specimen specificepithet:marinus genus:Larus preparations:wing institutioncode:ROM" ; Times: 1
+	Query: "scientificname:Ortalis guttata" ; Times: 1
+	Query: "Histrio histrio mappable:1" ; Times: 1
+	Query: "loriculus" ; Times: 2
+	Query: "Tarapaca" ; Times: 1
+	Query: "locality:kermadec" ; Times: 1
+	Query: "Brachyramphus marmoratus" ; Times: 1
+	Query: "genus:Crinifer institutioncode:ROM" ; Times: 1
+	Query: "Rhodostethia rosea" ; Times: 1
+	Query: "UMMZ genus:Fulica" ; Times: 3
+	Query: "scientificname:Penelopina nigra" ; Times: 1
+	Query: "vntype:specimen genus:Accipiter AND (NOT striatus NOT cooperii NOT novaehollandiae) year &gt;= 1990" ; Times: 1
+	Query: "hoary marmot" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "stateprovince:&#34;Arusha&#34; continent:Africa" ; Times: 1
+	Query: "clark county wisconsin" ; Times: 1
+	Query: "37567" ; Times: 1
+	Query: "12803" ; Times: 2
+	Query: "wing chord specificepithet:cooperii genus:Accipiter continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:arctica genus:Fratercula institutioncode:ROM skeleton" ; Times: 2
+	Query: "mappable:1 scientificname:Amazona aestiva" ; Times: 11
+	Query: "specificepithet:arctica genus:Fratercula institutioncode:ROM skeleton skin" ; Times: 1
+	Query: "Phalacrocorax featherstoni" ; Times: 1
+	Query: "specificepithet:sponsa genus:Aix continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "42953" ; Times: 1
+	Query: "Recurvirostra avosetta" ; Times: 1
+	Query: "Fregetta" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 94 (out of 1521 download events in this period)
+Total number of records downloaded: 8114
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Denmark ; Times: 2
+	Country: Kenya ; Times: 1
+	Country: United States ; Times: 68
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 1
+	Date: 2020-10-08 ; Times: 2
+	Date: 2020-10-21 ; Times: 2
+	Date: 2020-10-20 ; Times: 41
+	Date: 2020-10-27 ; Times: 2
+	Date: 2020-10-26 ; Times: 1
+	Date: 2020-10-22 ; Times: 2
+	Date: 2020-10-01 ; Times: 1
+	Date: 2020-10-13 ; Times: 2
+	Date: 2020-10-10 ; Times: 1
+	Date: 2020-10-24 ; Times: 1
+	Date: 2020-10-05 ; Times: 1
+	Date: 2020-10-31 ; Times: 2
+	Date: 2020-10-07 ; Times: 3
+	Date: 2020-10-15 ; Times: 4
+	Date: 2020-10-12 ; Times: 2
+	Date: 2020-10-30 ; Times: 4
+	Date: 2020-10-14 ; Times: 9
+	Date: 2020-10-28 ; Times: 6
+	Date: 2020-10-23 ; Times: 5
+	Date: 2020-10-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Alca stateprovince:&#34;Newfoundland&#34; institutioncode:ROM" ; Times: 2
+	Query: "wing chord specificepithet:acuta genus:Anas continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:affinis genus:Aythya continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:acuta genus:Anas continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "genus:Sula stateprovince:&#34;Newfoundland&#34; institutioncode:ROM" ; Times: 1
+	Query: "wing chord specificepithet:sparverius genus:Falco continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "family:Alcidae year &gt;= 1970 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "wing chord specificepithet:macroura genus:Zenaida continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "wing chord specificepithet:striatus genus:Accipiter continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "Calothorax pulcher" ; Times: 1
+	Query: "wing chord specificepithet:acuta genus:Anas continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "wing chord specificepithet:crecca genus:Anas continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "wing chord specificepithet:sponsa genus:Aix continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "genus:gallinago haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "picoides arcticus vntype:specimen hastissue:1" ; Times: 1
+	Query: "specificepithet:striatus genus:Accipiter continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:spinosa genus:Jacana" ; Times: 1
+	Query: "specificepithet:cooperii genus:Accipiter continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "aves paraguay" ; Times: 1
+	Query: "wing chord specificepithet:canadensis genus:Branta continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "Amazona xantholora" ; Times: 1
+	Query: "genus:Oceanodroma stateprovince:&#34;Newfoundland&#34; institutioncode:ROM" ; Times: 1
+	Query: "Tympanuchus cupido stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "Euptilotis neoxenus" ; Times: 1
+	Query: "wing chord specificepithet:discors genus:Anas continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "genus:Uria stateprovince:&#34;Newfoundland&#34; institutioncode:ROM" ; Times: 1
+	Query: "picoides tridactylus vntype:specimen hastissue:1" ; Times: 1
+	Query: "wing chord specificepithet:platyrhynchos genus:Anas continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:umbellus genus:bonasa preparations:skin basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "wing chord specificepithet:sparverius genus:Falco continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "aves brazil" ; Times: 1
+	Query: "wing chord specificepithet:affinis genus:Aythya continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "specificepithet:discors genus:Anas continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "wing chord specificepithet:cooperii genus:Accipiter continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "wing chord specificepithet:sponsa genus:Aix continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Karnataka&#34; country:&#34;India&#34; year &gt;= 1750 year &lt;= 1970" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "specificepithet:platyrhynchos genus:Anas continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:coruscans genus:Colibri" ; Times: 1
+	Query: "specificepithet:crecca genus:Anas continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:cunicularia genus:athene" ; Times: 1
+	Query: "specificepithet:fimbriata genus:Amazilia" ; Times: 2
+	Query: "vntype:specimen specificepithet:umbellus genus:bonasa preparations:skin hastissue:1" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "Rallus elegans vntype:specimen stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Rhynchopsitta preparations:skeleton" ; Times: 1
+	Query: "wing chord specificepithet:pubescens genus:Picoides continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:umbellus genus:bonasa year &gt;= 1950 year &lt;= 2020 hassex:1 hastissue:1" ; Times: 1
+	Query: "vntype:specimen (birds) hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "wing chord specificepithet:canadensis genus:Branta continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:albifrons genus:Sterna" ; Times: 1
+	Query: "wing chord specificepithet:pubescens genus:Picoides continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "specificepithet:canadensis genus:Branta continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:macroura genus:Zenaida continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "aitkin aves minnesota" ; Times: 1
+	Query: "wing chord specificepithet:striatus genus:Accipiter continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "class:Aves country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "vntype:specimen order:Coraciiformes" ; Times: 1
+	Query: "vntype:specimen specificepithet:habroptilus genus:strigops" ; Times: 1
+	Query: "genus:Rallus stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Fratercula stateprovince:&#34;Newfoundland&#34; institutioncode:ROM" ; Times: 1
+	Query: "Francolinus gularis vntype:specimen" ; Times: 1
+	Query: "wing chord specificepithet:platyrhynchos genus:Anas continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "wing chord specificepithet:macroura genus:Zenaida continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "wing chord specificepithet:discors genus:Anas continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "vntype:specimen family:Ramphastidae" ; Times: 1
+	Query: "wing chord specificepithet:crecca genus:Anas continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "genus:Melanerpes aurifrons country:&#34;México&#34;" ; Times: 1
+	Query: "specificepithet:sparverius genus:Falco continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "genus:Melanerpes country:&#34;México&#34;" ; Times: 2
+	Query: "class:Aves country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "wing chord specificepithet:affinis genus:Aythya continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Dromaiidae" ; Times: 1
+	Query: "Egretta garzetta" ; Times: 1
+	Query: "aves bolivia" ; Times: 1
+	Query: "crypturellus obsoletus" ; Times: 2
+	Query: "vntype:specimen family:Bucerotidae" ; Times: 1
+	Query: "genus:Odontophorus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "wing chord specificepithet:cooperii genus:Accipiter continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "daphne" ; Times: 1
+	Query: "specificepithet:hyacinthinus genus:Anodorhynchus" ; Times: 1
+	Query: "specificepithet:sponsa genus:Aix continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:pubescens genus:Picoides continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+
+
+End of report.
