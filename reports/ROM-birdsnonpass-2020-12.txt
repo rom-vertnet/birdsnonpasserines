@@ -1,0 +1,783 @@
+Report for Institution Code ROM, Resource birdsnonpass
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 998
+Number of records retrieved in searches: 10481
+Number of different countries where searches have been originated: 31
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 43
+	Country: Canada ; Times: 31
+	Country: Italy ; Times: 2
+	Country: Unknown ; Times: 272
+	Country: Costa Rica ; Times: 2
+	Country: France ; Times: 16
+	Country: Peru ; Times: 7
+	Country: Argentina ; Times: 1
+	Country: Bolivia ; Times: 2
+	Country: Ecuador ; Times: 1
+	Country: Saudi Arabia ; Times: 1
+	Country: Australia ; Times: 5
+	Country: Singapore ; Times: 3
+	Country: Czechia ; Times: 1
+	Country: Jordan ; Times: 4
+	Country: Belgium ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Spain ; Times: 2
+	Country: Netherlands ; Times: 6
+	Country: Denmark ; Times: 2
+	Country: Turkey ; Times: 10
+	Country: United States ; Times: 454
+	Country: Vietnam ; Times: 2
+	Country: Switzerland ; Times: 1
+	Country: Bulgaria ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Cuba ; Times: 1
+	Country: India ; Times: 5
+	Country: United Kingdom ; Times: 100
+	Country: Colombia ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-30 ; Times: 10
+	Date: 2020-12-31 ; Times: 8
+	Date: 2020-12-09 ; Times: 4
+	Date: 2020-12-08 ; Times: 42
+	Date: 2020-12-07 ; Times: 19
+	Date: 2020-12-06 ; Times: 36
+	Date: 2020-12-05 ; Times: 27
+	Date: 2020-12-04 ; Times: 82
+	Date: 2020-12-03 ; Times: 28
+	Date: 2020-12-02 ; Times: 34
+	Date: 2020-12-01 ; Times: 34
+	Date: 2020-12-25 ; Times: 18
+	Date: 2020-12-24 ; Times: 13
+	Date: 2020-12-27 ; Times: 2
+	Date: 2020-12-21 ; Times: 42
+	Date: 2020-12-20 ; Times: 14
+	Date: 2020-12-23 ; Times: 37
+	Date: 2020-12-22 ; Times: 81
+	Date: 2020-12-29 ; Times: 15
+	Date: 2020-12-28 ; Times: 4
+	Date: 2020-12-18 ; Times: 52
+	Date: 2020-12-19 ; Times: 8
+	Date: 2020-12-10 ; Times: 22
+	Date: 2020-12-11 ; Times: 224
+	Date: 2020-12-12 ; Times: 32
+	Date: 2020-12-13 ; Times: 43
+	Date: 2020-12-14 ; Times: 15
+	Date: 2020-12-15 ; Times: 23
+	Date: 2020-12-16 ; Times: 13
+	Date: 2020-12-17 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "Anser fabalis" ; Times: 1
+	Query: "Numenius borealis" ; Times: 1
+	Query: "Columba argentina" ; Times: 1
+	Query: "mappable:1 scientificname:Colaptes campestris" ; Times: 1
+	Query: "ROM 157255" ; Times: 2
+	Query: "Podilymbus podiceps" ; Times: 1
+	Query: "ROM 128856" ; Times: 2
+	Query: "mappable:1 scientificname:Accipiter superciliosus" ; Times: 3
+	Query: "Aechmophorus occidentalis" ; Times: 1
+	Query: "crayfish" ; Times: 1
+	Query: "mappable:1 scientificname:Leptotila rufaxilla" ; Times: 1
+	Query: "specificepithet:longirostris class:aves hastypestatus:1" ; Times: 1
+	Query: "country:&#34;us virgin islands&#34;" ; Times: 1
+	Query: "26573" ; Times: 1
+	Query: "mappable:1 scientificname:Forpus xanthopterygius" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "ROM 115678" ; Times: 2
+	Query: "mappable:1 scientificname:Arenaria interpres" ; Times: 3
+	Query: "ROM 156898" ; Times: 2
+	Query: "Buteo jamaicensis harlani" ; Times: 2
+	Query: "ROM 144107" ; Times: 2
+	Query: "milvus milvus" ; Times: 1
+	Query: "148600" ; Times: 1
+	Query: "D. novaeguineae" ; Times: 1
+	Query: "mappable:1 scientificname:Trogon collaris" ; Times: 1
+	Query: "mappable:1 scientificname:Aphantochroa cirrochloris" ; Times: 3
+	Query: "Campephilus principalis" ; Times: 1
+	Query: "class:Aves country:&#34;Costa Rica&#34; institutioncode:ROM" ; Times: 3
+	Query: "ROM 123067" ; Times: 2
+	Query: "class:aves country:Brazil" ; Times: 1
+	Query: "ROM 118045" ; Times: 3
+	Query: "eremita" ; Times: 1
+	Query: "mappable:1 scientificname:Nycticorax nycticorax" ; Times: 2
+	Query: "Touit" ; Times: 1
+	Query: "genus:Chauna institutioncode:ROM" ; Times: 1
+	Query: "mappable:1 scientificname:Glaucidium brasilianum" ; Times: 2
+	Query: "1913 Philippines" ; Times: 1
+	Query: "ROM 156978" ; Times: 2
+	Query: "ROM 114393" ; Times: 2
+	Query: "Puffinus griseus" ; Times: 1
+	Query: "37189" ; Times: 1
+	Query: "mappable:1 scientificname:Amazilia fimbriata" ; Times: 2
+	Query: "ROM 158349" ; Times: 2
+	Query: "ROM 156972" ; Times: 3
+	Query: "Geoffroyus geoffroyi" ; Times: 1
+	Query: "sangirensis Tanygnathus" ; Times: 1
+	Query: "class:Aves country:Brazil" ; Times: 1
+	Query: "Anhinga melanogaster" ; Times: 1
+	Query: "ROM 128919" ; Times: 2
+	Query: "Apus barbatus" ; Times: 2
+	Query: "aves cyprus ridibundus" ; Times: 2
+	Query: "1879 Bengal" ; Times: 1
+	Query: "catalognumber:35902 institutioncode:ROM" ; Times: 1
+	Query: "Columba jouyi" ; Times: 2
+	Query: "skeleton genus:pelecanus institutioncode:ROM onocrotalus" ; Times: 1
+	Query: "Chrysolophus pictus" ; Times: 2
+	Query: "Apus melba" ; Times: 1
+	Query: "71718" ; Times: 1
+	Query: "mappable:1 scientificname:Eupetomena macroura" ; Times: 1
+	Query: "80614" ; Times: 1
+	Query: "Streptopelia orientalis" ; Times: 1
+	Query: "148267" ; Times: 1
+	Query: "mappable:1 scientificname:Tapera naevia" ; Times: 1
+	Query: "porzana parva" ; Times: 1
+	Query: "17310" ; Times: 1
+	Query: "Axis axis" ; Times: 1
+	Query: "institutioncode:ROM class:aves 2445" ; Times: 1
+	Query: "mappable:1 scientificname:Leucochloris albicollis" ; Times: 1
+	Query: "mappable:1 scientificname:Chloroceryle americana" ; Times: 1
+	Query: "tinamidae" ; Times: 1
+	Query: "scientificname:Buceros rhinoceros" ; Times: 1
+	Query: "specificepithet:ruber genus:Phoenicopterus hastissue:1" ; Times: 3
+	Query: "mappable:1 scientificname:Jabiru mycteria" ; Times: 1
+	Query: "mappable:1 scientificname:Crypturellus variegatus" ; Times: 3
+	Query: "mappable:1 scientificname:Pyrrhura leucotis" ; Times: 2
+	Query: "witch" ; Times: 2
+	Query: "white tail deer" ; Times: 4
+	Query: "genus:Pluvianellus" ; Times: 1
+	Query: "mappable:1 scientificname:Cathartes burrovianus" ; Times: 1
+	Query: "ROM 122588" ; Times: 2
+	Query: "genus:pterocles institutioncode:ROM" ; Times: 2
+	Query: "ROM 158379" ; Times: 2
+	Query: "mappable:1 scientificname:Cochlearius cochlearius" ; Times: 1
+	Query: "42634" ; Times: 1
+	Query: "mappable:1 scientificname:Campephilus robustus" ; Times: 2
+	Query: "mappable:1 scientificname:Accipiter poliogaster" ; Times: 2
+	Query: "ROM 158372" ; Times: 2
+	Query: "27650" ; Times: 1
+	Query: "mappable:1 scientificname:Amazona amazonica" ; Times: 2
+	Query: "mappable:1 scientificname:Ardea alba" ; Times: 1
+	Query: "145506" ; Times: 1
+	Query: "mappable:1 scientificname:Crypturellus tataupa" ; Times: 1
+	Query: "ROM 122461" ; Times: 2
+	Query: "ROM 127514" ; Times: 2
+	Query: "Kuwait" ; Times: 4
+	Query: "Balaenicipitidae institutioncode:ROM" ; Times: 2
+	Query: "mappable:1 scientificname:Cariama cristata" ; Times: 2
+	Query: "ROM 159579" ; Times: 2
+	Query: "treron capellei" ; Times: 1
+	Query: "mappable:1 scientificname:Lurocalis semitorquatus" ; Times: 1
+	Query: "ROM 159573" ; Times: 2
+	Query: "ROM 159572" ; Times: 2
+	Query: "ROM 11951" ; Times: 2
+	Query: "Branta canadensis" ; Times: 1
+	Query: "21726" ; Times: 1
+	Query: "Columba trocaz" ; Times: 1
+	Query: "catalognumber:157531" ; Times: 1
+	Query: "mappable:1 scientificname:Elanoides forficatus" ; Times: 1
+	Query: "mappable:1 scientificname:Caprimulgus longirostris" ; Times: 1
+	Query: "G. M. Sutton" ; Times: 2
+	Query: "caprimulgus inornatus" ; Times: 1
+	Query: "mappable:1 scientificname:Aegolius harrisii" ; Times: 14
+	Query: "ROM 118653" ; Times: 2
+	Query: "mappable:1 scientificname:Dendrocygna bicolor" ; Times: 1
+	Query: "specificepithet:lomvia genus:uria institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:tectus genus:Notharchus" ; Times: 1
+	Query: "mappable:1 scientificname:Pteroglossus aracari" ; Times: 1
+	Query: "Buteo platypterus" ; Times: 1
+	Query: "Crypturellus cinnamomeus" ; Times: 1
+	Query: "mappable:1 scientificname:Clytolaema rubricauda" ; Times: 1
+	Query: "mappable:1 scientificname:Coragyps atratus" ; Times: 1
+	Query: "Campephilus imperialis" ; Times: 1
+	Query: "mappable:1 scientificname:Anhinga anhinga" ; Times: 4
+	Query: "ROM 144101" ; Times: 2
+	Query: "mappable:1 scientificname:Charadrius wilsonia" ; Times: 1
+	Query: "39031" ; Times: 1
+	Query: "mappable:1 scientificname:Ardea cocoi" ; Times: 3
+	Query: "frogs" ; Times: 1
+	Query: "mappable:1 scientificname:Egretta caerulea" ; Times: 1
+	Query: "specificepithet:chilensis genus:Vanellus institutioncode:ROM" ; Times: 1
+	Query: "ROM 141502" ; Times: 2
+	Query: "Cacatua pastinator preparations:skin" ; Times: 1
+	Query: "specificepithet:lomvia genus:uria stateprovince:&#34;labrador&#34; institutioncode:ROM" ; Times: 1
+	Query: "vntype:specimen class:AVES recordedby:Murphy year &gt;= 1910 year &lt;= 1920" ; Times: 1
+	Query: "mappable:1 scientificname:Chaetura meridionalis" ; Times: 1
+	Query: "Alcedo atthis" ; Times: 2
+	Query: "class:aves country:&#34;Saudi Arabia&#34; continent:asia" ; Times: 1
+	Query: "mappable:1 scientificname:Nyctibius griseus" ; Times: 1
+	Query: "ROM 156844" ; Times: 2
+	Query: "ROM 116435" ; Times: 2
+	Query: "Forpus passerinus preparations:skin" ; Times: 1
+	Query: "peregrine" ; Times: 1
+	Query: "mappable:1 scientificname:Phaethornis malaris" ; Times: 1
+	Query: "mappable:1 scientificname:Herpetotheres cachinnans" ; Times: 1
+	Query: "Anas formosa" ; Times: 2
+	Query: "alcedo atthis" ; Times: 1
+	Query: "mappable:1 scientificname:Columbina talpacoti" ; Times: 1
+	Query: "Clamator glandarius" ; Times: 1
+	Query: "ROM 155330" ; Times: 2
+	Query: "specificepithet:viridigenalis genus:amazona year &lt;= 1960" ; Times: 1
+	Query: "12880" ; Times: 1
+	Query: "ROM 151467" ; Times: 2
+	Query: "vntype:specimen specificepithet:lamelligerus genus:anastomus" ; Times: 1
+	Query: "150729" ; Times: 1
+	Query: "mappable:1 scientificname:Ixobrychus exilis" ; Times: 2
+	Query: "Columba elphinstonii" ; Times: 2
+	Query: "148297" ; Times: 1
+	Query: "135395" ; Times: 1
+	Query: "ROM 15084" ; Times: 2
+	Query: "135396" ; Times: 1
+	Query: "148357" ; Times: 1
+	Query: "mappable:1 scientificname:Claravis pretiosa" ; Times: 1
+	Query: "mappable:1 scientificname:Neocrex erythrops" ; Times: 1
+	Query: "mappable:1 scientificname:Crypturellus obsoletus" ; Times: 2
+	Query: "ROM 150964" ; Times: 2
+	Query: "wolves" ; Times: 4
+	Query: "Zoologisk Museum" ; Times: 1
+	Query: "Cypsiurus parvus" ; Times: 1
+	Query: "41264" ; Times: 1
+	Query: "mappable:1 scientificname:Rynchops niger" ; Times: 2
+	Query: "genus:uria stateprovince:&#34;newfoundland&#34; country:&#34;canada&#34;" ; Times: 1
+	Query: "mallard" ; Times: 2
+	Query: "ROM 76529" ; Times: 2
+	Query: "Amazona oratrix" ; Times: 1
+	Query: "mappable:1 scientificname:Chondrohierax uncinatus" ; Times: 1
+	Query: "mappable:1 scientificname:Thalurania glaucopis" ; Times: 1
+	Query: "ROM 122612" ; Times: 2
+	Query: "mappable:1 scientificname:Panyptila cayennensis" ; Times: 1
+	Query: "ROM 122635" ; Times: 2
+	Query: "ROM 122636" ; Times: 2
+	Query: "ROM 129623" ; Times: 2
+	Query: "ROM 129620" ; Times: 2
+	Query: "ROM 129621" ; Times: 2
+	Query: "36800" ; Times: 1
+	Query: "Cacatua tenuirostris preparations:skin sex:female" ; Times: 1
+	Query: "ROM 127323" ; Times: 2
+	Query: "mappable:1 scientificname:Zenaida auriculata" ; Times: 1
+	Query: "Anas bahamensis" ; Times: 1
+	Query: "mappable:1 scientificname:Morphnus guianensis" ; Times: 2
+	Query: "ROM 144605" ; Times: 2
+	Query: "Rallus tenuirostris" ; Times: 1
+	Query: "mappable:1 scientificname:Larus dominicanus" ; Times: 1
+	Query: "mappable:1 scientificname:Cathartes aura" ; Times: 2
+	Query: "mappable:1 scientificname:Trogon curucui" ; Times: 1
+	Query: "14840" ; Times: 1
+	Query: "mappable:1 scientificname:Nystalus maculatus" ; Times: 1
+	Query: "mappable:1 scientificname:Penelope superciliaris" ; Times: 2
+	Query: "26360" ; Times: 1
+	Query: "mappable:1 scientificname:Celeus flavus" ; Times: 2
+	Query: "ROM 150380" ; Times: 2
+	Query: "mappable:1 scientificname:Falco femoralis" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "Chaetura fumosa" ; Times: 1
+	Query: "ROM 156970" ; Times: 2
+	Query: "ROM 157621" ; Times: 2
+	Query: "Leucopternis melanops" ; Times: 1
+	Query: "sterna paradisaea 1931" ; Times: 1
+	Query: "Columba palumboides" ; Times: 2
+	Query: "vntype:specimen specificepithet:cinnamomeus genus:Crypturellus year &gt;= 1960" ; Times: 1
+	Query: "ROM 123070" ; Times: 2
+	Query: "mappable:1 scientificname:Anthracothorax nigricollis" ; Times: 2
+	Query: "amazona imperialis" ; Times: 2
+	Query: "Cygnus atratus" ; Times: 1
+	Query: "Calonectris diomedea" ; Times: 1
+	Query: "Apus niansae" ; Times: 2
+	Query: "mappable:1 scientificname:Chelidoptera tenebrosa" ; Times: 2
+	Query: "Todus angustirostris" ; Times: 1
+	Query: "30561" ; Times: 1
+	Query: "mappable:1 scientificname:Caprimulgus rufus" ; Times: 1
+	Query: "ROM 156964" ; Times: 2
+	Query: "Caprimulgus europaeus" ; Times: 3
+	Query: "mappable:1 scientificname:Piculus flavigula" ; Times: 2
+	Query: "Pluvianus aegyptius" ; Times: 1
+	Query: "mappable:1 scientificname:Heliomaster squamosus" ; Times: 2
+	Query: "mappable:1 scientificname:Buteo albonotatus" ; Times: 1
+	Query: "mappable:1 scientificname:Rhea americana" ; Times: 1
+	Query: "mappable:1 scientificname:Nystalus chacuru" ; Times: 1
+	Query: "148856" ; Times: 1
+	Query: "148855" ; Times: 1
+	Query: "specificepithet:longirostris hastypestatus:1" ; Times: 1
+	Query: "ROM 150523" ; Times: 2
+	Query: "mappable:1 scientificname:Rallus longirostris" ; Times: 2
+	Query: "Anser indicus" ; Times: 1
+	Query: "24209" ; Times: 1
+	Query: "Haliaeetus pelagicus" ; Times: 1
+	Query: "mappable:1 scientificname:Columbina minuta" ; Times: 2
+	Query: "43687" ; Times: 1
+	Query: "Anser albifrons" ; Times: 1
+	Query: "Nothoprocta curvirostris" ; Times: 3
+	Query: "A.D. Henderson" ; Times: 9
+	Query: "Amazona autumnalis" ; Times: 3
+	Query: "Edward Arnold" ; Times: 3
+	Query: "ROM 102518" ; Times: 2
+	Query: "mappable:1 scientificname:Phaethornis eurynome" ; Times: 1
+	Query: "Apus pacificus" ; Times: 2
+	Query: "picoides sitkensis" ; Times: 1
+	Query: "ROM 153422" ; Times: 2
+	Query: "Columba oenas" ; Times: 1
+	Query: "specificepithet:ruber genus:Phoenicopterus" ; Times: 6
+	Query: "ROM 150453" ; Times: 2
+	Query: "mappable:1 scientificname:Anhima cornuta" ; Times: 3
+	Query: "ROM 129581" ; Times: 2
+	Query: "genus:coturnicops hastissue:1" ; Times: 3
+	Query: "ROM 158366" ; Times: 2
+	Query: "Haematopus ater" ; Times: 1
+	Query: "hawks" ; Times: 1
+	Query: "mappable:1 scientificname:Ciccaba virgata" ; Times: 1
+	Query: "ROM 158360" ; Times: 2
+	Query: "mappable:1 scientificname:Chloroceryle amazona" ; Times: 1
+	Query: "mappable:1 scientificname:Chlorestes notatus" ; Times: 1
+	Query: "specificepithet:viridigenalis genus:amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "distance(location,geopoint(9.787182864406194,-83.68731570306986))&lt;5995" ; Times: 1
+	Query: "mappable:1 scientificname:Tigrisoma lineatum" ; Times: 1
+	Query: "melanotus" ; Times: 1
+	Query: "emmae" ; Times: 1
+	Query: "mappable:1 scientificname:Charadrius collaris" ; Times: 1
+	Query: "institutioncode:ROM" ; Times: 1
+	Query: "Heliodoxa-jacula" ; Times: 1
+	Query: "145499" ; Times: 1
+	Query: "ROM 91342" ; Times: 2
+	Query: "mappable:1 scientificname:Crotophaga major" ; Times: 1
+	Query: "145496" ; Times: 4
+	Query: "Branta bernicla" ; Times: 1
+	Query: "mappable:1 scientificname:Nonnula rubecula" ; Times: 1
+	Query: "mappable:1 scientificname:Thalurania furcata" ; Times: 1
+	Query: "mappable:1 scientificname:Glaucidium minutissimum" ; Times: 1
+	Query: "Columba rupestris" ; Times: 1
+	Query: "35966" ; Times: 1
+	Query: "mappable:1 scientificname:Selenidera maculirostris" ; Times: 1
+	Query: "mappable:1 scientificname:Pyrrhura frontalis" ; Times: 1
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "mappable:1 scientificname:Botaurus pinnatus" ; Times: 2
+	Query: "pezoporus flaviventris" ; Times: 2
+	Query: "mappable:1 scientificname:Phimosus infuscatus" ; Times: 1
+	Query: "COlumbina picui" ; Times: 1
+	Query: "2342 institutioncode:ROM class:aves" ; Times: 1
+	Query: "genus:Pluvianellus institutioncode:ROM" ; Times: 1
+	Query: "mappable:1 scientificname:Parabuteo unicinctus" ; Times: 1
+	Query: "mappable:1 scientificname:Geotrygon montana" ; Times: 1
+	Query: "catalognumber:102991 institutioncode:ROM" ; Times: 1
+	Query: "scientificname:Brama brama" ; Times: 1
+	Query: "ROM 122594" ; Times: 2
+	Query: "Saurothera andria" ; Times: 2
+	Query: "ROM 122452" ; Times: 2
+	Query: "mappable:1 scientificname:Picumnus cirratus" ; Times: 1
+	Query: "mappable:1 scientificname:Chordeiles acutipennis" ; Times: 2
+	Query: "148747" ; Times: 2
+	Query: "basisofrecord:PreservedSpecimen mappable:1 scientificname:Aegolius harrisii" ; Times: 10
+	Query: "catalognumber:43327 institutioncode:ROM" ; Times: 1
+	Query: "mappable:1 scientificname:Veniliornis passerinus" ; Times: 1
+	Query: "Puffinus gravis" ; Times: 1
+	Query: "Aegypius monachus" ; Times: 1
+	Query: "mappable:1 scientificname:Micrastur ruficollis" ; Times: 1
+	Query: "maynard class:aves country:&#34;bahamas&#34;" ; Times: 1
+	Query: "ROM 116397" ; Times: 2
+	Query: "mappable:1 scientificname:Busarellus nigricollis" ; Times: 1
+	Query: "ROM 156882" ; Times: 2
+	Query: "149465" ; Times: 1
+	Query: "67116" ; Times: 1
+	Query: "otis tarda" ; Times: 1
+	Query: "family:Tinamidae country:&#34;Argentina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Haematopus bachmani" ; Times: 1
+	Query: "Haliaeetus albicilla" ; Times: 1
+	Query: "skeleton Scopus institutioncode:ROM" ; Times: 1
+	Query: "34899" ; Times: 2
+	Query: "mappable:1 scientificname:Leptotila verreauxi" ; Times: 1
+	Query: "Nothocercus bonapartei" ; Times: 1
+	Query: "genus:uria country:&#34;canada&#34;" ; Times: 1
+	Query: "149503" ; Times: 1
+	Query: "mappable:1 scientificname:Cairina moschata" ; Times: 1
+	Query: "ROM 117587" ; Times: 2
+	Query: "Touit vntype:specimen" ; Times: 1
+	Query: "catalognumber:44169 institutioncode:ROM" ; Times: 2
+	Query: "aves cyprus larus" ; Times: 2
+	Query: "mappable:1 scientificname:Heliornis fulica" ; Times: 1
+	Query: "mappable:1 scientificname:Aratinga solstitialis" ; Times: 2
+	Query: "Tachybaptus novaehollandiae" ; Times: 2
+	Query: "mappable:1 scientificname:Anas bahamensis" ; Times: 2
+	Query: "mappable:1 scientificname:Amaurolimnas concolor" ; Times: 3
+	Query: "ROM 137169" ; Times: 2
+	Query: "mappable:1 scientificname:Aramides cajanea" ; Times: 1
+	Query: "gyps fulvus" ; Times: 2
+	Query: "mappable:1 scientificname:Chrysolampis mosquitus" ; Times: 1
+	Query: "Cygnus olor" ; Times: 1
+	Query: "genus:Saurothera locality:andros" ; Times: 1
+	Query: "specificepithet:cheriway genus:polyborus" ; Times: 1
+	Query: "Anas strepera" ; Times: 1
+	Query: "mappable:1 scientificname:Brotogeris chiriri" ; Times: 1
+	Query: "Raphidura leucopygialis" ; Times: 2
+	Query: "mappable:1 scientificname:Anous stolidus" ; Times: 1
+	Query: "Apus affinis" ; Times: 1
+	Query: "Pelecanus occidentalis" ; Times: 1
+	Query: "ROM 79406" ; Times: 2
+	Query: "Anas falcata" ; Times: 2
+	Query: "ROM 91533" ; Times: 2
+	Query: "ROM 35605" ; Times: 1
+	Query: "India Museum 1879" ; Times: 1
+	Query: "ROM 136248" ; Times: 2
+	Query: "Phaetusa simplex" ; Times: 1
+	Query: "mappable:1 scientificname:Chloroceryle inda" ; Times: 3
+	Query: "soemmerringii" ; Times: 1
+	Query: "evolution" ; Times: 1
+	Query: "ROM 123861" ; Times: 2
+	Query: "mappable:1 scientificname:Gallinago paraguaiae" ; Times: 1
+	Query: "ROM 122621" ; Times: 2
+	Query: "Branta sandvicensis" ; Times: 1
+	Query: "ROM 114769" ; Times: 2
+	Query: "mappable:1 scientificname:Crypturellus parvirostris" ; Times: 1
+	Query: "Picus viridis" ; Times: 1
+	Query: "ROM 158356" ; Times: 2
+	Query: "mappable:1 scientificname:Aburria jacutinga" ; Times: 2
+	Query: "ROM 158353" ; Times: 1
+	Query: "pterodroma brevipes" ; Times: 5
+	Query: "145528" ; Times: 2
+	Query: "mappable:1 scientificname:Nyctibius grandis" ; Times: 1
+	Query: "aves larus cyprus" ; Times: 1
+	Query: "Spilornis cheela" ; Times: 1
+	Query: "mappable:1 scientificname:Dendrocygna viduata" ; Times: 1
+	Query: "Buteo lineatus" ; Times: 1
+	Query: "mappable:1 scientificname:Nyctanassa violacea" ; Times: 1
+	Query: "Fulica americana" ; Times: 1
+	Query: "aves anser cyprus" ; Times: 1
+	Query: "halcyon smyrnensis" ; Times: 1
+	Query: "159927" ; Times: 1
+	Query: "ammoperdix griseogularis" ; Times: 3
+	Query: "mappable:1 scientificname:Vanellus cayanus" ; Times: 1
+	Query: "82425" ; Times: 1
+	Query: "mappable:1 scientificname:Accipiter erythronemius" ; Times: 2
+	Query: "Pterodroma cahow vntype:specimen" ; Times: 2
+	Query: "Pelecanus thagus" ; Times: 1
+	Query: "macronectes" ; Times: 1
+	Query: "ROM Vanellus tricolor" ; Times: 1
+	Query: "Buteo polyosoma" ; Times: 1
+	Query: "ROM 149448" ; Times: 2
+	Query: "mappable:1 scientificname:Mesembrinibis cayennensis" ; Times: 1
+	Query: "ROM 122711" ; Times: 2
+	Query: "ROM 122710" ; Times: 2
+	Query: "mappable:1 scientificname:Amazilia versicolor" ; Times: 3
+	Query: "vntype:specimen class:AVES locality:Ann Arbor year &gt;= 1920 year &lt;= 1930" ; Times: 1
+	Query: "mappable:1 scientificname:Laterallus melanophaius" ; Times: 1
+	Query: "mappable:1 scientificname:Pionus maximiliani" ; Times: 1
+	Query: "mappable:1 scientificname:Harpia harpyja" ; Times: 2
+	Query: "ROM 152134" ; Times: 2
+	Query: "ROM 146618" ; Times: 2
+	Query: "Todus todus" ; Times: 1
+	Query: "Ephippiorhynchus senegalensis vntype:specimen" ; Times: 1
+	Query: "Nyctibius jamaicensis" ; Times: 1
+	Query: "mappable:1 scientificname:Hylocharis cyanus" ; Times: 1
+	Query: "vntype:specimen specificepithet:ruber genus:Phoenicopterus" ; Times: 1
+	Query: "catalognumber:40151 institutioncode:ROM" ; Times: 2
+	Query: "mappable:1 scientificname:Columbina passerina" ; Times: 2
+	Query: "mappable:1 scientificname:Celeus flavescens" ; Times: 3
+	Query: "Anser anser" ; Times: 1
+	Query: "ROM 136309" ; Times: 2
+	Query: "mappable:1 scientificname:Colaptes melanochloros" ; Times: 1
+	Query: "ROM 137943" ; Times: 3
+	Query: "11296" ; Times: 1
+	Query: "mappable:1 scientificname:Piculus chrysochloros" ; Times: 1
+	Query: "mappable:1 scientificname:Podilymbus podiceps" ; Times: 2
+	Query: "23496" ; Times: 1
+	Query: "mappable:1 scientificname:Melanerpes candidus" ; Times: 1
+	Query: "Apus unicolor" ; Times: 2
+	Query: "mappable:1 scientificname:Aratinga auricapillus" ; Times: 4
+	Query: "41740" ; Times: 1
+	Query: "mappable:1 scientificname:Phaethornis ruber" ; Times: 1
+	Query: "11352 institutioncode:ROM class:aves" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 7
+	Query: "mappable:1 scientificname:Pardirallus maculatus" ; Times: 1
+	Query: "ROM Rhinoptilus cinctus" ; Times: 1
+	Query: "Pterodroma hasitata vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "mappable:1 scientificname:Picumnus pygmaeus" ; Times: 2
+	Query: "sangirensis" ; Times: 1
+	Query: "mappable:1 scientificname:Netta erythrophthalma" ; Times: 1
+	Query: "imperialis" ; Times: 1
+	Query: "114232" ; Times: 1
+	Query: "Anas poecilorhyncha" ; Times: 2
+	Query: "potsdam" ; Times: 1
+	Query: "Egretta intermedia" ; Times: 1
+	Query: "Gallus gallus" ; Times: 1
+	Query: "colaptes auratus x cafer" ; Times: 4
+	Query: "118252" ; Times: 1
+	Query: "ROM 146877" ; Times: 2
+	Query: "lesbia nuna" ; Times: 1
+	Query: "ROM 158391" ; Times: 2
+	Query: "mappable:1 scientificname:Veniliornis maculifrons" ; Times: 1
+	Query: "mappable:1 scientificname:Aratinga aurea" ; Times: 2
+	Query: "mappable:1 scientificname:Jacamaralcyon tridactyla" ; Times: 2
+	Query: "mappable:1 scientificname:Amazona ochrocephala" ; Times: 2
+	Query: "35101" ; Times: 1
+	Query: "Apus horus" ; Times: 1
+	Query: "mappable:1 scientificname:Harpagus bidentatus" ; Times: 1
+	Query: "mappable:1 scientificname:Buteo brachyurus" ; Times: 1
+	Query: "mappable:1 scientificname:Piaya cayana" ; Times: 2
+	Query: "mappable:1 scientificname:Monasa morphoeus" ; Times: 1
+	Query: "ROM 39389" ; Times: 1
+	Query: "Sula leucogaster" ; Times: 1
+	Query: "Cyanochen cyanopterus" ; Times: 3
+	Query: "Pharomachrus auriceps" ; Times: 1
+	Query: "tricholaema ruahae" ; Times: 1
+	Query: "mappable:1 scientificname:Coccyzus melacoryphus" ; Times: 1
+	Query: "91897" ; Times: 2
+	Query: "family:Trochilidae preparations:wing" ; Times: 1
+	Query: "mappable:1 scientificname:Elanus leucurus" ; Times: 1
+	Query: "ROM 157287" ; Times: 2
+	Query: "Apus apus" ; Times: 1
+	Query: "ROM 157280" ; Times: 2
+	Query: "Amazona autumnalis vntype:specimen" ; Times: 2
+	Query: "ROM 122613" ; Times: 2
+	Query: "genus:numenius class:aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "mappable:1 scientificname:Nothura maculosa" ; Times: 1
+	Query: "Pyrrhura picta" ; Times: 1
+	Query: "mappable:1 scientificname:Baryphthengus ruficapillus" ; Times: 2
+	Query: "mappable:1 scientificname:Amazilia leucogaster" ; Times: 3
+	Query: "mappable:1 scientificname:Trogon viridis" ; Times: 1
+	Query: "aves glareola pratincola" ; Times: 1
+	Query: "ROM 128902" ; Times: 2
+	Query: "Numenius tenuirostris" ; Times: 1
+	Query: "Larus vegae" ; Times: 1
+	Query: "mappable:1 scientificname:Micrastur semitorquatus" ; Times: 1
+	Query: "ROM 119860" ; Times: 2
+	Query: "ROM 119866" ; Times: 2
+	Query: "mappable:1 scientificname:Trogon rufus" ; Times: 1
+	Query: "41856" ; Times: 1
+	Query: "mappable:1 scientificname:Geranospiza caerulescens" ; Times: 1
+	Query: "92027" ; Times: 1
+	Query: "11258" ; Times: 1
+	Query: "Steatornis caripensis" ; Times: 1
+	Query: "mappable:1 scientificname:Melanerpes flavifrons" ; Times: 1
+	Query: "Black Bear" ; Times: 1
+	Query: "Aegolius harrisii" ; Times: 12
+	Query: "catalognumber:34159 institutioncode:ROM" ; Times: 2
+	Query: "ROM 156883" ; Times: 2
+	Query: "mappable:1 scientificname:Amazonetta brasiliensis" ; Times: 3
+	Query: "ROM 156886" ; Times: 2
+	Query: "Anas carolinensis" ; Times: 1
+	Query: "quercus" ; Times: 1
+	Query: "specificepithet:lamelligerus genus:anastomus" ; Times: 1
+	Query: "ROM 152163" ; Times: 2
+	Query: "genus:coturnicops country:&#34;canada&#34;" ; Times: 1
+	Query: "148207" ; Times: 1
+	Query: "148205" ; Times: 1
+	Query: "mappable:1 scientificname:Rostrhamus sociabilis" ; Times: 1
+	Query: "Somateria mollissima" ; Times: 1
+	Query: "Tarrant County" ; Times: 5
+	Query: "mappable:1 scientificname:Phaethornis squalidus" ; Times: 2
+	Query: "mappable:1 scientificname:Picumnus exilis" ; Times: 2
+	Query: "ROM 156945" ; Times: 2
+	Query: "ROM 159634" ; Times: 2
+	Query: "family:Tinamidae country:&#34;Bolivia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ROM 159633" ; Times: 2
+	Query: "mappable:1 scientificname:Colibri serrirostris" ; Times: 2
+	Query: "ROM 156942" ; Times: 2
+	Query: "eggs vntype:specimen (Ontario) institutioncode:ROM distance(location,geopoint(44.10816899118461,-78.28125))&lt;100000" ; Times: 2
+	Query: "limosa haemastica" ; Times: 4
+	Query: "Apus pallidus" ; Times: 1
+	Query: "ROM 125713" ; Times: 2
+	Query: "Columba junoniae" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "mappable:1 scientificname:Phaetusa simplex" ; Times: 1
+	Query: "mappable:1 scientificname:Dromococcyx phasianellus" ; Times: 1
+	Query: "ROM 28638" ; Times: 1
+	Query: "mappable:1 scientificname:Vanellus chilensis" ; Times: 1
+	Query: "vntype:specimen class:Aves recordedby:Ward year &lt;= 1900" ; Times: 1
+	Query: "mappable:1 scientificname:Brotogeris tirica" ; Times: 3
+	Query: "mappable:1 scientificname:Guira guira" ; Times: 1
+	Query: "serves" ; Times: 1
+	Query: "Cygnus columbianus" ; Times: 1
+	Query: "mappable:1 scientificname:Mycteria americana" ; Times: 1
+	Query: "ROM 102237" ; Times: 2
+	Query: "mappable:1 scientificname:Milvago chimachima" ; Times: 1
+	Query: "Crypturellus" ; Times: 1
+	Query: "mappable:1 scientificname:Egretta thula" ; Times: 1
+	Query: "odontophorus" ; Times: 1
+	Query: "Apus caffer" ; Times: 1
+	Query: "specificepithet:maculatus genus:Pardirallus" ; Times: 1
+	Query: "mappable:1 scientificname:Buteogallus urubitinga" ; Times: 1
+	Query: "Harpia harpyja" ; Times: 1
+	Query: "catalognumber:39677 institutioncode:ROM" ; Times: 2
+	Query: "ROM 136257" ; Times: 2
+	Query: "ROM 119646" ; Times: 2
+	Query: "mappable:1 scientificname:Tachybaptus dominicus" ; Times: 1
+	Query: "145519" ; Times: 2
+	Query: "Oreotrochilus chimborazo" ; Times: 1
+	Query: "ROM 119522" ; Times: 2
+	Query: "145511" ; Times: 2
+	Query: "vntype:specimen specificepithet:harpyja genus:Harpia" ; Times: 2
+	Query: "borneensis" ; Times: 1
+	Query: "mappable:1 scientificname:Galbula ruficauda" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 2
+	Query: "ROM 109502" ; Times: 2
+	Query: "mappable:1 scientificname:Pulsatrix perspicillata" ; Times: 1
+	Query: "mappable:1 scientificname:Sarcoramphus papa" ; Times: 1
+	Query: "mappable:1 scientificname:Spizaetus ornatus" ; Times: 2
+	Query: "vntype:specimen class:AVES recordedby:Magoon" ; Times: 1
+	Query: "Halcyon OR Todiramphus Society" ; Times: 1
+	Query: "Buteo harlani texas" ; Times: 1
+	Query: "ROM 122701" ; Times: 2
+	Query: "mappable:1 scientificname:Crypturellus soui" ; Times: 1
+	Query: "Cypsiurus balasiensis" ; Times: 2
+	Query: "91533" ; Times: 2
+	Query: "Phaenicophaeus" ; Times: 1
+	Query: "mappable:1 scientificname:Amazona farinosa" ; Times: 2
+	Query: "41988" ; Times: 1
+	Query: "Rhea americana" ; Times: 1
+	Query: "Buteo albicaudatus" ; Times: 1
+	Query: "mappable:1 scientificname:Jacana jacana" ; Times: 1
+	Query: "mappable:1 scientificname:Buteogallus meridionalis" ; Times: 2
+	Query: "ROM 124006" ; Times: 2
+	Query: "specificepithet:chilensis genus:Vanellus institutioncode:ROM wing" ; Times: 1
+	Query: "ROM 141203" ; Times: 2
+	Query: "mappable:1 scientificname:Crotophaga ani" ; Times: 1
+	Query: "82259" ; Times: 1
+	Query: "ROM 126909" ; Times: 2
+	Query: "vntype:specimen class:AVES recordedby:Magoon year &gt;= 1920 year &lt;= 1930" ; Times: 1
+	Query: "mappable:1 scientificname:Aramus guarauna" ; Times: 2
+	Query: "Thinocorus orbignyianus" ; Times: 2
+	Query: "Callonetta leucophrys" ; Times: 1
+	Query: "159925" ; Times: 2
+	Query: "ROM 128899" ; Times: 2
+	Query: "vultur gryphus" ; Times: 3
+	Query: "mappable:1 scientificname:Falco rufigularis" ; Times: 1
+	Query: "ptilinopus wallacii" ; Times: 1
+	Query: "sterna vittata" ; Times: 1
+	Query: "soemmerringii vntype:specimen" ; Times: 1
+	Query: "catalognumber:92027" ; Times: 6
+	Query: "Cacatua tenuirostris preparations:skin" ; Times: 1
+	Query: "Loddigesia mirabilis" ; Times: 1
+	Query: "121309" ; Times: 1
+	Query: "catalognumber:35898 institutioncode:ROM" ; Times: 1
+	Query: "148233" ; Times: 1
+	Query: "mappable:1 scientificname:Leptodon cayanensis" ; Times: 1
+	Query: "mappable:1 scientificname:Haematopus palliatus" ; Times: 1
+	Query: "mappable:1 scientificname:Streptoprocne zonaris" ; Times: 1
+	Query: "006021" ; Times: 2
+	Query: "19907" ; Times: 1
+	Query: "ROM 152154" ; Times: 2
+	Query: "mappable:1 scientificname:Nyctidromus albicollis" ; Times: 1
+	Query: "mappable:1 scientificname:Tyto alba" ; Times: 2
+	Query: "class:Aves country:Brazil continent:South America" ; Times: 1
+	Query: "149376" ; Times: 1
+	Query: "Chaetura pelagica" ; Times: 1
+	Query: "Pterodroma hasitata" ; Times: 1
+	Query: "bird son" ; Times: 1
+	Query: "ROM 114357" ; Times: 3
+	Query: "ROM 146602" ; Times: 2
+	Query: "ROM 156936" ; Times: 2
+	Query: "Tadorna tadorna" ; Times: 2
+	Query: "geotrygon purpurata" ; Times: 1
+	Query: "ROM 150802" ; Times: 2
+	Query: "macronectes hastissue:1" ; Times: 2
+	Query: "(21726)" ; Times: 1
+	Query: "mappable:1 scientificname:Rhynchotus rufescens" ; Times: 1
+	Query: "Ardea modesta" ; Times: 1
+	Query: "locality:Fort Worth stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "149115" ; Times: 1
+	Query: "loriculus" ; Times: 2
+	Query: "ROM 119567" ; Times: 2
+	Query: "ROM 153490" ; Times: 2
+	Query: "ROM 110807" ; Times: 2
+	Query: "151049" ; Times: 1
+	Query: "mappable:1 scientificname:Accipiter bicolor" ; Times: 2
+	Query: "ROM 140609" ; Times: 2
+	Query: "ROM 147098" ; Times: 2
+	Query: "Cacatua alba preparations:skin" ; Times: 1
+	Query: "30727" ; Times: 1
+	Query: "mappable:1 scientificname:Calliphlox amethystina" ; Times: 2
+	Query: "111101" ; Times: 1
+	Query: "class:aves locality:Caloosahatchee River" ; Times: 1
+	Query: "Eupherusa poliocerca" ; Times: 1
+	Query: "vntype:specimen specificepithet:bonapartei genus:Nothocercus" ; Times: 1
+	Query: "specificepithet:ruber genus:Phoenicopterus country:&#34;bonaire&#34;" ; Times: 1
+	Query: "Grus leucogeranus" ; Times: 5
+	Query: "Plegadis chihi" ; Times: 1
+	Query: "catalognumber:35899 institutioncode:ROM" ; Times: 1
+	Query: "skeleton genus:pelecanus institutioncode:ROM" ; Times: 1
+	Query: "mappable:1 scientificname:Pionopsitta pileata" ; Times: 1
+	Query: "genus:colinus institutioncode:ROM" ; Times: 1
+	Query: "Podiceps auritus" ; Times: 1
+	Query: "Puffinus pacificus" ; Times: 1
+	Query: "mappable:1 scientificname:Malacoptila striata" ; Times: 1
+	Query: "specificepithet:imperialis genus:campephilus" ; Times: 3
+	Query: "mappable:1 scientificname:Gallinula galeata" ; Times: 1
+	Query: "Phaethornis griseogularis" ; Times: 1
+	Query: "mappable:1 scientificname:Amazona aestiva" ; Times: 4
+	Query: "mappable:1 scientificname:Athene cunicularia" ; Times: 2
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+	Query: "148694" ; Times: 1
+	Query: "ROM 129555" ; Times: 2
+	Query: "mappable:1 scientificname:Ictinia plumbea" ; Times: 1
+	Query: "specificepithet:alexandrinus genus:Charadrius stateprovince:&#34;California&#34; year &gt;= 1950 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Geranospiza caerulescens" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 705 download events in this period)
+Total number of records downloaded: 8135
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-26 ; Times: 1
+	Date: 2020-12-21 ; Times: 2
+	Date: 2020-12-30 ; Times: 1
+	Date: 2020-12-23 ; Times: 2
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-02 ; Times: 5
+	Date: 2020-12-19 ; Times: 1
+	Date: 2020-12-06 ; Times: 2
+	Date: 2020-12-11 ; Times: 1
+	Date: 2020-12-12 ; Times: 4
+	Date: 2020-12-04 ; Times: 1
+	Date: 2020-12-03 ; Times: 5
+	Date: 2020-12-15 ; Times: 3
+	Date: 2020-12-01 ; Times: 1
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Picoides specificepithet:arcticus*" ; Times: 1
+	Query: "genus:Anas" ; Times: 1
+	Query: "family:anatidae" ; Times: 1
+	Query: "Amazona oratrix" ; Times: 2
+	Query: "Numenius tenuirostris" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "family:Trochilidae preparations:wing" ; Times: 1
+	Query: "vntype:specimen year &gt;= 1990 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Haematopus ater" ; Times: 1
+	Query: "anas platyrhynchos" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "class:aves locality:Caloosahatchee River" ; Times: 1
+	Query: "Loddigesia mirabilis" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 1
+	Query: "Heliodoxa-jacula" ; Times: 1
+	Query: "genus:colinus institutioncode:ROM" ; Times: 1
+	Query: "genus:Picoides specificepithet:arcticus" ; Times: 1
+	Query: "class:aves country:Brazil" ; Times: 4
+	Query: "vntype:specimen class:Aves year &gt;= 1750 year &lt;= 1820 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:alexandrinus genus:Charadrius stateprovince:&#34;California&#34; year &gt;= 1950 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "hastissue:1" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "Haematopus bachmani" ; Times: 1
+	Query: "mallard" ; Times: 1
+	Query: "class:Aves country:Brazil" ; Times: 1
+	Query: "Aegolius harrisii" ; Times: 1
+	Query: "Woodpecker" ; Times: 1
+
+
+End of report.
